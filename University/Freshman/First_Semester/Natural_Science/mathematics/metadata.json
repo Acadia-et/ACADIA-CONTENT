@@ -1,0 +1,11 @@
+{
+  "id": "mathematics",
+  "title": "Mathematics",
+  "description": "Mathematics subject",
+  "units": [
+    "Chapter 1_ propositional logic and set theory",
+    "Chapter 2_ function",
+    "Chapter 3_ matrices and determinant",
+    "Chapter 4_ introduction to calculus"
+  ]
+}

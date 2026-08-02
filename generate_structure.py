@@ -8,6 +8,22 @@ BASE_DIR = Path("C:/Users/firao/Desktop/ACADIA-CONTENT")
 # Content types
 CONTENT_TYPES = ["exam", "flashcard", "past_paper", "quiz", "short_note", "video"]
 
+# Entrance structure based on app expectations
+ENTRANCE_STRUCTURE = {
+    "Entrance": {
+        "Natural_Science": {
+            "subjects": ["Mathematics", "English", "Physics", "Chemistry", "Biology", "Aptitude"],
+            "grades": ["9", "10", "11", "12"],
+            "years": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+        },
+        "Social_Science": {
+            "subjects": ["Mathematics", "English", "Geography", "History", "Economics", "Aptitude"],
+            "grades": ["9", "10", "11", "12"],
+            "years": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+        }
+    }
+}
+
 # University structure from structure.txt
 UNIVERSITY_STRUCTURE = {
     "University": {
@@ -845,6 +861,205 @@ def generate_structure():
                                 content_metadata = create_metadata(subject, chapter, content_type)
                                 with open(content_path / "metadata.json", "w") as f:
                                     json.dump(content_metadata, f, indent=2)
+    
+    # Generate Entrance structure
+    generate_entrance_structure()
+
+def generate_entrance_structure():
+    """Generate entrance folder structure and metadata"""
+    metadata_path = BASE_DIR / "metadata"
+    metadata_path.mkdir(parents=True, exist_ok=True)
+    
+    # Create master entrance index
+    entrance_index = {
+        "version": "1.0.0",
+        "streams": {
+            "natural_science": {
+                "metadata_file": "entrance/natural_science.json",
+                "subjects": ["Mathematics", "English", "Physics", "Chemistry", "Biology", "Aptitude"]
+            },
+            "social_science": {
+                "metadata_file": "entrance/social_science.json",
+                "subjects": ["Mathematics", "English", "Geography", "History", "Economics", "Aptitude"]
+            }
+        }
+    }
+    with open(metadata_path / "entrance.json", "w") as f:
+        json.dump(entrance_index, f, indent=2)
+    
+    # Generate stream-specific metadata and content
+    for stream_name, stream_data in ENTRANCE_STRUCTURE["Entrance"].items():
+        stream_path = BASE_DIR / "entrance"
+        stream_path.mkdir(parents=True, exist_ok=True)
+        
+        subjects = stream_data["subjects"]
+        grades = stream_data["grades"]
+        years = stream_data["years"]
+        
+        # Create stream metadata file
+        stream_metadata = {
+            "stream": stream_name,
+            "subjects": subjects,
+            "grades": grades,
+            "years": years,
+            "items": []
+        }
+        
+        # Generate entrance exam content by subject and grade
+        for subject in subjects:
+            for grade in grades:
+                # Create chapters based on grade
+                chapters = get_entrance_chapters(subject, grade)
+                for chapter in chapters:
+                    item = {
+                        "id": f"{subject}_{grade}_{chapter.replace(' ', '_')}",
+                        "subject": subject,
+                        "grade": grade,
+                        "chapter": chapter,
+                        "content_type": "entrance_exam",
+                        "download_url": f"https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/{stream_name}/{subject}/Grade_{grade}/{chapter}/entrance_exam.json",
+                        "created_at": "2026-08-02T00:00:00Z"
+                    }
+                    stream_metadata["items"].append(item)
+        
+        # Generate past papers by year
+        for year in years:
+            for subject in subjects:
+                item = {
+                    "id": f"{subject}_past_paper_{year}",
+                    "subject": subject,
+                    "year": year,
+                    "content_type": "past_paper",
+                    "download_url": f"https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/{stream_name}/past_papers/{year}/{subject}.json",
+                    "created_at": "2026-08-02T00:00:00Z"
+                }
+                stream_metadata["items"].append(item)
+        
+        # Save stream metadata
+        stream_file_name = stream_name.lower()
+        with open(stream_path / f"{stream_file_name}.json", "w") as f:
+            json.dump(stream_metadata, f, indent=2)
+        
+        # Create folder structure for entrance exams
+        for subject in subjects:
+            subject_path = stream_path / stream_name / subject
+            subject_path.mkdir(parents=True, exist_ok=True)
+            
+            for grade in grades:
+                grade_path = subject_path / f"Grade_{grade}"
+                grade_path.mkdir(parents=True, exist_ok=True)
+                
+                chapters = get_entrance_chapters(subject, grade)
+                for chapter in chapters:
+                    chapter_path = grade_path / chapter
+                    chapter_path.mkdir(parents=True, exist_ok=True)
+                    
+                    # Create entrance exam metadata
+                    exam_metadata = {
+                        "id": f"{subject}_{grade}_{chapter.replace(' ', '_')}",
+                        "title": f"{subject} - Grade {grade} - {chapter}",
+                        "description": f"Entrance exam practice for {chapter}",
+                        "content_type": "entrance_exam",
+                        "download_url": f"https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/{stream_name}/{subject}/Grade_{grade}/{chapter}/entrance_exam.json",
+                        "file_format": "json",
+                        "file_size_mb": 0.5,
+                        "created_at": "2026-08-02T00:00:00Z"
+                    }
+                    with open(chapter_path / "metadata.json", "w") as f:
+                        json.dump(exam_metadata, f, indent=2)
+        
+        # Create folder structure for past papers
+        past_papers_path = stream_path / stream_name / "past_papers"
+        past_papers_path.mkdir(parents=True, exist_ok=True)
+        
+        for year in years:
+            year_path = past_papers_path / year
+            year_path.mkdir(parents=True, exist_ok=True)
+            
+            for subject in subjects:
+                # Create past paper metadata
+                paper_metadata = {
+                    "id": f"{subject}_past_paper_{year}",
+                    "title": f"{subject} - {year} Entrance Exam",
+                    "description": f"Past entrance exam paper from {year}",
+                    "content_type": "past_paper",
+                    "download_url": f"https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/{stream_name}/past_papers/{year}/{subject}.json",
+                    "file_format": "json",
+                    "file_size_mb": 1.0,
+                    "created_at": "2026-08-02T00:00:00Z"
+                }
+                with open(year_path / f"{subject}.json", "w") as f:
+                    json.dump(paper_metadata, f, indent=2)
+
+def get_entrance_chapters(subject, grade):
+    """Get entrance chapters for a subject and grade"""
+    # Based on the curriculum structure, return appropriate chapters
+    chapters_map = {
+        "Mathematics": [
+            "Unit 1_ Relations and Functions",
+            "Unit 2_ Polynomials",
+            "Unit 3_ Trigonometry",
+            "Unit 4_ Calculus",
+            "Unit 5_ Statistics",
+            "Unit 6_ Geometry"
+        ],
+        "English": [
+            "Unit 1_ Reading Comprehension",
+            "Unit 2_ Grammar",
+            "Unit 3_ Vocabulary",
+            "Unit 4_ Writing Skills",
+            "Unit 5_ Literature"
+        ],
+        "Physics": [
+            "Unit 1_ Mechanics",
+            "Unit 2_ Thermodynamics",
+            "Unit 3_ Electricity and Magnetism",
+            "Unit 4_ Waves and Optics",
+            "Unit 5_ Modern Physics"
+        ],
+        "Chemistry": [
+            "Unit 1_ Atomic Structure",
+            "Unit 2_ Chemical Bonding",
+            "Unit 3_ Organic Chemistry",
+            "Unit 4_ Physical Chemistry",
+            "Unit 5_ Analytical Chemistry"
+        ],
+        "Biology": [
+            "Unit 1_ Cell Biology",
+            "Unit 2_ Genetics",
+            "Unit 3_ Ecology",
+            "Unit 4_ Human Physiology",
+            "Unit 5_ Evolution"
+        ],
+        "Geography": [
+            "Unit 1_ Physical Geography",
+            "Unit 2_ Human Geography",
+            "Unit 3_ Economic Geography",
+            "Unit 4_ Regional Geography",
+            "Unit 5_ Map Reading"
+        ],
+        "History": [
+            "Unit 1_ Ancient History",
+            "Unit 2_ Medieval History",
+            "Unit 3_ Modern History",
+            "Unit 4_ Ethiopian History",
+            "Unit 5_ African History"
+        ],
+        "Economics": [
+            "Unit 1_ Microeconomics",
+            "Unit 2_ Macroeconomics",
+            "Unit 3_ Development Economics",
+            "Unit 4_ International Economics",
+            "Unit 5_ Ethiopian Economy"
+        ],
+        "Aptitude": [
+            "Part 1_ Mathematical Aptitude",
+            "Part 2_ English Aptitude",
+            "Part 3_ Logical Reasoning",
+            "Part 4_ Critical Thinking"
+        ]
+    }
+    return chapters_map.get(subject, ["Unit 1_ General"])
 
 if __name__ == "__main__":
     generate_structure()

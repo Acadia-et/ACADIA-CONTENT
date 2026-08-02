@@ -1,0 +1,12 @@
+{
+  "id": "physics",
+  "title": "Physics",
+  "description": "Physics subject",
+  "units": [
+    "Chapter 1_ mechanics",
+    "Chapter 2_ thermodynamics",
+    "Chapter 3_ electricity and magnetism",
+    "Chapter 4_ waves and optics",
+    "Chapter 5_ modern physics"
+  ]
+}

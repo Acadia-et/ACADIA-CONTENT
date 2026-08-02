@@ -1,0 +1,15 @@
+{
+  "id": "chemistry",
+  "title": "Chemistry",
+  "description": "Chemistry subject",
+  "units": [
+    "Chapter 1_ essential ideas in chemistry",
+    "Chapter 2_ atoms, molecules and ions",
+    "Chapter 3_ mass and mole concept",
+    "Chapter 4_ stoichiometry of chemical reaction",
+    "Chapter 5_ electronic structure and periodic properties of elements",
+    "Chapter 6_ chemical bonding and molecular geometry",
+    "Chapter 7_ equilibrium concepts and acid base equilibrium",
+    "Chapter 8_ organic chemistry"
+  ]
+}

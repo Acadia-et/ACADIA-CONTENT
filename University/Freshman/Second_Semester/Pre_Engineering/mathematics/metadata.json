@@ -1,0 +1,11 @@
+{
+  "id": "mathematics",
+  "title": "Mathematics",
+  "description": "Mathematics subject",
+  "units": [
+    "Chapter 1_ calculus",
+    "Chapter 2_ differential equation",
+    "Chapter 3_ linear algebra",
+    "Chapter 4_ complex analysis"
+  ]
+}

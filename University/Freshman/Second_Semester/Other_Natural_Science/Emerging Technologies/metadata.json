@@ -1,0 +1,13 @@
+{
+  "id": "emerging technologies",
+  "title": "Emerging Technologies",
+  "description": "Emerging Technologies subject",
+  "units": [
+    "Chapter 1_ Introduction to Emerging Technologies",
+    "Chapter 2_ Overview for Data Science",
+    "Chapter 3_ Introduction to Artificial Intelligence (AI)",
+    "Chapter 4_ Internet of Things (IoT)",
+    "Chapter 5_ Augmented Reality",
+    "Chapter 6_ Ethics and Professionalism of Emerging Technologies"
+  ]
+}

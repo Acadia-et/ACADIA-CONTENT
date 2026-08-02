@@ -1,0 +1,1640 @@
+{
+  "stream": "Social_Science",
+  "subjects": [
+    "Mathematics",
+    "English",
+    "Geography",
+    "History",
+    "Economics",
+    "Aptitude"
+  ],
+  "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "years": [
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "items": [
+    {
+      "id": "Mathematics_9_Unit_1__Relations_and_Functions",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 1_ Relations and Functions",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 1_ Relations and Functions/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_9_Unit_2__Polynomials",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 2_ Polynomials",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 2_ Polynomials/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_9_Unit_3__Trigonometry",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 3_ Trigonometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 3_ Trigonometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_9_Unit_4__Calculus",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 4_ Calculus",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 4_ Calculus/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_9_Unit_5__Statistics",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 5_ Statistics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 5_ Statistics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_9_Unit_6__Geometry",
+      "subject": "Mathematics",
+      "grade": "9",
+      "chapter": "Unit 6_ Geometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_9/Unit 6_ Geometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_1__Relations_and_Functions",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 1_ Relations and Functions",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 1_ Relations and Functions/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_2__Polynomials",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 2_ Polynomials",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 2_ Polynomials/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_3__Trigonometry",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 3_ Trigonometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 3_ Trigonometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_4__Calculus",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 4_ Calculus",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 4_ Calculus/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_5__Statistics",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 5_ Statistics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 5_ Statistics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_10_Unit_6__Geometry",
+      "subject": "Mathematics",
+      "grade": "10",
+      "chapter": "Unit 6_ Geometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_10/Unit 6_ Geometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_1__Relations_and_Functions",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 1_ Relations and Functions",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 1_ Relations and Functions/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_2__Polynomials",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 2_ Polynomials",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 2_ Polynomials/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_3__Trigonometry",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 3_ Trigonometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 3_ Trigonometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_4__Calculus",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 4_ Calculus",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 4_ Calculus/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_5__Statistics",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 5_ Statistics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 5_ Statistics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_11_Unit_6__Geometry",
+      "subject": "Mathematics",
+      "grade": "11",
+      "chapter": "Unit 6_ Geometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_11/Unit 6_ Geometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_1__Relations_and_Functions",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 1_ Relations and Functions",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 1_ Relations and Functions/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_2__Polynomials",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 2_ Polynomials",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 2_ Polynomials/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_3__Trigonometry",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 3_ Trigonometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 3_ Trigonometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_4__Calculus",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 4_ Calculus",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 4_ Calculus/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_5__Statistics",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 5_ Statistics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 5_ Statistics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_12_Unit_6__Geometry",
+      "subject": "Mathematics",
+      "grade": "12",
+      "chapter": "Unit 6_ Geometry",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Mathematics/Grade_12/Unit 6_ Geometry/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_9_Unit_1__Reading_Comprehension",
+      "subject": "English",
+      "grade": "9",
+      "chapter": "Unit 1_ Reading Comprehension",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_9/Unit 1_ Reading Comprehension/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_9_Unit_2__Grammar",
+      "subject": "English",
+      "grade": "9",
+      "chapter": "Unit 2_ Grammar",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_9/Unit 2_ Grammar/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_9_Unit_3__Vocabulary",
+      "subject": "English",
+      "grade": "9",
+      "chapter": "Unit 3_ Vocabulary",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_9/Unit 3_ Vocabulary/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_9_Unit_4__Writing_Skills",
+      "subject": "English",
+      "grade": "9",
+      "chapter": "Unit 4_ Writing Skills",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_9/Unit 4_ Writing Skills/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_9_Unit_5__Literature",
+      "subject": "English",
+      "grade": "9",
+      "chapter": "Unit 5_ Literature",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_9/Unit 5_ Literature/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_10_Unit_1__Reading_Comprehension",
+      "subject": "English",
+      "grade": "10",
+      "chapter": "Unit 1_ Reading Comprehension",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_10/Unit 1_ Reading Comprehension/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_10_Unit_2__Grammar",
+      "subject": "English",
+      "grade": "10",
+      "chapter": "Unit 2_ Grammar",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_10/Unit 2_ Grammar/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_10_Unit_3__Vocabulary",
+      "subject": "English",
+      "grade": "10",
+      "chapter": "Unit 3_ Vocabulary",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_10/Unit 3_ Vocabulary/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_10_Unit_4__Writing_Skills",
+      "subject": "English",
+      "grade": "10",
+      "chapter": "Unit 4_ Writing Skills",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_10/Unit 4_ Writing Skills/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_10_Unit_5__Literature",
+      "subject": "English",
+      "grade": "10",
+      "chapter": "Unit 5_ Literature",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_10/Unit 5_ Literature/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_11_Unit_1__Reading_Comprehension",
+      "subject": "English",
+      "grade": "11",
+      "chapter": "Unit 1_ Reading Comprehension",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_11/Unit 1_ Reading Comprehension/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_11_Unit_2__Grammar",
+      "subject": "English",
+      "grade": "11",
+      "chapter": "Unit 2_ Grammar",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_11/Unit 2_ Grammar/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_11_Unit_3__Vocabulary",
+      "subject": "English",
+      "grade": "11",
+      "chapter": "Unit 3_ Vocabulary",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_11/Unit 3_ Vocabulary/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_11_Unit_4__Writing_Skills",
+      "subject": "English",
+      "grade": "11",
+      "chapter": "Unit 4_ Writing Skills",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_11/Unit 4_ Writing Skills/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_11_Unit_5__Literature",
+      "subject": "English",
+      "grade": "11",
+      "chapter": "Unit 5_ Literature",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_11/Unit 5_ Literature/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_12_Unit_1__Reading_Comprehension",
+      "subject": "English",
+      "grade": "12",
+      "chapter": "Unit 1_ Reading Comprehension",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_12/Unit 1_ Reading Comprehension/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_12_Unit_2__Grammar",
+      "subject": "English",
+      "grade": "12",
+      "chapter": "Unit 2_ Grammar",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_12/Unit 2_ Grammar/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_12_Unit_3__Vocabulary",
+      "subject": "English",
+      "grade": "12",
+      "chapter": "Unit 3_ Vocabulary",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_12/Unit 3_ Vocabulary/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_12_Unit_4__Writing_Skills",
+      "subject": "English",
+      "grade": "12",
+      "chapter": "Unit 4_ Writing Skills",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_12/Unit 4_ Writing Skills/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_12_Unit_5__Literature",
+      "subject": "English",
+      "grade": "12",
+      "chapter": "Unit 5_ Literature",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/English/Grade_12/Unit 5_ Literature/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_9_Unit_1__Physical_Geography",
+      "subject": "Geography",
+      "grade": "9",
+      "chapter": "Unit 1_ Physical Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_9/Unit 1_ Physical Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_9_Unit_2__Human_Geography",
+      "subject": "Geography",
+      "grade": "9",
+      "chapter": "Unit 2_ Human Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_9/Unit 2_ Human Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_9_Unit_3__Economic_Geography",
+      "subject": "Geography",
+      "grade": "9",
+      "chapter": "Unit 3_ Economic Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_9/Unit 3_ Economic Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_9_Unit_4__Regional_Geography",
+      "subject": "Geography",
+      "grade": "9",
+      "chapter": "Unit 4_ Regional Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_9/Unit 4_ Regional Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_9_Unit_5__Map_Reading",
+      "subject": "Geography",
+      "grade": "9",
+      "chapter": "Unit 5_ Map Reading",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_9/Unit 5_ Map Reading/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_10_Unit_1__Physical_Geography",
+      "subject": "Geography",
+      "grade": "10",
+      "chapter": "Unit 1_ Physical Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_10/Unit 1_ Physical Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_10_Unit_2__Human_Geography",
+      "subject": "Geography",
+      "grade": "10",
+      "chapter": "Unit 2_ Human Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_10/Unit 2_ Human Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_10_Unit_3__Economic_Geography",
+      "subject": "Geography",
+      "grade": "10",
+      "chapter": "Unit 3_ Economic Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_10/Unit 3_ Economic Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_10_Unit_4__Regional_Geography",
+      "subject": "Geography",
+      "grade": "10",
+      "chapter": "Unit 4_ Regional Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_10/Unit 4_ Regional Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_10_Unit_5__Map_Reading",
+      "subject": "Geography",
+      "grade": "10",
+      "chapter": "Unit 5_ Map Reading",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_10/Unit 5_ Map Reading/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_11_Unit_1__Physical_Geography",
+      "subject": "Geography",
+      "grade": "11",
+      "chapter": "Unit 1_ Physical Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_11/Unit 1_ Physical Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_11_Unit_2__Human_Geography",
+      "subject": "Geography",
+      "grade": "11",
+      "chapter": "Unit 2_ Human Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_11/Unit 2_ Human Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_11_Unit_3__Economic_Geography",
+      "subject": "Geography",
+      "grade": "11",
+      "chapter": "Unit 3_ Economic Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_11/Unit 3_ Economic Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_11_Unit_4__Regional_Geography",
+      "subject": "Geography",
+      "grade": "11",
+      "chapter": "Unit 4_ Regional Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_11/Unit 4_ Regional Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_11_Unit_5__Map_Reading",
+      "subject": "Geography",
+      "grade": "11",
+      "chapter": "Unit 5_ Map Reading",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_11/Unit 5_ Map Reading/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_12_Unit_1__Physical_Geography",
+      "subject": "Geography",
+      "grade": "12",
+      "chapter": "Unit 1_ Physical Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_12/Unit 1_ Physical Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_12_Unit_2__Human_Geography",
+      "subject": "Geography",
+      "grade": "12",
+      "chapter": "Unit 2_ Human Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_12/Unit 2_ Human Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_12_Unit_3__Economic_Geography",
+      "subject": "Geography",
+      "grade": "12",
+      "chapter": "Unit 3_ Economic Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_12/Unit 3_ Economic Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_12_Unit_4__Regional_Geography",
+      "subject": "Geography",
+      "grade": "12",
+      "chapter": "Unit 4_ Regional Geography",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_12/Unit 4_ Regional Geography/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_12_Unit_5__Map_Reading",
+      "subject": "Geography",
+      "grade": "12",
+      "chapter": "Unit 5_ Map Reading",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Geography/Grade_12/Unit 5_ Map Reading/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_9_Unit_1__Ancient_History",
+      "subject": "History",
+      "grade": "9",
+      "chapter": "Unit 1_ Ancient History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_9/Unit 1_ Ancient History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_9_Unit_2__Medieval_History",
+      "subject": "History",
+      "grade": "9",
+      "chapter": "Unit 2_ Medieval History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_9/Unit 2_ Medieval History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_9_Unit_3__Modern_History",
+      "subject": "History",
+      "grade": "9",
+      "chapter": "Unit 3_ Modern History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_9/Unit 3_ Modern History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_9_Unit_4__Ethiopian_History",
+      "subject": "History",
+      "grade": "9",
+      "chapter": "Unit 4_ Ethiopian History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_9/Unit 4_ Ethiopian History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_9_Unit_5__African_History",
+      "subject": "History",
+      "grade": "9",
+      "chapter": "Unit 5_ African History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_9/Unit 5_ African History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_10_Unit_1__Ancient_History",
+      "subject": "History",
+      "grade": "10",
+      "chapter": "Unit 1_ Ancient History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_10/Unit 1_ Ancient History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_10_Unit_2__Medieval_History",
+      "subject": "History",
+      "grade": "10",
+      "chapter": "Unit 2_ Medieval History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_10/Unit 2_ Medieval History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_10_Unit_3__Modern_History",
+      "subject": "History",
+      "grade": "10",
+      "chapter": "Unit 3_ Modern History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_10/Unit 3_ Modern History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_10_Unit_4__Ethiopian_History",
+      "subject": "History",
+      "grade": "10",
+      "chapter": "Unit 4_ Ethiopian History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_10/Unit 4_ Ethiopian History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_10_Unit_5__African_History",
+      "subject": "History",
+      "grade": "10",
+      "chapter": "Unit 5_ African History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_10/Unit 5_ African History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_11_Unit_1__Ancient_History",
+      "subject": "History",
+      "grade": "11",
+      "chapter": "Unit 1_ Ancient History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_11/Unit 1_ Ancient History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_11_Unit_2__Medieval_History",
+      "subject": "History",
+      "grade": "11",
+      "chapter": "Unit 2_ Medieval History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_11/Unit 2_ Medieval History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_11_Unit_3__Modern_History",
+      "subject": "History",
+      "grade": "11",
+      "chapter": "Unit 3_ Modern History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_11/Unit 3_ Modern History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_11_Unit_4__Ethiopian_History",
+      "subject": "History",
+      "grade": "11",
+      "chapter": "Unit 4_ Ethiopian History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_11/Unit 4_ Ethiopian History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_11_Unit_5__African_History",
+      "subject": "History",
+      "grade": "11",
+      "chapter": "Unit 5_ African History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_11/Unit 5_ African History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_12_Unit_1__Ancient_History",
+      "subject": "History",
+      "grade": "12",
+      "chapter": "Unit 1_ Ancient History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_12/Unit 1_ Ancient History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_12_Unit_2__Medieval_History",
+      "subject": "History",
+      "grade": "12",
+      "chapter": "Unit 2_ Medieval History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_12/Unit 2_ Medieval History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_12_Unit_3__Modern_History",
+      "subject": "History",
+      "grade": "12",
+      "chapter": "Unit 3_ Modern History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_12/Unit 3_ Modern History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_12_Unit_4__Ethiopian_History",
+      "subject": "History",
+      "grade": "12",
+      "chapter": "Unit 4_ Ethiopian History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_12/Unit 4_ Ethiopian History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_12_Unit_5__African_History",
+      "subject": "History",
+      "grade": "12",
+      "chapter": "Unit 5_ African History",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/History/Grade_12/Unit 5_ African History/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_9_Unit_1__Microeconomics",
+      "subject": "Economics",
+      "grade": "9",
+      "chapter": "Unit 1_ Microeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_9/Unit 1_ Microeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_9_Unit_2__Macroeconomics",
+      "subject": "Economics",
+      "grade": "9",
+      "chapter": "Unit 2_ Macroeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_9/Unit 2_ Macroeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_9_Unit_3__Development_Economics",
+      "subject": "Economics",
+      "grade": "9",
+      "chapter": "Unit 3_ Development Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_9/Unit 3_ Development Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_9_Unit_4__International_Economics",
+      "subject": "Economics",
+      "grade": "9",
+      "chapter": "Unit 4_ International Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_9/Unit 4_ International Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_9_Unit_5__Ethiopian_Economy",
+      "subject": "Economics",
+      "grade": "9",
+      "chapter": "Unit 5_ Ethiopian Economy",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_9/Unit 5_ Ethiopian Economy/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_10_Unit_1__Microeconomics",
+      "subject": "Economics",
+      "grade": "10",
+      "chapter": "Unit 1_ Microeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_10/Unit 1_ Microeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_10_Unit_2__Macroeconomics",
+      "subject": "Economics",
+      "grade": "10",
+      "chapter": "Unit 2_ Macroeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_10/Unit 2_ Macroeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_10_Unit_3__Development_Economics",
+      "subject": "Economics",
+      "grade": "10",
+      "chapter": "Unit 3_ Development Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_10/Unit 3_ Development Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_10_Unit_4__International_Economics",
+      "subject": "Economics",
+      "grade": "10",
+      "chapter": "Unit 4_ International Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_10/Unit 4_ International Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_10_Unit_5__Ethiopian_Economy",
+      "subject": "Economics",
+      "grade": "10",
+      "chapter": "Unit 5_ Ethiopian Economy",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_10/Unit 5_ Ethiopian Economy/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_11_Unit_1__Microeconomics",
+      "subject": "Economics",
+      "grade": "11",
+      "chapter": "Unit 1_ Microeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_11/Unit 1_ Microeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_11_Unit_2__Macroeconomics",
+      "subject": "Economics",
+      "grade": "11",
+      "chapter": "Unit 2_ Macroeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_11/Unit 2_ Macroeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_11_Unit_3__Development_Economics",
+      "subject": "Economics",
+      "grade": "11",
+      "chapter": "Unit 3_ Development Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_11/Unit 3_ Development Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_11_Unit_4__International_Economics",
+      "subject": "Economics",
+      "grade": "11",
+      "chapter": "Unit 4_ International Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_11/Unit 4_ International Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_11_Unit_5__Ethiopian_Economy",
+      "subject": "Economics",
+      "grade": "11",
+      "chapter": "Unit 5_ Ethiopian Economy",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_11/Unit 5_ Ethiopian Economy/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_12_Unit_1__Microeconomics",
+      "subject": "Economics",
+      "grade": "12",
+      "chapter": "Unit 1_ Microeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_12/Unit 1_ Microeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_12_Unit_2__Macroeconomics",
+      "subject": "Economics",
+      "grade": "12",
+      "chapter": "Unit 2_ Macroeconomics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_12/Unit 2_ Macroeconomics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_12_Unit_3__Development_Economics",
+      "subject": "Economics",
+      "grade": "12",
+      "chapter": "Unit 3_ Development Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_12/Unit 3_ Development Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_12_Unit_4__International_Economics",
+      "subject": "Economics",
+      "grade": "12",
+      "chapter": "Unit 4_ International Economics",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_12/Unit 4_ International Economics/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_12_Unit_5__Ethiopian_Economy",
+      "subject": "Economics",
+      "grade": "12",
+      "chapter": "Unit 5_ Ethiopian Economy",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Economics/Grade_12/Unit 5_ Ethiopian Economy/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_9_Part_1__Mathematical_Aptitude",
+      "subject": "Aptitude",
+      "grade": "9",
+      "chapter": "Part 1_ Mathematical Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_9/Part 1_ Mathematical Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_9_Part_2__English_Aptitude",
+      "subject": "Aptitude",
+      "grade": "9",
+      "chapter": "Part 2_ English Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_9/Part 2_ English Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_9_Part_3__Logical_Reasoning",
+      "subject": "Aptitude",
+      "grade": "9",
+      "chapter": "Part 3_ Logical Reasoning",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_9/Part 3_ Logical Reasoning/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_9_Part_4__Critical_Thinking",
+      "subject": "Aptitude",
+      "grade": "9",
+      "chapter": "Part 4_ Critical Thinking",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_9/Part 4_ Critical Thinking/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_10_Part_1__Mathematical_Aptitude",
+      "subject": "Aptitude",
+      "grade": "10",
+      "chapter": "Part 1_ Mathematical Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_10/Part 1_ Mathematical Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_10_Part_2__English_Aptitude",
+      "subject": "Aptitude",
+      "grade": "10",
+      "chapter": "Part 2_ English Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_10/Part 2_ English Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_10_Part_3__Logical_Reasoning",
+      "subject": "Aptitude",
+      "grade": "10",
+      "chapter": "Part 3_ Logical Reasoning",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_10/Part 3_ Logical Reasoning/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_10_Part_4__Critical_Thinking",
+      "subject": "Aptitude",
+      "grade": "10",
+      "chapter": "Part 4_ Critical Thinking",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_10/Part 4_ Critical Thinking/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_11_Part_1__Mathematical_Aptitude",
+      "subject": "Aptitude",
+      "grade": "11",
+      "chapter": "Part 1_ Mathematical Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_11/Part 1_ Mathematical Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_11_Part_2__English_Aptitude",
+      "subject": "Aptitude",
+      "grade": "11",
+      "chapter": "Part 2_ English Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_11/Part 2_ English Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_11_Part_3__Logical_Reasoning",
+      "subject": "Aptitude",
+      "grade": "11",
+      "chapter": "Part 3_ Logical Reasoning",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_11/Part 3_ Logical Reasoning/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_11_Part_4__Critical_Thinking",
+      "subject": "Aptitude",
+      "grade": "11",
+      "chapter": "Part 4_ Critical Thinking",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_11/Part 4_ Critical Thinking/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_12_Part_1__Mathematical_Aptitude",
+      "subject": "Aptitude",
+      "grade": "12",
+      "chapter": "Part 1_ Mathematical Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_12/Part 1_ Mathematical Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_12_Part_2__English_Aptitude",
+      "subject": "Aptitude",
+      "grade": "12",
+      "chapter": "Part 2_ English Aptitude",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_12/Part 2_ English Aptitude/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_12_Part_3__Logical_Reasoning",
+      "subject": "Aptitude",
+      "grade": "12",
+      "chapter": "Part 3_ Logical Reasoning",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_12/Part 3_ Logical Reasoning/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_12_Part_4__Critical_Thinking",
+      "subject": "Aptitude",
+      "grade": "12",
+      "chapter": "Part 4_ Critical Thinking",
+      "content_type": "entrance_exam",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/Aptitude/Grade_12/Part 4_ Critical Thinking/entrance_exam.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2014",
+      "subject": "Mathematics",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2014",
+      "subject": "English",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2014",
+      "subject": "Geography",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2014",
+      "subject": "History",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2014",
+      "subject": "Economics",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2014",
+      "subject": "Aptitude",
+      "year": "2014",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2014/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2015",
+      "subject": "Mathematics",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2015",
+      "subject": "English",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2015",
+      "subject": "Geography",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2015",
+      "subject": "History",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2015",
+      "subject": "Economics",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2015",
+      "subject": "Aptitude",
+      "year": "2015",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2015/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2016",
+      "subject": "Mathematics",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2016",
+      "subject": "English",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2016",
+      "subject": "Geography",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2016",
+      "subject": "History",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2016",
+      "subject": "Economics",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2016",
+      "subject": "Aptitude",
+      "year": "2016",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2016/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2017",
+      "subject": "Mathematics",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2017",
+      "subject": "English",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2017",
+      "subject": "Geography",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2017",
+      "subject": "History",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2017",
+      "subject": "Economics",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2017",
+      "subject": "Aptitude",
+      "year": "2017",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2017/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2018",
+      "subject": "Mathematics",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2018",
+      "subject": "English",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2018",
+      "subject": "Geography",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2018",
+      "subject": "History",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2018",
+      "subject": "Economics",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2018",
+      "subject": "Aptitude",
+      "year": "2018",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2018/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2019",
+      "subject": "Mathematics",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2019",
+      "subject": "English",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2019",
+      "subject": "Geography",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2019",
+      "subject": "History",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2019",
+      "subject": "Economics",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2019",
+      "subject": "Aptitude",
+      "year": "2019",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2019/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2020",
+      "subject": "Mathematics",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2020",
+      "subject": "English",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2020",
+      "subject": "Geography",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2020",
+      "subject": "History",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2020",
+      "subject": "Economics",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2020",
+      "subject": "Aptitude",
+      "year": "2020",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2020/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2021",
+      "subject": "Mathematics",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2021",
+      "subject": "English",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2021",
+      "subject": "Geography",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2021",
+      "subject": "History",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2021",
+      "subject": "Economics",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2021",
+      "subject": "Aptitude",
+      "year": "2021",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2021/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2022",
+      "subject": "Mathematics",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2022",
+      "subject": "English",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2022",
+      "subject": "Geography",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2022",
+      "subject": "History",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2022",
+      "subject": "Economics",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2022",
+      "subject": "Aptitude",
+      "year": "2022",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2022/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2023",
+      "subject": "Mathematics",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2023",
+      "subject": "English",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2023",
+      "subject": "Geography",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2023",
+      "subject": "History",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2023",
+      "subject": "Economics",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2023",
+      "subject": "Aptitude",
+      "year": "2023",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2023/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Mathematics_past_paper_2024",
+      "subject": "Mathematics",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/Mathematics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "English_past_paper_2024",
+      "subject": "English",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/English.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Geography_past_paper_2024",
+      "subject": "Geography",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/Geography.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "History_past_paper_2024",
+      "subject": "History",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/History.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Economics_past_paper_2024",
+      "subject": "Economics",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/Economics.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": "Aptitude_past_paper_2024",
+      "subject": "Aptitude",
+      "year": "2024",
+      "content_type": "past_paper",
+      "download_url": "https://github.com/Acadia-et/ACADIA-CONTENT/raw/main/entrance/Social_Science/past_papers/2024/Aptitude.json",
+      "created_at": "2026-08-02T00:00:00Z"
+    }
+  ]
+}

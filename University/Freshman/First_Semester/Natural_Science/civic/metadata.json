@@ -1,0 +1,12 @@
+{
+  "id": "civic",
+  "title": "Civic",
+  "description": "Civic subject",
+  "units": [
+    "Chapter 1_ introduction",
+    "Chapter 2_ health and fitness",
+    "Chapter 3_ cultural values",
+    "Chapter 4_ wild life",
+    "Chapter 5_ population"
+  ]
+}

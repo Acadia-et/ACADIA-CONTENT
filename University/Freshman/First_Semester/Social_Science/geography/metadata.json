@@ -1,0 +1,15 @@
+{
+  "id": "geography",
+  "title": "Geography",
+  "description": "Geography subject",
+  "units": [
+    "Chapter 1_ introduction",
+    "Chapter 2_ the geology of Ethiopia and the horn",
+    "Chapter 3_ the topography of Ethiopia and the horn",
+    "Chapter 4_ drainage system and water resource of Ethiopia and the horn",
+    "Chapter 5_ the climate of Ethiopia and the horn",
+    "Chapter 6_ soils, natural vegetation and wildlife resource",
+    "Chapter 7_ population of ethiopia and the horn",
+    "Chapter 8_ economic activitie in Ethiopia"
+  ]
+}

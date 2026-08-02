@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "streams": {
+    "natural_science": {
+      "metadata_file": "entrance/natural_science.json",
+      "subjects": [
+        "Mathematics",
+        "English",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Aptitude"
+      ]
+    },
+    "social_science": {
+      "metadata_file": "entrance/social_science.json",
+      "subjects": [
+        "Mathematics",
+        "English",
+        "Geography",
+        "History",
+        "Economics",
+        "Aptitude"
+      ]
+    }
+  }
+}
