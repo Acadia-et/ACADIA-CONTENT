@@ -1,0 +1,9 @@
+{
+  "id": "aptitude",
+  "title": "Aptitude",
+  "description": "Aptitude subject",
+  "units": [
+    "Part 1_ Mathematical Part",
+    "Part 2_ English Part"
+  ]
+}

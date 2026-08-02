@@ -1,0 +1,13 @@
+{
+  "id": "it",
+  "title": "It",
+  "description": "It subject",
+  "units": [
+    "Unit 1_ INFORMATION SYSTEMS AND ITS APPLICATIONS",
+    "Unit 2_ EMERGING TECHNOLOGIES",
+    "Unit 3_ DATABASE MANAGEMENT",
+    "Unit 4_ WEB DEVELOPMENT",
+    "Unit 5_ HARDWARE TROUBLESHOOTING AND PREVENTIVE MAINTENANCE",
+    "Unit 6_ FUNDAMENTALS OF PROGRAMMING"
+  ]
+}

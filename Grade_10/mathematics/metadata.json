@@ -1,0 +1,14 @@
+{
+  "id": "mathematics",
+  "title": "Mathematics",
+  "description": "Mathematics subject",
+  "units": [
+    "Unit 1_ RELATIONS AND FUNCTIONS",
+    "Unit 2_ POLYNOMIAL FUNCTIONS",
+    "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
+    "Unit 4_ TRIGONOMETRIC FUNCTIONS",
+    "Unit 5_ CIRCLES",
+    "Unit 6_ SOLID FIGURES",
+    "Unit 7_ COORDINATE GEOMETRY"
+  ]
+}

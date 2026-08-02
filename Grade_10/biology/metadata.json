@@ -1,0 +1,13 @@
+{
+  "id": "biology",
+  "title": "Biology",
+  "description": "Biology subject",
+  "units": [
+    "Unit 1_ SUB-FIELDS OF BIOLOGY",
+    "Unit 2_ PLANTS",
+    "Unit 3_ BIOCHEMICAL MOLECULES",
+    "Unit 4_ CELL REPRODUCTION",
+    "Unit 5_ HUMAN BIOLOGY",
+    "Unit 6_ ECOLOGICAL INTERACTION"
+  ]
+}

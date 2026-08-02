@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-02T00:00:00Z",
+  "update_description": "Initial content deployment - Complete curriculum for High School (Grades 9-12) and University (Freshman)",
+  "content_types": ["video", "short_note", "quiz", "exam", "flashcard", "past_paper"],
+  "academic_paths": {
+    "high_school": {
+      "grade_9": ["biology", "chemistry", "citizenship", "economics", "english", "geography", "history", "it", "mathematics", "physics"],
+      "grade_10": ["biology", "chemistry", "citizenship", "economics", "english", "geography", "history", "it", "mathematics", "physics"],
+      "grade_11": {
+        "natural_science": ["agriculture", "aptitude", "biology", "chemistry", "english", "it", "mathematics", "physics"],
+        "social_science": ["aptitude", "citizenship", "economics", "english", "geography", "history", "it", "mathematics"]
+      },
+      "grade_12": {
+        "natural_science": ["agriculture", "aptitude", "biology", "chemistry", "english", "it", "mathematics", "physics"],
+        "social_science": ["aptitude", "citizenship", "economics", "english", "geography", "history", "it", "mathematics"]
+      }
+    },
+    "university": {
+      "freshman": {
+        "semester_1": {
+          "natural_science": ["civic", "geography", "logic", "mathematics", "psychology"],
+          "social_science": ["civic", "geography", "logic", "mathematics", "psychology"]
+        },
+        "semester_2": {
+          "pre_engineering": ["chemistry", "emerging_technologies", "mathematics", "physics"],
+          "other_natural": ["anthropology", "biology", "chemistry", "economics", "emerging_technologies"]
+        }
+      }
+    }
+  }
+}

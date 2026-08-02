@@ -1,0 +1,13 @@
+{
+  "id": "chemistry",
+  "title": "Chemistry",
+  "description": "Chemistry subject",
+  "units": [
+    "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
+    "Unit 2_ SOLUTIONS",
+    "Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
+    "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
+    "Unit 5_ METALS AND NONMETALS",
+    "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES"
+  ]
+}

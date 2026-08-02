@@ -1,0 +1,40 @@
+{
+  "repository": "ACADIA-CONTENT",
+  "description": "Complete educational content repository for ACADIA app",
+  "structure": {
+    "high_school": {
+      "grade_9": "Grade_9",
+      "grade_10": "Grade_10",
+      "grade_11": {
+        "natural_science": "Grade_11/Natural_Science",
+        "social_science": "Grade_11/Social_Science"
+      },
+      "grade_12": {
+        "natural_science": "Grade_12/Natural_Science",
+        "social_science": "Grade_12/Social_Science"
+      }
+    },
+    "university": {
+      "freshman": {
+        "semester_1": {
+          "natural_science": "University/Freshman/First_Semester/Natural_Science",
+          "social_science": "University/Freshman/First_Semester/Social_Science"
+        },
+        "semester_2": {
+          "pre_engineering": "University/Freshman/Second_Semester/Pre_Engineering",
+          "other_natural": "University/Freshman/Second_Semester/Other_Natural_Science"
+        }
+      }
+    }
+  },
+  "metadata_format": {
+    "subject": "metadata.json",
+    "unit": "metadata.json",
+    "chapter": "metadata.json",
+    "content": "metadata.json"
+  },
+  "content_discovery": {
+    "method": "folder_hierarchy",
+    "content_types": ["exam", "flashcard", "past_paper", "quiz", "short_note", "video"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "biology",
+  "title": "Biology",
+  "description": "Biology subject",
+  "units": [
+    "Unit 1_ INTRODUCTION TO BIOLOGY",
+    "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
+    "Unit 3_ CELLS",
+    "Unit 4_ REPRODUCTION",
+    "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
+    "Unit 6_ ECOLOGY"
+  ]
+}

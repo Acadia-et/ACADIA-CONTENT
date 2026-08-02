@@ -1,0 +1,13 @@
+{
+  "id": "biology",
+  "title": "Biology",
+  "description": "Biology subject",
+  "units": [
+    "Unit 1_ APPLICATION OF BIOLOGY",
+    "Unit 2_ MICROORGANISMS",
+    "Unit 3_ ENERGY TRANSFORMATION",
+    "Unit 4_ EVOLUTION",
+    "Unit 5_ HUMAN BODY SYSTEM",
+    "Unit 6_ CLIMATE CHANGE"
+  ]
+}

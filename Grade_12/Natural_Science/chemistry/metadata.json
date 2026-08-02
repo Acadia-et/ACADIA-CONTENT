@@ -1,0 +1,13 @@
+{
+  "id": "chemistry",
+  "title": "Chemistry",
+  "description": "Chemistry subject",
+  "units": [
+    "Unit 1_ ACID-BASE CONCEPTS AND IONIC EQUILIBRIA",
+    "Unit 2_ ELECTROCHEMISTRY",
+    "Unit 3_ CHEMICAL KINETICS",
+    "Unit 4_ ORGANIC CHEMISTRY",
+    "Unit 5_ POLYMERS",
+    "Unit 6_ ANALYTICAL CHEMISTRY"
+  ]
+}

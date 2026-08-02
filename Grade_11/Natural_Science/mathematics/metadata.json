@@ -1,0 +1,12 @@
+{
+  "id": "mathematics",
+  "title": "Mathematics",
+  "description": "Mathematics subject",
+  "units": [
+    "Unit 1_ RELATIONS AND FUNCTIONS",
+    "Unit 2_ RATIONAL EXPRESSIONS AND RATIONAL FUNCTIONS",
+    "Unit 3_ MATRICES",
+    "Unit 4_ DETERMINANTS AND THEIR PROPERTIES",
+    "Unit 5_ VECTORS"
+  ]
+}

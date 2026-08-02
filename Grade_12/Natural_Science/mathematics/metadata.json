@@ -1,0 +1,12 @@
+{
+  "id": "mathematics",
+  "title": "Mathematics",
+  "description": "Mathematics subject",
+  "units": [
+    "Unit 1_ SEQUENCES AND SERIES",
+    "Unit 2_ INTRODUCTIONS TO CALCULUS",
+    "Unit 3_ STATISTICS",
+    "Unit 4_ INTRODUCTION TO LINEAR PROGRAMMING",
+    "Unit 5_ MATHEMATICAL APPLICATIONS IN BUSINESS"
+  ]
+}

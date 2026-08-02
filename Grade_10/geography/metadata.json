@@ -1,0 +1,15 @@
+{
+  "id": "geography",
+  "title": "Geography",
+  "description": "Geography subject",
+  "units": [
+    "Unit 1_ LANDFORMS OF AFRICA",
+    "Unit 2_ CLIMATE OF AFRICA",
+    "Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
+    "Unit 4_ POPULATION OF AFRICA",
+    "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
+    "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
+    "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN AFRICA",
+    "Unit 8_ GEOSPATIAL INFORMATION AND DATA PROCESSING"
+  ]
+}

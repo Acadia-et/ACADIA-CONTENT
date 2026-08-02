@@ -1,0 +1,14 @@
+{
+  "id": "physics",
+  "title": "Physics",
+  "description": "Physics subject",
+  "units": [
+    "Unit 1_ PHYSICS AND HUMAN SOCIETY",
+    "Unit 2_ VECTORS",
+    "Unit 3_ MOTION IN ONE AND TWO DIMENSIONS",
+    "Unit 4_ DYNAMICS",
+    "Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
+    "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
+    "Unit 7_ NUCLEAR PHYSICS"
+  ]
+}

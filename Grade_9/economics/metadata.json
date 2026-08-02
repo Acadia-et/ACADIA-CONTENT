@@ -1,0 +1,15 @@
+{
+  "id": "economics",
+  "title": "Economics",
+  "description": "Economics subject",
+  "units": [
+    "Unit 1_ INTRODUCING ECONOMICS",
+    "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
+    "Unit 3_ ECONOMIC RESOURCES AND MARKETS",
+    "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
+    "Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
+    "Unit 6_ INTRODUCTION TO MONEY",
+    "Unit 7_ INTRODUCTION TO MACROECONOMICS",
+    "Unit 8_ BASIC ENTREPRENEURSHIP"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "package_prices": {
+    "grade_9": 300,
+    "grade_10": 350,
+    "grade_11_natural": 350,
+    "grade_11_social": 350,
+    "grade_12_natural": 400,
+    "grade_12_social": 400,
+    "university_freshman_natural_sem1": 350,
+    "university_freshman_social_sem1": 350,
+    "university_freshman_pre_eng": 350,
+    "university_freshman_other": 300
+  },
+  "currency": "ETB",
+  "duration": "1 year",
+  "description": "Package pricing for ACADIA educational content access"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "physics",
+  "title": "Physics",
+  "description": "Physics subject",
+  "units": [
+    "Unit 1_ VECTOR QUANTITIES",
+    "Unit 2_ UNIFORMLY ACCELERATED MOTION",
+    "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
+    "Unit 4_ STATIC AND CURRENT ELECTRICITY",
+    "Unit 5_ MAGNETISM",
+    "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS"
+  ]
+}

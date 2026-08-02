@@ -1,0 +1,13 @@
+{
+  "id": "chemistry",
+  "title": "Chemistry",
+  "description": "Chemistry subject",
+  "units": [
+    "Unit 1_ ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS",
+    "Unit 2_ CHEMICAL BONDING",
+    "Unit 3_ PHYSICAL STATES OF MATTER",
+    "Unit 4_ CHEMICAL KINETICS",
+    "Unit 5_ CHEMICAL EQUILIBRIUM",
+    "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS"
+  ]
+}

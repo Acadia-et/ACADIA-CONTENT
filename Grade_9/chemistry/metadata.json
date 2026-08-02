@@ -1,0 +1,12 @@
+{
+  "id": "chemistry",
+  "title": "Chemistry",
+  "description": "Chemistry subject",
+  "units": [
+    "Unit 1_ CHEMISTRY AND ITS IMPORTANCE",
+    "Unit 2_ MEASUREMENTS AND SCIENTIFIC METHODS",
+    "Unit 3_ STRUCTURE OF THE ATOM",
+    "Unit 4_ PERIODIC CLASSIFICATION OF ELEMENTS",
+    "Unit 5_ CHEMICAL BONDING"
+  ]
+}
