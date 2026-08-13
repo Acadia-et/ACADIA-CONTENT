@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-08-02T00:00:00Z",
-  "update_description": "Initial content deployment - Complete curriculum for High School (Grades 9-12) and University (Freshman)",
+  "version": "1.0.1",
+  "last_updated": "2026-08-14T00:00:00Z",
+  "update_description": "Add Grade 9 Biology sample content (flashcards for Unit 1)",
   "content_types": ["video", "short_note", "quiz", "exam", "flashcard", "past_paper"],
   "academic_paths": {
     "high_school": {
