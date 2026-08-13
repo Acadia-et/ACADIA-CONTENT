@@ -1,13 +1,45 @@
 {
-  "id": "biology",
-  "title": "Biology",
-  "description": "Biology subject",
+  "id": "biology_Grade_9",
+  "grade": "Grade_9",
+  "subject": "biology",
+  "description": "Grade_9 Biology",
   "units": [
-    "Unit 1_ INTRODUCTION TO BIOLOGY",
-    "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
-    "Unit 3_ CELLS",
-    "Unit 4_ REPRODUCTION",
-    "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
-    "Unit 6_ ECOLOGY"
-  ]
+    {
+      "id": "Unit_1__INTRODUCTION_TO_BIOLOGY",
+      "title": "Unit 1_ INTRODUCTION TO BIOLOGY",
+      "file": "Unit_1__INTRODUCTION_TO_BIOLOGY.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    },
+    {
+      "id": "Unit_2__CHARACTERISTICS_AND_CLASSIFICATION_OF_ORGANISMS",
+      "title": "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
+      "file": "Unit_2__CHARACTERISTICS_AND_CLASSIFICATION_OF_ORGANISMS.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    },
+    {
+      "id": "Unit_3__CELLS",
+      "title": "Unit 3_ CELLS",
+      "file": "Unit_3__CELLS.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    },
+    {
+      "id": "Unit_4__REPRODUCTION",
+      "title": "Unit 4_ REPRODUCTION",
+      "file": "Unit_4__REPRODUCTION.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    },
+    {
+      "id": "Unit_5__HUMAN_HEALTH_NUTRITION_AND_DISEASE",
+      "title": "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
+      "file": "Unit_5__HUMAN_HEALTH_NUTRITION_AND_DISEASE.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    },
+    {
+      "id": "Unit_6__ECOLOGY",
+      "title": "Unit 6_ ECOLOGY",
+      "file": "Unit_6__ECOLOGY.json",
+      "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/biology/textbook.pdf"
 }

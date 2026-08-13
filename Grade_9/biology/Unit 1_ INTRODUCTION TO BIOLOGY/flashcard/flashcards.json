@@ -1,0 +1,60 @@
+{
+  "id": "grade9_biology_unit1_flashcards",
+  "content_type": "flashcard",
+  "title": "Introduction to Biology Flashcards",
+  "subject": "biology",
+  "grade": "Grade_9",
+  "chapter": "Unit 1_ INTRODUCTION TO BIOLOGY",
+  "description": "Sample flashcard set for learning key biology concepts and terminology.",
+  "total_cards": 8,
+  "cards": [
+    {
+      "id": "fc_g9_bio_u1_001",
+      "front": "What is biology?",
+      "back": "Biology is the science that studies living organisms, their structure, function, growth, origin, evolution, and distribution.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fc_g9_bio_u1_002",
+      "front": "What are the characteristics of living things?",
+      "back": "Living things have the following characteristics: organization, growth, reproduction, response to environment, homeostasis, energy use, and adaptation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fc_g9_bio_u1_003",
+      "front": "What is the basic unit of life?",
+      "back": "The cell is the basic unit of life. All living organisms are composed of one or more cells.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fc_g9_bio_u1_004",
+      "front": "What is the difference between biotic and abiotic factors?",
+      "back": "Biotic factors are living components of an ecosystem (plants, animals, microorganisms). Abiotic factors are non-living components (light, temperature, water, soil).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fc_g9_bio_u1_005",
+      "front": "What is the scientific method?",
+      "back": "The scientific method is a systematic process: observation, question formation, hypothesis, prediction, experimentation, data collection, analysis, and conclusion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "fc_g9_bio_u1_006",
+      "front": "What is a hypothesis?",
+      "back": "A hypothesis is a testable prediction or proposed explanation based on limited evidence as a starting point for further investigation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fc_g9_bio_u1_007",
+      "front": "Name the branches of biology that study plants and animals respectively.",
+      "back": "Botany studies plants. Zoology studies animals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fc_g9_bio_u1_008",
+      "front": "What are the levels of biological organization from smallest to largest?",
+      "back": "Atom → Molecule → Organelle → Cell → Tissue → Organ → Organ System → Organism → Population → Community → Ecosystem → Biosphere.",
+      "difficulty": "hard"
+    }
+  ]
+}
