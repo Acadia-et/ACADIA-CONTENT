@@ -1,0 +1,64 @@
+{
+  "id": "grade9_biology_unit1_past_paper_sample",
+  "content_type": "past_paper",
+  "title": "Grade 9 Biology Introduction Sample Past Paper",
+  "year": 2025,
+  "subject": "biology",
+  "grade": "Grade_9",
+  "chapter": "Unit 1_ INTRODUCTION TO BIOLOGY",
+  "topic": "Introduction to Biology",
+  "description": "Sample past-paper style questions for testing the production JSON schema.",
+  "time_limit_minutes": 15,
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "g9_bio_u1_pp1",
+      "question": "Biology is best described as the study of:",
+      "options": {
+        "A": "Matter and energy",
+        "B": "Life and living organisms",
+        "C": "The Earth's crust",
+        "D": "Numbers and shapes"
+      },
+      "correct_answer": "B",
+      "explanation": "Biology focuses on life, living organisms, and their interactions."
+    },
+    {
+      "id": "g9_bio_u1_pp2",
+      "question": "Which of the following is NOT a life process?",
+      "options": {
+        "A": "Respiration",
+        "B": "Nutrition",
+        "C": "Reproduction",
+        "D": "Freezing"
+      },
+      "correct_answer": "D",
+      "explanation": "Freezing is a physical change, not a life process."
+    },
+    {
+      "id": "g9_bio_u1_pp3",
+      "question": "A testable explanation proposed before an experiment is called a:",
+      "options": {
+        "A": "Hypothesis",
+        "B": "Conclusion",
+        "C": "Result",
+        "D": "Variable"
+      },
+      "correct_answer": "A",
+      "explanation": "A hypothesis is a possible answer that can be tested by observation or experiment."
+    },
+    {
+      "id": "g9_bio_u1_pp4",
+      "question": "Which laboratory behavior is safe?",
+      "options": {
+        "A": "Eating during experiments",
+        "B": "Smelling chemicals directly",
+        "C": "Following teacher instructions",
+        "D": "Mixing unknown chemicals"
+      },
+      "correct_answer": "C",
+      "explanation": "Following instructions helps prevent accidents and supports accurate investigation."
+    }
+  ]
+}
+

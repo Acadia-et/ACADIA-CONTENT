@@ -1,0 +1,88 @@
+{
+  "id": "grade9_biology_unit1_exam",
+  "content_type": "exam",
+  "title": "Introduction to Biology Unit Test",
+  "subject": "biology",
+  "grade": "Grade_9",
+  "chapter": "Unit 1_ INTRODUCTION TO BIOLOGY",
+  "description": "Sample summative exam for Introduction to Biology.",
+  "time_limit_minutes": 20,
+  "total_questions": 6,
+  "passing_score": 60,
+  "instructions": "Choose the best answer for each question.",
+  "questions": [
+    {
+      "id": "g9_bio_u1_e1",
+      "question": "Which branch of biology studies animals?",
+      "options": {
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Ecology",
+        "D": "Anatomy"
+      },
+      "correct_answer": "B",
+      "explanation": "Zoology is the branch of biology concerned with animals."
+    },
+    {
+      "id": "g9_bio_u1_e2",
+      "question": "Which sequence best represents a simple scientific method?",
+      "options": {
+        "A": "Conclusion, question, experiment, observation",
+        "B": "Question, hypothesis, experiment, conclusion",
+        "C": "Experiment, conclusion, question, hypothesis",
+        "D": "Hypothesis, conclusion, question, observation"
+      },
+      "correct_answer": "B",
+      "explanation": "Scientific investigation usually begins with a question, followed by a hypothesis, testing, and conclusion."
+    },
+    {
+      "id": "g9_bio_u1_e3",
+      "question": "Which activity is an example of applying biology in agriculture?",
+      "options": {
+        "A": "Selecting disease-resistant crop varieties",
+        "B": "Measuring road length",
+        "C": "Designing a bridge",
+        "D": "Calculating bank interest"
+      },
+      "correct_answer": "A",
+      "explanation": "Biological knowledge helps improve crops, livestock, soil health, and pest control."
+    },
+    {
+      "id": "g9_bio_u1_e4",
+      "question": "What should students do first when an accident occurs in the laboratory?",
+      "options": {
+        "A": "Hide the accident",
+        "B": "Continue working",
+        "C": "Report it to the teacher immediately",
+        "D": "Run out without warning others"
+      },
+      "correct_answer": "C",
+      "explanation": "Laboratory accidents must be reported immediately so the correct safety response can be taken."
+    },
+    {
+      "id": "g9_bio_u1_e5",
+      "question": "Which item protects the eyes during laboratory work?",
+      "options": {
+        "A": "Safety goggles",
+        "B": "Notebook",
+        "C": "Calculator",
+        "D": "Ruler"
+      },
+      "correct_answer": "A",
+      "explanation": "Safety goggles protect the eyes from splashes, fumes, and flying particles."
+    },
+    {
+      "id": "g9_bio_u1_e6",
+      "question": "Which statement about living things is correct?",
+      "options": {
+        "A": "All living things are made of cells",
+        "B": "Living things never need energy",
+        "C": "Living things do not respond to changes",
+        "D": "All living things are non-cellular"
+      },
+      "correct_answer": "A",
+      "explanation": "Cells are the basic structural and functional units of living organisms."
+    }
+  ]
+}
+

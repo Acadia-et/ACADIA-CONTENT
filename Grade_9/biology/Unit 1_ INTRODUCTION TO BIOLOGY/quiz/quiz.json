@@ -1,0 +1,75 @@
+{
+  "id": "grade9_biology_unit1_quiz",
+  "content_type": "quiz",
+  "title": "Introduction to Biology Quick Check",
+  "subject": "biology",
+  "grade": "Grade_9",
+  "chapter": "Unit 1_ INTRODUCTION TO BIOLOGY",
+  "description": "Sample formative quiz for the first Grade 9 Biology unit.",
+  "time_limit_minutes": 10,
+  "total_questions": 5,
+  "passing_score": 60,
+  "questions": [
+    {
+      "id": "g9_bio_u1_q1",
+      "question": "What is biology?",
+      "options": {
+        "A": "The study of living things",
+        "B": "The study of rocks",
+        "C": "The study of weather",
+        "D": "The study of stars"
+      },
+      "correct_answer": "A",
+      "explanation": "Biology is the science that studies living organisms and life processes."
+    },
+    {
+      "id": "g9_bio_u1_q2",
+      "question": "Which one is a characteristic of living organisms?",
+      "options": {
+        "A": "Rusting",
+        "B": "Growth",
+        "C": "Melting",
+        "D": "Evaporation"
+      },
+      "correct_answer": "B",
+      "explanation": "Living organisms grow, reproduce, respond to stimuli, and use energy."
+    },
+    {
+      "id": "g9_bio_u1_q3",
+      "question": "Which tool is commonly used to observe very small organisms?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Telescope",
+        "C": "Microscope",
+        "D": "Barometer"
+      },
+      "correct_answer": "C",
+      "explanation": "A microscope magnifies tiny organisms and structures that cannot be seen clearly with the naked eye."
+    },
+    {
+      "id": "g9_bio_u1_q4",
+      "question": "A person who studies plants is called a:",
+      "options": {
+        "A": "Zoologist",
+        "B": "Botanist",
+        "C": "Geologist",
+        "D": "Astronomer"
+      },
+      "correct_answer": "B",
+      "explanation": "Botany is the branch of biology that studies plants."
+    },
+    {
+      "id": "g9_bio_u1_q5",
+      "question": "Why is biology important in health?",
+      "options": {
+        "A": "It helps people understand diseases and prevention",
+        "B": "It predicts earthquakes",
+        "C": "It measures the distance to planets",
+        "D": "It explains metal corrosion only"
+      },
+      "correct_answer": "A",
+      "explanation": "Biology helps explain body systems, causes of disease, hygiene, nutrition, and prevention."
+    }
+  ]
+}
+
