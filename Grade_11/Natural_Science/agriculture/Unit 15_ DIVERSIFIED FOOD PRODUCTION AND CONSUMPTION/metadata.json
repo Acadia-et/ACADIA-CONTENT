@@ -1,14 +1,30 @@
-{
-  "id": "unit_15__diversified_food_production_and_consumption",
-  "title": "Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION",
-  "description": "Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_15_DIVERSIFIED_FOOD_PRODUCTION_AND_CONSUMPTION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

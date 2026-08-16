@@ -1,15 +1,49 @@
 {
-  "id": "geography",
-  "title": "Geography",
-  "description": "Geography subject",
+  "id": "geography_Grade_11/Social_Science",
+  "grade": "Grade_11/Social_Science",
+  "subject": "geography",
+  "description": "Grade_11/Social_Science Geography",
   "units": [
-    "Unit 1_ FORMATION OF THE CONTINENTS",
-    "Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
-    "Unit 3_ NATURAL RESOURCES AND CONFLICTS OVER RESOURCES",
-    "Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES",
-    "Unit 5_ GEOGRAPHY AND ECONOMIC DEVELOPMENT",
-    "Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES",
-    "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
-    "Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING"
-  ]
+    {
+      "id": "Unit_1__FORMATION_OF_THE_CONTINENTS",
+      "title": "Unit 1_ FORMATION OF THE CONTINENTS",
+      "file": "Unit_1__FORMATION_OF_THE_CONTINENTS.json"
+    },
+    {
+      "id": "Unit_2__CLIMATE_CLASSIFICATION_AND_CLIMATE_REGIONS_OF_OUR_WORLD",
+      "title": "Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
+      "file": "Unit_2__CLIMATE_CLASSIFICATION_AND_CLIMATE_REGIONS_OF_OUR_WORLD.json"
+    },
+    {
+      "id": "Unit_3__NATURAL_RESOURCES_AND_CONFLICTS_OVER_RESOURCES",
+      "title": "Unit 3_ NATURAL RESOURCES AND CONFLICTS OVER RESOURCES",
+      "file": "Unit_3__NATURAL_RESOURCES_AND_CONFLICTS_OVER_RESOURCES.json"
+    },
+    {
+      "id": "Unit_4__GLOBAL_POPULATION_DYNAMICS_AND_CHALLENGES",
+      "title": "Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES",
+      "file": "Unit_4__GLOBAL_POPULATION_DYNAMICS_AND_CHALLENGES.json"
+    },
+    {
+      "id": "Unit_5__GEOGRAPHY_AND_ECONOMIC_DEVELOPMENT",
+      "title": "Unit 5_ GEOGRAPHY AND ECONOMIC DEVELOPMENT",
+      "file": "Unit_5__GEOGRAPHY_AND_ECONOMIC_DEVELOPMENT.json"
+    },
+    {
+      "id": "Unit_6__MAJOR_GLOBAL_ENVIRONMENTAL_CHANGES",
+      "title": "Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES",
+      "file": "Unit_6__MAJOR_GLOBAL_ENVIRONMENTAL_CHANGES.json"
+    },
+    {
+      "id": "Unit_7__GEOGRAPHIC_ISSUES_AND_PUBLIC_CONCERNS",
+      "title": "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
+      "file": "Unit_7__GEOGRAPHIC_ISSUES_AND_PUBLIC_CONCERNS.json"
+    },
+    {
+      "id": "Unit_8__GEO_SPATIAL_INFORMATION_AND_DATA_PROCESSING",
+      "title": "Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING",
+      "file": "Unit_8__GEO_SPATIAL_INFORMATION_AND_DATA_PROCESSING.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Social_Science/geography/textbook.pdf"
 }

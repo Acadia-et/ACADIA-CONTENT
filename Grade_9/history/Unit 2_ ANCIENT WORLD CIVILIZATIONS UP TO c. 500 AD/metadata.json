@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__ancient_world_civilizations_up_to_c._500_ad",
-  "title": "Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD",
-  "description": "Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_ANCIENT_WORLD_CIVILIZATIONS_UP_TO_c._500_AD",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

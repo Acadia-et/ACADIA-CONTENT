@@ -1,14 +1,30 @@
-{
-  "id": "unit_10__introduction_to_natural_resources",
-  "title": "Unit 10_ INTRODUCTION TO NATURAL RESOURCES",
-  "description": "Unit 10_ INTRODUCTION TO NATURAL RESOURCES for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_10_INTRODUCTION_TO_NATURAL_RESOURCES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 10_ INTRODUCTION TO NATURAL RESOURCES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 10_ INTRODUCTION TO NATURAL RESOURCES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

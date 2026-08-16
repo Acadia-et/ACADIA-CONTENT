@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__major_economic_and_cultural_activities_of_africa",
-  "title": "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
-  "description": "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_MAJOR_ECONOMIC_AND_CULTURAL_ACTIVITIES_OF_AFRICA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

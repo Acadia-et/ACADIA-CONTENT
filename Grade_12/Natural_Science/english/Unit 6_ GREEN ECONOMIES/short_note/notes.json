@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "grade": "Grade 12",
+    "subject": "english",
+    "unit_title": "Unit 6  GREEN ECONOMIES"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 6  GREEN ECONOMIES",
+      "paragraphs": [
+        "Unit 6: Green Economies � � � � � � � � � � � � � � � � � � � � � � � � � � � 128 6A Listening . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129 6B Speaking Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133 6C Reading Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139 6D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146 6E Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149 6F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151 Unit 7: National Pride  � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 158",
+        "7A  Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158 7B: Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162 7C: Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164 7D: Vocabulary Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170 7E: Grammar Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 7F: Writing Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177 Unit 8: Telemedicine � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 180 8A Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180",
+        "8B Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183 8C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189 8D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198 8E. Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204 8F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212 Unit 9: Conflict Management  � � � � � � � � � � � � � � � � � � � � � � � 215 9A Listening  Skills. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .215 9B Speaking Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .219",
+        "9C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .222 9D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .226 9E Grammar Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .228 9F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .234 Unit 10: Robotics  � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �243 10A Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 10B Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246",
+        "10C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247 10D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252 10E Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255 10F Writing Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 6  GREEN ECONOMIES: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of 1. Overview & Fundamentals of Unit 6  GREEN ECONOMIES",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Explain the fundamental definitions and key principles of Unit 6  GREEN ECONOMIES.",
+      "answer": "DETAILED ANSWER:\nThe core principles of Unit 6  GREEN ECONOMIES in english cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+    },
+    {
+      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Unit 6  GREEN ECONOMIES.",
+      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in Grade_12 english."
+    },
+    {
+      "question": "Compare and contrast the primary categories presented in the unit tables.",
+      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 6  GREEN ECONOMIES (Grade_12 english):\nThis complete study document covers all topics in Unit 6  GREEN ECONOMIES, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": []
+}

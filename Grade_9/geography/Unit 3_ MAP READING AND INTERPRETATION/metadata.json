@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__map_reading_and_interpretation",
-  "title": "Unit 3_ MAP READING AND INTERPRETATION",
-  "description": "Unit 3_ MAP READING AND INTERPRETATION for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_MAP_READING_AND_INTERPRETATION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ MAP READING AND INTERPRETATION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ MAP READING AND INTERPRETATION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Main Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit 2_ SOLUTIONS/short_note/main_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.97,
+      "free_content": false,
+      "source": "github"
+    },
+    {
+      "content_type": "short_note",
+      "title": "Study Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit 2_ SOLUTIONS/short_note/notes.json",
+      "file_format": "json",
+      "free_content": false,
+      "source": "github"
+    }
+  ]
+}

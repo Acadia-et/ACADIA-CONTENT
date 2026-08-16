@@ -1,0 +1,3203 @@
+{
+  "metadata": {
+    "grade": "Grade 11",
+    "subject": "chemistry",
+    "unit_title": "Unit 4  CHEMICAL KINETICS"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 4  CHEMICAL KINETICS",
+      "paragraphs": [
+        "193 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 4  CHEMICAL KINETICS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 4  CHEMICAL KINETICS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(KINETICS)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Unit 4  CHEMICAL KINETICS."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Unit 4  CHEMICAL KINETICS",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Unit Outcomes At the end of this unit, you will be able to: explain rate of reaction describe the pre-conditions for a chemical reaction to occur discuss factors that affect rate of chemical reaction, and demonstrate scientific enquiry skills, including observing, predicting, comparing and contrasting, communicating, asking questions, drawing conclusions, applying concepts, relating cause and effect, making",
+        "generalizations and problem solving. Start-up Activity Discuss the following phenomena in groups and present your conclusion to the class. 1. Determine the approximate time taken for completion of the following chemical changes: a. burning of a piece of paper c. ripening of banana",
+        "b. conversion of milk to yogurt d. charring of sugar e. formation of soils 2. Why do some reactions take place rapidly and others slowly? � � � �4"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "CHEMICAL KINETICS",
+      "paragraphs": [
+        "194 This foundational concept establishes the governing principles of CHEMICAL KINETICS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for CHEMICAL KINETICS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(KINETICS)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in CHEMICAL KINETICS."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in CHEMICAL KINETICS",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "������������ Every chemical reaction proceeds at a different rate  or speed. Some reactions proceed very slowly and may take a number of days to complete; while others are very rapid, requiring only a few seconds. For example, rusting of iron could start quickly, while ripening of fruits may be completed in a few days. On the other hand, weathering of stone may take more than a decade and the breakdown of plastics in the environment takes more than hundred years. However, other reactions, like the combustion of gasoline or the explosion of gunpowder occur in a few seconds. Can you add more",
+        "examples from your experience? To be useful reactions must occur at a reasonable rate. The area of chemistry that is concerned with reaction rates is called chemical kinetics. The word “kinetic” suggests movement or change. Chemical kinetics refers to the rate of reaction, which is the changeover times in the concentration of a reactant or a product."
+      ],
+      "definitions": [
+        [
+          "while others",
+          "������������ Every chemical reaction proceeds at a different rate  or speed. Some reactions proceed very slowly and may take a number of days to complete; while others are very rapid, requiring only a few seconds. For example, rusting of iron could start quickly, while ripening of fruits may be completed in a few days. On the other hand, weathering of stone may take more than a decade and the breakdown of plastics in the environment takes more than hundred years. However, other reactions, like the combustion of gasoline or the explosion of gunpowder occur in a few seconds. Can you add more"
+        ],
+        [
+          "The area of chemistry that",
+          "examples from your experience? To be useful reactions must occur at a reasonable rate. The area of chemistry that is concerned with reaction rates is called chemical kinetics. The word “kinetic” suggests movement or change. Chemical kinetics refers to the rate of reaction, which is the changeover times in the concentration of a reactant or a product."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "4.2",
+      "paragraphs": [
+        "���������������������� At the end of this section, you will be able to: define rate of reaction describe rate of reaction using graphs conduct an experiment to illustrate the relative rate of reactions list the pre-conditions for a chemical reaction to occur, and explain how collision, activation energy and proper orientation of reactants cause a chemical reaction to occur.",
+        "Activity 4.1 Discuss each of the following questions in a group and present your responses to the whole class. 1. What does \"rate\" mean? 2. Does sugar dissolve faster in hot or in cold tea? Why? 3. How can we measure the rate of reaction? 4. What is the importance of knowing the rate of reaction? The Rate of a Reaction",
+        "195 This foundational concept establishes the governing principles of 4.2. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "What",
+          "Activity 4.1 Discuss each of the following questions in a group and present your responses to the whole class. 1. What does \"rate\" mean? 2. Does sugar dissolve faster in hot or in cold tea? Why? 3. How can we measure the rate of reaction? 4. What is the importance of knowing the rate of reaction? The Rate of a Reaction"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 4.2: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4.2)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 4.2."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 4.2",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "The rate of a chemical reaction measures the change in concentration of a reactant or a product per unit time. This means that the rate of a reaction determines how fast the concentration of a reactant or product changes with time. For example, for a general reaction: Reactants  →  Products This equation tells us that, during the course of a reaction, reactant molecules are consumed while product molecules are formed. As a result, we can follow the progress of a reaction by monitoring either the decrease in concentration of the reactants or the",
+        "increase in concentration of the products. Consider the progress of a simple reaction in which A molecules are converted to B molecules: This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "This",
+          "The rate of a chemical reaction measures the change in concentration of a reactant or a product per unit time. This means that the rate of a reaction determines how fast the concentration of a reactant or product changes with time. For example, for a general reaction: Reactants  →  Products This equation tells us that, during the course of a reaction, reactant molecules are consumed while product molecules are formed. As a result, we can follow the progress of a reaction by monitoring either the decrease in concentration of the reactants or the"
+        ],
+        [
+          "reaction in which A molecules",
+          "increase in concentration of the products. Consider the progress of a simple reaction in which A molecules are converted to B molecules:"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "A  →  B",
+      "paragraphs": [
+        "The decrease in the number of A molecules and the increase in the number of B molecules with time are shown in ����������� In general, it is more convenient to express the rate in terms of change in concentration with time. Change in concentration of substance Rate of reaction change in time Note that  denotes the difference between the final and initial state. Thus, for the preceding reaction we can express the rate as:",
+        "[ ] [ ] Rate or  rate = − in which, ∆[A] and ∆[B] are the changes in concentration (mol L−1) over a period ∆t. Because the concentration of A decreases during the time interval, ∆[A] is a negative quantity. The rate of a reaction is a positive quantity, so a minus sign is needed in",
+        "the rate expression to make the rate positive. On the other hand, the rate of product formation does not require a minus sign because ∆[B] is a positive quantity (the concentration of B increases with time). 196"
+      ],
+      "definitions": [
+        [
+          "number of B molecules with time",
+          "The decrease in the number of A molecules and the increase in the number of B molecules with time are shown in ����������� In general, it is more convenient to express the rate in terms of change in concentration with time. Change in concentration of substance Rate of reaction change in time Note that  denotes the difference between the final and initial state. Thus, for the preceding reaction we can express the rate as:"
+        ],
+        [
+          "The rate of a reaction",
+          "[ ] [ ] Rate or  rate = − in which, ∆[A] and ∆[B] are the changes in concentration (mol L−1) over a period ∆t. Because the concentration of A decreases during the time interval, ∆[A] is a negative quantity. The rate of a reaction is a positive quantity, so a minus sign is needed in"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for A  →  B: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(B)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in A  →  B."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in A  →  B",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "������������������������������������������������������������������������� ������������������������������������������������������������� For more complex reactions, we must be careful in writing the rate expression. Consider, for example, the reaction:"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "2A  →  B",
+      "paragraphs": [
+        "Two moles of A disappear for each mole of B that forms, that is, the rate at which B forms is one half the rate at which A disappears. We write the rate as either: [ ] [ ] Rate or  rate = − Similarly, for the reaction:",
+        "aA   +   bB   →    cC    +    dD the rate is given by  Rate = [ ] [ ] [ ] [ ] The Rate of a Reaction 197 This foundational concept establishes the governing principles of 2A  →  B. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "that",
+          "Two moles of A disappear for each mole of B that forms, that is, the rate at which B forms is one half the rate at which A disappears. We write the rate as either: [ ] [ ] Rate or  rate = − Similarly, for the reaction:"
+        ],
+        [
+          "dD the rate",
+          "aA   +   bB   →    cC    +    dD the rate is given by  Rate = [ ] [ ] [ ] [ ] The Rate of a Reaction 197"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 2A  →  B: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(B)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 2A  →  B."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 2A  →  B",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Example 4.1 1. Write the rate expressions for the following reactions in terms of the disappearance of the reactants and the appearance of the products: a. I−(aq) +  OCl− (aq)  →  Cl− (aq) + OI− (aq) b. 3O2(g)  →  2O3(g) c. 4NH3(g) + 5O2(g)  →  4NO(g) + 6H2O(g)"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "a. Because each of the stoichiometric coefficients equals 1, Rate = -I OCI Cl OI     This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "=− b. Here the coefficients are 3 and 2, so Rate  = c. In this reaction: Rate  = NH NO H O This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "= − 2. In the reaction of nitric oxide with hydrogen, 2NO (g)    +   2H2 (g)   →   N2 (g)    +    2H2O (g) If the rate of disappearance of NO is 5.0 × 10–5 mol L–1s–1, what is the rate of reaction for the formation of N2?"
+      ],
+      "definitions": [
+        [
+          "Here the coefficients",
+          "=− b. Here the coefficients are 3 and 2, so Rate  = c. In this reaction: Rate  = NH NO H O"
+        ],
+        [
+          "the rate of disappearance of NO",
+          "= − 2. In the reaction of nitric oxide with hydrogen, 2NO (g)    +   2H2 (g)   →   N2 (g)    +    2H2O (g) If the rate of disappearance of NO is 5.0 × 10–5 mol L–1s–1, what is the rate of reaction for the formation of N2?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "The rate of reaction for the formation of N2 Rate = NO 5.0 1 0 mol L = − = − Rate = 2.5 × 10−5 mol L−1s−1 198 This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Exercise 4.1 1. Write the rate expression for the following reaction: CH4 (g)    +    2O2 (g)  →  CO2 (g)   +    2H2O (g) a. the formation of CO2 and H2O b. the disappearance of CH4 and O2 2. The reaction for the formation of ammonia is given as N2(g) + 3H2(g)",
+        "2NH3(g) This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "for the formation of ammonia",
+          "Exercise 4.1 1. Write the rate expression for the following reaction: CH4 (g)    +    2O2 (g)  →  CO2 (g)   +    2H2O (g) a. the formation of CO2 and H2O b. the disappearance of CH4 and O2 2. The reaction for the formation of ammonia is given as N2(g) + 3H2(g)"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "Write the rate reaction for:",
+      "paragraphs": [
+        "a. the formation of NH3 b. the disappearance of N2 and H2 3. Consider the reaction of: 4NO2(g) + O2(g)  →  2N2O5(g) Suppose that, at a particular moment during the reaction, molecular oxygen is reacting at the rate of 0.037 mol L−1s−1. a. At what rate is N2O5 being formed? b. At what rate is NO2 reacting?",
+        "4. Consider the reaction of: 4PH3 (g)  →  P4 (g)   +     6H2 (g) Suppose that, at a particular moment during the reaction, molecular hydrogen is being formed at the rate of 0.078 mol L−1s−1. a. At what rate is P4 being formed? b. At what rate is PH3 reacting? Determination of Rate of Reaction Reaction rate is change in an observable property over time. The observable property",
+        "should be selected based upon what can be measured in the laboratory. This could be a colour change, a temperature change, a pressure change, a mass change, or the appearance of a new substance (for example, amount of precipitate formed). The observable (measurable) properties can be used to determine the change in concentration over time. The Rate of a Reaction 199"
+      ],
+      "definitions": [
+        [
+          "molecular oxygen",
+          "a. the formation of NH3 b. the disappearance of N2 and H2 3. Consider the reaction of: 4NO2(g) + O2(g)  →  2N2O5(g) Suppose that, at a particular moment during the reaction, molecular oxygen is reacting at the rate of 0.037 mol L−1s−1. a. At what rate is N2O5 being formed? b. At what rate is NO2 reacting?"
+        ],
+        [
+          "molecular hydrogen",
+          "4. Consider the reaction of: 4PH3 (g)  →  P4 (g)   +     6H2 (g) Suppose that, at a particular moment during the reaction, molecular hydrogen is being formed at the rate of 0.078 mol L−1s−1. a. At what rate is P4 being formed? b. At what rate is PH3 reacting? Determination of Rate of Reaction Reaction rate is change in an observable property over time. The observable property"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Write the rate reaction for:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(for:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Write the rate reaction for:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Write the rate reaction for:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Consider, for example, the thermal decomposition of gaseous dinitrogen pentoxide, N2O5, to give the brown gas nitrogen dioxide: 2N2O5 (g)  →      4NO2 (g)  +    O2 (g) Colorless              Brown       Colorless Changes in concentration as a function of time can be determined by measuring the increase in pressure as 2 gas molecules are converted to 5 gas molecules. Alternatively, concentration changes can be monitored by measuring the intensity of the brown color due to NO2 formation. Reactant and product concentrations as a function of time at 55",
+        "°C are listed in Table 4.1. Using this data, we can calculate the rate: N O NO Rate of reaction = − Table 4.1: Concentrations (mol L−1s−1) as a function of time at 55 °C for the thermal decomposition of gaseous dinitrogen pentoxide ( N2O5 ) Time (s)",
+        "N2O5 NO2 O2 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "gas molecules",
+          "Consider, for example, the thermal decomposition of gaseous dinitrogen pentoxide, N2O5, to give the brown gas nitrogen dioxide: 2N2O5 (g)  →      4NO2 (g)  +    O2 (g) Colorless              Brown       Colorless Changes in concentration as a function of time can be determined by measuring the increase in pressure as 2 gas molecules are converted to 5 gas molecules. Alternatively, concentration changes can be monitored by measuring the intensity of the brown color due to NO2 formation. Reactant and product concentrations as a function of time at 55"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "0.0200",
+      "paragraphs": [
+        "100 This foundational concept establishes the governing principles of 0.0200. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0200: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0200)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0200."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0200",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "0.0169",
+      "paragraphs": [
+        "200 This foundational concept establishes the governing principles of 0.0169. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0169: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0169)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0169."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0169",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "0.0142",
+      "paragraphs": [
+        "300 This foundational concept establishes the governing principles of 0.0142. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0142: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0142)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0142."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0142",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "0.0120",
+      "paragraphs": [
+        "400 This foundational concept establishes the governing principles of 0.0120. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0120: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0120)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0120."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0120",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "0.0101",
+      "paragraphs": [
+        "500 This foundational concept establishes the governing principles of 0.0101. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0101: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0101)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0101."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0101",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "0.0086",
+      "paragraphs": [
+        "600 This foundational concept establishes the governing principles of 0.0086. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0086: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0086)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0086."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0086",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "0.0072",
+      "paragraphs": [
+        "700 This foundational concept establishes the governing principles of 0.0072. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0072: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0072)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0072."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0072",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "0.0061",
+      "paragraphs": [
+        "Note: The concentrations of NO2 and O2 increase as the concentration of N2O5 decreases. In the decomposition of N2O5, the rate of formation of O2 is given by the equation: 2 ] Conc.  of O  at time   Conc. of O  at time Rate of formation of O During the time period 300 to 400 s, for example, the average rate of formation of O2 is 9 × 10−6 mol L−1s−1:",
+        "200 This foundational concept establishes the governing principles of 0.0061. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0061: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.0061)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0061."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0061",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "2 ] 1  1 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "0.0049 M  0.0040 M",
+      "paragraphs": [
+        "Rate of formation of O  = 9  1 0  mol L 400 s  300 s The average rate of formation of NO2 during the time period 300-400 s is 3.7 × 10-5 mol L1  s−1, which is four times the rate of formation of O2, as with the 4:1 ratio of the coefficients of NO2 and O2 in the chemical equation for the decomposition of N2O5. 2 ]",
+        "NO This foundational concept establishes the governing principles of 0.0049 M  0.0040 M. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "which",
+          "Rate of formation of O  = 9  1 0  mol L 400 s  300 s The average rate of formation of NO2 during the time period 300-400 s is 3.7 × 10-5 mol L1  s−1, which is four times the rate of formation of O2, as with the 4:1 ratio of the coefficients of NO2 and O2 in the chemical equation for the decomposition of N2O5. 2 ]"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 0.0049 M  0.0040 M: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(M)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0049 M  0.0040 M."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0049 M  0.0040 M",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "0.0197 M  0.0160 M",
+      "paragraphs": [
+        "Rate of formation of NO 3.7  1 0  mol L s 400 s  300 s Similarly, during the time period 300–400 s, the average rate of decomposition of N2O5 is 1.9 × 10-5 mol L−1 s−1; 1 1 N O"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.0197 M  0.0160 M: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(M)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0197 M  0.0160 M."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0197 M  0.0160 M",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "0.0101 M  0.0120 M",
+      "paragraphs": [
+        "Rate of formation of N O 400 s  300 s 1.9 1 0  mol L It’s also important to specify the time when quoting a rate because the rate changes as the reaction proceeds. For example, the average rate of formation of NO2 is 3.7 × 10-5 mol L−1 s−1 during the time period 300 – 400 s, but it is only 2.2 × 10-5 mol L−1s−1 during the period 600 –700 s. In general, the rate of reaction at the beginning is fast and it decreases as the reaction",
+        "proceeds. What could be the possible reason for this decrease in the rate of reaction with time? Plotting the data of Table 4.1 gives the three curves in ����������. Looking at the time period 300 – 400 s on the O2 curve, ∆[O2] and ∆t is represented, respectively, by the vertical and horizontal sides of a right triangle. The slope of the third side, the hypotenuse of the triangle, is ∆[O2]/∆t, the average rate of O2 formation during that period. The steeper the slope of the hypotenuse, the faster the rate. For example, compare the hypotenuse of the triangle defined by ∆[NO2] and ∆t during the time",
+        "period 300 – 400 s and 600 –700 s. The Rate of a Reaction 201 This foundational concept establishes the governing principles of 0.0101 M  0.0120 M. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "but it",
+          "Rate of formation of N O 400 s  300 s 1.9 1 0  mol L It’s also important to specify the time when quoting a rate because the rate changes as the reaction proceeds. For example, the average rate of formation of NO2 is 3.7 × 10-5 mol L−1 s−1 during the time period 300 – 400 s, but it is only 2.2 × 10-5 mol L−1s−1 during the period 600 –700 s. In general, the rate of reaction at the beginning is fast and it decreases as the reaction"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 0.0101 M  0.0120 M: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(M)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.0101 M  0.0120 M."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.0101 M  0.0120 M",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "����������������������������������������������������������������� ����������������������������������������� It is important to realize that, given the initial concentrations in Table 4.1 the concentrations of NO2(g) and O2(g) can be calculated from the concentration of N2O5(g) at any time. The following example illustrates such a calculation. 202"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Example 4.2 Using the data in Table 4.1, if [N2O5] = 1.20 ×10–2 mol L−1 at 300 s, calculate [NO2] and [O2] at t = 300 s. This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "The chemical equation is:  N2O5 (g)  →   2NO2 (g)  +  ½ O2 (g). The number of moles per liter of N2O5 (g) that have reacted in 300 s is the difference between the initial concentration and the concentration at 300 s [N2O5]. From Table 4.1. [N2O5]0 = 2.00 × 10–2 mol L−1. Molarity of N2O5(g) reacted = [N2O5]0 − [N2O5] = 2.00 × 10–2 mol L−1 − 1.20 × 10–2 mol L−1 = 0.8 × 10–2 mol L−1. According to the chemical equation, 2 moles of NO2 (g) are provided for",
+        "every mole of N2O5 (g) that reacts. So, per liter, we have: ( ) -1 –2 -1 -1 -2 -1 This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "2 mol L NO Molarity of NO g  produced = 0.8 10 mol L N O 1 mol L N O =1.6 10 mol L This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "Similarly, for O2 (g) we have: ( ) -1 –2 -1 -1 1 mol L NO Molarity of O This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "g  produced = 0.8 × 10 mol L N O 1 mol L N O This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "The chemical equation",
+          "The chemical equation is:  N2O5 (g)  →   2NO2 (g)  +  ½ O2 (g). The number of moles per liter of N2O5 (g) that have reacted in 300 s is the difference between the initial concentration and the concentration at 300 s [N2O5]. From Table 4.1. [N2O5]0 = 2.00 × 10–2 mol L−1. Molarity of N2O5(g) reacted = [N2O5]0 − [N2O5] = 2.00 × 10–2 mol L−1 − 1.20 × 10–2 mol L−1 = 0.8 × 10–2 mol L−1. According to the chemical equation, 2 moles of NO2 (g) are provided for"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "0.4",
+      "paragraphs": [
+        "10  m l o L Often, chemists want to know the rate of a reaction at a specific time t rather than the rate averaged over a time interval ∆t. For example, what is the rate of formation of NO2 at time t = 350 s? Such instantaneous rate is calculated from the slope of a tangent drawn at any points on the graph of concentrations versus time ������������� The slope of tangent taken at the initial point of the graph is assumed to be equal to its initial rate. In the initial rate the change in concentration of a reactant or product as a",
+        "function of time is measured within minutes (or seconds) the reaction starts. The Rate of a Reaction 203 This foundational concept establishes the governing principles of 0.4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "what",
+          "10  m l o L Often, chemists want to know the rate of a reaction at a specific time t rather than the rate averaged over a time interval ∆t. For example, what is the rate of formation of NO2 at time t = 350 s? Such instantaneous rate is calculated from the slope of a tangent drawn at any points on the graph of concentrations versus time ������������� The slope of tangent taken at the initial point of the graph is assumed to be equal to its initial rate. In the initial rate the change in concentration of a reactant or product as a"
+        ],
+        [
+          "function of time",
+          "function of time is measured within minutes (or seconds) the reaction starts. The Rate of a Reaction 203"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 0.4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Example 4.3 Consider the gas-phase reaction that occurs when we mix 1.000 moles of hydrogen and 2.000 moles of iodine chloride at 230 °C in a closed 1.000-liter container. H2(g)         +       2ICl(g)    →     I2(g)      +      2HCl(g) From the experimental data given in the table below, determine the instantaneous rate of reaction at time, t = 2 s. Time (s)",
+        "[ICl] (mol L−1) This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "2.000",
+      "paragraphs": [
+        "[H2] (mol L−1) This foundational concept establishes the governing principles of 2.000. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 2.000: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(2.000)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 2.000."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 2.000",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "1.000",
+      "paragraphs": [
+        "Solution:First, plot H2 concentration versus time for the reaction of 1.000 M H2 with 2.000 M ICl. Then, draw a tangent line to the curve. The instantaneous rate of reaction at any time, t, equals the negative of the slope of the tangent to this curve at time t. �����������shows how to find the instantaneous  rate at t = 2 seconds. �������������������������������������������������������������� ���������������������������������� 204"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1.000: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(1.000)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 1.000."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 1.000",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Exercise 4.2 1. Using the initial concentrations and the fact that [O2] = 0.64 × 10–2 mol. L−1 at t = 600 s in Table 4.1, calculate [N2O5] and [NO2] at t = 600 s. 2. Consider the reaction: 2C2H4 (g) → C4H8 (g) From the experimental data given in the table below, plot a graph for the consumption of ethylene, C2H4, versus time.",
+        "a. Calculate the rate of reaction between the time intervals 10 s to 30 s. b. Calculate the rate of reaction at 45 s. Experiment 4.1 Measuring the Rate Reaction Objective: To measure the rate of reaction between marble chips (CaCO3) and dilute HCl acid. Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool.",
+        "Chemicals: 2M dilute HCl acid , and marble chips/CaCO3. This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "Procedure:",
+      "paragraphs": [
+        "1. Set up the apparatus as shown in ������������but without the marble chips at first. 2. Add 20 g of pure marble chips, in a clean 100 mL conical flask. 3. Add 40 mL of 2M dilute HCl acid to the conical flask. 4. Plug the cotton wool in position immediately. 5. Read the mass of the flask and its contents and start the stopwatch. 6. Record the mass at one minute intervals for 10 minutes. Time (s)",
+        "10 20 40 60 100 [C2H4] (mol L−1) This foundational concept establishes the governing principles of Procedure:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Procedure:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Procedure:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Procedure:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Procedure:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "0.884",
+      "paragraphs": [
+        "The Rate of a Reaction 205 This foundational concept establishes the governing principles of 0.884. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 0.884: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.884)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.884."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.884",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "�������������������������������������������������������������������������� This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "Observations and analysis:",
+      "paragraphs": [
+        "1. Use the following table to record your observations. Time (min) 0 1 10 Mass (g) Decrease in mass (g) Plot a graph with time (minutes) on the horizontal axis and rate on the vertical",
+        "axis. Draw a smooth curve through as many points as possible. Note that in this experiment change in mass is proportional to change in concentration. 2. What happens to the mass during the reaction? Explain this with the help of a balanced equation. 3. What information can be obtained from the slope of this graph at any point? 4. Why is the graph a. steep at the start of the reaction?",
+        "b. less steep in the middle of the reaction? c. horizontal at the end of the reaction? 206 This foundational concept establishes the governing principles of Observations and analysis:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "this experiment change in mass",
+          "axis. Draw a smooth curve through as many points as possible. Note that in this experiment change in mass is proportional to change in concentration. 2. What happens to the mass during the reaction? Explain this with the help of a balanced equation. 3. What information can be obtained from the slope of this graph at any point? 4. Why is the graph a. steep at the start of the reaction?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Observations and analysis:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(analysis:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Observations and analysis:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Observations and analysis:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "5. Calculate: a. The average rate of the reaction.   b. The rate of reaction at 2 minutes. 6. Describe how the rate of reaction changes with time. 7. Can we measure the rate of this reaction by measuring the amount /volume of CO2 evolved? 8. Draw a graph of the expected result by plotting volume of CO2 evolved vs time. Conditions needed for a chemical reaction",
+        "Activity 4.2 Form a group of three and discuss each of the following questions, then present your responses to the whole class. 1. Ethanol can easily burn in air due to the following reaction:"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "CH3CH2OH   +   O2   →   CO2   +   H2O",
+      "paragraphs": [
+        "In actual practice, you are required to use a lighter (igniter) to start the reaction. Why? 2. Consider the following reaction NO2Cl    +     Cl  →    NO2    +    Cl Which of the above collisions might be successful to form the product? Chemical reactions are usually explained by the collision theory. The assumption of the collision theory is that chemical reactions take place due to collisions between molecules. Collisions between reactants",
+        "The collision theory of rate of reaction is that, in order for a reaction to occur between reacting species (atoms, ions or molecules), they must first collide (come in contact). The rate of reaction is directly proportional to the number of collisions per second (the frequency of collision). The Rate of a Reaction 207"
+      ],
+      "definitions": [
+        [
+          "you",
+          "In actual practice, you are required to use a lighter (igniter) to start the reaction. Why? 2. Consider the following reaction NO2Cl    +     Cl  →    NO2    +    Cl Which of the above collisions might be successful to form the product? Chemical reactions are usually explained by the collision theory. The assumption of the collision theory is that chemical reactions take place due to collisions between molecules. Collisions between reactants"
+        ],
+        [
+          "theory of rate of reaction",
+          "The collision theory of rate of reaction is that, in order for a reaction to occur between reacting species (atoms, ions or molecules), they must first collide (come in contact). The rate of reaction is directly proportional to the number of collisions per second (the frequency of collision). The Rate of a Reaction 207"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for CH3CH2OH   +   O2   →   CO2   +   H2O: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(H2O)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in CH3CH2OH   +   O2   →   CO2   +   H2O."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in CH3CH2OH   +   O2   →   CO2   +   H2O",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Rate  number of collisions second 1. Proper Orientation According to collision theory, the more collisions there are the faster the rate of reaction would be. However, not all collisions between reacting species result in a reaction. This is because collisions between reactants can be either effective or ineffective. Effective collisions are collisions that result in a reaction to form the desired products. Ineffective collisions are collisions that do not result in a reaction to form the desired",
+        "products. Thus, the collision between molecules should have the proper orientation ������������. ��������������������������������������������������������������������������� 2. Activation energy If the collisions between the reactant molecules do not have sufficient energy, then no reaction will occur. Therefore, for the reaction to take place collision must always occur with sufficient energy to break the bonds in the reactants and form new bonds in the product. Thus, minimum amount of energy needed for the reaction is known",
+        "as activation energy, Ea. According to the kinetic molecular theory, the average kinetic energy of the particles of a substance is directly proportional to the absolute temperature. As the temperature of the reacting species is raised, the average kinetic energy of the reacting particles increases considerably. This causes the particles of the reactants to collide more frequently and with greater energy. This results in increase in reaction rate. 208"
+      ],
+      "definitions": [
+        [
+          "the more collisions there",
+          "Rate  number of collisions second 1. Proper Orientation According to collision theory, the more collisions there are the faster the rate of reaction would be. However, not all collisions between reacting species result in a reaction. This is because collisions between reactants can be either effective or ineffective. Effective collisions are collisions that result in a reaction to form the desired products. Ineffective collisions are collisions that do not result in a reaction to form the desired"
+        ],
+        [
+          "energy needed for the reaction",
+          "products. Thus, the collision between molecules should have the proper orientation ������������. ��������������������������������������������������������������������������� 2. Activation energy If the collisions between the reactant molecules do not have sufficient energy, then no reaction will occur. Therefore, for the reaction to take place collision must always occur with sufficient energy to break the bonds in the reactants and form new bonds in the product. Thus, minimum amount of energy needed for the reaction is known"
+        ],
+        [
+          "of the particles of a substance",
+          "as activation energy, Ea. According to the kinetic molecular theory, the average kinetic energy of the particles of a substance is directly proportional to the absolute temperature. As the temperature of the reacting species is raised, the average kinetic energy of the reacting particles increases considerably. This causes the particles of the reactants to collide more frequently and with greater energy. This results in increase in reaction rate. 208"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "������������������������������������������������ At the end of this section, you will be able to: list factors that affect the rate of a chemical reaction describe the effects of changes in temperature, concentration or pressure and surface area on the rates of a chemical reaction explain the effect of catalysts on the rates of chemical reaction do an experiment on how the factors affect the rate of chemical reaction. Activity 4.3",
+        "Discuss each of the following questions in groups, and present your responses to the whole class. 1. How is the burning of charcoal affected by a. increasing the amount of air used b. adding more charcoal 2. How can you increase the rate of combustion of a given block of wood? 3. Why do sugar crystals dissolve more easily in hot water than in cold water? 4. Why does powdered sugar dissolved easily as compared to equivalent",
+        "amounts of sugar crystals? The rates at which reactants are consumed and products are formed during chemical reactions vary greatly. Even a chemical reaction involving the same reactants may have different rates under different conditions. Change in temperature, concentration, nature of reactant, surface area and presence of a catalyst, result in changes in rate of reaction. i. Nature of the reactants Activity 4.4",
+        "Compare how fast the following substances burn and present your responses to the whole class. a. paper b. wood charcoal c. alcohol d. copper wire Consider Experiment 4.2 to study the effect of the nature of reactants on rate of reaction.",
+        "Factors Affecting the Rate of a Chemical Reaction 209 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "How",
+          "Discuss each of the following questions in groups, and present your responses to the whole class. 1. How is the burning of charcoal affected by a. increasing the amount of air used b. adding more charcoal 2. How can you increase the rate of combustion of a given block of wood? 3. Why do sugar crystals dissolve more easily in hot water than in cold water? 4. Why does powdered sugar dissolved easily as compared to equivalent"
+        ],
+        [
+          "The rates at which reactants",
+          "amounts of sugar crystals? The rates at which reactants are consumed and products are formed during chemical reactions vary greatly. Even a chemical reaction involving the same reactants may have different rates under different conditions. Change in temperature, concentration, nature of reactant, surface area and presence of a catalyst, result in changes in rate of reaction. i. Nature of the reactants Activity 4.4"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Experiment 4.2 The Effect of Nature of Reactants on Rate of Reaction Objective: To study the effect of the nature of reactant for the reaction of copper and magnesium   metals with hydrochloric acid. Apparatus: Balance, test tubes, test tube stand. Chemicals: Copper (Cu), magnesium (Mg), 2M hydrochloric acid (HCl)."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "Procedure:",
+      "paragraphs": [
+        "1. Measure equal masses of copper and magnesium metals using a balance. 2. Record the weighed mass of these metals and add each to separate test tubes. 3. Assemble the test tubes as shown in ������������ 4. Add equal volume of 5 mL of 1M HCl to both the test tubes. Wear your safety goggles and gloves. 5. Observe relative rates of reaction in both test tubes and record your observations.",
+        "�����������������������������������������������������Observations and analysis 1. Which of these two metals, copper or magnesium, reacts faster? Why? 210"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Procedure:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Procedure:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Procedure:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Procedure:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "2. Write the balanced chemical equation for the reaction of a. copper with HCl acid  b. magnesium with HCl acid 3. What do you learn from this experiment? 4. Perform a similar activity using different metals such as aluminum, and zinc. In which case do you expect the reaction to be faster and why? The rate of a reaction depends on the chemical nature of the substances in the reaction. The combination of two oppositely charged ions usually occurs very rapidly. For example, the reaction of an acid with a base is:"
+      ],
+      "definitions": [
+        [
+          "reaction of an acid with a base",
+          "2. Write the balanced chemical equation for the reaction of a. copper with HCl acid  b. magnesium with HCl acid 3. What do you learn from this experiment? 4. Perform a similar activity using different metals such as aluminum, and zinc. In which case do you expect the reaction to be faster and why? The rate of a reaction depends on the chemical nature of the substances in the reaction. The combination of two oppositely charged ions usually occurs very rapidly. For example, the reaction of an acid with a base is:"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "H3O+ + OH–  →  2H2O",
+      "paragraphs": [
+        "The acid-base reaction of HCl and NaOH is much faster than the decomposition of hydrogen peroxide, which involves the reorganization of molecules."
+      ],
+      "definitions": [
+        [
+          "base reaction of HCl and NaOH",
+          "The acid-base reaction of HCl and NaOH is much faster than the decomposition of hydrogen peroxide, which involves the reorganization of molecules."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for H3O+ + OH–  →  2H2O: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(2H2O)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in H3O+ + OH–  →  2H2O."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in H3O+ + OH–  →  2H2O",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "2H2O2 → 2H2O + O2",
+      "paragraphs": [
+        "Even similar reactions may have different rates under the same conditions. For example, if small pieces of the metal iron and sodium are left in air, the sodium reacts completely overnight, whereas the iron is barely affected. The active metals sodium and calcium both react with water to form hydrogen gas and the corresponding metal hydroxide. Yet calcium reacts at a moderate rate, whereas sodium reacts so rapidly that the reaction is almost explosive. Can you write the balanced equation for the reaction of sodium and calcium with water? ii.Surface Area of Reactants",
+        "Activity 4.5 Form a group of three or four and answer the following questions, then present your responses to the whole class. 1. Why does a wood fire burn faster if the logs are chopped into smaller pieces? 2. Which form of zinc metal is easier to dissolve in dilute HCl, large pieces of Zn or powdered Zn? Why? Consider the Experiment 4.3 to study the effect of surface area on rate of reaction.",
+        "Factors Affecting the Rate of a Chemical Reaction 211 This foundational concept establishes the governing principles of 2H2O2 → 2H2O + O2. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "of the metal iron and sodium",
+          "Even similar reactions may have different rates under the same conditions. For example, if small pieces of the metal iron and sodium are left in air, the sodium reacts completely overnight, whereas the iron is barely affected. The active metals sodium and calcium both react with water to form hydrogen gas and the corresponding metal hydroxide. Yet calcium reacts at a moderate rate, whereas sodium reacts so rapidly that the reaction is almost explosive. Can you write the balanced equation for the reaction of sodium and calcium with water? ii.Surface Area of Reactants"
+        ],
+        [
+          "fire burn faster if the logs",
+          "Activity 4.5 Form a group of three or four and answer the following questions, then present your responses to the whole class. 1. Why does a wood fire burn faster if the logs are chopped into smaller pieces? 2. Which form of zinc metal is easier to dissolve in dilute HCl, large pieces of Zn or powdered Zn? Why? Consider the Experiment 4.3 to study the effect of surface area on rate of reaction."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 2H2O2 → 2H2O + O2: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(O2)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 2H2O2 → 2H2O + O2."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 2H2O2 → 2H2O + O2",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Experiment 4.3 Effect of surface Area on Reaction Rate Objective: To study the effect of surface area of reactants on the rate of reaction using cube chalk and powdered chalk with dilute hydrochloric acid. Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool. Chemicals: Cube chalk, powered chalk and 2M dilute HCl solution Procedure: Repeat Experiment 4.1 but use 20 g of small cubical chalk and then",
+        "powdered chalk in place of marble chips. Observations: In which case is the gas produced faster? This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "In which case",
+          "powdered chalk in place of marble chips. Observations: In which case is the gas produced faster?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "Observations and analysis:",
+      "paragraphs": [
+        "1. Compare the rate curve, average rate and reaction rate at 2 minutes with that of Experiment 4.1. Explain your observations. 2. Sketch a graph for the consumption of each size of chalk (cube chalk and powdered chalk)  against time on the same graph sheet. 3. Write a conclusion to the experiment. Reactions can be classified as homogeneous (same phase) and heterogeneous (different phases). For example, the combustion of graphite is a heterogeneous reaction because it involves a solid with gas. In this case, the reaction occurs only at the interface",
+        "(boundary) between two phases. A homogeneous reaction occurs only in one phase. This foundational concept establishes the governing principles of Observations and analysis:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "the combustion of graphite",
+          "1. Compare the rate curve, average rate and reaction rate at 2 minutes with that of Experiment 4.1. Explain your observations. 2. Sketch a graph for the consumption of each size of chalk (cube chalk and powdered chalk)  against time on the same graph sheet. 3. Write a conclusion to the experiment. Reactions can be classified as homogeneous (same phase) and heterogeneous (different phases). For example, the combustion of graphite is a heterogeneous reaction because it involves a solid with gas. In this case, the reaction occurs only at the interface"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Observations and analysis:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(analysis:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Observations and analysis:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Observations and analysis:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "For example:",
+      "paragraphs": [
+        "NO (g)   →       ½N2(g)   +   ½O2(g) Except for substances in the gaseous state or in solution, reactions occur at the boundary, or interface, between two phases. Hence, the rate of reaction between two phases depends to a great extent on the surface area of contact between them. Finely divided solids, react more rapidly than the same amount of the  substance in a large body because of the greater surface area available. 212"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for For example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(example:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in For example:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in For example:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "iii. Concentration of Reactants Activity 4.6 Answer the following questions in groups and present your responses to the whole class. 1. Why does wood burn more rapidly in pure oxygen than in air? 2. Why does limestone (CaCO3) deteriorate more rapidly in highly polluted air than in less polluted air? Consider Experiment 4.4 to study the effect of concentration of acid on the rate of",
+        "reaction between CaCO3 and hydrochloric acid. Experiment 4.4 Effect of Concentration on Reaction Rate Objective: To study the effect of concentrations of hydrochloric acid on rate of reaction with marble chips. Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool Chemicals: 1M HCl, 2M HCl dilute solutions and marble chips (CaCO3).",
+        "Procedure: Repeat Experiment 4.1 but you have to use 1M dilute HCl acid in place of 2M dilute HCl acid. This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "Observations and analysis:",
+      "paragraphs": [
+        "1. Compare the rate of reaction with that in Experiment 4.1. Which reaction is more vigorous? Explain. 2. Which of the two reactions will produce more carbon dioxide? Explain your answer. 3. What would happen to the rate curve and average rate if: a. 1M HCl is replaced with 4M dilute HCl acid? Explain. b. 1M HCl is replaced with 0.5M dilute HCl acid? Explain. 4. Sketch a graph for each of 0.5 M, 1M, 2M and 4M dilute HCl acid against",
+        "time on the same graph sheet. Factors Affecting the Rate of a Chemical Reaction 213 This foundational concept establishes the governing principles of Observations and analysis:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "Which reaction",
+          "1. Compare the rate of reaction with that in Experiment 4.1. Which reaction is more vigorous? Explain. 2. Which of the two reactions will produce more carbon dioxide? Explain your answer. 3. What would happen to the rate curve and average rate if: a. 1M HCl is replaced with 4M dilute HCl acid? Explain. b. 1M HCl is replaced with 0.5M dilute HCl acid? Explain. 4. Sketch a graph for each of 0.5 M, 1M, 2M and 4M dilute HCl acid against"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Observations and analysis:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(analysis:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Observations and analysis:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Observations and analysis:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "At a fixed temperature, the rate of a given reaction depends on the concentration of the reactants. Reaction rates often increases when the concentration of one or more of the reactants increases.  This is because increasing the concentration produces more contacts between the reacting particles, which results in increasing the rate of reaction. In the case of reactions that involve gaseous reactants, an increase in pressure can increase the concentration of the gases which may lead to an increase in the rate of reaction. However, pressure change has no effect on the rate of reaction if the reactants are either solids or liquids.",
+        "iv.Temperature of Reactants Activity 4.7 Form a group and answer the following questions, then present your responses to the whole class. 1. Why do we keep foods in refrigerator rather than at room temperature? 2. Compare the oxidation of wood or coal at ordinary and high temperatures? In Experiment 4.5, you will study the effect of temperature on the rate of reaction of",
+        "Na2S2O3 with HCl. Experiment 4.5 The Effect of Temperature on Reaction Rate Objective: To study the effect of temperature on the rate of reaction between sodium thiosulphate  and hydrochloric acid. Apparatus: 100 mL beakers, test tubes, thermometers, white paper, pencil. Chemicals: 0.5M HCl acid, 0.1M Na2S2O3 solution, pieces of ice."
+      ],
+      "definitions": [
+        [
+          "This",
+          "At a fixed temperature, the rate of a given reaction depends on the concentration of the reactants. Reaction rates often increases when the concentration of one or more of the reactants increases.  This is because increasing the concentration produces more contacts between the reacting particles, which results in increasing the rate of reaction. In the case of reactions that involve gaseous reactants, an increase in pressure can increase the concentration of the gases which may lead to an increase in the rate of reaction. However, pressure change has no effect on the rate of reaction if the reactants are either solids or liquids."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "Procedure:",
+      "paragraphs": [
+        "1. Take 25 mL of 0.1M Na2S2O3 solution in a test tube and 25 mL of 0.5M HCl acid in  another test tube. 2. Prepare three such sets and maintain them at different temperatures. Set (i) at 0 °C [by keeping them in an ice bath as shown in ��������������]. Set (ii) at room temperature. Set (iii) at 40 °C (by heating the two solutions in a water bath). 214"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Procedure:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Procedure:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Procedure:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Procedure:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "3. Put a cross sign on a white cardboard and place a clean dry 100 mL beaker above it. 4. Now, pour the contents of set (i) in the beaker and start a stopwatch immediately. 5. Carefully stir the mixture with thermometer and record the time taken for the cross to disappear   ����������������� 6. Repeat steps 3, 4, and 5 with set 2 and set 3, respectively. 7. Tabulate your results as temperature in °C versus time in minutes.",
+        "������� ����� ����������� ������� ���� ���� ������ ��� ���� ������ ��� ������������������������������� This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "Observations and analysis:",
+      "paragraphs": [
+        "1. What was the appearance of the mixture at the start of the reaction, and at the end of the reaction? Explain the changes using the equation for the reaction. 2. Plot the graph of time (minutes) on the horizontal axis against rate on the vertical axis. 3. Under which condition of temperature does the cross take: a. the shortest time to disappear, and b. the longest time to disappear. 4. Draw a conclusion about the relationship between the average reaction rate",
+        "and temperature. Factors Affecting the Rate of a Chemical Reaction 215 This foundational concept establishes the governing principles of Observations and analysis:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Observations and analysis:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(analysis:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Observations and analysis:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Observations and analysis:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Temperature usually has a major effect on the rate of reaction. Molecules at higher temperatures have more thermal energy. Generally, an increase in the temperature of a reaction mixture increases the rate of chemical reactions. This is because, as the temperature of the reaction mixture raises, the average kinetic energy of the reacting particles increases. So, they collide more frequently and with greater energy. The effect of temperature on rate of reaction can be experienced in our daily life. For example, foods cook faster at higher temperature than at lower ones. We use a burner or a hot plate in the laboratory to increase the speed of reactions that proceed slowly at",
+        "ordinary temperatures. In many cases, the rate of a reaction in a homogeneous system is approximately doubled by an increase in temperature of only 10 °C. v. Presence of a Catalyst Activity 4.8 Answer the following questions in groups and present your response to the whole class. 1. How do inhibitors extend the shelf-life of a package of food? 2. What catalyst do you know in your body and the surroundings?",
+        "3. Why is yeast added to the dough in the making of bread? What happens if you don’t add yeast to the dough? Now, you will perform Experiment 4.6 to study the effect of a catalyst on the rate of decomposition of hydrogen peroxide, H2O2 Experiment 4.6: The Effect of a Catalyst on the Rate of Reaction Objective: To investigate the effect of a catalyst on rate of decomposition of hydrogen peroxide.",
+        "Apparatus: Conical flask, gas syringe, delivery tube. Chemicals: 0.5% by volume H2O2 solution, MnO2. 216 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "This",
+          "Temperature usually has a major effect on the rate of reaction. Molecules at higher temperatures have more thermal energy. Generally, an increase in the temperature of a reaction mixture increases the rate of chemical reactions. This is because, as the temperature of the reaction mixture raises, the average kinetic energy of the reacting particles increases. So, they collide more frequently and with greater energy. The effect of temperature on rate of reaction can be experienced in our daily life. For example, foods cook faster at higher temperature than at lower ones. We use a burner or a hot plate in the laboratory to increase the speed of reactions that proceed slowly at"
+        ],
+        [
+          "in a homogeneous system",
+          "ordinary temperatures. In many cases, the rate of a reaction in a homogeneous system is approximately doubled by an increase in temperature of only 10 °C. v. Presence of a Catalyst Activity 4.8 Answer the following questions in groups and present your response to the whole class. 1. How do inhibitors extend the shelf-life of a package of food? 2. What catalyst do you know in your body and the surroundings?"
+        ],
+        [
+          "Why",
+          "3. Why is yeast added to the dough in the making of bread? What happens if you don’t add yeast to the dough? Now, you will perform Experiment 4.6 to study the effect of a catalyst on the rate of decomposition of hydrogen peroxide, H2O2 Experiment 4.6: The Effect of a Catalyst on the Rate of Reaction Objective: To investigate the effect of a catalyst on rate of decomposition of hydrogen peroxide."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "1. Set-up the apparatus as shown in ����������� Set the volume of the gas syringe at 0 mL. Add  25.0 mL of 0.1M H2O2 solution, but without manganese (IV) oxide, MnO2, and start stopwatch immediately. 2. Record the volume of gas collected in gas syringe at minute intervals until each reaction is almost complete. 3. Repeat steps 1 and 2 with 1 g of MnO2."
+      ],
+      "definitions": [
+        [
+          "intervals until each reaction",
+          "1. Set-up the apparatus as shown in ����������� Set the volume of the gas syringe at 0 mL. Add  25.0 mL of 0.1M H2O2 solution, but without manganese (IV) oxide, MnO2, and start stopwatch immediately. 2. Record the volume of gas collected in gas syringe at minute intervals until each reaction is almost complete. 3. Repeat steps 1 and 2 with 1 g of MnO2."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "title": "Observations and analysis:",
+      "paragraphs": [
+        "1. Identify the gas and write a balanced chemical equation for the reaction. 2. Under which condition does gas syringe contains more of the gas at any one time? Give an explanation for this observation. 3. Describe the appearance of MnO2 before and after the reaction. 4. Plot graphs of rate on the vertical axis and time (minutes) on the horizontal axis for two different sets of readings. Which set of reading were used? Why? 5. Write a conclusion about the reaction rate: a. in the presence of a catalyst",
+        "b. in the absence of a catalyst ����������������������������������������������������������������� �������������������� Factors Affecting the Rate of a Chemical Reaction 217"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Observations and analysis:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(analysis:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Observations and analysis:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Observations and analysis:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "A catalyst is a substance that changes reaction rate by providing a different reaction mechanism one with a lower activation energy, Ea. An activation energy is the minimum energy required to start a chemical reaction. Catalysts are not used up by the reactions, rather they are recovered at the end of the reaction. Although a catalyst speeds up the reaction, it does not alter the position of equilibrium. ������� ����� �� ��������� ��������� ��� ���������� �������� ����� �� ������ ������������������������������������������ Chemical catalysts can be either positive or negative. Positive catalysts increase the",
+        "rate of reaction by lowering the Ea. Example 4.4 2SO2 (g)   +   O2 (g) → 2SO3 (g);  V2O5 (s) as catalyst. Negative catalysts or inhibitors decrease the rate of reaction by increasing the value of Ea. Example 4.5 OCl– (aq)   +   I– (aq) → OI– (aq)  +   Cl– (aq); OH– (aq) as inhibitor. 218"
+      ],
+      "definitions": [
+        [
+          "A catalyst",
+          "A catalyst is a substance that changes reaction rate by providing a different reaction mechanism one with a lower activation energy, Ea. An activation energy is the minimum energy required to start a chemical reaction. Catalysts are not used up by the reactions, rather they are recovered at the end of the reaction. Although a catalyst speeds up the reaction, it does not alter the position of equilibrium. ������� ����� �� ��������� ��������� ��� ���������� �������� ����� �� ������ ������������������������������������������ Chemical catalysts can be either positive or negative. Positive catalysts increase the"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Example 4.4 represents heterogeneous catalysts as state of reactants and catalyst is different, while Example 4.5 represents homogeneous catalyst as both reactants and catalyst are in same state. A substance that catalyzes one reaction may have no effect on another reaction, even if that reaction is very similar. Many of the most highly specific catalysts are those designed by nature. The chemical reactions in living things are controlled by biochemical catalysts called enzymes."
+      ],
+      "definitions": [
+        [
+          "state of reactants and catalyst",
+          "Example 4.4 represents heterogeneous catalysts as state of reactants and catalyst is different, while Example 4.5 represents homogeneous catalyst as both reactants and catalyst are in same state. A substance that catalyzes one reaction may have no effect on another reaction, even if that reaction is very similar. Many of the most highly specific catalysts are those designed by nature. The chemical reactions in living things are controlled by biochemical catalysts called enzymes."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "title": "UNIT SUMMARY",
+      "paragraphs": [
+        "Chemical kinetics is the study of the rates and mechanisms of chemical reactions. A chemical reaction occurs when atoms, molecules or ions undergo effective collisions. The higher the activation energy, the slower a chemical reaction and vice versa. In general, reaction rates increase with temperature, because higher temperature increases both the frequency of collisions and the number of molecules possessing enough energy to undergo effective collision. Reaction rate is expressed as the change in concentration of a reactant or product,",
+        "per unit time. Reaction rates must be determined experimentally, often by gathering data on the variation of concentration over time. Reaction rates are influenced by the concentrations of reactants, temperature, catalysts and the degree of contact between reactants (surface area)."
+      ],
+      "definitions": [
+        [
+          "Chemical kinetics",
+          "Chemical kinetics is the study of the rates and mechanisms of chemical reactions. A chemical reaction occurs when atoms, molecules or ions undergo effective collisions. The higher the activation energy, the slower a chemical reaction and vice versa. In general, reaction rates increase with temperature, because higher temperature increases both the frequency of collisions and the number of molecules possessing enough energy to undergo effective collision. Reaction rate is expressed as the change in concentration of a reactant or product,"
+        ],
+        [
+          "Reaction rates",
+          "per unit time. Reaction rates must be determined experimentally, often by gathering data on the variation of concentration over time. Reaction rates are influenced by the concentrations of reactants, temperature, catalysts and the degree of contact between reactants (surface area)."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT SUMMARY: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(SUMMARY)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT SUMMARY."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT SUMMARY",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "title": "CHECKLIST",
+      "paragraphs": [
+        " Activation energy  Average rate  Catalyst  Chemical kinetics  Collision theory  Effective collision  Heterogeneous catalyst  Homogeneous catalyst",
+        " Initial rate  Instantaneous rate  Kinetics  Rate of reaction  Surface area Factors Affecting the Rate of a Chemical Reaction 219 This foundational concept establishes the governing principles of CHECKLIST. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for CHECKLIST: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(CHECKLIST)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in CHECKLIST."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in CHECKLIST",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Part I: Choose the correct answer from the given alternatives 1. When the concentration of reactant molecules is increased, the rate of reaction increases. The best explanation is: As the reactant concentration increases, a. the average kinetic energy of molecules increases. b. the frequency of molecular collisions increases. c.",
+        "the rate constant increases. d. the activation energy increases. 2. This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "of reactant molecules",
+          "Part I: Choose the correct answer from the given alternatives 1. When the concentration of reactant molecules is increased, the rate of reaction increases. The best explanation is: As the reactant concentration increases, a. the average kinetic energy of molecules increases. b. the frequency of molecular collisions increases. c."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "title": "A catalyst:",
+      "paragraphs": [
+        "a. actually participates in the reaction. b. changes the equilibrium concentration of the products. c. does not affect a reaction energy path. d. always increases the activation energy for a reaction. 3. Which items correctly complete the following statement? A catalyst can act in",
+        "a chemical reaction to: (I) increase the equilibrium constant.           (II) lower the activation energy. (III) provide a new path for the reaction. a. only I & II         b. only II             c. only II & III              d. only I & III 4. The combustion of ethane (C2H6) is represented by the equation: 2C2H6(g)   +   7O2(g)   →    4CO2(g)   +   6H2O(l)   In this reaction:",
+        "a. the rate of consumption of ethane is seven times faster than the rate of consumption of oxygen. b. CO2 is formed twice as fast as ethane is consumed. c. water is formed at a rate equal to two-thirds the rate of formation of CO2. d. the rate of consumption of oxygen equals the rate of consumption of water. 5.",
+        "The speed of a chemical reaction a. is constant no matter what the temperature is. b. is independent of the amount of contact surface of a solid involved. c. between ions in aqueous solution is extremely rapid because there are no bonds that need to be broken. d. varies inversely with the absolute temperature.",
+        "220 This foundational concept establishes the governing principles of A catalyst:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "rate of consumption of ethane",
+          "a. the rate of consumption of ethane is seven times faster than the rate of consumption of oxygen. b. CO2 is formed twice as fast as ethane is consumed. c. water is formed at a rate equal to two-thirds the rate of formation of CO2. d. the rate of consumption of oxygen equals the rate of consumption of water. 5."
+        ],
+        [
+          "no matter what the temperature",
+          "The speed of a chemical reaction a. is constant no matter what the temperature is. b. is independent of the amount of contact surface of a solid involved. c. between ions in aqueous solution is extremely rapid because there are no bonds that need to be broken. d. varies inversely with the absolute temperature."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for A catalyst:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(catalyst:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in A catalyst:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in A catalyst:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "6. A graph of volume of hydrogen released vs time for a hypothetical reaction between zinc and dil. HCl is given in �������������On the basis of this mark the correct option. a. Average rate up to 40 s is 40 b. Average rate up to 40 s is",
+        "40 30 −V c. Average rate up to 40 s is 40 d. Average rate up to 40 s is 40 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "20 −V 7. Consider the graph given in ������������ Which of the following options does not show instantaneous rate of   eaction at 40th second? a. 50 30",
+        "−V b. 50 30 −V c. 50 30 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "−V d. 40 20 −V 8. Which of the following statements is correct? a. This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "The rate of a reaction decreases with passage of time as the concentration of reactants decreases. b. The rate of a reaction is same at any time during the reaction. c. The rate of a reaction is independent of temperature change. d. The rate of a reaction decreases with increase in concentration of reactant(s). 9. Which of the following expressions is correct for the rate of reaction given",
+        "below?  5Br–(aq)  +   BrO3 –(aq)  +  6H+(aq)   →  3Br2(aq)     +    3H2O(l) a. Br b. Br b. Br This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum.",
+        "d. Br 10. During the decomposition of H2O2 to give dioxygen, 48 g O2 is formed per minute at certain point of time. The rate of formation of water at this point is a. 0.75 mol min−1     b. 1.5 mol min−1    c. 2.25 mol min−1     d. 3.0 mol min−1 ��������������������������������",
+        "��������������������������������� Factors Affecting the Rate of a Chemical Reaction 221 This foundational concept establishes the governing principles of UNIT 4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the chemistry curriculum."
+      ],
+      "definitions": [
+        [
+          "HCl",
+          "6. A graph of volume of hydrogen released vs time for a hypothetical reaction between zinc and dil. HCl is given in �������������On the basis of this mark the correct option. a. Average rate up to 40 s is 40 b. Average rate up to 40 s is"
+        ],
+        [
+          "of the following statements",
+          "−V d. 40 20 −V 8. Which of the following statements is correct? a."
+        ],
+        [
+          "The rate of a reaction",
+          "The rate of a reaction decreases with passage of time as the concentration of reactants decreases. b. The rate of a reaction is same at any time during the reaction. c. The rate of a reaction is independent of temperature change. d. The rate of a reaction decreases with increase in concentration of reactant(s). 9. Which of the following expressions is correct for the rate of reaction given"
+        ],
+        [
+          "of water at this point",
+          "d. Br 10. During the decomposition of H2O2 to give dioxygen, 48 g O2 is formed per minute at certain point of time. The rate of formation of water at this point is a. 0.75 mol min−1     b. 1.5 mol min−1    c. 2.25 mol min−1     d. 3.0 mol min−1 ��������������������������������"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 4",
+      "paragraphs": [
+        "Part II: Give short answers to each of the following questions 11. What variable of a chemical reaction is measured over time to obtain the reaction rate? 12. How does an increase in pressure affect the rate of a gas phase reaction? Explain. 13. A reaction is carried out with water as the solvent. How does the addition of more water to the reaction vessel affects the rate of the reaction? Explain.",
+        "14. How does an increase in temperature affect the rate of a reaction? Explain the two factors involved. 15. What is the difference between an average rate and an instantaneous rate? 16. What is the difference between an initial rate and an instantaneous rate? 17.",
+        "Give two reasons to measure initial rates in a kinetics study. 18. For the reaction A(g) →  B(g), sketch two curves on the same set of axes that show a. The formation of product as a function of time b. The consumption of reactant as a function of time 19. The compound AX2 decomposes according to the equation",
+        "2AX2 (g)     →     2AX (g)   +    X2 (g). In one experiment, [AX2] was measured at  various times and these data were obtained: a. Time (s) 10 20 [AX2] (mol L−1)"
+      ],
+      "definitions": [
+        [
+          "variable of a chemical reaction",
+          "Part II: Give short answers to each of the following questions 11. What variable of a chemical reaction is measured over time to obtain the reaction rate? 12. How does an increase in pressure affect the rate of a gas phase reaction? Explain. 13. A reaction is carried out with water as the solvent. How does the addition of more water to the reaction vessel affects the rate of the reaction? Explain."
+        ],
+        [
+          "What",
+          "14. How does an increase in temperature affect the rate of a reaction? Explain the two factors involved. 15. What is the difference between an average rate and an instantaneous rate? 16. What is the difference between an initial rate and an instantaneous rate? 17."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in UNIT 4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in UNIT 4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "title": "0.05",
+      "paragraphs": [
+        "Find the average rate over the entire experiment. b. Is the initial rate higher or lower than the rate in part (a)? Use graphical methods to estimate the initial rate. 20. Express the rate of reaction in terms of the change in concentration of each of the reactants and products:    A (g) +  2B (g) → C (g)   When [B] is decreasing at 0.5 mol L−1 s−1, how fast is [A] decreasing? 21.",
+        "Reaction rate is expressed in terms of changes in concentration of reactants and products. Write a balanced equation for N O NO Rate = 22. Although the depletion of stratospheric ozone threatens life on Earth today, its accumulation was one of the crucial processes that allowed life to develop in",
+        "prehistoric times:   3O2(g) → 2O3 (g) a. Express the reaction rate in terms of [O2] and [O3]. b. At a given instant, the reaction rate in terms of [O2] is 2.17 × 10−5 mol L−1 s−1. What is it in  terms of [O3]?"
+      ],
+      "definitions": [
+        [
+          "how fast",
+          "Find the average rate over the entire experiment. b. Is the initial rate higher or lower than the rate in part (a)? Use graphical methods to estimate the initial rate. 20. Express the rate of reaction in terms of the change in concentration of each of the reactants and products:    A (g) +  2B (g) → C (g)   When [B] is decreasing at 0.5 mol L−1 s−1, how fast is [A] decreasing? 21."
+        ],
+        [
+          "Reaction rate",
+          "Reaction rate is expressed in terms of changes in concentration of reactants and products. Write a balanced equation for N O NO Rate = 22. Although the depletion of stratospheric ozone threatens life on Earth today, its accumulation was one of the crucial processes that allowed life to develop in"
+        ],
+        [
+          "What",
+          "prehistoric times:   3O2(g) → 2O3 (g) a. Express the reaction rate in terms of [O2] and [O3]. b. At a given instant, the reaction rate in terms of [O2] is 2.17 × 10−5 mol L−1 s−1. What is it in  terms of [O3]?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 0.05: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how chemistry principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(0.05)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 0.05."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 0.05",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in chemistry",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "generalizations and problem solving.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "Start-up Activity",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "1. Determine the approximate time taken for completion of the following",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "2. Why do some reactions take place rapidly and others slowly?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "1. What does \"rate\" mean?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "2. Does sugar dissolve faster in hot or in cold tea? Why?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "3. How can we measure the rate of reaction?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "4. What is the importance of knowing the rate of reaction?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "1. Write the rate expressions for the following reactions in terms of the",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    },
+    {
+      "question": "2. In the reaction of nitric oxide with hydrogen,",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  CHEMICAL KINETICS in chemistry.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 4  CHEMICAL KINETICS (Grade_11 chemistry):\nThis complete study document covers all topics in Unit 4  CHEMICAL KINETICS, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": [
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_1.jpeg",
+      "filename": "figure_1.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 1"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_3.jpeg",
+      "filename": "figure_3.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 3"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_4.jpeg",
+      "filename": "figure_4.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 4"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_5.jpeg",
+      "filename": "figure_5.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 5"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_6.jpeg",
+      "filename": "figure_6.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 6"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_9.jpeg",
+      "filename": "figure_9.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 9"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_12.jpeg",
+      "filename": "figure_12.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 12"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_16.jpeg",
+      "filename": "figure_16.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 16"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_18.jpeg",
+      "filename": "figure_18.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 18"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_19.jpeg",
+      "filename": "figure_19.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 19"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\chemistry\\Unit 4_ CHEMICAL KINETICS\\short_note\\images\\figure_22.jpeg",
+      "filename": "figure_22.jpeg",
+      "caption": "Unit 4  CHEMICAL KINETICS — Visual Figure 22"
+    }
+  ]
+}

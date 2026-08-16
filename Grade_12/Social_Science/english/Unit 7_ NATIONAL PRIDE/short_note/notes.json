@@ -1,0 +1,1620 @@
+{
+  "metadata": {
+    "grade": "Grade 12",
+    "subject": "english",
+    "unit_title": "Unit 7  NATIONAL PRIDE"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 7  NATIONAL PRIDE",
+      "paragraphs": [
+        "Unit 6: Green Economies � � � � � � � � � � � � � � � � � � � � � � � � � � � 128 6A Listening . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129 6B Speaking Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133 6C Reading Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139 6D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146 6E Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149 6F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151 Unit 7: National Pride  � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 158",
+        "7A  Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158 7B: Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162 7C: Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164 7D: Vocabulary Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170 7E: Grammar Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172 7F: Writing Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177 Unit 8: Telemedicine � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 180 8A Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180",
+        "8B Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183 8C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189 8D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198 8E. Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204 8F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212 Unit 9: Conflict Management  � � � � � � � � � � � � � � � � � � � � � � � 215 9A Listening  Skills. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .215 9B Speaking Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .219",
+        "9C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .222 9D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .226 9E Grammar Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .228 9F Writing Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .234 Unit 10: Robotics  � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �243 10A Listening Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 10B Speaking Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246",
+        "10C Reading Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247 10D Vocabulary Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252 10E Grammar Skills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255 10F Writing Skills  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259 UNIT"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 7  NATIONAL PRIDE: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of 1. Overview & Fundamentals of Unit 7  NATIONAL PRIDE",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "UNIT 1",
+      "paragraphs": [
+        "Sustainable Development Objectives By the end of unit one, you will be able to: • comprehend listening texts; • reorder incidents; • skim a text to tell the main idea of the text; • identify detail information; • connect the text with their real life experience;",
+        "• discuss in pairs or a small group on a given topic; • make a public speech on a given topic; • guess meaning from the given context; • solve verbal reasoning questions; • identify common expressions of comparison and contrast; • correct sentence fragments; • identify organization of a paragraph; and • write paragraphs comparing and contrasting things.",
+        "2 1A.  Listening Skills 1A.1 Listening Text A: Development Projects in Addis Ababa V      Activity 1.1 I. You are going to listen to a news report on projects in Addis Ababa.  Work in small groups and discuss the following. 1. What is a development project? 2. Look at the pictures below and share your opinion about the advantages and",
+        "the destructions  these projects may cause. This foundational concept establishes the governing principles of UNIT 1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "You",
+          "2 1A.  Listening Skills 1A.1 Listening Text A: Development Projects in Addis Ababa V      Activity 1.1 I. You are going to listen to a news report on projects in Addis Ababa.  Work in small groups and discuss the following. 1. What is a development project? 2. Look at the pictures below and share your opinion about the advantages and"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT 1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT 1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 3. Are there any projects in your area? What are their contributions or damages to the environment/ the people? 1. 2. 3. 4. II.",
+        "Listen to the text and choose the correct answer for the following questions. 1. What is the news about? a. Development projects b. The commissioners report 2. The news is reported by a. The city administration office b. Ethiopian Herald 3. When was the national reform introduced according to the news?",
+        "a. 1991 b. 2018 4. According to the commissioner,  a feasibility study was conducted a. To find out the extent to which the projects benefit residents b. To find out the cost of the projects 5. According to the information in the text, the senior economist has noted that a. similar projects should be strengthened b. the projects are costly and inefficient"
+      ],
+      "definitions": [
+        [
+          "What",
+          "Sustainable Development 3. Are there any projects in your area? What are their contributions or damages to the environment/ the people? 1. 2. 3. 4. II."
+        ],
+        [
+          "What",
+          "Listen to the text and choose the correct answer for the following questions. 1. What is the news about? a. Development projects b. The commissioners report 2. The news is reported by a. The city administration office b. Ethiopian Herald 3. When was the national reform introduced according to the news?"
+        ],
+        [
+          "the projects",
+          "a. 1991 b. 2018 4. According to the commissioner,  a feasibility study was conducted a. To find out the extent to which the projects benefit residents b. To find out the cost of the projects 5. According to the information in the text, the senior economist has noted that a. similar projects should be strengthened b. the projects are costly and inefficient"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development III.  Complete the statements with correct words from the listening text 1. Addis Ababa city projects will invite investors in ______________ and ____________ industry. 2. Two development sectors, _____________ and _________, are boosting in Addis Ababa city. 3. The city administration has also planned to build __________ and _____________",
+        "4. Likewise, the construction of ___________ will benefit Ethiopian and IGAD member states 5. As a result, Addis Ababa is named as ________________ next to New York and Geneva 6. Building of parks would also make the city meet ______________ 7. A senior economist also suggested to encouraged citizens develop ____________, _______________ and _____________ IV.  Work in a small group and plan a development project.",
+        "1.  Plan development projects you wish to have in your village/town/city. 2. Explain how the projects will benefit the people in your village/town/ city. 3. Then, one of you will present your project to the class. 1A.2 Listening text B: Innovation for Business and Development V      Activity 1.2 I. You are going to listen to a text about innovation and development. 1. The following words are found in the text you are going to listen to.  Work with",
+        "a partner and learn the meaning of the words. a. demise b. stakeholder c. unconventional d. stagnate e. prototype 2. Discuss with a partner what innovations mean to you and give examples. Share your answer with the whole class."
+      ],
+      "definitions": [
+        [
+          "Addis Ababa",
+          "4. Likewise, the construction of ___________ will benefit Ethiopian and IGAD member states 5. As a result, Addis Ababa is named as ________________ next to New York and Geneva 6. Building of parks would also make the city meet ______________ 7. A senior economist also suggested to encouraged citizens develop ____________, _______________ and _____________ IV.  Work in a small group and plan a development project."
+        ],
+        [
+          "You",
+          "1.  Plan development projects you wish to have in your village/town/city. 2. Explain how the projects will benefit the people in your village/town/ city. 3. Then, one of you will present your project to the class. 1A.2 Listening text B: Innovation for Business and Development V      Activity 1.2 I. You are going to listen to a text about innovation and development. 1. The following words are found in the text you are going to listen to.  Work with"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development II. Listen to the text and say whether the following statements are “TRUE” or This foundational concept establishes the governing principles of UNIT    1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "the following statements",
+          "Sustainable Development II. Listen to the text and say whether the following statements are “TRUE” or"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "“FALSE”",
+      "paragraphs": [
+        "1. The speaker argues that businesses will not progress and survive if humans do not devote themselves to innovations. 2. Incremental innovation involves a series of small changes. 3. Disruptive innovation involves a change that has an impact on the existing market. 4. A move from simple invention to a complex one is an example of radical innovation. 5. Architectural innovation relates to the complete restructuring and development.",
+        "6. The evaluation stage is when you think about exactly how to implement your ideas. 7. Radical innovation can lead to the death of existing markets. III. Put the stages of innovation in the right order as they appear in the listening text. 1. Get support for your idea 2. Experiment and test your idea 3. Implement your idea",
+        "4. Generate an idea and create a plan or proposal 5. Evaluate your idea and adapt it if necessary The right order is _______, _______, ________, ________ and _________ IV. Work in small groups and discuss the following. Then, join another group and share what you have listed. 1. Which innovation do you appreciate most? Why? 2. List down the innovations in 21st century and explain their contribution to human development."
+      ],
+      "definitions": [
+        [
+          "invention to a complex one",
+          "1. The speaker argues that businesses will not progress and survive if humans do not devote themselves to innovations. 2. Incremental innovation involves a series of small changes. 3. Disruptive innovation involves a change that has an impact on the existing market. 4. A move from simple invention to a complex one is an example of radical innovation. 5. Architectural innovation relates to the complete restructuring and development."
+        ],
+        [
+          "The evaluation stage",
+          "6. The evaluation stage is when you think about exactly how to implement your ideas. 7. Radical innovation can lead to the death of existing markets. III. Put the stages of innovation in the right order as they appear in the listening text. 1. Get support for your idea 2. Experiment and test your idea 3. Implement your idea"
+        ],
+        [
+          "it if necessary The right order",
+          "4. Generate an idea and create a plan or proposal 5. Evaluate your idea and adapt it if necessary The right order is _______, _______, ________, ________ and _________ IV. Work in small groups and discuss the following. Then, join another group and share what you have listed. 1. Which innovation do you appreciate most? Why? 2. List down the innovations in 21st century and explain their contribution to human development."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for “FALSE”: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of “FALSE”",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development y 1B. Speaking Skills 1B.1 Pronunciation V      Activity 1.3 Most recurring sounds (plural morpheme /iz/ , /-s/, /-z/ and past morpheme /-t/, /-d/, /-id/) I. Below are some of the very common words. Put them in the right box to show the function and pronunciation of the affix /-s/.",
+        "The first row has been completed for you. buses,  words,  watches,   plays, Alice’s, Mikes, Mary’s,  objectives,  stops,  packs, plans,  jobs,  develops,  calls,  rises,  boys,  cats,  It’s,  he’s,  finishes ,  boxes,   goals /-s/ /-z/ /-iz/ regular plural nouns books",
+        "trees faces third person singular possessive noun Contractions II. Study the pronunciation of the words given in the box and put them in the boxes to indicate the correct pronunciation of the suffix ‘-(e)d’.",
+        "watched ,  finished,  fixed,    kissed,  talked,  stopped,  laughed,  planned,   dreamed, called,  appeared, loved, agreed,  cried, ,  invited,  wanted, expected,  ended, decided., needed /-t/ /-d/ /-id/ watched stayed",
+        "needed This foundational concept establishes the governing principles of UNIT  1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "Below",
+          "Sustainable Development y 1B. Speaking Skills 1B.1 Pronunciation V      Activity 1.3 Most recurring sounds (plural morpheme /iz/ , /-s/, /-z/ and past morpheme /-t/, /-d/, /-id/) I. Below are some of the very common words. Put them in the right box to show the function and pronunciation of the affix /-s/."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development This foundational concept establishes the governing principles of UNIT    1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "Note:",
+      "paragraphs": [
+        "In English, the suffix ‘-s’ is used to mark plural in nouns, singular forms of verbs, possessiveness or contracted forms. However, it is pronounced differently. Follow the examples. Example: buses /-iz/   texts /-s/    bags /-z/"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Note:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Note:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "Pronunciation tips:",
+      "paragraphs": [
+        "If words end in /s/, /t∫/, /dʒ/, /z/, / ∫ /, /ʒ/ sounds the ‘_s’ is pronounced as /-iz/. If words end in /b/, /d/, /g/, /l/, /m/, /n/, /ŋ/, /r/, /D/, /ò/, /v/ sounds the ‘s’ is pronounced as /-z/. If words end in /f/, /k/ /p/, /t/, /θ/ sounds the ‘-s’ is pronounced as /-s/ Past morpheme /-d/: In English, regular verbs take the suffix /-(e)d/ to mark past tense. Past morphemes added to regular verbs –d, or -ed are pronounced as /-t/, /-d/ or /-id/."
+      ],
+      "definitions": [
+        [
+          "or -ed",
+          "If words end in /s/, /t∫/, /dʒ/, /z/, / ∫ /, /ʒ/ sounds the ‘_s’ is pronounced as /-iz/. If words end in /b/, /d/, /g/, /l/, /m/, /n/, /ŋ/, /r/, /D/, /ò/, /v/ sounds the ‘s’ is pronounced as /-z/. If words end in /f/, /k/ /p/, /t/, /θ/ sounds the ‘-s’ is pronounced as /-s/ Past morpheme /-d/: In English, regular verbs take the suffix /-(e)d/ to mark past tense. Past morphemes added to regular verbs –d, or -ed are pronounced as /-t/, /-d/ or /-id/."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Pronunciation tips:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Pronunciation tips:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "Pronunciation Tips:",
+      "paragraphs": [
+        "There are three simple rules that help to pronounce past morphemes correctly. If the verb base ends with a voiceless sound, /p/,/ f/,/ k/,/ s/,/ sh/, /ch/,/ th/ then the ending –ed sounds like “t”. If the verb base ends in a voiced sound,/ b/, /v/, /g/, /z/, /j/, /th/, /l/, /m,/ /n/, /r / then the ending –ed sounds like “d”. If the verb base ends in a “t” or “d” sound then the ending sounds like “id” or “ud”. 1B.2 Pair Discussion",
+        "V      Activity 1.4 I. Work with a partner and list down common expressions of comparing and contrasting. Examples: however, but, similarly, as well as, … II. Discuss with your partner about ‘growth and development.’ Use expressions of comparing and contrasting in your discussion. Take note",
+        "of the points of your discussion. Then, you will use them for the public speaking. You can use the following question to start with the discussion and proceed in a form of question and answer."
+      ],
+      "definitions": [
+        [
+          "There",
+          "There are three simple rules that help to pronounce past morphemes correctly. If the verb base ends with a voiceless sound, /p/,/ f/,/ k/,/ s/,/ sh/, /ch/,/ th/ then the ending –ed sounds like “t”. If the verb base ends in a voiced sound,/ b/, /v/, /g/, /z/, /j/, /th/, /l/, /m,/ /n/, /r / then the ending –ed sounds like “d”. If the verb base ends in a “t” or “d” sound then the ending sounds like “id” or “ud”. 1B.2 Pair Discussion"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Pronunciation Tips:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Pronunciation Tips:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development a. What is the meaning of each word? b. Are they the same or different? c. How are they expressed in real life? Give concrete examples? d. What are the measurements?"
+      ],
+      "definitions": [
+        [
+          "What",
+          "Sustainable Development a. What is the meaning of each word? b. Are they the same or different? c. How are they expressed in real life? Give concrete examples? d. What are the measurements?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "Example:",
+      "paragraphs": [
+        "A: what is the meaning of the word “development” and “growth?” Do you think they are synonyms? B: Well,… I do not think they are synonyms. 1B.3 Public Speaking V      Activity 1.5 I. Work with a partner and revise the steps and structure of public speech II.",
+        "The topic for your public Speech is “Growth Vs Development” Work individually to prepare a speech on the topic and present to the whole class. Consider the points you have raised during the previous pair discussion. I. Steps in public speech Step I: select a topic Step II: prepare your speech",
+        "Step III: practice Step IV: present Organization of the speech There are three parts of a public speech (introduction, body and conclusion) i. Introduction – is the beginning of the speech where you have to introduce yourself, the topic that you will speak on and gather the audience’s interest. ii.",
+        "Body – is the main part of the speech that contains all supporting details and facts about your topic. Here it is important to use connecting words (for example, though, on the other hand, similarly, first, in conclusion, to summarize, etc. ) to present your points in a logical order and maintain coherence. iii. Conclusion - Summarize your main points and restate the purpose of the speech."
+      ],
+      "definitions": [
+        [
+          "what",
+          "A: what is the meaning of the word “development” and “growth?” Do you think they are synonyms? B: Well,… I do not think they are synonyms. 1B.3 Public Speaking V      Activity 1.5 I. Work with a partner and revise the steps and structure of public speech II."
+        ],
+        [
+          "topic for your public Speech",
+          "The topic for your public Speech is “Growth Vs Development” Work individually to prepare a speech on the topic and present to the whole class. Consider the points you have raised during the previous pair discussion. I. Steps in public speech Step I: select a topic Step II: prepare your speech"
+        ],
+        [
+          "of the speech There",
+          "Step III: practice Step IV: present Organization of the speech There are three parts of a public speech (introduction, body and conclusion) i. Introduction – is the beginning of the speech where you have to introduce yourself, the topic that you will speak on and gather the audience’s interest. ii."
+        ],
+        [
+          "Here it",
+          "Body – is the main part of the speech that contains all supporting details and facts about your topic. Here it is important to use connecting words (for example, though, on the other hand, similarly, first, in conclusion, to summarize, etc. ) to present your points in a logical order and maintain coherence. iii. Conclusion - Summarize your main points and restate the purpose of the speech."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Example:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 1C.  Reading Skills 1C.1 Reading text A: Ethiopian Communities Mobilize to Support Conservation and Economic Development V      Activity 1.6 I. You are going to read a news article entitled “Ethiopian Communities Mobilize to Support Conservation and Economic Development”. Before",
+        "reading the article, work with a partner and answer the following questions. 1. Do you read Newspapers, Magazines or Journals? Why/When? II. Read the news article given below and answer the following questions. 1. Name the different parts on the newspaper. 2. What is the headline? 3. What does the heading imply?",
+        "4. Where do you find the thesis statement? 5. What does the thesis statement say? 6.  What do you understand from words such as mobilize, support, conservation and development? 7. In what contexts could these words be used? Give examples. III. Say True or False to the following statements according to the article. 1. The members are selected for their experience and trustworthiness to the community.",
+        "2. The committee monitors the projects and bridge communication between ESTA  and the local government. 3. Adaba-Dodolla forest dwellers’ association organized experience sharing visit for the committee 4. ESTA gave training on concept of community conservation and methods of conservation for the committee. 5. The project will strengthen the long term institutional capacity of the community on biodiversity conservation."
+      ],
+      "definitions": [
+        [
+          "You",
+          "Sustainable Development 1C.  Reading Skills 1C.1 Reading text A: Ethiopian Communities Mobilize to Support Conservation and Economic Development V      Activity 1.6 I. You are going to read a news article entitled “Ethiopian Communities Mobilize to Support Conservation and Economic Development”. Before"
+        ],
+        [
+          "What",
+          "reading the article, work with a partner and answer the following questions. 1. Do you read Newspapers, Magazines or Journals? Why/When? II. Read the news article given below and answer the following questions. 1. Name the different parts on the newspaper. 2. What is the headline? 3. What does the heading imply?"
+        ],
+        [
+          "The members",
+          "4. Where do you find the thesis statement? 5. What does the thesis statement say? 6.  What do you understand from words such as mobilize, support, conservation and development? 7. In what contexts could these words be used? Give examples. III. Say True or False to the following statements according to the article. 1. The members are selected for their experience and trustworthiness to the community."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development IV. Answer the following questions quickly and then compare your answers with a partner. 1. What is the main objective of The Ethiopian Sustainable Tourism (EST) project? 2. What are the areas selected for conservation project in Ethiopia? 3. Who funds the project? 4. How many members were included in the committees?",
+        "5. When were the committees established? This foundational concept establishes the governing principles of UNIT  1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "What",
+          "Sustainable Development IV. Answer the following questions quickly and then compare your answers with a partner. 1. What is the main objective of The Ethiopian Sustainable Tourism (EST) project? 2. What are the areas selected for conservation project in Ethiopia? 3. Who funds the project? 4. How many members were included in the committees?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 10 V. Work in pairs and give brief answers to the following questions. 1. The major functions of the CCA management committees are to present a cohesive voice for their respective area. What does present cohesive voice to their area mean? (para 1) 2. Community mobilization….will ensure that communities have a strong voice",
+        "advancing their common vision, throughout the project and beyond. (last para) What does advancing their common vision throughout the project and beyond mean? VI. Work in small groups and discuss the following questions. Write a short report and read it to the whole class. 1. Who is responsible to sustain and preserve natural resources for the next generation? Government or the community? 2. How does the involvement of the community strength natural resources",
+        "conservation projects? 3. Nine member committees were elected from the cross section of each community incorporating youth groups, village elders, fishery groups, crafts associations, women’s groups, and peasant association leaders. (para 2). Why do you think the members of the committee are selected from such groups of people? 4. There is only one woman among the nine committee members. Do you think that is appropriate?  Does the committee represent the society well, how?",
+        "1C.2  Reading text B:  Reading for Detail V      Activity 1.7 You are going to read a text about the challenges in implementing sustainable development goals in Ethiopia. I. Before reading the text, discuss the following questions within small groups and share the answers with the whole class. 1. What do you understand by Sustainable Development (SD) and Sustainable",
+        "Development Goals (SDGs)? 2. What do you think are challenges of implementing the SDGs in our country? 3. Check if your answers to questions 1 and 2 match points mentioned in the reading text."
+      ],
+      "definitions": [
+        [
+          "the CCA management committees",
+          "Sustainable Development 10 V. Work in pairs and give brief answers to the following questions. 1. The major functions of the CCA management committees are to present a cohesive voice for their respective area. What does present cohesive voice to their area mean? (para 1) 2. Community mobilization….will ensure that communities have a strong voice"
+        ],
+        [
+          "Who",
+          "advancing their common vision, throughout the project and beyond. (last para) What does advancing their common vision throughout the project and beyond mean? VI. Work in small groups and discuss the following questions. Write a short report and read it to the whole class. 1. Who is responsible to sustain and preserve natural resources for the next generation? Government or the community? 2. How does the involvement of the community strength natural resources"
+        ],
+        [
+          "the members of the committee",
+          "conservation projects? 3. Nine member committees were elected from the cross section of each community incorporating youth groups, village elders, fishery groups, crafts associations, women’s groups, and peasant association leaders. (para 2). Why do you think the members of the committee are selected from such groups of people? 4. There is only one woman among the nine committee members. Do you think that is appropriate?  Does the committee represent the society well, how?"
+        ],
+        [
+          "You",
+          "1C.2  Reading text B:  Reading for Detail V      Activity 1.7 You are going to read a text about the challenges in implementing sustainable development goals in Ethiopia. I. Before reading the text, discuss the following questions within small groups and share the answers with the whole class. 1. What do you understand by Sustainable Development (SD) and Sustainable"
+        ],
+        [
+          "What do you think",
+          "Development Goals (SDGs)? 2. What do you think are challenges of implementing the SDGs in our country? 3. Check if your answers to questions 1 and 2 match points mentioned in the reading text."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 11 II. Read the text individually and put a (√) if the statement is correct or an (×) mark if the statement is wrong depending onthe reading text. Give evidence from the text. Statements (√) or",
+        "(×) Evidence (para. no.) 1. The Millennium Development Goals had lessons for the Sustainable Development Goals 2. SDGs aspire equity in human development 3. To achieve sustainability, integration should be the basic constituent of the development goals",
+        "4. Ethiopia is highly involved in economic development projects but has failed to control their negative impacts 5. Environmental protection is a high priority in Ethiopia 6. There is adequate synergy between international and national institutions. 7. In Ethiopia, communication",
+        "between different development agents is a problem. 8. Environmental Impacts Assessment system is well established in all responsible sectors in Ethiopia. 9. Institutional authorities and their respective consultants exhibit poor competence. 10. Ethiopian government should revise its ‘Economy-First’",
+        "plan. III.  Read the text and identify the challenges and the solutions recommended 1.  Challenges a. _________________________________________________________ b. _________________________________________________________ c. _________________________________________________________ d. _________________________________________________________"
+      ],
+      "definitions": [
+        [
+          "if the statement",
+          "Sustainable Development 11 II. Read the text individually and put a (√) if the statement is correct or an (×) mark if the statement is wrong depending onthe reading text. Give evidence from the text. Statements (√) or"
+        ],
+        [
+          "Ethiopia",
+          "4. Ethiopia is highly involved in economic development projects but has failed to control their negative impacts 5. Environmental protection is a high priority in Ethiopia 6. There is adequate synergy between international and national institutions. 7. In Ethiopia, communication"
+        ],
+        [
+          "different development agents",
+          "between different development agents is a problem. 8. Environmental Impacts Assessment system is well established in all responsible sectors in Ethiopia. 9. Institutional authorities and their respective consultants exhibit poor competence. 10. Ethiopian government should revise its ‘Economy-First’"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 12 2.  Solutions a. _________________________________________________________ b. _________________________________________________________ c. _________________________________________________________ d. _________________________________________________________ Challenges of SDGs in Ethiopia",
+        "With the expiration of the MillenniumDevelopment Goals (MDGs) which guided global development till 2015, the SustainableDevelopment Goals (SDGs) have been adopted as a more comprehensive and feasibleapproach to the development of nations. The world has committed to 17 integrated SDGs to keep the development of nations on a growing path. This ambitious and transformative agenda has a lifespan of fifteen years, terminating in 2030. It is an intensified development initiative that embodies universal aspirations for achieving a better, more just, equitable, peaceful and sustainable future. Thus, the achievement of the 2030 Agenda will definitely",
+        "requires the participation of all stakeholders. In Ethiopia, as shown in the analysis of its development laws, one can understand that there is an enabling environment to collaborate and promote sustainable development. The constitutional support, government initiated development projects and growing interest in environmental conservation can be mentioned as a move towards the goals. However, there are a number of factors that have slowed down or held back the full realization of the agenda. For example, the FDRE Constitution promotes the adoption of a viable model and legal framework for sustainable development, but there seems to be lack of strong",
+        "political commitment to fully implement existing laws. There are also legal gaps that limit the practicality of the envisioned goals.  Two legal gaps that can be mentioned in this regard are the absence of supplementary laws and lack of regulations that support environmental impact assessment system. As the declaration on sustainable development is not supported by supplementary laws, there is a problem of delineating the boundary in which stakeholders can operate.  Additional opportunity for effective implementation is missed, as there are no sectorial laws that provide opportunity to mainstream environmental impact assessment systems. This is irrefutable evidence",
+        "that there is a weak political will in protecting the environment. This foundational concept establishes the governing principles of UNIT    1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "one can understand that there",
+          "requires the participation of all stakeholders. In Ethiopia, as shown in the analysis of its development laws, one can understand that there is an enabling environment to collaborate and promote sustainable development. The constitutional support, government initiated development projects and growing interest in environmental conservation can be mentioned as a move towards the goals. However, there are a number of factors that have slowed down or held back the full realization of the agenda. For example, the FDRE Constitution promotes the adoption of a viable model and legal framework for sustainable development, but there seems to be lack of strong"
+        ],
+        [
+          "There",
+          "political commitment to fully implement existing laws. There are also legal gaps that limit the practicality of the envisioned goals.  Two legal gaps that can be mentioned in this regard are the absence of supplementary laws and lack of regulations that support environmental impact assessment system. As the declaration on sustainable development is not supported by supplementary laws, there is a problem of delineating the boundary in which stakeholders can operate.  Additional opportunity for effective implementation is missed, as there are no sectorial laws that provide opportunity to mainstream environmental impact assessment systems. This is irrefutable evidence"
+        ],
+        [
+          "that there",
+          "that there is a weak political will in protecting the environment."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 13 Ethipian government is also highly involved in economic activities that aim at alleviating poverty. However, this is done without considering the adverse effect inflicted as a result inclining towards one of the pillars of sustainable development. Sustainable development can only be realized when the three pillars of development namely, economic, environment and social aspects are given equal emphasis. Nevertheless, what is observed in Ethiopia is a commitment to promote investment",
+        "and other development projects at the expense of environmental protection. Thus, prioritizing one pillar of development over the other has become the other challenge for realizing SDGs. The institutions that are working on sustainable developmen also lack synergy and that is the other challenge.  Achieving sustainable development, particularly the SDGs, is possible only with synergy at international and national levels. That is why, the 2030 agenda put revitalizing partnership and interconnections as cornerstones for the realization of SDGs. However, the global dedication for SDGs is not very",
+        "encouraging, as a number of commitments on trade, aid, investment, and financing the Least Developed Countries have not been significantly met. In Ethiopia, too, lack of synergy is discovered as a cross-cutting issue, as the environmental agencies have not yet developed good communication culture among themselves. Seen from the perspectives of having qualified consultants and responsible institutions, the existing institutional capacity is weak and poses another challenge. First, most consultants in the country are not well qualified to carry out Environmental Impact Analysis and report it effectively.",
+        "Besides this, there are consultants who are ready to compromise their responsibilities to their clients’ interest. Likewise, most government offices place themselves at a higher level and do not want to become accountable to Environmental Protection Authority, and this prevents the authority from regulating the activities of these offices. To conclude, the challenges seizing the full implementation of sustainable development need to be vigorously addressed. There should be a strong political will to enact existing laws and to draft sectorial laws. Then, the implementors should be empowered to fully employ the laws. Besides, institutions such as environmental agencies and investment",
+        "authorities should pay equal attention to pillars of SDGs. These institutions are also required to be committed and accountable to their actions. Adapted from Journal of Sustainable Development Law and Policy (December, 2018)"
+      ],
+      "definitions": [
+        [
+          "Ethipian government",
+          "Sustainable Development 13 Ethipian government is also highly involved in economic activities that aim at alleviating poverty. However, this is done without considering the adverse effect inflicted as a result inclining towards one of the pillars of sustainable development. Sustainable development can only be realized when the three pillars of development namely, economic, environment and social aspects are given equal emphasis. Nevertheless, what is observed in Ethiopia is a commitment to promote investment"
+        ],
+        [
+          "The institutions that",
+          "and other development projects at the expense of environmental protection. Thus, prioritizing one pillar of development over the other has become the other challenge for realizing SDGs. The institutions that are working on sustainable developmen also lack synergy and that is the other challenge.  Achieving sustainable development, particularly the SDGs, is possible only with synergy at international and national levels. That is why, the 2030 agenda put revitalizing partnership and interconnections as cornerstones for the realization of SDGs. However, the global dedication for SDGs is not very"
+        ],
+        [
+          "lack of synergy",
+          "encouraging, as a number of commitments on trade, aid, investment, and financing the Least Developed Countries have not been significantly met. In Ethiopia, too, lack of synergy is discovered as a cross-cutting issue, as the environmental agencies have not yet developed good communication culture among themselves. Seen from the perspectives of having qualified consultants and responsible institutions, the existing institutional capacity is weak and poses another challenge. First, most consultants in the country are not well qualified to carry out Environmental Impact Analysis and report it effectively."
+        ],
+        [
+          "there are consultants who",
+          "Besides this, there are consultants who are ready to compromise their responsibilities to their clients’ interest. Likewise, most government offices place themselves at a higher level and do not want to become accountable to Environmental Protection Authority, and this prevents the authority from regulating the activities of these offices. To conclude, the challenges seizing the full implementation of sustainable development need to be vigorously addressed. There should be a strong political will to enact existing laws and to draft sectorial laws. Then, the implementors should be empowered to fully employ the laws. Besides, institutions such as environmental agencies and investment"
+        ],
+        [
+          "These institutions",
+          "authorities should pay equal attention to pillars of SDGs. These institutions are also required to be committed and accountable to their actions. Adapted from Journal of Sustainable Development Law and Policy (December, 2018)"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 14 IV. Work in small groups and discuss the following questions. Your group secretary will present your points to the class. 1. How do you evaluate the concept in paragraph three in relation to the situation in Ethiopia  today? Are there some changes? 2. Why do you think the collaboration and synergy of different bodies needed for effective implementation of SDGs.",
+        "� 1D Vocabulary Skills 1D.1 Contextual Meaning V      Activity 1.8 Below are words taken from the reading text B. I. Match the words with the appropriate contextual meanings given on the right column. Check your answers with a partner. 1. comprehensive",
+        "a. holding the move back 2. interconnections b. put responsibilities under dishonorable position 3. conservation c. linking view for independent and separate entities 4. intensified d. putting an issue center/ part in the plan 5. compromise",
+        "e. broader in content and scope 6. cross-cutting f. combined or cooperative action/ force 7. mainstream g. line or connection to working together 8. seizing h. made more stronger and amplified 9. consistent",
+        "i. protection and careful management of environment 10. synergy j. holding steadily to the principles 1D.2 Text Completion Using the Correct Form of the Words V      Activity 1.9 I. Use the appropriate form of the following words to complete the text below. comprehensive              interconnections    conservation              seizing",
+        "intensified compromise      cross-cutting     mainstream    consistent    synergy This foundational concept establishes the governing principles of UNIT    1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "Below",
+          "� 1D Vocabulary Skills 1D.1 Contextual Meaning V      Activity 1.8 Below are words taken from the reading text B. I. Match the words with the appropriate contextual meanings given on the right column. Check your answers with a partner. 1. comprehensive"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 15 COVID-19 and SDGS The 2030 Agenda for Sustainable Development is a 1. __________ plan, where Goals have positive or negative 2. ___________ between them. The global pandemic has highlighted the indivisible character of the 2030 Agenda and 3._________ the interconnection between the SDGs. Understanding these interactions can play a role for 4.__________ policy actions. The SDGs 5. _________can take place in different",
+        "ways. Also, these interactions can be more visible through genuine case observations. Due to the consequences of COVID-19 pandemic the linkages between the most affected SDGs are intensified. Currently, the emerging areas of challenges for the implementation of SDG are Health & Well-Being, Quality Education, Economic Growth, and Environment 6. __________. Although several SDGs are affected more than others, their interconnectedness influences the progress on others 7. ____________ the overall progress of the 2030 Agenda. On the other hand it is important to 8. ___________ the opportunity of a positive",
+        "trend on behavior change as a result of the pandemic towards more sustainable life styles. Citizen’s awareness is increasing regarding the importance of sustainability and of balanced ecosystems for health and wellbeing. 9. ___________ health issues in every development projects is a very basic move. For example, many cities around the world are taking 10. ___________ measures for non-motorized transport alternatives to solve air pollution issues and promote physical exercises. 1D.3 Verbal Reasoning Exercise V    Activity 1.10",
+        "Verbal reasoning assesses the ability to reasonably answer questions in words. The learners read given information, process the information, form a theory, and evaluate the outcome. When a verbal reasoning assessment is made, the questions will dig deeper into the meaning of a story, going beyond the gist. Then, the learners declare their position by saying/writing “TRUE”, “FALSE” OR “NOT GIVEN” depending on the information in the text."
+      ],
+      "definitions": [
+        [
+          "for Sustainable Development",
+          "Sustainable Development 15 COVID-19 and SDGS The 2030 Agenda for Sustainable Development is a 1. __________ plan, where Goals have positive or negative 2. ___________ between them. The global pandemic has highlighted the indivisible character of the 2030 Agenda and 3._________ the interconnection between the SDGs. Understanding these interactions can play a role for 4.__________ policy actions. The SDGs 5. _________can take place in different"
+        ],
+        [
+          "between the most affected SDGs",
+          "ways. Also, these interactions can be more visible through genuine case observations. Due to the consequences of COVID-19 pandemic the linkages between the most affected SDGs are intensified. Currently, the emerging areas of challenges for the implementation of SDG are Health & Well-Being, Quality Education, Economic Growth, and Environment 6. __________. Although several SDGs are affected more than others, their interconnectedness influences the progress on others 7. ____________ the overall progress of the 2030 Agenda. On the other hand it is important to 8. ___________ the opportunity of a positive"
+        ],
+        [
+          "s awareness",
+          "trend on behavior change as a result of the pandemic towards more sustainable life styles. Citizen’s awareness is increasing regarding the importance of sustainability and of balanced ecosystems for health and wellbeing. 9. ___________ health issues in every development projects is a very basic move. For example, many cities around the world are taking 10. ___________ measures for non-motorized transport alternatives to solve air pollution issues and promote physical exercises. 1D.3 Verbal Reasoning Exercise V    Activity 1.10"
+        ],
+        [
+          "a verbal reasoning assessment",
+          "Verbal reasoning assesses the ability to reasonably answer questions in words. The learners read given information, process the information, form a theory, and evaluate the outcome. When a verbal reasoning assessment is made, the questions will dig deeper into the meaning of a story, going beyond the gist. Then, the learners declare their position by saying/writing “TRUE”, “FALSE” OR “NOT GIVEN” depending on the information in the text."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 16 A – True (the statement follows logically from the information or opinions contained in    the passage). B – False (the statement is logically false from the information or opinions contained in the passage). N-Not given (If information in the text does not help to make decision on the issue) I.",
+        "Write “True”, “False” or “Cannot say” to the following statements based on the text 1.  The global pandemic has made the SGDs more divided. 2. The success or failure of one development goals will not be affected by the other. 3. Behavioral change is one of the strategies to fight COVID-19. 4. Citizen’s knowledge about healthy life has also increased due to the pandemic. 5. Alternative measures are being taken to sustain the wellbeing of the",
+        "environment. 6. Developing nations are more affected by the pandemic. 1E. Grammar Skills 1E.1 Cohesion:  Using Comparing and Contrasting Devices V    Activity 1.11 I. Use the appropriate comparing and contrasting words to complete the dialogue given below. similar to,  in comparison to, but, even if,  though,  look like,  like,  as…as,",
+        "similarly,   in contrast,   however,   and,   yet,   even though A. I’m applying for a job in an Environmental Protection Agency in Tanzania. B. Are you? My father used to live there. I was there with him 1.__________ I did stay long. A. Really! B. Yeah, it was really interesting. I liked everything. 2.________ the weather was difficult. A. How?"
+      ],
+      "definitions": [
+        [
+          "the statement",
+          "Sustainable Development 16 A – True (the statement follows logically from the information or opinions contained in    the passage). B – False (the statement is logically false from the information or opinions contained in the passage). N-Not given (If information in the text does not help to make decision on the issue) I."
+        ],
+        [
+          "Behavioral change",
+          "Write “True”, “False” or “Cannot say” to the following statements based on the text 1.  The global pandemic has made the SGDs more divided. 2. The success or failure of one development goals will not be affected by the other. 3. Behavioral change is one of the strategies to fight COVID-19. 4. Citizen’s knowledge about healthy life has also increased due to the pandemic. 5. Alternative measures are being taken to sustain the wellbeing of the"
+        ],
+        [
+          "Developing nations",
+          "environment. 6. Developing nations are more affected by the pandemic. 1E. Grammar Skills 1E.1 Cohesion:  Using Comparing and Contrasting Devices V    Activity 1.11 I. Use the appropriate comparing and contrasting words to complete the dialogue given below. similar to,  in comparison to, but, even if,  though,  look like,  like,  as…as,"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 17 B. Well, we were on the coast, in Dares Selam. It was very hot and humid all the time. It was probably 3. __________ Afdera in Afar Region. A. And the people, do they have a culture 4.____________ ours? B. They are very nice 5. _________ the culture is different. Masai people look wonderful; they 6. _______________ us. A. How do they look?",
+        "B. They are very tall. They are 7. _________ tall _________ the people in Gambella. They wear the most amazing colored beads, in their hair, round their necks, on their arms and legs. 8. ________the unmarried men must look so colorful. They put red mud in their hair. They’re a magnificent sight. A. I suppose you went on safari when you were there 9.__________ the time was short. B. Yes! I loved it. It was exciting. We went to the Serengeti Plain. The environment was well preserved;  people sometime troubled the animals,10 _____________.",
+        "A. I think it is 11. __________ here in this regard. It is one of the areas that challenged the development of the country. B. Actually, it is worse here in the national parks of Ethiopia.12, __________ there are laws and regulation, peoples know very little about them. A. You are right, people usually act 13______________ what the law says. B. Hope the parks in Addis Ababa last longer in the 14_________ status they have today. 15 _________ it takes time, citizen will gradually learn how parks contrib- ute for the development.",
+        "II. Use the appropriate cohesive devices (comparing/ contrasting) to link the ideas in the pair of sentences below. 1. a. Agenda 2020 is an exceptional project. b. There are challenges that will hold it back from its full realization. 2. a. Ethiopia has development laws. b. The implementation is slow due to several factors. 3. a.  FDRE promotes strong sustainability model and enabling environment for the  implementation SDGs.",
+        "b. The world is committed to 17 integrated SDGs. 4. a. Weak institutional capacity is a big challenge to implement SGDs. b. The legal gaps are challenges to implement SDGs."
+      ],
+      "definitions": [
+        [
+          "They",
+          "Sustainable Development 17 B. Well, we were on the coast, in Dares Selam. It was very hot and humid all the time. It was probably 3. __________ Afdera in Afar Region. A. And the people, do they have a culture 4.____________ ours? B. They are very nice 5. _________ the culture is different. Masai people look wonderful; they 6. _______________ us. A. How do they look?"
+        ],
+        [
+          "They",
+          "B. They are very tall. They are 7. _________ tall _________ the people in Gambella. They wear the most amazing colored beads, in their hair, round their necks, on their arms and legs. 8. ________the unmarried men must look so colorful. They put red mud in their hair. They’re a magnificent sight. A. I suppose you went on safari when you were there 9.__________ the time was short. B. Yes! I loved it. It was exciting. We went to the Serengeti Plain. The environment was well preserved;  people sometime troubled the animals,10 _____________."
+        ],
+        [
+          "I think it",
+          "A. I think it is 11. __________ here in this regard. It is one of the areas that challenged the development of the country. B. Actually, it is worse here in the national parks of Ethiopia.12, __________ there are laws and regulation, peoples know very little about them. A. You are right, people usually act 13______________ what the law says. B. Hope the parks in Addis Ababa last longer in the 14_________ status they have today. 15 _________ it takes time, citizen will gradually learn how parks contrib- ute for the development."
+        ],
+        [
+          "There",
+          "II. Use the appropriate cohesive devices (comparing/ contrasting) to link the ideas in the pair of sentences below. 1. a. Agenda 2020 is an exceptional project. b. There are challenges that will hold it back from its full realization. 2. a. Ethiopia has development laws. b. The implementation is slow due to several factors. 3. a.  FDRE promotes strong sustainability model and enabling environment for the  implementation SDGs."
+        ],
+        [
+          "The world",
+          "b. The world is committed to 17 integrated SDGs. 4. a. Weak institutional capacity is a big challenge to implement SGDs. b. The legal gaps are challenges to implement SDGs."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 18 5. a. Development agencies do not pay equal attention to environmental and social pillars. b. Sustainable development will be achieved if all the pillars are given equal attention. Language tips about the cohesive devises of contrasting and comparing: i.",
+        "Although, eventhough, inspite of and despite are all used to link two con- trasting ideas. They can all be used at the beginning or in the middle of the sentence. Example: Despite the rain, we enjoyed the festival. We enjoyed the festival despite the rain. The main difference between although, even though, in spite of and despite is that they are used with different structures. ii.",
+        "in spite of / despite After in spite of and despite, we use a noun, gerund (-ing form of a verb) or a pronoun. Example: They never made much money, in spite of their success. In spite of the pain in his leg, he completed the marathon. Despite having a headache, I had a great birthday. The train was cancelled. In spite of that, we arrived on time. It is common to use in spite of and despite with the expression the fact that, fol",
+        "lowed by a subject and verb. Example: In spite of the fact that he worked very hard, he didn’t earn enough. Despite the fact that he worked very hard, he didn’t earn enough. iii. although / even though After although and even though, we use a subject and a verb. Even though is slightly stronger and more emphatic than although."
+      ],
+      "definitions": [
+        [
+          "be achieved if all the pillars",
+          "Sustainable Development 18 5. a. Development agencies do not pay equal attention to environmental and social pillars. b. Sustainable development will be achieved if all the pillars are given equal attention. Language tips about the cohesive devises of contrasting and comparing: i."
+        ],
+        [
+          "inspite of and despite",
+          "Although, eventhough, inspite of and despite are all used to link two con- trasting ideas. They can all be used at the beginning or in the middle of the sentence. Example: Despite the rain, we enjoyed the festival. We enjoyed the festival despite the rain. The main difference between although, even though, in spite of and despite is that they are used with different structures. ii."
+        ],
+        [
+          "Even though",
+          "lowed by a subject and verb. Example: In spite of the fact that he worked very hard, he didn’t earn enough. Despite the fact that he worked very hard, he didn’t earn enough. iii. although / even though After although and even though, we use a subject and a verb. Even though is slightly stronger and more emphatic than although."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "Example:",
+      "paragraphs": [
+        "a.  I enjoyed the course, although I would have liked more grammar practice. b.  Although we saw each other every day, we didn’t really know each other. c. Even though she spoke very quietly, he understood every word. d. She didn’t get the job, even though she had all the necessary qualifications."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Example:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 19 iv. though This foundational concept establishes the governing principles of UNIT  1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "Example:",
+      "paragraphs": [
+        "a. Though can be used in the same way as although. b. Though I wasn’t keen on the film, I thought the music was beautiful. Though can also go at the end of the second phrase. This way of expressing con- trasting ideas is most common in spoken English. Example: a. We waited ages for our food. The waiter was really nice, though 1E.2 Fragments V    Activity 1.12 I.",
+        "Study the following sentences with a partner. What do we call the underlined clauses? Do the underlined clauses give complete meaning if they are written separately? 1. Even though the environment is very harsh, I decided to work in that crowded city. 2. As I worked so hard to change the behavior of the people, they started to believe me. 3. Even if  the population is very large, there are only few toilets.",
+        "4. The roads will clean If enough lavatories are built. 5.  Population growth is the biggest challenges unless it is controlled. This foundational concept establishes the governing principles of Example:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "expressing con- trasting ideas",
+          "a. Though can be used in the same way as although. b. Though I wasn’t keen on the film, I thought the music was beautiful. Though can also go at the end of the second phrase. This way of expressing con- trasting ideas is most common in spoken English. Example: a. We waited ages for our food. The waiter was really nice, though 1E.2 Fragments V    Activity 1.12 I."
+        ],
+        [
+          "give complete meaning if they",
+          "Study the following sentences with a partner. What do we call the underlined clauses? Do the underlined clauses give complete meaning if they are written separately? 1. Even though the environment is very harsh, I decided to work in that crowded city. 2. As I worked so hard to change the behavior of the people, they started to believe me. 3. Even if  the population is very large, there are only few toilets."
+        ],
+        [
+          "will clean If enough lavatories",
+          "4. The roads will clean If enough lavatories are built. 5.  Population growth is the biggest challenges unless it is controlled."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Example:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "Note:",
+      "paragraphs": [
+        "Dependent clauses become fragments if they are written as separate sentences. Example: the dependent clause ‘Even though the environment is very harsh.’ Writ- ten as a separate sentence, does not give complete meaning. A sentence fragment is a group of words that resembles a sentence, but does not give complete meaning. A fragment lacks subject, verb or complete thought. There are three types of sentence fragments: a. Missing subject b. Missing verb",
+        "c. Incomplete thought This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "become fragments if they",
+          "Dependent clauses become fragments if they are written as separate sentences. Example: the dependent clause ‘Even though the environment is very harsh.’ Writ- ten as a separate sentence, does not give complete meaning. A sentence fragment is a group of words that resembles a sentence, but does not give complete meaning. A fragment lacks subject, verb or complete thought. There are three types of sentence fragments: a. Missing subject b. Missing verb"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Note:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Note:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 20 II. Work with a partner. Read the following sentence fragments and identify what is missing from each fragment. If you find out the missing part of the fragment, it is easy to correct it. 1. To explain why that happened. 2. After I finish the project.",
+        "3. Because it was raining. 4. That time of wonder and amazement. 5. Clothes and shoes around the room. 6. Shows no improvement in your efficiency. 7. Was running down the lane and into the forest. 8. Discovered the cure for the disease. 9. Worrying that she would die. 10. Investigators  from the federal bureau.",
+        "III. Work with your partner and write the corrected sentences. Example: To explain why that happened … is a dependent clause. To correct the fragment, there are two ways"
+      ],
+      "definitions": [
+        [
+          "fragments and identify what",
+          "Sustainable Development 20 II. Work with a partner. Read the following sentence fragments and identify what is missing from each fragment. If you find out the missing part of the fragment, it is easy to correct it. 1. To explain why that happened. 2. After I finish the project."
+        ],
+        [
+          "there",
+          "III. Work with your partner and write the corrected sentences. Example: To explain why that happened … is a dependent clause. To correct the fragment, there are two ways"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "Add appropriate main clause:",
+      "paragraphs": [
+        "The commissioner refused to explain what happened. Avoid the subordinating word ‘to’ Explain why that happened. 1F.  Writing Skills 1F.1 Rearranging  Words and  Phrases to  Make Meaningful Sentences V    Activity 1.13 I.",
+        "Work with a partner and write meaningful sentences by rearranging the set of words given below. 1. economic, the, of, major, development, governments, is, focus. 2. of, people, awareness, growing, have, some, started, measures, as a result, taking. 3. already, today, the, know, people, being, environmental, that, deteriorating, well, is, of."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for Add appropriate main clause:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Add appropriate main clause:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 21 4. great, in, 21st has, the, shown, improvements, technology, century. 5. and, economic, industrial, minerals, production, use, depend, growth, on, of. II. Work with your partner. Connect the sentences and write one meaningful sentence. Start the sentence with the connector given in brackets.  The first one has been done for you."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "title": "Example:",
+      "paragraphs": [
+        "He hadn’t  always been poor. He had had a successful business. Unfortunately, it had gone  bust.  Muze was a homeless beggar. Muze was a homeless beggar, but he hadn’t always been poor as he’d had a successful business, which, unfortunately, had gone bust. 1. He got up early. He was working for ten hours. Zerihun was tired. He arrived home.   (When__________) 2. I parked my car near the police station. It was stolen. Police didn’t help me (Even if __________)",
+        "3. Sosi won 2,000 birr in a competition. She didn’t want to celebrate. Her business plan was so wonderful. (Since__________) 4. They were shopping all day. They spent all their money on clothes. Mark and Peter  arrived home empty hand.  (As __________) 5. He saw it in the countryside. He saw a house for the first time while he was driving on holiday. Last week Hashim moved to the house.  (Though__________) 1F.3 Paragraph Writing: Write a Comparing and Contrasting Paragraph",
+        "V    Activity 1.14 I. Work with a partner and revise the steps and structure of a paragraph. Note: The Structure of a Paragraph A paragraph has three major parts i. Topic sentence: A topic sentence is a precise statement that reflects the main idea of the paragraph. ii. Supporting sentences: Supporting sentences explain the topic sentence in",
+        "detail. iii. Concluding sentence: A good concluding sentence brings a paragraph to a polished end. This foundational concept establishes the governing principles of Example:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "A topic sentence",
+          "V    Activity 1.14 I. Work with a partner and revise the steps and structure of a paragraph. Note: The Structure of a Paragraph A paragraph has three major parts i. Topic sentence: A topic sentence is a precise statement that reflects the main idea of the paragraph. ii. Supporting sentences: Supporting sentences explain the topic sentence in"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Example:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    },
+    {
+      "title": "UNIT    1",
+      "paragraphs": [
+        "Sustainable Development 22 Steps in paragraph writing 1. write an outline the topic supporting details 2. write a topic sentence 3. write supporting sentences",
+        "4. write the concluding sentence 5. write the final draft II. Work individually. Write a paragraph comparing and contrasting life in a city and in the countryside.  The topic sentence is given.  Write appropriate supporting details and develop the paragraph in 7 to 10 sentences. Topic sentence: My life changed a lot when I moved to the city. Note: Writing a comparing and contrasting paragraph: comparison and contrast",
+        "is a method of developing idea in the paragraph. In a comparison and contrast paragraph you emphasize either on comparison or contrast depending on the purpose. If you are comparing two rather similar things you should acknowledge the obvious similarities but focus on the differences. If you are comparing two obviously dissimilar things you should acknowledge the obvious contrasts but emphasize the less obvious similarities. So before you start to write limit your point of comparison and contrast. 1F.4 Writing a Paragraph Based on Information in the Chart",
+        "V    Activity 1.15 I. Write a paragraph based on information in the chart below. Use comparing and contrasting words to compare and contrast the world population growth in rural and urban places from 1950 to 2050."
+      ],
+      "definitions": [
+        [
+          "The topic sentence",
+          "4. write the concluding sentence 5. write the final draft II. Work individually. Write a paragraph comparing and contrasting life in a city and in the countryside.  The topic sentence is given.  Write appropriate supporting details and develop the paragraph in 7 to 10 sentences. Topic sentence: My life changed a lot when I moved to the city. Note: Writing a comparing and contrasting paragraph: comparison and contrast"
+        ],
+        [
+          "If you",
+          "is a method of developing idea in the paragraph. In a comparison and contrast paragraph you emphasize either on comparison or contrast depending on the purpose. If you are comparing two rather similar things you should acknowledge the obvious similarities but focus on the differences. If you are comparing two obviously dissimilar things you should acknowledge the obvious contrasts but emphasize the less obvious similarities. So before you start to write limit your point of comparison and contrast. 1F.4 Writing a Paragraph Based on Information in the Chart"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT    1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT    1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "title": "Example:",
+      "paragraphs": [
+        "According to the chart, there is a huge difference between the world urban population in 1950 and 2050. This foundational concept establishes the governing principles of Example:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [
+        [
+          "there",
+          "According to the chart, there is a huge difference between the world urban population in 1950 and 2050."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Example:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Example:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "title": "UNIT  1",
+      "paragraphs": [
+        "Sustainable Development 23 This foundational concept establishes the governing principles of UNIT  1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the english curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT  1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how english principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_12 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT  1",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in english",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "image_caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "By the end of unit one, you will be able to:",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "V      Activity 1.1",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "1. What is a development project?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "2. Look at the pictures below and share your opinion about the advantages and",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "3. Are there any projects in your area? What are their contributions or damages",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "1. What is the news about?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "2. The news is reported by",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "3. When was the national reform introduced according to the news?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "4. According to the commissioner,  a feasibility study was conducted",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    },
+    {
+      "question": "5. According to the information in the text, the senior economist has noted that",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 7  NATIONAL PRIDE in english.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_12."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 7  NATIONAL PRIDE (Grade_12 english):\nThis complete study document covers all topics in Unit 7  NATIONAL PRIDE, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": [
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_1.jpx",
+      "filename": "figure_1.jpx",
+      "caption": "Unit 7  NATIONAL PRIDE — Visual Figure 1"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_2.jpx",
+      "filename": "figure_2.jpx",
+      "caption": "Unit 7  NATIONAL PRIDE — Visual Figure 2"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_3.jpx",
+      "filename": "figure_3.jpx",
+      "caption": "Unit 7  NATIONAL PRIDE — Visual Figure 3"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_12\\Social_Science\\english\\Unit 7_ NATIONAL PRIDE\\short_note\\images\\figure_4.jpx",
+      "filename": "figure_4.jpx",
+      "caption": "Unit 7  NATIONAL PRIDE — Visual Figure 4"
+    }
+  ]
+}

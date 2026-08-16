@@ -1,14 +1,30 @@
-{
-  "id": "unit_13__basics_of_agro-forestry_systems_and_practices",
-  "title": "Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES",
-  "description": "Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_13_BASICS_OF_AGRO-FORESTRY_SYSTEMS_AND_PRACTICES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

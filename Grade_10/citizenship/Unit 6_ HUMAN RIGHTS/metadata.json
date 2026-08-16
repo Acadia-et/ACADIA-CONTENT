@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__human_rights",
-  "title": "Unit 6_ HUMAN RIGHTS",
-  "description": "Unit 6_ HUMAN RIGHTS for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_HUMAN_RIGHTS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ HUMAN RIGHTS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ HUMAN RIGHTS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

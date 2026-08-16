@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__hydrocarbons_and_their_natural_sources",
-  "title": "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES",
-  "description": "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_HYDROCARBONS_AND_THEIR_NATURAL_SOURCES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

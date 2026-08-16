@@ -1,14 +1,30 @@
-{
-  "id": "unit_8__geo-spatial_information_and_data_processing",
-  "title": "Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING",
-  "description": "Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_8_GEO-SPATIAL_INFORMATION_AND_DATA_PROCESSING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 8_ GEO-SPATIAL INFORMATION AND DATA PROCESSING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

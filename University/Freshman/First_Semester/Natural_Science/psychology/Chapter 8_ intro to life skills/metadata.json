@@ -1,14 +1,30 @@
-{
-  "id": "chapter_8__intro_to_life_skills",
-  "title": "Chapter 8_ intro to life skills",
-  "description": "Chapter 8_ intro to life skills for psychology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_8_intro_to_life_skills",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 8_ intro to life skills",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 8_ intro to life skills",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

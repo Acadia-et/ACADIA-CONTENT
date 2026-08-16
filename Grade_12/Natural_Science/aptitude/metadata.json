@@ -1,9 +1,7 @@
 {
-  "id": "aptitude",
-  "title": "Aptitude",
-  "description": "Aptitude subject",
-  "units": [
-    "Part 1_ Mathematical Part",
-    "Part 2_ English Part"
-  ]
+  "id": "aptitude_Grade_12/Natural_Science",
+  "grade": "Grade_12/Natural_Science",
+  "subject": "aptitude",
+  "description": "Grade_12/Natural_Science Aptitude",
+  "units": []
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__rational_expressions_and_rational_functions",
-  "title": "Unit 2_ RATIONAL EXPRESSIONS AND RATIONAL FUNCTIONS",
-  "description": "Unit 2_ RATIONAL EXPRESSIONS AND RATIONAL FUNCTIONS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_RATIONAL_EXPRESSIONS_AND_RATIONAL_FUNCTIONS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ RATIONAL EXPRESSIONS AND RATIONAL FUNCTIONS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ RATIONAL EXPRESSIONS AND RATIONAL FUNCTIONS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

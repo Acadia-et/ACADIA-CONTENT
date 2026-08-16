@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__nuclear_physics",
-  "title": "Unit 7_ NUCLEAR PHYSICS",
-  "description": "Unit 7_ NUCLEAR PHYSICS for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_NUCLEAR_PHYSICS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ NUCLEAR PHYSICS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ NUCLEAR PHYSICS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

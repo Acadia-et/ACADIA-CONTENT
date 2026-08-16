@@ -1,14 +1,30 @@
-{
-  "id": "chapter_3__mass_and_mole_concept",
-  "title": "Chapter 3_ mass and mole concept",
-  "description": "Chapter 3_ mass and mole concept for Chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_3_mass_and_mole_concept",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 3_ mass and mole concept",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 3_ mass and mole concept",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

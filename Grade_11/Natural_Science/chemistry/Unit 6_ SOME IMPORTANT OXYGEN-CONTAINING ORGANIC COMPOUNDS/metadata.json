@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__some_important_oxygen-containing_organic_compounds",
-  "title": "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS",
-  "description": "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_SOME_IMPORTANT_OXYGEN-CONTAINING_ORGANIC_COMPOUNDS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__population_and_natural_resources",
-  "title": "Unit 5_ POPULATION AND NATURAL RESOURCES",
-  "description": "Unit 5_ POPULATION AND NATURAL RESOURCES for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_POPULATION_AND_NATURAL_RESOURCES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ POPULATION AND NATURAL RESOURCES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ POPULATION AND NATURAL RESOURCES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

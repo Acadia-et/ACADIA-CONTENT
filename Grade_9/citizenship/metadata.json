@@ -1,15 +1,49 @@
 {
-  "id": "citizenship",
-  "title": "Citizenship",
-  "description": "Citizenship subject",
+  "id": "citizenship_Grade_9",
+  "grade": "Grade_9",
+  "subject": "citizenship",
+  "description": "Grade_9 Citizenship",
   "units": [
-    "Unit 1_ ETHICAL VALUES",
-    "Unit 2_ THE CULTURE OF USING DIGITAL TECHNOLOGY",
-    "Unit 3_ CONSTITUTION AND CONSTITUTIONALISM",
-    "Unit 4_ UNDERSTANDING INDIGENOUS KNOWLEDGE",
-    "Unit 5_ MULTICULTURALISM IN ETHIOPIA",
-    "Unit 6_ NATIONAL UNITY THROUGH DIVERSITY",
-    "Unit 7_ PROBLEM SOLVING SKILLS",
-    "Unit 8_ ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA"
-  ]
+    {
+      "id": "Unit_1__ETHICAL_VALUES",
+      "title": "Unit 1_ ETHICAL VALUES",
+      "file": "Unit_1__ETHICAL_VALUES.json"
+    },
+    {
+      "id": "Unit_2__THE_CULTURE_OF_USING_DIGITAL_TECHNOLOGY",
+      "title": "Unit 2_ THE CULTURE OF USING DIGITAL TECHNOLOGY",
+      "file": "Unit_2__THE_CULTURE_OF_USING_DIGITAL_TECHNOLOGY.json"
+    },
+    {
+      "id": "Unit_3__CONSTITUTION_AND_CONSTITUTIONALISM",
+      "title": "Unit 3_ CONSTITUTION AND CONSTITUTIONALISM",
+      "file": "Unit_3__CONSTITUTION_AND_CONSTITUTIONALISM.json"
+    },
+    {
+      "id": "Unit_4__UNDERSTANDING_INDIGENOUS_KNOWLEDGE",
+      "title": "Unit 4_ UNDERSTANDING INDIGENOUS KNOWLEDGE",
+      "file": "Unit_4__UNDERSTANDING_INDIGENOUS_KNOWLEDGE.json"
+    },
+    {
+      "id": "Unit_5__MULTICULTURALISM_IN_ETHIOPIA",
+      "title": "Unit 5_ MULTICULTURALISM IN ETHIOPIA",
+      "file": "Unit_5__MULTICULTURALISM_IN_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_6__NATIONAL_UNITY_THROUGH_DIVERSITY",
+      "title": "Unit 6_ NATIONAL UNITY THROUGH DIVERSITY",
+      "file": "Unit_6__NATIONAL_UNITY_THROUGH_DIVERSITY.json"
+    },
+    {
+      "id": "Unit_7__PROBLEM_SOLVING_SKILLS",
+      "title": "Unit 7_ PROBLEM SOLVING SKILLS",
+      "file": "Unit_7__PROBLEM_SOLVING_SKILLS.json"
+    },
+    {
+      "id": "Unit_8__ETHIOPIA_S_FOREIGN_RELATIONS_IN_EAST_AFRICA",
+      "title": "Unit 8_ ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA",
+      "file": "Unit_8__ETHIOPIA_S_FOREIGN_RELATIONS_IN_EAST_AFRICA.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/citizenship/textbook.pdf"
 }

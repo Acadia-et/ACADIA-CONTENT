@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__periodic_classification_of_elements",
-  "title": "Unit 4_ PERIODIC CLASSIFICATION OF ELEMENTS",
-  "description": "Unit 4_ PERIODIC CLASSIFICATION OF ELEMENTS for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_PERIODIC_CLASSIFICATION_OF_ELEMENTS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ PERIODIC CLASSIFICATION OF ELEMENTS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ PERIODIC CLASSIFICATION OF ELEMENTS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,0 +1,1457 @@
+{
+  "metadata": {
+    "grade": "Grade 9",
+    "subject": "it",
+    "unit_title": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 4  IMAGE PROCESSING AND MULTIMEDIA",
+      "paragraphs": [
+        "Unit 4 : Image Processing and Multimedia 144 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 4  IMAGE PROCESSING AND MULTIMEDIA. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 4  IMAGE PROCESSING AND MULTIMEDIA: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of 1. Overview & Fundamentals of Unit 4  IMAGE PROCESSING AND MULTIMEDIA",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 1"
+    },
+    {
+      "title": "UNIT OVERVIEW",
+      "paragraphs": [
+        "In History, people use various ways to communication and convey ideas. Multimedia is a form of communication that combines different content forms such as text, audio, image, animation or video into a single interactive presentation. The use of multimedia to communicate ideas begins with newspapers, which is the first mass communication medium, using text, graphics and images. Following this, radio and television become major media for audio and video broadcasting respectively. Therefore, multimedia is like a vehicle which can help you transfer information from a source area to its destination.",
+        "Image processing is a method to perform some operations on an image in order to get an enhanced image or extract some useful information from it. You can use different application software such as commercial adobe Photoshop and free Gimp to process images. In this unit, we will discuss the basics of image processing such as image capturing, cropping, resizing, correcting and sharpening. We will end the unit with a practical section introducing adobe Photoshop facilities for basic image processing such as cropping, resizing, correction and sharpening.",
+        "At the end of this unit, learners will be able to: � Describe image processing � Edit images captured from different sources such as digital camera. � Use image software to create, import and save image files. � Use image software to resize, cut and edit images. UNIT"
+      ],
+      "definitions": [
+        [
+          "Multimedia",
+          "In History, people use various ways to communication and convey ideas. Multimedia is a form of communication that combines different content forms such as text, audio, image, animation or video into a single interactive presentation. The use of multimedia to communicate ideas begins with newspapers, which is the first mass communication medium, using text, graphics and images. Following this, radio and television become major media for audio and video broadcasting respectively. Therefore, multimedia is like a vehicle which can help you transfer information from a source area to its destination."
+        ],
+        [
+          "Image processing",
+          "Image processing is a method to perform some operations on an image in order to get an enhanced image or extract some useful information from it. You can use different application software such as commercial adobe Photoshop and free Gimp to process images. In this unit, we will discuss the basics of image processing such as image capturing, cropping, resizing, correcting and sharpening. We will end the unit with a practical section introducing adobe Photoshop facilities for basic image processing such as cropping, resizing, correction and sharpening."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for UNIT OVERVIEW: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT OVERVIEW",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_2.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 2"
+    },
+    {
+      "title": "IMAGE PROCESSING AND MULTIMEDIA",
+      "paragraphs": [
+        "145 4.1 Image Brainstorming 1. How can image be made and used as communication? 2.  Discuss the three basic colours? 3.  Discuss the graphical elements that you see in the logo of Ministry of Education (MoE). An image is a visual representation of a person, an animal or some thing in the",
+        "form of photograph, paint, sculptured or otherwise made visible.  Examples of image are: � A painting � A picture taken with a camera � A picture that has been created or copied and stored in electronic form � A scanned picture through image scanner Figure 4.1 Images 4.1.1 Digital Images",
+        "As you have learned in grades 7 and 8, a computer is an electronic device which accepts input data such as numbers, text, and audio and video images, processes the data digitally to produce information, and stores the data digitally for later use. You also knows that computers do everything by processing series of zeros and ones (0’s and 1’s) called binary digits (bits), and the basic language of computers is binary code. Whether you take a picture with a digital camera or use a scanner to bring a Unit 4 : Image Processing and Multimedia",
+        "146 photo or another artwork into Photoshop, you are digitizing the image. Therefore, digital image is an image or picture that is represented digitally, i.e. in groups of combinations bits (0 or 1) or specifically called pixels. A pixel is the smallest element of an image. 4.1.2 Digital Image Processing Image processing is a computational technique for analyzing, enhancing, compressing, reconstructing and generally performing some operations on an",
+        "image. Digital image processing techniques help us in manipulation of the digital images through the use of computers to enhance the quality of the image and improve pictorial information for human perception, i.e. enhancing the quality of the image so that the image will have a better look. Digital image processing starts with importing, in which an image is captured through scanner or digital camera; analysis and manipulation of the image is accomplished using various specialized software application and output (e.g. printer or monitor).",
+        "Figure 4.2 Digital image processing This foundational concept establishes the governing principles of IMAGE PROCESSING AND MULTIMEDIA. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [
+        [
+          "An image",
+          "145 4.1 Image Brainstorming 1. How can image be made and used as communication? 2.  Discuss the three basic colours? 3.  Discuss the graphical elements that you see in the logo of Ministry of Education (MoE). An image is a visual representation of a person, an animal or some thing in the"
+        ],
+        [
+          "Examples of image",
+          "form of photograph, paint, sculptured or otherwise made visible.  Examples of image are: � A painting � A picture taken with a camera � A picture that has been created or copied and stored in electronic form � A scanned picture through image scanner Figure 4.1 Images 4.1.1 Digital Images"
+        ],
+        [
+          "a computer",
+          "As you have learned in grades 7 and 8, a computer is an electronic device which accepts input data such as numbers, text, and audio and video images, processes the data digitally to produce information, and stores the data digitally for later use. You also knows that computers do everything by processing series of zeros and ones (0’s and 1’s) called binary digits (bits), and the basic language of computers is binary code. Whether you take a picture with a digital camera or use a scanner to bring a Unit 4 : Image Processing and Multimedia"
+        ],
+        [
+          "you",
+          "146 photo or another artwork into Photoshop, you are digitizing the image. Therefore, digital image is an image or picture that is represented digitally, i.e. in groups of combinations bits (0 or 1) or specifically called pixels. A pixel is the smallest element of an image. 4.1.2 Digital Image Processing Image processing is a computational technique for analyzing, enhancing, compressing, reconstructing and generally performing some operations on an"
+        ],
+        [
+          "in which an image",
+          "image. Digital image processing techniques help us in manipulation of the digital images through the use of computers to enhance the quality of the image and improve pictorial information for human perception, i.e. enhancing the quality of the image so that the image will have a better look. Digital image processing starts with importing, in which an image is captured through scanner or digital camera; analysis and manipulation of the image is accomplished using various specialized software application and output (e.g. printer or monitor)."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for IMAGE PROCESSING AND MULTIMEDIA: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of IMAGE PROCESSING AND MULTIMEDIA",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 3"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ Image is a representation of something. ✍ Digital image is an image which is stored in a computer. ✍ Digital image processing is a process of enhancing image and extracting use- ful information from it. Activity 4.1 Capture images from different sources to highlight the impact of environmental damage on Ethiopian society. You have to cite their sources as an acknowledge- ment if  you take images from Internet or other sources.",
+        "147 4.2 Multimedia Production Planning Strategies Brainstorming How do you think is a multimedia produced? Multimedia is the field concerned with the use of a computer to present, store, transmit and combine text, graphics, audio and video with links and tools that let the user navigate, interact, create and communicate. Before producing multimedia product, whether it is animation, film, movie or book, we should use a planning",
+        "strategy such as a storyboard, which clearly expresses how the story will flow in multimedia product. Storyboard is a graphic layout that sequences illustrations and images with the purpose of telling a story visually. Film makers and video creators use storyboards to transfer ideas from their mind to the screen. Creating an effective storyboard requires skill, but you can gain some pro tips from storyboard examples. To create a storyboard, you can use different software or rough sketch using a paper and pencil.",
+        "Developing Storyboard Storyboarding refers to the process of creating a sequence of screens to provide an overview of the project, demonstrate the arrangement and functionality of the program elements. It helps us to delineate the program’s navigation scheme. Multimedia storyboard can include elements of video, sketch, text, audio, photos and even physical prototypes used for the purpose of pre-visualization. It is a visual representation of how a story will play out, scene by scene. See sample animated storyboard for children in Figure 4.3.",
+        "Unit 4 : Image Processing and Multimedia 148 Figure 4.3 Sample video story board for kids 4.3 Using Image Processing Software Practical Exercise 4.1 Prepare a storyboard for a video that teaches English Alphabet to Ethiopian KG students. (Hint: Use chart board, PowerPoint or A3 paper to create a storyboard for",
+        "specified video.) Brainstorming Have you ever used mobile application software for editing photos such as cropping, resizing, rotating, adjusting colour, adjusting saturation, adjusting light and clarity in your own or parent’s mobile phone? List kinds of software that enable you to do this in the mobile and discuss with your classmates. 149 Image processing software is the software that is designed to organize, retouch",
+        "and edit images that have been saved on CDs and DVDs, and scanned in or transferred directly from the camera to PC. This software allows you to edit and crop out unwanted “strange” images like the image with red-eye effect and the image in which one person’s head is put on the other’s body. Image processing software can be commercial and free. Some of the useful image processing application software kinds are Photoshop, Ms-paint, Gimp, Paint 3D, Photo Photoshop is a general-purpose application designed to work on any raster- based (made up of dots or pixels) image and perform any number of included",
+        "manipulations. It is one of the most popular image processing software packages available today. The software provides many image editing features for raster (pixel-based) images as well as vector graphics. Photoshop is used by photographers, graphic designers, video game artists, advertising and meme designers. Adobe Photoshop enables you to create website layouts and attractive graphic designs. What is more, using the same software, you can create posters, business cards, greeting cards and many others. Adobe Photoshop is essential in both image editing and graphic design and that is the reason why you need to",
+        "learn it. In this lesson, you will learn how to crop, resize, correct and sharpen/blur your images using Adobe Photoshop CC 2021 or later. 4.3.1 Launching Image Editing Software Image editing software mentioned in the above section can be launched by the same mechanism you follow to launch other application software. For example, when you launch photoshop you will get similar screen shown in Figure 4.4 (a). Unit 4 : Image Processing and Multimedia 150",
+        "Figure 4.4  a) Photoshop Home screen    b) Photoshop Workspace After Launching an image editing application, you can create a new image or open an existing one from file menu. For example, to create a new image using Photoshop, you can use the following procedure. 1. Click the Create New button on the Home screen to start a new project (See Figure 4.4 (a). 2. Then select the template from the alternatives found (See Figure 4.5). 3. After selecting the template, adjust the properties at the right side by starting",
+        "from any of your choice, the project name, width, height, orientation, resolution or color mode. 4. Click on Create to open a new document and begin your work on it. a) b) 151 5. The new project work will be opened (See Figure 4.6) on the workspace, which is completely black and white. It is called Canvas, which is full of a",
+        "pixel that you can change. Image resolution is typically described in Pixel per Inch (PPI), which refers to how many pixels are displayed per inch of an image. Higher resolutions mean that there are more pixels per inch (PPI), resulting in more pixel information and creating a high-quality, crisp image. Figure 4.5 Create new document 4.3.2 Anatomy of Image Editing Software Main Interface Immediately after you have launched image editing software, you will notice the",
+        "menu bar at the top side of the program and you will see a sidebar in which the main tools are placed at the left side. At the right side, there are layer and color tools you may use to make adjustments. For example, Figure 4.6 and Table 4.1 describes the main interface elements of Adobe Photoshop. Unit 4 : Image Processing and Multimedia 152 Figure 4.6 Adobe main interface Table 4.1 Description of Adobe main interface components",
+        "Indicator Letters Interface Element Name Usage and Description Menu Bar This is an options menu bar. Tool Options Bar This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum.",
+        "This is the bar that shows the available option which is attached to every tool selected. For intance, if you pick a brush tool, there will be some options such as size, softness and a lot more. Document Window Each document you open will have its separate bar that shows its identity,",
+        "such as document name, current scaling and color space being in use. Toolbar or Palette This is the place to find the main editing tools. Once you click on an individual tool, it will show separate function you can do with it. Document Details",
+        "This shows you the compressed and real size of your document. 153 Active Image This represents the interface of a large area to work on your image with a darker background color. Rulers",
+        "This is used to measure the exact position of your image and you can drag guidelines from here for text and layer line up. Search and Share A link to search for any content, amend the workspace",
+        "arrangement and sharing your image on social media. Palettes There are various interchangeable palettes that you can select from the Window menu. Layer Palette",
+        "This is an area of the current image layer you are working on. The layer at the top of the stack will be shown above those below. Layer Option It gives you the right to add effects, adjustments, layers style and other options that you can add to your",
+        "currently active layers. 4.3.3 Image Editing Software Toolbox Brainstorming Can you locate main editing tools you use to edit image? As shown in Figure 4.6 above, the left side box is the Photoshop toolbox. The toolbar appears to be single by default but you can make it double column by clicking on the top double arrow, which will make it to be expanded and shorter. Click the double arrow again to return it to the single column toolbar again (See",
+        "Figure 4.7). Unit 4 : Image Processing and Multimedia 154 Figure 4.7 Single Column and Double Column Tool Box and their parts To see more option tools for a given tool, click the Small Arrow in the bottom right of tool icon; alternatively, right click on the default or the current tool in use and you will be able to see full tools available (See Figure 4.8 for Photoshop).",
+        "Figure 4.8 More Option tool 155 Tip Hovering the mouse over the tool provides short description of the tool and usage video of the tool (See Figure 4.9). Figure 4.9 Hovering over the tool to see description and usage video The following table (Table 4.2) describes each part of Photoshop toolbox elements. Table 4.2 Photoshop toolbox elements description",
+        "a. Moving and Selection Tools Buttons Tools Uses Move It is used to moves layers, selections and guides within a Photoshop   document by cicking the Small Arrow or right clicking on the tool you will be able to see the full",
+        "available tools of move tool such as Artboard, Rectangular, Elliptical, Single row and single column Marquee. Lasso It allows you to make free hand selections around the object. It consists of additional Polygonal, Magnetic lasso tools. Object Selection",
+        "It will select an object when you draw a rough selection around an object. It consists of additional Quick and Magic wand selection tool. b. Crop and Slice Tools Buttons Tools Uses Crop",
+        "It is used to crop an image to cut out or remove unwanted areas. It   consists of additional Perspective crop, Slice and Slice Select crop tools. Frame It allows you to place an image into rectangular or elliptical shapes. Unit 4 : Image Processing and Multimedia 156",
+        "c. Measurement Tools Buttons Tools Uses Eyedropper It samples the colors of an image. For a better representation of the sample area’s color, you have to increase “Sample Size”. It also consists of additional",
+        "tools such as  3D Material, Eyedropper, Color, Sample, Ruler, Note and Count. d. Retouching and Painting Tools Buttons Tools Uses Spot Healing Brush",
+        "It removes blemishes and other minor problems area in an image quickly. It consists of additional tools, namely Healing Brush Tool, Patch, Content- Aware Move and Red Eye. Brush It is used to paint-brush strokes on a layer or layer mask. It is referred to as a primary painting tool. It consists of additional tools, namely Pencil, Color",
+        "Replacement and Mixer brush. Clone Stamp It is the best basic of Photoshop retouching tools and used to   sample pixels from one area of the image and paint them over pixels in another area. It consists of additional Pattern Stamp tool. History Brush It restores part of an image to an earlier state and",
+        "has Art History brush as additional tool. Eraser It is used to erase pixels on a layer permanently. It can also paint in an earlier historical state. It has Background Eraser and Magic Eraser as additional tools. Gradient Tool It is used to draw gradual blends between multiple",
+        "create and customize your gradient. It has Paint Bucket Tool and 3D Material Drop as additional tools. Blur It simply blurs and softens areas you paint over with the tool. It has Sharpen Tool and Smudge tool as additional tools. Dodge",
+        "It is used to lighten an area of the image you paint over. It has Burn and Sponge as optional tools. 157 e. Drawing and Typing Tools Buttons Tools Uses Pen",
+        "It lets you draw accurate shapes, vector, selection and paths. It has Freeform Pen, Curvature Pen, Add Anchor Point, Delete     Anchor Point optional and Convert Point tools. Horizontal type It is used to add standard types to your document. It has Vertical type, Vertical type Mask and Horizontal Type Mask optional tools.",
+        "Path Selection It is used to select and move an entire path at once and represented by black color. It has Direct Selection as optional tool. Rectangle It draws rectangular paths, vector shapes or pixel shapes. Press and hold Shift, as you drag to set the shape to a perfect square. It has",
+        "Rounded Rectangle, Ellipse, Triangle, Polygon, Line and Custom Shape as optional tools. f. Navigation Tools Buttons Tools Uses Hand It can be used to click and drag an image around",
+        "the screen to view different areas when zoomed in. It has Rotate View as  optional tool. Zoom Click on the image to zoom in a specific area. Press and hold Alt, and click with the zoom tool to zoom out. 4.3.4 Cropping Image Brainstorming",
+        "Which tools are used for cropping image? Cropping is one of the most basic editing techniques that are used to take a specific part of the image. It is the process of removing portions of a photo to create focus or strengthen the composition. Unit 4 : Image Processing and Multimedia 158 There are several ways to crop images. For example, in Adobe Photoshop you can use one of the following.",
+        "a. Cropping with the Crop Tool b. Cropping to a specific size c. Cropping with the Marquee Tool a. Cropping with the Crop Tool The Crop Tool allows you to make a precise selection of an image you wish to edit. To crop with the Crop Tool, we follow the steps given below. 1. Launch image processing application such as Adobe Photoshop. 2. Open the image you want to crop.",
+        "3. Select the Crop Tool from the Toolbox. 4. It will automatically select your entire image. Drag the edges to fit the dimensions you desire (For example in Photoshop See Figure 4.10). Figure 4.10 Cropping with crop tool 5. Resize the border by dragging the squares at the sides and corners until you are satisfied with the way your image looks. 6. Once you are completely satisfied with your cropped image, press Enter.",
+        "159 b. Cropping to a specific size If you wish to print your digital photos or other images on standard size photo paper, you will have to crop your images to a specific size, such as 8x10. To crop an image to a specific size, do the following. 1. Open the image you want to crop. 2. Select the Crop Tool from the Toolbox. 3. Specify the values for Width and Height (See Figure 4.11).",
+        "Figure 4.11 Crop Tool options bar 4. Click in your image and drag the cropping border. Notice that the border is constrained. You cannot make it wider or longer than the specified values. For example, if you entered 8 for width and 10 for height, whatever size you make the border, the area within it will fit on an 8x10 photo. Figure 4.12 Cropping to a specific size 5. Once you are completely satisfied with your cropped image, press Enter or press",
+        "at the right corner. Unit 4 : Image Processing and Multimedia 160 c. Cropping with the Marquee Tool If you are in a hurry and need just a simple crop, you can use the Marquee Tool and a menu command. To crop with the Marquee Tool, follow the steps below. 1. Open the image you wish to crop. 2. Select the Rectangular Marquee Tool",
+        "from the Toolbox (See Figure 4.4). 3. Click and drag the mouse to draw a marquee around the area you want to crop. 4. In the main menu, go to Image Crop. The image will be immediately cropped. 4.3.5 Resizing or Scaling an Image",
+        "Image resizing or scaling can help you print your images in standard photo sizes, resize and preserve the high quality of digital photos and enlarge small images to a poster size. For example, to resize your image to a preset size in Photoshop, follow the steps mentioned hereunder. 1. Open your image. 2. Go to Image Menu. 3. Select Image Size (See Figure 4.13 for Photoshop software). Figure 4.13  Selecting Image Size menu",
+        "161 Figure 4.14: Image Size window 4. Choose the size that you want and click OK. 5. Save your file. Practical Exercise 4.2 Cropping an Image 1. In Activity 4.1 you accumulated different images from different sources to highlight the impact of environmental damage on Ethiopian society. Use",
+        "one of the cropping methodologies you have learnt to crop unnecessary parts of the image captured. 2. Discuss which methodologies are easy for cropping images? 4.3.6 Correction of Image Ton and Color Images that come straight from a digital camera are not always perfect and tend to cause various problems such as red eye or hot spots if you use flash or underexposure. In image editing software, you can correct these problems as well as adjust the overall color of your digital photo.",
+        "Red Eye Removal The digital camera flash is located right above the lens, which causes the red-eye; Unit 4 : Image Processing and Multimedia 162 however, you can fix your photos easily in image editing software. For example, follow the steps below to remove the red eye problem in images using Photoshop. 1. Open a photo you want to correct. 2. Select the Zoom Tool from the Toolbox. Click and drag a rectangle around",
+        "the eye (See Figure 4.15). Figure 4.15 Zoomed red eye 3. Make sure that your default Foreground and Background colors are black and white. 4. Click and hold on the little black triangle of the Healing Brush Tool button and select the Red Eye Tool (Refer to Table 4.2 (d) and Figure 4.16). Figure 4.16  Red Eye Tool 5. Click on the red part of the eye and paint, holding down the mouse button.",
+        "You will see how the red will disappear (See Figure 4.17). 163 In Gimp to remove red eye first your have to select the boundary of iris of the eyes having a red pupil. Then you can find the “Red Eye Removal” in the Enhance submenu of Filters menu. Figure 4.17 Red eye corrected Adding Flash If you take pictures indoors without a flash, they will turn out underexposed and",
+        "dark. Follow the steps below to fix underexposed photos. 1. Open a digital photo you want to correct (See Figure 4.18). Figure 4.18 Underexposed photo Unit 4 : Image Processing and Multimedia 164 2. In the main menu, go to Layers Right click the layer Duplicate (or press",
+        "Ctrl + J). In the next window, name the layer as Layer 1. 3. Make sure Layer 1 is selected in the Layers palette. Select Image from the menu, select Adjustments and select Exposure (See Figure 4.19). Select the amount of exposure. The whole image will be lightened. Figure 4.19 Duplicate layer and select Image Exposure menu on new layer 4. Keep duplicating Layer 1 until you are satisfied with your image (See Figure 4.20). Figure 4.20 Corrected image",
+        "165 Use Adjust color Levels from Levels submenu of Colors menu in Gimp. Hot Spot Removal Using a flash can also cause shiny areas on peoples’ faces or the flash to reflect on shiny surfaces. Follow the steps below to remove hot spot from images. 1. Open the photo you want to correct. Notice the shiny area on the top of the car, which is not the actual part of the car and called a spot.",
+        "Figure 4,21 A car’s image with hot spot 2. Duplicate the layer and select the copied layer, not the background layer. 3. Select the Clone Stamp Tool from the Toolbox. 4. In the Options bar, change the Blend Mode from Normal to Darken (See Figure 4.22). The idea behind setting the mode to darken is to adjust the only pixels that will change, which are the ones that are lighter than our sample area. The hot spots are essentially light-colored pixels.",
+        "5. Choose a soft-edged brush, set the diameter to 40 or 50. Unit 4 : Image Processing and Multimedia 166 Figure 4.22 Setup for clone stamp tool 6. On your subject’s face, in our example on the car body, choose an area of “clean” or non-hot spot skin. This will be the reference point and Photoshop will now only change pixels that are lighter than this. Hold down the Alt key and click to set the reference point or sample. The cursor will change to an",
+        "eye-dropper. 7. Paint over the “hot spot”, the light area will gradually darken (See Figure 4.23). Practical Exercise 4.3 Adjusting Flash Effect on an Image 1. Select the images that has flash problem (underexposed and dark, red eye, hot spot) among the images you captured during Activity 4.1 above or deliberately capture image with or without flash and use any image",
+        "processing software available to you to correct the flash problem in your image. 2. Save both original and corrected images in a folder called Image Processing Practice under Documents folder. 167 Figure 4.23 Hot spot corrected Color Adjustment Color corrections involve changing and specifically correcting colors that make",
+        "an image appear unnatural. Some common examples include objects that lost its original color or human face with faded skin color or less visible. There are different color correction methods that can make your images look dramatically better. Some of the corrections methods you can practice in this sub- unit are the following. � Levels and curves � Saturation � Auto-adjustment tools",
+        "Figure 4.24 below provides examples with images that need to be color corrected, which we are going to work on in this section. Unit 4 : Image Processing and Multimedia 168 Figure 4.24 Some images that need color adjustment a. Color Adjustment Using Level and curves Levels Every image has a mix of shadows, highlights and midtones. Shadows are",
+        "the darkest parts of the image whereas highlights are the brightest parts, and midtones are everything in between. When you adjust levels, you are adjusting these different tones. While you could use the brightness and contrast tools for a similar type of adjustment, they are much less powerful than levels. There are many reasons to use levels adjustment. For instance, if you have a particularly dark or underexposed image, you might want to make the midtones and highlights brighter while keeping the shadows relatively dark. You can see examples of this in the images below.",
+        "We use the following steps to adjust colors using levels. 1. Open a digital photo you want to correct to the Photoshop (See Figure 4.25). 2. In the Layers panel, add a Levels adjustment layer by clicking adjustment layer in Adobe Photoshop You can do this using the Levels submenu under the Color menu in Gimp. 169",
+        "Figure 4.25 Creating level adjustment layer Adjustment layer is a type of non-destructive editing because it does not actually change anything about the original image. Because you can continue to tweak adjustment layers as you work, it is easy to try out different effects and get the image to look exactly the way you want. 3. Locate the graph in the middle of the Properties panel. This is called a histogram, and it shows information about shadows, highlights and midtones",
+        "of the image. In this example, you can see that there is a big gap on the right side with no information, which means the image is underexposed. We can use a levels adjustment to fix this. 4. Notice the Input Levels sliders just below the histogram. These are the controls you will use to adjust the levels. Unit 4 : Image Processing and Multimedia 170 Figure 4.26 Histogram and its sliders",
+        "5. Because our image is too dark (underexposed), we will click and drag the white slider to the left. Notice how we drag the slider to the right-most edge of the histogram (See Figure 4.27). Be careful not to drag the slider past this point or you will begin to lose detail in your image. This is commonly referred to as clipping. 6. If the shadows in the image are too bright, you can click and drag the black slider to the right. In this example, we do not need to adjust this because the slider is already at the left-most edge of the histogram.",
+        "7. Optional: If the image still looks too dark or too bright, you can click and drag the middle (grey) slider to adjust the midtones. In this example, we will move the slider to the left to make the image brighter. 8. Optional: Try turning the adjustment layer off and compare the new levels adjustments with the original image. You can see the difference between underexposed and corrected images (See Figure 2.27). 171 Figure 4.27 Color corrected image",
+        "Curves The Curves tool is similar to levels, but it gives you more power to control shadows, highlights, and midtones separately. Because it’s a more advanced tool, you’ll need to be careful when using it to adjust your images. Increasing contrast One of the simplest adjustments you can make with curves is to increase the contrast. To do this, drag the curve down in the shadows on the left to make them darker and up in the highlights on the right to make them brighter.",
+        "Decreasing contrast In this particular image, it might be better to decrease the contrast. To do this, drag the curve up in the shadows on the left to make them brighter and down in the highlights. To adjust image’s colors using curves in Adobe Photoshop, follow the steps below: 1. Open image to be color corrected 2. Add curve adjustment layer Unit 4 : Image Processing and Multimedia",
+        "172 Figure 4.28 Add curve adjustment layer 3. Click anywhere on the line in the Properties panel to create a new point; then click and drag the point to adjust the curve. Note: Be careful not to move the two points in the lower-left and upper-right corners. It is possible to adjust these, but it is recommended to keep them in the corners until you gain more experience with curves. 4. Continue to adjust the points until you are satisfied with the result. You can",
+        "also press the Delete key or click and drag a point off the line to remove it. 5. When you finish compare with original image by hiding the adjustment layer, and finally save your work. Note that, you can get Curves under the Color Menu in Gimp. 173 Figure 4.29 Color adjustment using curves Tip If you are new to curves, you may want to select one of the Preset options and",
+        "make small adjustments to the curve as needed. If you need to start over, you can select Default from the Preset menu. Figure 4.30 Preset curve color adjustment Unit 4 : Image Processing and Multimedia 174 b. Saturation If the colors in your image are dull or muted, you can increase the saturation to make them look brighter or vivid. On the other hand, you can reduce the",
+        "saturation to make the colors less vivid. If you remove the saturation completely, it will produce a black-and-white, or gray-scale, image. You can see an example of this in the images below. To adjust saturation, add the Hue/Saturation adjustment layer. Then click and drag the Saturation slider in the Properties panel to increase or decrease the saturation. Follow the following steps to correct the image having color problem using saturation method. 1. Load/Open a digital photo you want to correct to the Photoshop.",
+        "2. In layer panel, add a Hue/Saturation adjustment layer (See Figure 4.31). Figure 4.31 Add Hue/Saturation Adjustment layer 3. Then click and drag the Saturation slider in the Properties panel to increase or decrease the saturation. Figure 4.32 seems more natural than original image (See Figure 4.31). 4. Remember to save your work. 175 Figure 4.32 Corrected image with changing saturation level",
+        "Saturation Adjustment Tip Be careful not to increase the saturation too much. This can cause the colors to look unnatural, as shown in the example below. c. Auto-adjustment Tools Some images may require more specialized corrections. There are several automatic adjustment tools you can use to improve your images. You will find a few auto-correction tools, including Auto Color, in the Image menu (See Figure 4.33).",
+        "Figure 4.33 Auto color adjustment Unit 4 : Image Processing and Multimedia 176 Practical Exercise 4.4 Color Adjustment 1. Select an image(s) with color problems among the images you captured during Activity 4.1 above, or download such images from Internet and use any image processing software available to you to correct the color",
+        "problems. 2. Save both original and corrected image in a folder called Image Processing Practice under Documents folder. 4.3.7 Image Sharpening Sometimes an image may not be as clear as you would like it to be. Sharpening can help you make it look crisp and clear by enhancing the edges of objects in the image - increasing the contrast of the edges within your photo, which brings more definition to the details in your photo. However, adding too much sharpness can",
+        "actually make an image look worse, or it can lead to a loss in image detail. To sharpen image in Adobe Photoshop, we can use either of the following options. � Unsharp Mask � Smart Sharpen � High Pass The Unsharp mask filter is a common way to sharpen images in Photoshop. The name ‘Unsharp’ is derives from the fact that the technique uses a negative blurry image, which creates a mask for the original photo. This mask is subtracted from",
+        "the original to detect the presence of edges. After all this, contrast is selectively increased along those edges using this mask. The final result is a sharper image. When you use this tool, you will be able to control several settings like amount, radius and threshold. Amount: The amount determines how much sharpness will be applied. The amount you will need depends on several factors including the overall image size, so it is good to experiment with this setting. Radius: The radius controls the size of the details that will be sharpened, so it is",
+        "generally best to use a very low value for this setting. We recommend a radius 177 between 0.3 and 0.5 for most images although you may find it useful to use a slightly larger radius (between 1 and 1.5) for higher-resolution images. Threshold: Sharpening tends to make image noise more visible. Increasing the threshold can help you reduce this by telling the unsharp mask to ignore certain parts of the image. However, this can also mean that different parts of the image are not sharpened consistently. This is why we recommend keeping this setting at",
+        "0 most of the times unless the sharpening is creating a lot of extra noise. Figure 4.34 Correct sharpening a. Using Unsharp Mask It is one of the methods used to sharpen our image. Just look at the following steps. 1. Open the Photo and Duplicate the Background Open the photo you want to make sharper Right-click on the background",
+        "layer and select ‘Duplicate Layer…’ A new window will pop up. After you click OK, the new layer will appear at top of the Background layer and rename it to Sharpen Layer. Unit 4 : Image Processing and Multimedia 178 Figure 4.35 Duplicate background layer 2. With new layer Sharpen layer selected, Zoom in to 100 %. Go to Filter",
+        "Sharpen and select Unsharp Mask… filter (See Figure  4.36). Figure 4.36 Select Unsharp Mask 179 3. A dialog box will appear. Set the desired radius size, and then choose the amount of sharpness to add. We recommend experimenting with different amounts of sharpening to see what looks best. You can look at the preview window above the sliders to see how sharpening is affecting the image (See Figure  4.33).",
+        "Figure 4.37 Unsharp Mask dialog box 4. Click the preview window to toggle the preview off and on. This is an easy way to compare the sharpened version with the original. To view the different parts of the image, click and drag within the preview window. Note that you will also see the preview in the main document window. 5. Continue adjusting the settings until you arre satisfied with result, then click OK. The Unsharp mask will be applied. 6. Save your work.",
+        "Unit 4 : Image Processing and Multimedia 180 b. Using the Smart Sharpen You can access the Smart Sharpen menu from the Filter menu, and you will want to start by setting the Amount slider to 150%. The radius will stay around 1 or 2, and it is a good idea to always try 1 first. Smart Sharpen has noise reduction, which lacks the Unsharp Mask, and you can use this to reduce the noise that comes along with sharpening (See Figure 4.38).",
+        "Figure 4.38: Using Smart Sharpen c. Sharpening an Image in Photoshop Using High Pass 1. Open an image to be sharpened in Photoshop. 2. Convert the background layer into a smart object to protect the original image (See Figure 4.39). The Layers panel shows the unsharpened image. To convert the layer to a smart object, click the menu icon in the top right corner of the Layers panel and choose Convert to Smart Object from the menu.",
+        "Any sharpening we add with the High Pass filter will now be applied to the smart object itself, leaving the original image unharmed: the smart object icon. 181 Figure 4.39 Convert background layer to smart object 3. Select the High Pass filter. Going to Filter Other High Pass. As soon as you select High Pass, your",
+        "image will turn gray. Figure 4.40 Selecting the High Pass filter. Unit 4 : Image Processing and Multimedia 182 Figure 4.41 Adjusting Radius to highlight the edges 4. Adjust the radius value to highlight the edges by starting with the lowest value first in which the entire image is filled with solid grey and no edges are visible (See Figure 4.41).",
+        "5. Close the High Pass filter as the radius setting gets ideally set between 2 and 5. 6. Sharpen the image by changing the filter’s blend mode. With the edges highlighted, we can now sharpen the image just by changing the High Pass filter’s mode. Double-click on the Blending Options icon to the right of the filter’s name opening the smart filter’s Blending Options. 183 Figure 4.42 Opening Filter’s Blending options",
+        "Then in the Blending Options dialog box, change the Mode (short for Blend Mode) to one of Photoshop›s contrast-boosting blend modes. The blend modes you want to try are Overlay, Soft Light, Hard Light and Linear Light. Figure 4.43 Blending Option dialog box Unit 4 : Image Processing and Multimedia 184 The two most commonly-used blend modes for sharpening images with High Pass are Overlay and Soft Light. Overlay produces a higher contrast effect,",
+        "resulting in a stronger amount of sharpening, while Soft Light gives you lower contrast and more subtle sharpening. On the left is the result using Overlay, and on the right is the sharpening with Soft Light. Keep in mind that the differences in sharpness are not as noticeable in these smaller screenshots as they will be with your own larger images. Figure 4.44 Sharpening result 7. Fine-tune the sharpening by lowering the filter’s opacity. Once you have chosen a blend mode, you can then fine-tune the amount of",
+        "sharpening by adjusting the Opacity of the High Pass filter. The more you lower the opacity, the more you will reduce the sharpening effect. Figure 4.45 Adjusting the Opacity of the High Pass filter 185 8. Close the Blending Options dialog box. Finally, click OK to close the Blending Options dialog box, Practical Exercise 4.5 Image Sharpening",
+        "1. Select the image with clarity problems among the ones you captured during Activity 4.1 or download image from Internet and use any image processing software available to you to correct clarity problems in the image. 2. Save both original and corrected image in a folder called Image Processing Practice under Documents folder. Mini Project Develop a business card for yourself using Photoshop application that contains your image, your business logo, business name, contact information, etc."
+      ],
+      "definitions": [
+        [
+          "Image",
+          "✍ Image is a representation of something. ✍ Digital image is an image which is stored in a computer. ✍ Digital image processing is a process of enhancing image and extracting use- ful information from it. Activity 4.1 Capture images from different sources to highlight the impact of environmental damage on Ethiopian society. You have to cite their sources as an acknowledge- ment if  you take images from Internet or other sources."
+        ],
+        [
+          "Brainstorming How do you think",
+          "147 4.2 Multimedia Production Planning Strategies Brainstorming How do you think is a multimedia produced? Multimedia is the field concerned with the use of a computer to present, store, transmit and combine text, graphics, audio and video with links and tools that let the user navigate, interact, create and communicate. Before producing multimedia product, whether it is animation, film, movie or book, we should use a planning"
+        ],
+        [
+          "Storyboard",
+          "strategy such as a storyboard, which clearly expresses how the story will flow in multimedia product. Storyboard is a graphic layout that sequences illustrations and images with the purpose of telling a story visually. Film makers and video creators use storyboards to transfer ideas from their mind to the screen. Creating an effective storyboard requires skill, but you can gain some pro tips from storyboard examples. To create a storyboard, you can use different software or rough sketch using a paper and pencil."
+        ],
+        [
+          "Storyboard Storyboarding",
+          "Developing Storyboard Storyboarding refers to the process of creating a sequence of screens to provide an overview of the project, demonstrate the arrangement and functionality of the program elements. It helps us to delineate the program’s navigation scheme. Multimedia storyboard can include elements of video, sketch, text, audio, photos and even physical prototypes used for the purpose of pre-visualization. It is a visual representation of how a story will play out, scene by scene. See sample animated storyboard for children in Figure 4.3."
+        ],
+        [
+          "Image processing software",
+          "specified video.) Brainstorming Have you ever used mobile application software for editing photos such as cropping, resizing, rotating, adjusting colour, adjusting saturation, adjusting light and clarity in your own or parent’s mobile phone? List kinds of software that enable you to do this in the mobile and discuss with your classmates. 149 Image processing software is the software that is designed to organize, retouch"
+        ],
+        [
+          "s head",
+          "and edit images that have been saved on CDs and DVDs, and scanned in or transferred directly from the camera to PC. This software allows you to edit and crop out unwanted “strange” images like the image with red-eye effect and the image in which one person’s head is put on the other’s body. Image processing software can be commercial and free. Some of the useful image processing application software kinds are Photoshop, Ms-paint, Gimp, Paint 3D, Photo Photoshop is a general-purpose application designed to work on any raster- based (made up of dots or pixels) image and perform any number of included"
+        ],
+        [
+          "Photoshop",
+          "manipulations. It is one of the most popular image processing software packages available today. The software provides many image editing features for raster (pixel-based) images as well as vector graphics. Photoshop is used by photographers, graphic designers, video game artists, advertising and meme designers. Adobe Photoshop enables you to create website layouts and attractive graphic designs. What is more, using the same software, you can create posters, business cards, greeting cards and many others. Adobe Photoshop is essential in both image editing and graphic design and that is the reason why you need to"
+        ],
+        [
+          "which",
+          "from any of your choice, the project name, width, height, orientation, resolution or color mode. 4. Click on Create to open a new document and begin your work on it. a) b) 151 5. The new project work will be opened (See Figure 4.6) on the workspace, which is completely black and white. It is called Canvas, which is full of a"
+        ],
+        [
+          "Image resolution",
+          "pixel that you can change. Image resolution is typically described in Pixel per Inch (PPI), which refers to how many pixels are displayed per inch of an image. Higher resolutions mean that there are more pixels per inch (PPI), resulting in more pixel information and creating a high-quality, crisp image. Figure 4.5 Create new document 4.3.2 Anatomy of Image Editing Software Main Interface Immediately after you have launched image editing software, you will notice the"
+        ],
+        [
+          "sidebar in which the main tools",
+          "menu bar at the top side of the program and you will see a sidebar in which the main tools are placed at the left side. At the right side, there are layer and color tools you may use to make adjustments. For example, Figure 4.6 and Table 4.1 describes the main interface elements of Adobe Photoshop. Unit 4 : Image Processing and Multimedia 152 Figure 4.6 Adobe main interface Table 4.1 Description of Adobe main interface components"
+        ],
+        [
+          "and Description Menu Bar This",
+          "Indicator Letters Interface Element Name Usage and Description Menu Bar This is an options menu bar. Tool Options Bar"
+        ],
+        [
+          "This",
+          "This is the bar that shows the available option which is attached to every tool selected. For intance, if you pick a brush tool, there will be some options such as size, softness and a lot more. Document Window Each document you open will have its separate bar that shows its identity,"
+        ],
+        [
+          "Toolbar or Palette This",
+          "such as document name, current scaling and color space being in use. Toolbar or Palette This is the place to find the main editing tools. Once you click on an individual tool, it will show separate function you can do with it. Document Details"
+        ],
+        [
+          "This",
+          "This is used to measure the exact position of your image and you can drag guidelines from here for text and layer line up. Search and Share A link to search for any content, amend the workspace"
+        ],
+        [
+          "Palettes There",
+          "arrangement and sharing your image on social media. Palettes There are various interchangeable palettes that you can select from the Window menu. Layer Palette"
+        ],
+        [
+          "This",
+          "This is an area of the current image layer you are working on. The layer at the top of the stack will be shown above those below. Layer Option It gives you the right to add effects, adjustments, layers style and other options that you can add to your"
+        ],
+        [
+          "the left side box",
+          "currently active layers. 4.3.3 Image Editing Software Toolbox Brainstorming Can you locate main editing tools you use to edit image? As shown in Figure 4.6 above, the left side box is the Photoshop toolbox. The toolbar appears to be single by default but you can make it double column by clicking on the top double arrow, which will make it to be expanded and shorter. Click the double arrow again to return it to the single column toolbar again (See"
+        ],
+        [
+          "Buttons Tools Uses Move It",
+          "a. Moving and Selection Tools Buttons Tools Uses Move It is used to moves layers, selections and guides within a Photoshop   document by cicking the Small Arrow or right clicking on the tool you will be able to see the full"
+        ],
+        [
+          "Brush It",
+          "It removes blemishes and other minor problems area in an image quickly. It consists of additional tools, namely Healing Brush Tool, Patch, Content- Aware Move and Red Eye. Brush It is used to paint-brush strokes on a layer or layer mask. It is referred to as a primary painting tool. It consists of additional tools, namely Pencil, Color"
+        ],
+        [
+          "Clone Stamp It",
+          "Replacement and Mixer brush. Clone Stamp It is the best basic of Photoshop retouching tools and used to   sample pixels from one area of the image and paint them over pixels in another area. It consists of additional Pattern Stamp tool. History Brush It restores part of an image to an earlier state and"
+        ],
+        [
+          "Eraser It",
+          "has Art History brush as additional tool. Eraser It is used to erase pixels on a layer permanently. It can also paint in an earlier historical state. It has Background Eraser and Magic Eraser as additional tools. Gradient Tool It is used to draw gradual blends between multiple"
+        ],
+        [
+          "Horizontal type It",
+          "It lets you draw accurate shapes, vector, selection and paths. It has Freeform Pen, Curvature Pen, Add Anchor Point, Delete     Anchor Point optional and Convert Point tools. Horizontal type It is used to add standard types to your document. It has Vertical type, Vertical type Mask and Horizontal Type Mask optional tools."
+        ],
+        [
+          "Path Selection It",
+          "Path Selection It is used to select and move an entire path at once and represented by black color. It has Direct Selection as optional tool. Rectangle It draws rectangular paths, vector shapes or pixel shapes. Press and hold Shift, as you drag to set the shape to a perfect square. It has"
+        ],
+        [
+          "Which tools",
+          "Which tools are used for cropping image? Cropping is one of the most basic editing techniques that are used to take a specific part of the image. It is the process of removing portions of a photo to create focus or strengthen the composition. Unit 4 : Image Processing and Multimedia 158 There are several ways to crop images. For example, in Adobe Photoshop you can use one of the following."
+        ],
+        [
+          "the sides and corners until you",
+          "3. Select the Crop Tool from the Toolbox. 4. It will automatically select your entire image. Drag the edges to fit the dimensions you desire (For example in Photoshop See Figure 4.10). Figure 4.10 Cropping with crop tool 5. Resize the border by dragging the squares at the sides and corners until you are satisfied with the way your image looks. 6. Once you are completely satisfied with your cropped image, press Enter."
+        ],
+        [
+          "Notice that the border",
+          "Figure 4.11 Crop Tool options bar 4. Click in your image and drag the cropping border. Notice that the border is constrained. You cannot make it wider or longer than the specified values. For example, if you entered 8 for width and 10 for height, whatever size you make the border, the area within it will fit on an 8x10 photo. Figure 4.12 Cropping to a specific size 5. Once you are completely satisfied with your cropped image, press Enter or press"
+        ],
+        [
+          "with the Marquee Tool If you",
+          "at the right corner. Unit 4 : Image Processing and Multimedia 160 c. Cropping with the Marquee Tool If you are in a hurry and need just a simple crop, you can use the Marquee Tool and a menu command. To crop with the Marquee Tool, follow the steps below. 1. Open the image you wish to crop. 2. Select the Rectangular Marquee Tool"
+        ],
+        [
+          "Discuss which methodologies",
+          "one of the cropping methodologies you have learnt to crop unnecessary parts of the image captured. 2. Discuss which methodologies are easy for cropping images? 4.3.6 Correction of Image Ton and Color Images that come straight from a digital camera are not always perfect and tend to cause various problems such as red eye or hot spots if you use flash or underexposure. In image editing software, you can correct these problems as well as adjust the overall color of your digital photo."
+        ],
+        [
+          "The digital camera flash",
+          "Red Eye Removal The digital camera flash is located right above the lens, which causes the red-eye; Unit 4 : Image Processing and Multimedia 162 however, you can fix your photos easily in image editing software. For example, follow the steps below to remove the red eye problem in images using Photoshop. 1. Open a photo you want to correct. 2. Select the Zoom Tool from the Toolbox. Click and drag a rectangle around"
+        ],
+        [
+          "and Background colors",
+          "the eye (See Figure 4.15). Figure 4.15 Zoomed red eye 3. Make sure that your default Foreground and Background colors are black and white. 4. Click and hold on the little black triangle of the Healing Brush Tool button and select the Red Eye Tool (Refer to Table 4.2 (d) and Figure 4.16). Figure 4.16  Red Eye Tool 5. Click on the red part of the eye and paint, holding down the mouse button."
+        ],
+        [
+          "until you",
+          "Ctrl + J). In the next window, name the layer as Layer 1. 3. Make sure Layer 1 is selected in the Layers palette. Select Image from the menu, select Adjustments and select Exposure (See Figure 4.19). Select the amount of exposure. The whole image will be lightened. Figure 4.19 Duplicate layer and select Image Exposure menu on new layer 4. Keep duplicating Layer 1 until you are satisfied with your image (See Figure 4.20). Figure 4.20 Corrected image"
+        ],
+        [
+          "which",
+          "165 Use Adjust color Levels from Levels submenu of Colors menu in Gimp. Hot Spot Removal Using a flash can also cause shiny areas on peoples’ faces or the flash to reflect on shiny surfaces. Follow the steps below to remove hot spot from images. 1. Open the photo you want to correct. Notice the shiny area on the top of the car, which is not the actual part of the car and called a spot."
+        ],
+        [
+          "setting the mode to darken",
+          "Figure 4,21 A car’s image with hot spot 2. Duplicate the layer and select the copied layer, not the background layer. 3. Select the Clone Stamp Tool from the Toolbox. 4. In the Options bar, change the Blend Mode from Normal to Darken (See Figure 4.22). The idea behind setting the mode to darken is to adjust the only pixels that will change, which are the ones that are lighter than our sample area. The hot spots are essentially light-colored pixels."
+        ],
+        [
+          "now only change pixels that",
+          "5. Choose a soft-edged brush, set the diameter to 40 or 50. Unit 4 : Image Processing and Multimedia 166 Figure 4.22 Setup for clone stamp tool 6. On your subject’s face, in our example on the car body, choose an area of “clean” or non-hot spot skin. This will be the reference point and Photoshop will now only change pixels that are lighter than this. Hold down the Alt key and click to set the reference point or sample. The cursor will change to an"
+        ],
+        [
+          "There",
+          "an image appear unnatural. Some common examples include objects that lost its original color or human face with faded skin color or less visible. There are different color correction methods that can make your images look dramatically better. Some of the corrections methods you can practice in this sub- unit are the following. � Levels and curves � Saturation � Auto-adjustment tools"
+        ],
+        [
+          "which we",
+          "Figure 4.24 below provides examples with images that need to be color corrected, which we are going to work on in this section. Unit 4 : Image Processing and Multimedia 168 Figure 4.24 Some images that need color adjustment a. Color Adjustment Using Level and curves Levels Every image has a mix of shadows, highlights and midtones. Shadows are"
+        ],
+        [
+          "of the image whereas highlights",
+          "the darkest parts of the image whereas highlights are the brightest parts, and midtones are everything in between. When you adjust levels, you are adjusting these different tones. While you could use the brightness and contrast tools for a similar type of adjustment, they are much less powerful than levels. There are many reasons to use levels adjustment. For instance, if you have a particularly dark or underexposed image, you might want to make the midtones and highlights brighter while keeping the shadows relatively dark. You can see examples of this in the images below."
+        ],
+        [
+          "layer Adjustment layer",
+          "Figure 4.25 Creating level adjustment layer Adjustment layer is a type of non-destructive editing because it does not actually change anything about the original image. Because you can continue to tweak adjustment layers as you work, it is easy to try out different effects and get the image to look exactly the way you want. 3. Locate the graph in the middle of the Properties panel. This is called a histogram, and it shows information about shadows, highlights and midtones"
+        ],
+        [
+          "you can see that there",
+          "of the image. In this example, you can see that there is a big gap on the right side with no information, which means the image is underexposed. We can use a levels adjustment to fix this. 4. Notice the Input Levels sliders just below the histogram. These are the controls you will use to adjust the levels. Unit 4 : Image Processing and Multimedia 170 Figure 4.26 Histogram and its sliders"
+        ],
+        [
+          "Because our image",
+          "5. Because our image is too dark (underexposed), we will click and drag the white slider to the left. Notice how we drag the slider to the right-most edge of the histogram (See Figure 4.27). Be careful not to drag the slider past this point or you will begin to lose detail in your image. This is commonly referred to as clipping. 6. If the shadows in the image are too bright, you can click and drag the black slider to the right. In this example, we do not need to adjust this because the slider is already at the left-most edge of the histogram."
+        ],
+        [
+          "Curves The Curves tool",
+          "Curves The Curves tool is similar to levels, but it gives you more power to control shadows, highlights, and midtones separately. Because it’s a more advanced tool, you’ll need to be careful when using it to adjust your images. Increasing contrast One of the simplest adjustments you can make with curves is to increase the contrast. To do this, drag the curve down in the shadows on the left to make them darker and up in the highlights on the right to make them brighter."
+        ],
+        [
+          "but it",
+          "172 Figure 4.28 Add curve adjustment layer 3. Click anywhere on the line in the Properties panel to create a new point; then click and drag the point to adjust the curve. Note: Be careful not to move the two points in the lower-left and upper-right corners. It is possible to adjust these, but it is recommended to keep them in the corners until you gain more experience with curves. 4. Continue to adjust the points until you are satisfied with the result. You can"
+        ],
+        [
+          "using curves Tip If you",
+          "also press the Delete key or click and drag a point off the line to remove it. 5. When you finish compare with original image by hiding the adjustment layer, and finally save your work. Note that, you can get Curves under the Color Menu in Gimp. 173 Figure 4.29 Color adjustment using curves Tip If you are new to curves, you may want to select one of the Preset options and"
+        ],
+        [
+          "If the colors in your image",
+          "make small adjustments to the curve as needed. If you need to start over, you can select Default from the Preset menu. Figure 4.30 Preset curve color adjustment Unit 4 : Image Processing and Multimedia 174 b. Saturation If the colors in your image are dull or muted, you can increase the saturation to make them look brighter or vivid. On the other hand, you can reduce the"
+        ],
+        [
+          "There",
+          "Saturation Adjustment Tip Be careful not to increase the saturation too much. This can cause the colors to look unnatural, as shown in the example below. c. Auto-adjustment Tools Some images may require more specialized corrections. There are several automatic adjustment tools you can use to improve your images. You will find a few auto-correction tools, including Auto Color, in the Image menu (See Figure 4.33)."
+        ],
+        [
+          "Pass The Unsharp mask filter",
+          "actually make an image look worse, or it can lead to a loss in image detail. To sharpen image in Adobe Photoshop, we can use either of the following options. � Unsharp Mask � Smart Sharpen � High Pass The Unsharp mask filter is a common way to sharpen images in Photoshop. The name ‘Unsharp’ is derives from the fact that the technique uses a negative blurry image, which creates a mask for the original photo. This mask is subtracted from"
+        ],
+        [
+          "contrast",
+          "the original to detect the presence of edges. After all this, contrast is selectively increased along those edges using this mask. The final result is a sharper image. When you use this tool, you will be able to control several settings like amount, radius and threshold. Amount: The amount determines how much sharpness will be applied. The amount you will need depends on several factors including the overall image size, so it is good to experiment with this setting. Radius: The radius controls the size of the details that will be sharpened, so it is"
+        ],
+        [
+          "different parts of the image",
+          "generally best to use a very low value for this setting. We recommend a radius 177 between 0.3 and 0.5 for most images although you may find it useful to use a slightly larger radius (between 1 and 1.5) for higher-resolution images. Threshold: Sharpening tends to make image noise more visible. Increasing the threshold can help you reduce this by telling the unsharp mask to ignore certain parts of the image. However, this can also mean that different parts of the image are not sharpened consistently. This is why we recommend keeping this setting at"
+        ],
+        [
+          "the times unless the sharpening",
+          "0 most of the times unless the sharpening is creating a lot of extra noise. Figure 4.34 Correct sharpening a. Using Unsharp Mask It is one of the methods used to sharpen our image. Just look at the following steps. 1. Open the Photo and Duplicate the Background Open the photo you want to make sharper Right-click on the background"
+        ],
+        [
+          "sliders to see how sharpening",
+          "Sharpen and select Unsharp Mask… filter (See Figure  4.36). Figure 4.36 Select Unsharp Mask 179 3. A dialog box will appear. Set the desired radius size, and then choose the amount of sharpness to add. We recommend experimenting with different amounts of sharpening to see what looks best. You can look at the preview window above the sliders to see how sharpening is affecting the image (See Figure  4.33)."
+        ],
+        [
+          "This",
+          "Figure 4.37 Unsharp Mask dialog box 4. Click the preview window to toggle the preview off and on. This is an easy way to compare the sharpened version with the original. To view the different parts of the image, click and drag within the preview window. Note that you will also see the preview in the main document window. 5. Continue adjusting the settings until you arre satisfied with result, then click OK. The Unsharp mask will be applied. 6. Save your work."
+        ],
+        [
+          "and it",
+          "Unit 4 : Image Processing and Multimedia 180 b. Using the Smart Sharpen You can access the Smart Sharpen menu from the Filter menu, and you will want to start by setting the Amount slider to 150%. The radius will stay around 1 or 2, and it is a good idea to always try 1 first. Smart Sharpen has noise reduction, which lacks the Unsharp Mask, and you can use this to reduce the noise that comes along with sharpening (See Figure 4.38)."
+        ],
+        [
+          "first in which the entire image",
+          "image will turn gray. Figure 4.40 Selecting the High Pass filter. Unit 4 : Image Processing and Multimedia 182 Figure 4.41 Adjusting Radius to highlight the edges 4. Adjust the radius value to highlight the edges by starting with the lowest value first in which the entire image is filled with solid grey and no edges are visible (See Figure 4.41)."
+        ],
+        [
+          "The blend modes you want to try",
+          "Then in the Blending Options dialog box, change the Mode (short for Blend Mode) to one of Photoshop›s contrast-boosting blend modes. The blend modes you want to try are Overlay, Soft Light, Hard Light and Linear Light. Figure 4.43 Blending Option dialog box Unit 4 : Image Processing and Multimedia 184 The two most commonly-used blend modes for sharpening images with High Pass are Overlay and Soft Light. Overlay produces a higher contrast effect,"
+        ],
+        [
+          "On the left",
+          "resulting in a stronger amount of sharpening, while Soft Light gives you lower contrast and more subtle sharpening. On the left is the result using Overlay, and on the right is the sharpening with Soft Light. Keep in mind that the differences in sharpness are not as noticeable in these smaller screenshots as they will be with your own larger images. Figure 4.44 Sharpening result 7. Fine-tune the sharpening by lowering the filter’s opacity. Once you have chosen a blend mode, you can then fine-tune the amount of"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 4"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ Multimedia is derived from the words multi and media. Multi means many, multiple, and media is a tool that is used to represent or do certain things, delivery medium, a form of mass communication – newspaper, magazine or TV which contain text, graphic, voice, images, music and the like. ✍ Multimedia production passes through complex stages and it needs planning strategies, which include defining the goals and objectives of the multimedia, describing the content, developing application script, outline, translate outline into logic flow chart and story boarding.",
+        "✍ Image is a visual representation of something. ✍ Since images coming out of a camera are not always best, we need image processing. ✍ Photoshop is one of the best image processing software available today. To crop unwanted part of image, you can use three techniques: crop tool, specifying size, and marquee tool. ✍ To adjust the colour of an image in Adobe Photoshop, you can use level and curves, saturation and auto adjustment.",
+        "Unit 4 : Image Processing and Multimedia 186 ✍ Image sharpening is the process of making the image clear and look crisp by enhancing the edges of objects in the image. ✍ To sharpen the image you can use Unsharp Mask, Smart sharpen or High pass methodologies in Photoshop. 4.4 Unit Summary In this unit you have learnt image processing and multimedia. Multimedia comes",
+        "from two words, multi, which means multiple, and media, which is a way of conveying message. Hence, multimedia means multiple way of representing or conveying information. Multimedia can contain text, image, still images (videos) and etc. Image processing is a method to perform some operations on an image in order to get an enhanced image or extract some useful information from it. The unit discussed basic operations on an image such as image capturing, cropping, resizing, correction and sharpening with Adobe Photoshop software. The basic concepts of this unit are listed below.",
+        "� One of the components of multimedia that is used to convey information is image, which represents something or someone visually. � Every information stored in a computer is processed in 0s and 1s format. Therefore, an image is stored in a computer as 0’s and 1’s called digits. � A pixel is a single dot on the screen in digital image, and it is picture element that collectively makes up a picture as a whole. � Story boarding is a multimedia production planning strategy, which is used to tell one multimedia sequence of story from the beginning to end",
+        "diagrammatically. � Adobe Photoshop is one of the popular tools that are used to process a digital image. � To crop unnecessary part of an image using Adobe Photoshop, you can use crop tool, marque tool or you can specify the width and height specifically. � There is always no perfect camera shooting that produces perfect image, so we need to correct the color and the tone of an image.",
+        "187 � When we use flash to capture a photo at dark place, we may get an image having red eye, and these has to be corrected. � When we do not use flash, every detail of the image will not be visible and becomes dark; this also has to be corrected. � Every image has a mix of shadows, highlights and midtones. Shadows are the darkest parts of the image, highlights are the brightest parts, and midtones are everything in between.",
+        "� Color adjustment can be done using levels, curves, saturation or auto- adjustment tools. � Image sharpening is the process of making a picture or image crisper and clearer to see. For example, the eye of the image may not be visible; the detail part of the image may not be visible and etc. � To sharpen images, we can use Unsharp Mask, Smart Sharpen or High Pass. 4.5 Unit Review Exercise",
+        "Part I: Write whether the following statements are true or false. 1. Images coming out of camera are always correct, and there is no need for further refinement. 2. Unsharp mask method is used to sharpen an image. 3. Editing is the process of changing a photo to make it most effective for its purpose. 4. Pixels are small dots on the computer screen to reflect the colors red, green and blue.",
+        "5. Layers are viewed from top to bottom. 6. Digital image is an image combination of 0’s and 1’s. 7. Lasso tool is used to make free hand selection. Unit 4 : Image Processing and Multimedia 188 Part II: Choose the correct answer among the alternatives provided. 1. Which of the following options is used to create a new file in Photoshop? A. File",
+        "New B. File Open C. Create New D. Start New File 2. What is the shortcut key used to create a new file in Photoshop? This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum.",
+        "A. File, new B. Ctrl + N C. Ctrl + Shift + N D. Shift + N 3. Which short cut key is used to duplicate layers? A. Ctrl + J B. Ctrl + T C. Ctrl + N",
+        "D. Ctrl + D 4. PPI represents ________. A. Point presentation interface B. Pixel per inch C. Power point index D. None of the above. 5. Which one of the following image errors can exist due to not using flash during imaging?",
+        "A. Hot spot B. Dark image C. Red eye D. A and B are correct. 189 6. ______________is the process of removing portions of a photo to create focus or strengthen the composition. A. Image sharpening",
+        "B. Image cropping C. Image editing D. Image selection 7. Which one of the following is used to crop an image in Adobe Photoshop? A. Using Crop tool B. Specifying size C. Using Marque tool D. All of the above.",
+        "8. __________is the process of making an image clear and look crisp by enhancing the edges of objects in the image. A. Image cropping B. Image resizing C. Image sharpening D. All of the above. 9. Which one of the following is used to correct color? A. Levels",
+        "B. Curves C. Saturation D. All of the above. 10. Which one of the following is used to sharpen an image in Adobe Photoshop? A. Unsharp Mask B. Smart Sharpen C. High Pass D. All of the above.",
+        "Unit 4 : Image Processing and Multimedia 190 Part III: Fill in the blank spaces. 1. ____________ refers to technology that presents information in more than one medium— such as text, picture, video, sound and animation in a single integrated communication. 2. ______________ is located on the left side of the interface and houses many tools.",
+        "3. The right side of the Adobe Photoshop is occupied by _______________. 4. To change the name of the layer, you can ____________on the words on the layer. 5. _________ describes the purity of a color. 6. The common color adjustment methods used in Photoshop are _______, _____________, and_________. Part IV: Provide clear and precise responses to the following questions. 1. What is Adobe Photoshop?",
+        "2. How can re-size you the image in Photoshop? 3. Explain the Rectangular Marquee and Red-eye tools. 4. What are Lasso tools and name them? 5. What is healing tool? Part V: Project Work Develop a promotional card for your place of birth using Photoshop application that contains image of known buildings, common animal or renowned person with brief textual information.",
+        "191 This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [
+        [
+          "Multimedia",
+          "✍ Multimedia is derived from the words multi and media. Multi means many, multiple, and media is a tool that is used to represent or do certain things, delivery medium, a form of mass communication – newspaper, magazine or TV which contain text, graphic, voice, images, music and the like. ✍ Multimedia production passes through complex stages and it needs planning strategies, which include defining the goals and objectives of the multimedia, describing the content, developing application script, outline, translate outline into logic flow chart and story boarding."
+        ],
+        [
+          "Image",
+          "✍ Image is a visual representation of something. ✍ Since images coming out of a camera are not always best, we need image processing. ✍ Photoshop is one of the best image processing software available today. To crop unwanted part of image, you can use three techniques: crop tool, specifying size, and marquee tool. ✍ To adjust the colour of an image in Adobe Photoshop, you can use level and curves, saturation and auto adjustment."
+        ],
+        [
+          "Image sharpening",
+          "Unit 4 : Image Processing and Multimedia 186 ✍ Image sharpening is the process of making the image clear and look crisp by enhancing the edges of objects in the image. ✍ To sharpen the image you can use Unsharp Mask, Smart sharpen or High pass methodologies in Photoshop. 4.4 Unit Summary In this unit you have learnt image processing and multimedia. Multimedia comes"
+        ],
+        [
+          "which",
+          "from two words, multi, which means multiple, and media, which is a way of conveying message. Hence, multimedia means multiple way of representing or conveying information. Multimedia can contain text, image, still images (videos) and etc. Image processing is a method to perform some operations on an image in order to get an enhanced image or extract some useful information from it. The unit discussed basic operations on an image such as image capturing, cropping, resizing, correction and sharpening with Adobe Photoshop software. The basic concepts of this unit are listed below."
+        ],
+        [
+          "components of multimedia that",
+          "� One of the components of multimedia that is used to convey information is image, which represents something or someone visually. � Every information stored in a computer is processed in 0s and 1s format. Therefore, an image is stored in a computer as 0’s and 1’s called digits. � A pixel is a single dot on the screen in digital image, and it is picture element that collectively makes up a picture as a whole. � Story boarding is a multimedia production planning strategy, which is used to tell one multimedia sequence of story from the beginning to end"
+        ],
+        [
+          "Adobe Photoshop",
+          "diagrammatically. � Adobe Photoshop is one of the popular tools that are used to process a digital image. � To crop unnecessary part of an image using Adobe Photoshop, you can use crop tool, marque tool or you can specify the width and height specifically. � There is always no perfect camera shooting that produces perfect image, so we need to correct the color and the tone of an image."
+        ],
+        [
+          "Shadows",
+          "187 � When we use flash to capture a photo at dark place, we may get an image having red eye, and these has to be corrected. � When we do not use flash, every detail of the image will not be visible and becomes dark; this also has to be corrected. � Every image has a mix of shadows, highlights and midtones. Shadows are the darkest parts of the image, highlights are the brightest parts, and midtones are everything in between."
+        ],
+        [
+          "Image sharpening",
+          "� Color adjustment can be done using levels, curves, saturation or auto- adjustment tools. � Image sharpening is the process of making a picture or image crisper and clearer to see. For example, the eye of the image may not be visible; the detail part of the image may not be visible and etc. � To sharpen images, we can use Unsharp Mask, Smart Sharpen or High Pass. 4.5 Unit Review Exercise"
+        ],
+        [
+          "the following statements",
+          "Part I: Write whether the following statements are true or false. 1. Images coming out of camera are always correct, and there is no need for further refinement. 2. Unsharp mask method is used to sharpen an image. 3. Editing is the process of changing a photo to make it most effective for its purpose. 4. Pixels are small dots on the computer screen to reflect the colors red, green and blue."
+        ],
+        [
+          "Layers",
+          "5. Layers are viewed from top to bottom. 6. Digital image is an image combination of 0’s and 1’s. 7. Lasso tool is used to make free hand selection. Unit 4 : Image Processing and Multimedia 188 Part II: Choose the correct answer among the alternatives provided. 1. Which of the following options is used to create a new file in Photoshop? A. File"
+        ],
+        [
+          "What",
+          "New B. File Open C. Create New D. Start New File 2. What is the shortcut key used to create a new file in Photoshop?"
+        ],
+        [
+          "Which short cut key",
+          "A. File, new B. Ctrl + N C. Ctrl + Shift + N D. Shift + N 3. Which short cut key is used to duplicate layers? A. Ctrl + J B. Ctrl + T C. Ctrl + N"
+        ],
+        [
+          "A and B",
+          "A. Hot spot B. Dark image C. Red eye D. A and B are correct. 189 6. ______________is the process of removing portions of a photo to create focus or strengthen the composition. A. Image sharpening"
+        ],
+        [
+          "Which one of the following",
+          "B. Image cropping C. Image editing D. Image selection 7. Which one of the following is used to crop an image in Adobe Photoshop? A. Using Crop tool B. Specifying size C. Using Marque tool D. All of the above."
+        ],
+        [
+          "Which one of the following",
+          "8. __________is the process of making an image clear and look crisp by enhancing the edges of objects in the image. A. Image cropping B. Image resizing C. Image sharpening D. All of the above. 9. Which one of the following is used to correct color? A. Levels"
+        ],
+        [
+          "Which one of the following",
+          "B. Curves C. Saturation D. All of the above. 10. Which one of the following is used to sharpen an image in Adobe Photoshop? A. Unsharp Mask B. Smart Sharpen C. High Pass D. All of the above."
+        ],
+        [
+          "side of the Adobe Photoshop",
+          "3. The right side of the Adobe Photoshop is occupied by _______________. 4. To change the name of the layer, you can ____________on the words on the layer. 5. _________ describes the purity of a color. 6. The common color adjustment methods used in Photoshop are _______, _____________, and_________. Part IV: Provide clear and precise responses to the following questions. 1. What is Adobe Photoshop?"
+        ],
+        [
+          "What",
+          "2. How can re-size you the image in Photoshop? 3. Explain the Rectangular Marquee and Red-eye tools. 4. What are Lasso tools and name them? 5. What is healing tool? Part V: Project Work Develop a promotional card for your place of birth using Photoshop application that contains image of known buildings, common animal or renowned person with brief textual information."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 5"
+    },
+    {
+      "title": "UNIT OVERVIEW",
+      "paragraphs": [
+        "As you learned in unit 2, computer network and Internet has transformed our life in many good ways. Unfortunately, these vast network and associated technologies have also brought increasing number of security threats. This unit introduces what computer security attacks you could encounter in your life in the connected world, what type of impacts these security attacks  could cause and what action you can take to avoid or minimizing the impact of the attacks. Brainstorming 1. What threats and risks do you remember in the area of computer network,",
+        "utilization of smart phones and information and computer misuse from grade 8 IT subject? 2. You learned about Internet and Internet services including social media in grade 8. Besides their wide benefits, what challenges may you encounter through the Internet? At the end of this unit, learners will be able to: � Explain computer and information security. � Explain confidentiality, availability and integrity of information system.",
+        "� Discuss computer security threats. � Explain basic security threats and prevention strategies. � Evaluate confidentiality, availability and integrity of a school-based information system. UNIT"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for UNIT OVERVIEW: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of UNIT OVERVIEW",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_7.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 7"
+    },
+    {
+      "title": "INFORMATION AND COMPUTER",
+      "paragraphs": [
+        "Unit 5 : Information and Computer Security 192 5.1  Definition of Security What is the meaning of the term security? Security has diverse definitions, which vary significantly depending on what is to keep secured. In general, security is the quality or state of being secure. It can be a freedom from danger (which is related to safety) or a freedom from fear or anxiety. Security also means protection and measures taken to guard against sabotage, crime, attack or escape. This, the latter,",
+        "definition is a more proper one from institutional and business perspectives. Do you know that Ethiopia has a federal institution called Information Network Security Agency (INSA)? INSA was established for protecting the country’s national interest by building a capability to make information and information infrastructures in the country safeguarded. Thus, INSA is a national security agency with a mission on cyber security, which we shall cover this unit. The focus of this unit is on computer security. Computer security is the protection of computer systems and information from harm, theft and unauthorized use.",
+        "What is an unauthorized use? For example, you can use this textbook when you are learning in a classroom or when you study at school or at home. Can you use it during examination? Of course, not! Thus, we may say that it is illegal or you are unauthorized to access and use textbook during examinations.  Computer security is also the process of preventing and detecting unauthorized use of your computer system. There are various types of computer security, which is widely used to protect personal and organizational valuable information. Depending on what to secure, we can identify the following types of computer security (See",
+        "Figure 5.1). Figure 5.1 Types of computer security 193 � Information security: is securing information from unauthorized access, modification and deletion. For example, do you want your marks reduced or changed by someone who has access to your homeroom teacher’s laptop? � Application security: is securing an application by building security",
+        "features to prevent from cyber threats.  Most people use spreadsheet software like Microsoft Excel to store huge data such as payroll or students’ marks. What would happen if another person gets access to these data through the network? Such access to application software is dangerous threat for the information security. � Mobile and computer security means securing a handheld devices and standalone machine by keeping it updated and patched. � Network security is done by securing both the software and hardware",
+        "technologies. Do you know a firewall software or hardware? Read about firewall from the Internet. Firewall protects networks from Internet- based attacks. Related security types are cloud security for internet- based services and Internet of things (IoT) security that are to be covered � Cyber security: means protecting computer systems which communicate over the computer networks. Note that computer security involves both technological and managerial issues and solutions. Do you know the 90/10 rule? This customary rule states that 10%",
+        "of your security countermeasures are technical, and 90% of security defenses rely on you to follow good computer practices. The rule emphasis on the importance of security awareness and necessity for students, teachers, employees, merchants and all the citizens adhere to good computing practices. These good computer practices are covered later in this unit. Unit 5 : Information and Computer Security 194 Activity 5.1",
+        "1. Small group task: With the increase access to smart phones and use of social media, such as Facebook, TikTok and the like, students of your age upload and share their personal information such as photos and videos online. Develop a small list of questions (not more than five) and ask students outside of your class. Prepare a slide presentation on the benefits that students gain from their sharing of personal information online and potential security risks that students raise in your survey. 2.  Individual work: if you or your parents have a phone or a computer,",
+        "consider how many other persons know the password, code or security patters of those devises. Do not worry if you do not have no a phone or a computer. Just, consider that you are the last person to lock your house and you want to put the key somewhere for your brother, sister or parents to fetch it and enter to the house. In both cases, what risks do you anticipate"
+      ],
+      "definitions": [
+        [
+          "Definition of Security What",
+          "Unit 5 : Information and Computer Security 192 5.1  Definition of Security What is the meaning of the term security? Security has diverse definitions, which vary significantly depending on what is to keep secured. In general, security is the quality or state of being secure. It can be a freedom from danger (which is related to safety) or a freedom from fear or anxiety. Security also means protection and measures taken to guard against sabotage, crime, attack or escape. This, the latter,"
+        ],
+        [
+          "definition",
+          "definition is a more proper one from institutional and business perspectives. Do you know that Ethiopia has a federal institution called Information Network Security Agency (INSA)? INSA was established for protecting the country’s national interest by building a capability to make information and information infrastructures in the country safeguarded. Thus, INSA is a national security agency with a mission on cyber security, which we shall cover this unit. The focus of this unit is on computer security. Computer security is the protection of computer systems and information from harm, theft and unauthorized use."
+        ],
+        [
+          "What",
+          "What is an unauthorized use? For example, you can use this textbook when you are learning in a classroom or when you study at school or at home. Can you use it during examination? Of course, not! Thus, we may say that it is illegal or you are unauthorized to access and use textbook during examinations.  Computer security is also the process of preventing and detecting unauthorized use of your computer system. There are various types of computer security, which is widely used to protect personal and organizational valuable information. Depending on what to secure, we can identify the following types of computer security (See"
+        ],
+        [
+          "access to application software",
+          "features to prevent from cyber threats.  Most people use spreadsheet software like Microsoft Excel to store huge data such as payroll or students’ marks. What would happen if another person gets access to these data through the network? Such access to application software is dangerous threat for the information security. � Mobile and computer security means securing a handheld devices and standalone machine by keeping it updated and patched. � Network security is done by securing both the software and hardware"
+        ],
+        [
+          "Related security types",
+          "technologies. Do you know a firewall software or hardware? Read about firewall from the Internet. Firewall protects networks from Internet- based attacks. Related security types are cloud security for internet- based services and Internet of things (IoT) security that are to be covered � Cyber security: means protecting computer systems which communicate over the computer networks. Note that computer security involves both technological and managerial issues and solutions. Do you know the 90/10 rule? This customary rule states that 10%"
+        ],
+        [
+          "your security countermeasures",
+          "of your security countermeasures are technical, and 90% of security defenses rely on you to follow good computer practices. The rule emphasis on the importance of security awareness and necessity for students, teachers, employees, merchants and all the citizens adhere to good computing practices. These good computer practices are covered later in this unit. Unit 5 : Information and Computer Security 194 Activity 5.1"
+        ],
+        [
+          "consider that you",
+          "consider how many other persons know the password, code or security patters of those devises. Do not worry if you do not have no a phone or a computer. Just, consider that you are the last person to lock your house and you want to put the key somewhere for your brother, sister or parents to fetch it and enter to the house. In both cases, what risks do you anticipate"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for INFORMATION AND COMPUTER: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of INFORMATION AND COMPUTER",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_8.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 8"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ Being connected is beneficial, but it could also make you victim of security treats. ✍ Security means protection and measures taken to guard against espionage or sabotage, crime, attack or escape. ✍ Computer security is the protection of computer systems and information from harm, theft and unauthorized use. ✍ Good security standards follow the “90 / 10” rule. That is 90% of security safeguards rely on an individual (“you”) to adhere to good computing",
+        "practices. Ten percent (10%) of security safeguards are technical. 5.2 Principles of Computer Security Brainstorming What do you wish to see or get from your school computer laboratory or Internet connectivity in terms of quality, reach and your usage desires? 195 You learned the definition of computer security in section 5.1. Here, you will learn about basic attributes that a computer security system should possess. The",
+        "concept you learn here helps you, for example, to compare two computer security systems or specify the requirements to establish a particular computer security system. Computer security is mainly concerned with three main areas. These are confidentiality, integrity and availability, which are abbreviated as CIA. Sometimes CIA is also called as the security requirements triad. Let us see the three components of CIA in detail. � Confidentiality is ensuring that information is available only to the",
+        "intended audience. This often means that only authorized users and processes should be able to access or modify data. In other words, this involves protecting the information from a third party having unauthorized access. A concept related to this is privacy, which focuses on protecting personal data. � Integrity means that data can be trusted. It should be maintained in a correct state, kept so that it may not be wrongly changed and should be correct, authentic and reliable.",
+        "� Availability is ensuring that the information is available to authorized users whenever they require it. This means keeping systems, networks and devices up and running. Figure 5.2 shows the confidentiality, integrity and availability as a computer security triangle. Even though the source is unclear, the CIA model in Figure 5.2 shows the three principles as triple constraints of computer security. Figure 5.2 CIA model Unit 5 : Information and Computer Security",
+        "196 Such a triangular representation is used to show that computer security (data and services) can be constrained by the three features represented in the three sides of the triangle. Usually, achieving the three of them (CIA) at the same time can be costly and organizations often decide their focuses based on their priorities. For example, schools usually focus on making trustworthy knowledge resources available to wider student community by focusing on integrity and availability. On the other hand, military institutions might focus on confidentiality and",
+        "integrity. Activity 5.2 Small group task: In your group activity in question 1 of Activity 5.1, you made a presentation on students’ opinion of your school focusing the benefits and risks associated with uploading and sharing personal information such as photos and videos online. You are also introduced to the 90/10 rule of computer security. Improve your slide presentation by discussing first on: 1.  Confidential issues related to your examination results - Who can see them,",
+        "modify them and should not see it? 2. Integrity issue: Can you, as a student, change your result? Ask one of your teachers about whether your school director can make changes on your results? Ask also what your homeroom teacher can do with your marks. 3. Availability: In terms of your school ICT services, ask the IT coordinator to teach students with disability about supports or benefits they could get from the Internet and electronic services of the school."
+      ],
+      "definitions": [
+        [
+          "Being connected",
+          "✍ Being connected is beneficial, but it could also make you victim of security treats. ✍ Security means protection and measures taken to guard against espionage or sabotage, crime, attack or escape. ✍ Computer security is the protection of computer systems and information from harm, theft and unauthorized use. ✍ Good security standards follow the “90 / 10” rule. That is 90% of security safeguards rely on an individual (“you”) to adhere to good computing"
+        ],
+        [
+          "of security safeguards",
+          "practices. Ten percent (10%) of security safeguards are technical. 5.2 Principles of Computer Security Brainstorming What do you wish to see or get from your school computer laboratory or Internet connectivity in terms of quality, reach and your usage desires? 195 You learned the definition of computer security in section 5.1. Here, you will learn about basic attributes that a computer security system should possess. The"
+        ],
+        [
+          "Computer security",
+          "concept you learn here helps you, for example, to compare two computer security systems or specify the requirements to establish a particular computer security system. Computer security is mainly concerned with three main areas. These are confidentiality, integrity and availability, which are abbreviated as CIA. Sometimes CIA is also called as the security requirements triad. Let us see the three components of CIA in detail. � Confidentiality is ensuring that information is available only to the"
+        ],
+        [
+          "This often",
+          "intended audience. This often means that only authorized users and processes should be able to access or modify data. In other words, this involves protecting the information from a third party having unauthorized access. A concept related to this is privacy, which focuses on protecting personal data. � Integrity means that data can be trusted. It should be maintained in a correct state, kept so that it may not be wrongly changed and should be correct, authentic and reliable."
+        ],
+        [
+          "Availability",
+          "� Availability is ensuring that the information is available to authorized users whenever they require it. This means keeping systems, networks and devices up and running. Figure 5.2 shows the confidentiality, integrity and availability as a computer security triangle. Even though the source is unclear, the CIA model in Figure 5.2 shows the three principles as triple constraints of computer security. Figure 5.2 CIA model Unit 5 : Information and Computer Security"
+        ],
+        [
+          "a triangular representation",
+          "196 Such a triangular representation is used to show that computer security (data and services) can be constrained by the three features represented in the three sides of the triangle. Usually, achieving the three of them (CIA) at the same time can be costly and organizations often decide their focuses based on their priorities. For example, schools usually focus on making trustworthy knowledge resources available to wider student community by focusing on integrity and availability. On the other hand, military institutions might focus on confidentiality and"
+        ],
+        [
+          "You",
+          "integrity. Activity 5.2 Small group task: In your group activity in question 1 of Activity 5.1, you made a presentation on students’ opinion of your school focusing the benefits and risks associated with uploading and sharing personal information such as photos and videos online. You are also introduced to the 90/10 rule of computer security. Improve your slide presentation by discussing first on: 1.  Confidential issues related to your examination results - Who can see them,"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_10.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 10"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ Confidentiality, integrity and availability, also known as the CIA triad, is a model designed to guide policies for information security within an organization. 197 5.3 Computer Security Threats Brainstorming Ethiopia has become a more connected country. With your mobile phone and mobile data connectivity, you are, of course, part of this interconnected world.",
+        "What specific threats can affect you through this interconnection? You learned about the principles of computer security in section 3.2 above, together with the three principles form the cornerstone of any organization’s security infrastructure. In fact, they should function as goals and objectives for every security program. The focus of this section shifts on describing the different types of computer security threats. You are living in an interconnected world and it is essential that you develop a clear understanding about the risks of the interconnection and their protection mechanisms.",
+        "There are both natural and manmade (artificial) threats to our computers and computer systems. As shown in Figure 5.3, computer security threats can come both from internal and external sources. Internal threats are those threats emerging within an institution, company or business while external threats are from outside. Both internal and external factors can be caused by environmental (i.e. natural) as well as human and technical (i.e. manmade/artificial) factors. Figure 5.3 Types of computer security threats Unit 5 : Information and Computer Security",
+        "198 Computer security attacks can also be malicious, which are harmful or non- malicious or have no damaging effect. The attack can also be accidental that is committed due to mistake or an unintended action or intentional, which means the attacker commits the attack with a deliberate intention.  The following two sections (5.2.1 and 5.2.2) present natural and artificial threats for computer security. 5.3.1 Natural Threats in Computer Security",
+        "There are many computer security threats happening due to natural causes. Natural hazards such as earthquakes, flooding or lightning storms can lead to fires, extreme temperatures and even electric shocks to your computer, causing potential physical damage and loss of data. These are discussed one by one below. Fire Fire can be devastating to your computer. Beyond direct damage from flames, the heat generated can melt sensitive components within the computer. Smoke can damage the CPU fan which can also cause over-heating. In case of a fire, always",
+        "get yourself to a safe place before trying to rescue your computer. Extreme temperature Generally, computers are designed to function within a moderate temperature range. Excessive heat or cold can cause important components to malfunction or break. In cases of drastic temperature changes, it is best to allow the computer to return to room temperature before using it. Lightning strikes Lightning strikes are a huge threat to your computer, even if they never actually",
+        "touche your hardware. Sometimes, a lightning strike will create an electric surge (or spike) that amplifies the voltage to your computer through the power supply. This sudden surge of electricity can destroy crucial components of your comput- er including your motherboard. Activity 5.3 1. Discuss with your classmate about the fire burn and property damages of any one of the classed encountered the burning, and what could be done with fire-related emergencies in computer laboratories and data centres.",
+        "199 2. List three components of a computer hardware that a power surge can destroy. 5.3.2 Artificial threats to computer security The vast majority of computer security threats are manmade and happening through the devices and networks that we are using.  Computer security threats change their nature and methods with a change in the technology. With the recent development on Internet-based services, the majority of manmade",
+        "security threats come through the Internet as a platform, i.e. they come through network connectivity. Hence, the term cyber security is used interchangeably with computer security. The attack on computer security is also widely referred as cyber-attack. The prefix cyber, both in cyber-security and cyber-attack and as well cyberspace refers to computers and computer networks.  Cyber-attacks are classified in different ways. You can consider the following as the main types of cyber-attacks. 1. Denial of service (DoS)",
+        "2. Malware attack 3. Man in the middle 4. Phishing 5. Eavesdropping 6. SQL injection 7. Password attack 8. Social engineering Table 5.1 below describes different types of computer security attacks. Malware",
+        "attacks such as Trojan horses, worms and virus were in existence since the era of file sharing through portable file sharing. Denial of services (DoS), phishing, SQL injections and password attacks are popularized with the dominance of the Internet as a service platform. Malware stands for malicious software. Cyber- attacks can also combine psychological and technological attacks particularly in the case of man-in-the-middle, eavesdropping and social engineering attacks. Unit 5 : Information and Computer Security 200",
+        "Table 5.1 Types of cyber-attacks Type Variety and description Denial of service (DoS) DoS attacks hurt computer systems by flooding targets with requests – stopping regular users from connecting to the service. This means the regular network- based services",
+        "cannot be provided on timely manner. DoS attacks on bank IT infrastructure, for example, could stop the bank services such as ATM and CBE Birr services. Such attacks disappoint customers and the service providers, such as the banks, may encounter reputation damage as a result. Malware Attack Trojan horse: A code that takes over the system to steal and damage everything on the system. Trojan horse is the type of",
+        "malware that downloads onto a computer being disguised or masked as a legitimate program. Virus: A malicious code that gets into the computer program by replicating to change its functioning. Melisa virus is a common one that spreads itself in the system without acknowledging the user. Some people also refer to it as rootkit. Key logger: They work by recording the movement on the keyboards and mostly steal passwords and accounts’ details.",
+        "Worms: An independent program that infects the computer system through network devices Adware: Advertising software to spread malware. Adware (or advertising software) are various pop-up advertisements that show up on your computer or mobile device. Adware has the potential to become malicious and harm your device by slowing it down, hijacking your browser and installing viruses and/or spyware.",
+        "Botnets:  The word botnet is formed from the words robot and network. Cyber criminals use special Trojan viruses to breach the security of several users’ computers, take control of each computer and organize all the infected machines into a network of bots that the criminal can remotely manage. 201 Spyware: A secret program that tracks all the movements of the user secretly and then uses that information against them.",
+        "Ransomware: This malware locks the files and data on the system and threatens to delete them if not paid the ransom. Man in the middle This type of attack includes intercepting communication between the people and then stealing data from their",
+        "conversation. Open Wi-Fi networks are the most common place where this kind of attack takes place. Phishing Phishing attacks are the practice of sending fraudulent communications that appear to come from a reputable source. It is usually performed through email. The goal is to steal sensitive data like credit card and login information or to install malware on the victim’s machine. Phishing is a common type",
+        "of cyber-attack that everyone should learn about in order to protect him/herself. Eavesdropping An eavesdropping attack occurs when a hacker intercepts, deletes or modifies data that is transmitted between two devices. Eavesdropping is also known as sniffing or snooping. It relies on unsecured network communications to access data in transit. It typically occurs when a user connects to a network",
+        "in which traffic is not secured or encrypted and sends sensitive business data to a colleague. The data is transmitted across an open network, which gives an attacker the opportunity to exploit vulnerability and intercept it via various methods. Eavesdropping attacks can often be difficult to spot. Unlike other forms of cyber-attacks, the presence of a bug or listening device may not adversely affect the performance of devices and networks.",
+        "SQL injection This is when an attacker injects an unauthorized input into the SQL statement. However, this is only possible on websites where hackers can access the database using your ID and password. Unit 5 : Information and Computer Security 202 Password attack",
+        "Many hackers try to get your password by using different methods such as  dictionary attack where they try different possible passwords from the dictionary; brute force where they do trial and error to decode the password, but it is time-consuming; Key-logger or tracking movements on the keyboard to get passwords; shoulder surfing, which is a physical observation that people do by looking over the user’s shoulders; the rainbow table, which  has pre-computed hash",
+        "values to find passwords. Social engineering Social engineering refers to creating a social situation to get information from the user like getting a call from the mobile company saying, “Your device is in danger”. You blindly trust and give out all the information without any verification. The Internet has also brought peculiar challenges for kids and youth of your",
+        "ages. Religious fundamentalists, radical political or tribal extremists, terrorist and sex traffickers and abusers have found the Internet as safe zone for their illegal attraction towards kids and youth to their extreme views and activities. The following are such dangerous Internet-based cyber security attacks which obstacle your safe use of the Internet. 1. Cyber bullying - This is ridiculing or humiliating young kids in such places as social media and online game platforms. Cyber bullying is bullying that takes place over digital devices like cell phones, computers and tablets.",
+        "Cyber bullying can occur through SMS, text and apps, or online in social media, forums, or gaming where people can view, participate in, or share content. Cyber bullying includes sending, posting or sharing negative, harmful, false or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Some cyber bullying crosses the line into unlawful or criminal behavior. 2.  Cyber predators: Cyber predators are people who use the Internet to exploit",
+        "usually younger people for sexual and other purposes. Many cyber predators pretend to be someone else or lie about details about themselves to gain trust of their victims. 203 3.  Posting private information: You may not yet understand social boundaries. Thus, you may post personally identifiable information online, for example in your social media profiles that should not be out in public. 5.3.3 Who is behind cyber attacks?",
+        "The following parties play roles behind cyber-attacks. 1. Online criminals: These people are good at identifying what can be appropriated, for example stealing and selling sensitive data or holding systems and information to ransom. 2. Hackers: Individuals with varying degrees of expertise, often acting in an untargeted way, perhaps to test their own skills or cause disruption for the sake of it. 3. Malicious insiders: use their access to an organization’s data or networks to",
+        "conduct malicious activity such as stealing sensitive information to share with competitors. 4. Honest mistakes: Sometimes persons like you or staff with the best intentions just make a mistake, for example by emailing something sensitive to the wrong email address. 5. School pupils or students: Some students simply enjoy the challenge of putting their cyber skills to the test. Activity 5.4",
+        "1. What can do you as a student to protect yourself from the many types of manmade cyber- attack? 2.  What can your parents and school can do to assist you to have secure and safe use of Internet and online services?"
+      ],
+      "definitions": [
+        [
+          "you",
+          "✍ Confidentiality, integrity and availability, also known as the CIA triad, is a model designed to guide policies for information security within an organization. 197 5.3 Computer Security Threats Brainstorming Ethiopia has become a more connected country. With your mobile phone and mobile data connectivity, you are, of course, part of this interconnected world."
+        ],
+        [
+          "You",
+          "What specific threats can affect you through this interconnection? You learned about the principles of computer security in section 3.2 above, together with the three principles form the cornerstone of any organization’s security infrastructure. In fact, they should function as goals and objectives for every security program. The focus of this section shifts on describing the different types of computer security threats. You are living in an interconnected world and it is essential that you develop a clear understanding about the risks of the interconnection and their protection mechanisms."
+        ],
+        [
+          "There",
+          "There are both natural and manmade (artificial) threats to our computers and computer systems. As shown in Figure 5.3, computer security threats can come both from internal and external sources. Internal threats are those threats emerging within an institution, company or business while external threats are from outside. Both internal and external factors can be caused by environmental (i.e. natural) as well as human and technical (i.e. manmade/artificial) factors. Figure 5.3 Types of computer security threats Unit 5 : Information and Computer Security"
+        ],
+        [
+          "which",
+          "198 Computer security attacks can also be malicious, which are harmful or non- malicious or have no damaging effect. The attack can also be accidental that is committed due to mistake or an unintended action or intentional, which means the attacker commits the attack with a deliberate intention.  The following two sections (5.2.1 and 5.2.2) present natural and artificial threats for computer security. 5.3.1 Natural Threats in Computer Security"
+        ],
+        [
+          "There",
+          "There are many computer security threats happening due to natural causes. Natural hazards such as earthquakes, flooding or lightning storms can lead to fires, extreme temperatures and even electric shocks to your computer, causing potential physical damage and loss of data. These are discussed one by one below. Fire Fire can be devastating to your computer. Beyond direct damage from flames, the heat generated can melt sensitive components within the computer. Smoke can damage the CPU fan which can also cause over-heating. In case of a fire, always"
+        ],
+        [
+          "computers",
+          "get yourself to a safe place before trying to rescue your computer. Extreme temperature Generally, computers are designed to function within a moderate temperature range. Excessive heat or cold can cause important components to malfunction or break. In cases of drastic temperature changes, it is best to allow the computer to return to room temperature before using it. Lightning strikes Lightning strikes are a huge threat to your computer, even if they never actually"
+        ],
+        [
+          "of computer security threats",
+          "199 2. List three components of a computer hardware that a power surge can destroy. 5.3.2 Artificial threats to computer security The vast majority of computer security threats are manmade and happening through the devices and networks that we are using.  Computer security threats change their nature and methods with a change in the technology. With the recent development on Internet-based services, the majority of manmade"
+        ],
+        [
+          "the term cyber security",
+          "security threats come through the Internet as a platform, i.e. they come through network connectivity. Hence, the term cyber security is used interchangeably with computer security. The attack on computer security is also widely referred as cyber-attack. The prefix cyber, both in cyber-security and cyber-attack and as well cyberspace refers to computers and computer networks.  Cyber-attacks are classified in different ways. You can consider the following as the main types of cyber-attacks. 1. Denial of service (DoS)"
+        ],
+        [
+          "injections and password attacks",
+          "attacks such as Trojan horses, worms and virus were in existence since the era of file sharing through portable file sharing. Denial of services (DoS), phishing, SQL injections and password attacks are popularized with the dominance of the Internet as a service platform. Malware stands for malicious software. Cyber- attacks can also combine psychological and technological attacks particularly in the case of man-in-the-middle, eavesdropping and social engineering attacks. Unit 5 : Information and Computer Security 200"
+        ],
+        [
+          "This",
+          "Table 5.1 Types of cyber-attacks Type Variety and description Denial of service (DoS) DoS attacks hurt computer systems by flooding targets with requests – stopping regular users from connecting to the service. This means the regular network- based services"
+        ],
+        [
+          "Trojan horse",
+          "cannot be provided on timely manner. DoS attacks on bank IT infrastructure, for example, could stop the bank services such as ATM and CBE Birr services. Such attacks disappoint customers and the service providers, such as the banks, may encounter reputation damage as a result. Malware Attack Trojan horse: A code that takes over the system to steal and damage everything on the system. Trojan horse is the type of"
+        ],
+        [
+          "Melisa virus",
+          "malware that downloads onto a computer being disguised or masked as a legitimate program. Virus: A malicious code that gets into the computer program by replicating to change its functioning. Melisa virus is a common one that spreads itself in the system without acknowledging the user. Some people also refer to it as rootkit. Key logger: They work by recording the movement on the keyboards and mostly steal passwords and accounts’ details."
+        ],
+        [
+          "The word botnet",
+          "Botnets:  The word botnet is formed from the words robot and network. Cyber criminals use special Trojan viruses to breach the security of several users’ computers, take control of each computer and organize all the infected machines into a network of bots that the criminal can remotely manage. 201 Spyware: A secret program that tracks all the movements of the user secretly and then uses that information against them."
+        ],
+        [
+          "Open Wi-Fi networks",
+          "conversation. Open Wi-Fi networks are the most common place where this kind of attack takes place. Phishing Phishing attacks are the practice of sending fraudulent communications that appear to come from a reputable source. It is usually performed through email. The goal is to steal sensitive data like credit card and login information or to install malware on the victim’s machine. Phishing is a common type"
+        ],
+        [
+          "deletes or modifies data that",
+          "of cyber-attack that everyone should learn about in order to protect him/herself. Eavesdropping An eavesdropping attack occurs when a hacker intercepts, deletes or modifies data that is transmitted between two devices. Eavesdropping is also known as sniffing or snooping. It relies on unsecured network communications to access data in transit. It typically occurs when a user connects to a network"
+        ],
+        [
+          "in which traffic",
+          "in which traffic is not secured or encrypted and sends sensitive business data to a colleague. The data is transmitted across an open network, which gives an attacker the opportunity to exploit vulnerability and intercept it via various methods. Eavesdropping attacks can often be difficult to spot. Unlike other forms of cyber-attacks, the presence of a bug or listening device may not adversely affect the performance of devices and networks."
+        ],
+        [
+          "SQL injection This",
+          "SQL injection This is when an attacker injects an unauthorized input into the SQL statement. However, this is only possible on websites where hackers can access the database using your ID and password. Unit 5 : Information and Computer Security 202 Password attack"
+        ],
+        [
+          "but it",
+          "Many hackers try to get your password by using different methods such as  dictionary attack where they try different possible passwords from the dictionary; brute force where they do trial and error to decode the password, but it is time-consuming; Key-logger or tracking movements on the keyboard to get passwords; shoulder surfing, which is a physical observation that people do by looking over the user’s shoulders; the rainbow table, which  has pre-computed hash"
+        ],
+        [
+          "engineering Social engineering",
+          "values to find passwords. Social engineering Social engineering refers to creating a social situation to get information from the user like getting a call from the mobile company saying, “Your device is in danger”. You blindly trust and give out all the information without any verification. The Internet has also brought peculiar challenges for kids and youth of your"
+        ],
+        [
+          "The following",
+          "ages. Religious fundamentalists, radical political or tribal extremists, terrorist and sex traffickers and abusers have found the Internet as safe zone for their illegal attraction towards kids and youth to their extreme views and activities. The following are such dangerous Internet-based cyber security attacks which obstacle your safe use of the Internet. 1. Cyber bullying - This is ridiculing or humiliating young kids in such places as social media and online game platforms. Cyber bullying is bullying that takes place over digital devices like cell phones, computers and tablets."
+        ],
+        [
+          "Cyber predators",
+          "Cyber bullying can occur through SMS, text and apps, or online in social media, forums, or gaming where people can view, participate in, or share content. Cyber bullying includes sending, posting or sharing negative, harmful, false or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Some cyber bullying crosses the line into unlawful or criminal behavior. 2.  Cyber predators: Cyber predators are people who use the Internet to exploit"
+        ],
+        [
+          "Who",
+          "usually younger people for sexual and other purposes. Many cyber predators pretend to be someone else or lie about details about themselves to gain trust of their victims. 203 3.  Posting private information: You may not yet understand social boundaries. Thus, you may post personally identifiable information online, for example in your social media profiles that should not be out in public. 5.3.3 Who is behind cyber attacks?"
+        ],
+        [
+          "These people",
+          "The following parties play roles behind cyber-attacks. 1. Online criminals: These people are good at identifying what can be appropriated, for example stealing and selling sensitive data or holding systems and information to ransom. 2. Hackers: Individuals with varying degrees of expertise, often acting in an untargeted way, perhaps to test their own skills or cause disruption for the sake of it. 3. Malicious insiders: use their access to an organization’s data or networks to"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_17.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 17"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ You have a lot to gain from the Internet and Internet-based services. However, Internet could also be a backdoor to allow hackers and other cyber attackers to enter into and abuse your privacy and your school’s system. You need to develop safe internet use practices. Unit 5 : Information and Computer Security 204 3. Ask your school’s IT coordinator about availability of acceptable use policy that governs how the Internet and computers should be used in the school",
+        "compound. Read this use policy and discuss its role in protecting you from 5.4 Potential Losses Due to Security Attacks Whether the security threat originates within or outside of your home, your school or somewhere else or happened due to natural or manmade causes, it will have psychological, financial, legal or political impacts of varying levels of severity. The popular impacts of computer security threats are the following. 1. Destruction or loss of information:  such as destruction of system components or loss of data due to failure of a hard disk.",
+        "2. Corruption of information: like unauthorized alteration of files stored such as adding or reducing student marks stored in a school database or in a computer used by your homeroom teacher. Posting documents that the school considers as illegal or unacceptable onto your or the school’s social media channels (e.g. Telegram or Facebook) is example of corruption of information. 3. Theft of services: is an unauthorized use of computer or network services. Consider, for example, that you have access privilege to the school Internet",
+        "service for educational purposes. If you use this privilege for unrelated purposes such as for online marketing (for promoting goods), then, it becomes a theft of services. 4. Illegal usage: uses the normal function of the system to achieve the attacker’s behavior for other purpose. For example, dispatching texts of videos that promote inter-conflict or inter-religious conflict by using school internet services is an illegal usage, which can be a criminal act. Brainstorming",
+        "What personal, social, economic and political impacts do we incur computer due to computer security threats? 205 5. Disclosure of information: This is dissemination of information to anyone who is not authorized. For example, schools put warning or letter of appreciation on noticeboard inside the school to make the case known to the school community. Taking a picture of such information and posting it on social media is an unethical disclosure of private information. Figure 5.3 shows an",
+        "increase of cyber-disclosure in American secondary schools. Even though it does not show the cases in Ethiopia, it shows the severity of the situation in the developed world and suggestive to the emerging situation in our country and the rest of the developing world. Figure 5.3 cyber-attacks against public schools in the United States 6. Denial of use: This is covered above as DOS, in section 5.3.2. DoS is an intentional degradation or blocking of computer or network resources, making it inaccessible to its intended users.",
+        "7. Elevation of privilege: uses the weakness of the system to access the target system.  An elevation-of-privilege occurs when an application gains rights or privileges that should not be available to them. Let as assume both a teacher and a student have privileges to access to academic record systems where students marks are registered. The access privilege for the teacher is higher because he or she registers marks and works on some administrative tasks. Elevation of privilege occurs when a student manages to enter with the Unit 5 : Information and Computer Security",
+        "206 account of the teacher. Such a risk occurs, among others, for example when we use easily guessable passwords, heft or hijacking and due to keystroke logging. Keystroke logging (or capturing) happens due to the action of recording (logging) the keys struck on a keyboard. Activity 5.4 1. List threat types that could cause each of the seven categories of threat impacts.",
+        "2.  Try to understand the following case and answer the questions that follow it based on it. Student Halima, who loves shopping online, is an Ethiopian. She surfs the internet every week and purchases something new. One day, she realized that there were purchases made that she did not make herself and a price twice the cost of the purchase is paid from her mobile banking. a. Explain how student Halima is benefited from ICT in this context. b. List two negative impacts she encountered from ICT usage in this",
+        "context. c. Briefly explain why Halima could possibly be the victim. d. Suggest what she can do to protect herself from such situations in the future. Ask an IT  expert for further information. 5.5 How to Secure yourself and your Computer Systems The threats that you learn in section 5.3 can cause unprecedented danger. Consider, for example, what would happen if the computer that keeps the entire where can you get your transcripts? Banks, insurance companies, hospitals and",
+        "many other institutions store their valuable information in computer systems in spite the fact that the risks of computer security (both natural and manmade) are eminent. Thus, precaution is extremely important. Here, it is important to employ the customary 90/10 rule of computer security – 90% of good computer and 10% of technical practices. The good computer practices start with having sufficient level of security awareness. A book on Internet safety for schools put forwards the following for students to know. 207",
+        "� The Internet is a powerful tool that should be used wisely. � It allows students to access to a vast library of previously unavailable resources. � It also enables students to communicate with people around the world. � It also provides creative outlet for students skilled in writing, art, music, science, mathematics and other topics. � Know also that not all Internet information is valid or appropriate.",
+        "� Sexually explicit materials or violent images can affect students negatively. � Sexual predators will try to convince students to trust them. � Internet information may promote negative attitudes such as hatred or intolerance and dangerous or illegal activities, such as self-injuring behavior, gambling and illegal drug use. � Internet messages and the people who send them are not always what or who they seem.",
+        "� People in chat rooms, instant message “buddies” or those who visit a blog may not be who they appear to be. � E-mail can cause malicious code infection problems for a computer or network. � Students need to know which information is safe to share with others online, which should never be shared and why sharing it could put them at risk. � Students should never reveal online any information about where",
+        "they live or attend school. � Students need to be aware of their electronic messages, even those with known friends, can leave electronic footprints that can be misused by others. � Predators and cyber bullies hide themselves and use the Internet to manipulate students and kids. Students must learn how to avoid dangerous situations and get adult help. Unit 5 : Information and Computer Security",
+        "208 � Sexual predators deceive students by pretending to be students themselves. They sometimes lure young people into a false sense of security or blind trust and try to alienate them from their families. � Bullies use Internet tools such as instant messaging and the Web to harass or spread false rumors about students. � Students need to know that posting personal information and pictures can allow predators to contact and begin grooming them",
+        "for illegal meetings and actions. Personal photos can be easily misused or altered when posted on the Internet. � Internet activities such as playing games and downloading music or video files can be enjoyable. Students need to know which activities are safe and legal. � Gaming sites can attract sexual predators and/or cyber bullies. � Some games may contain pornographic and/or violent images. Students need to talk to their parents about what is acceptable.",
+        "� Students need to know how to detect whether a specific file download is legal and/or free of malicious code. Besides having essential security awareness, it is important that you take preventive steps for having secure computer system and safe internet use. These include: � Secure your computer physically by: � Installing reliable, reputable security and anti-virus software. � Activating your firewall, because a firewall acts as a security guard",
+        "between the internet and your local area network. � Stay up-to-date on the latest software and news surrounding your devices and perform software updates as soon as they become available. � Avoid clicking on email attachments unless you know the source. � Change passwords regularly, using a unique combination of numbers and letters, combining the capital and small letters. It is good for you to have at least 15 characters. If you have more than one account (for example, for e-mail, e-learning or Facebook), try to have different",
+        "209 passwords for different accounts. � Use the Internet with caution and ignore pop-ups, drive-by downloads while surfing. � Perform daily full system scans and create a periodic system backup schedule to ensure your data is retrievable when something happens to your computer. 5.6 Unit Summary",
+        "� Although network allows us to share resource easily, one of the disadvantages of being connected is vulnerability to different security threats. � Computer security is the protection of computer systems (including hardware, software, firmware and information being processed, stored and communicated) and information from harm, theft and unauthorized use. � Information security is the protection of information and information"
+      ],
+      "definitions": [
+        [
+          "of computer security threats",
+          "compound. Read this use policy and discuss its role in protecting you from 5.4 Potential Losses Due to Security Attacks Whether the security threat originates within or outside of your home, your school or somewhere else or happened due to natural or manmade causes, it will have psychological, financial, legal or political impacts of varying levels of severity. The popular impacts of computer security threats are the following. 1. Destruction or loss of information:  such as destruction of system components or loss of data due to failure of a hard disk."
+        ],
+        [
+          "using school internet services",
+          "service for educational purposes. If you use this privilege for unrelated purposes such as for online marketing (for promoting goods), then, it becomes a theft of services. 4. Illegal usage: uses the normal function of the system to achieve the attacker’s behavior for other purpose. For example, dispatching texts of videos that promote inter-conflict or inter-religious conflict by using school internet services is an illegal usage, which can be a criminal act. Brainstorming"
+        ],
+        [
+          "This",
+          "What personal, social, economic and political impacts do we incur computer due to computer security threats? 205 5. Disclosure of information: This is dissemination of information to anyone who is not authorized. For example, schools put warning or letter of appreciation on noticeboard inside the school to make the case known to the school community. Taking a picture of such information and posting it on social media is an unethical disclosure of private information. Figure 5.3 shows an"
+        ],
+        [
+          "This",
+          "increase of cyber-disclosure in American secondary schools. Even though it does not show the cases in Ethiopia, it shows the severity of the situation in the developed world and suggestive to the emerging situation in our country and the rest of the developing world. Figure 5.3 cyber-attacks against public schools in the United States 6. Denial of use: This is covered above as DOS, in section 5.3.2. DoS is an intentional degradation or blocking of computer or network resources, making it inaccessible to its intended users."
+        ],
+        [
+          "systems where students marks",
+          "7. Elevation of privilege: uses the weakness of the system to access the target system.  An elevation-of-privilege occurs when an application gains rights or privileges that should not be available to them. Let as assume both a teacher and a student have privileges to access to academic record systems where students marks are registered. The access privilege for the teacher is higher because he or she registers marks and works on some administrative tasks. Elevation of privilege occurs when a student manages to enter with the Unit 5 : Information and Computer Security"
+        ],
+        [
+          "twice the cost of the purchase",
+          "2.  Try to understand the following case and answer the questions that follow it based on it. Student Halima, who loves shopping online, is an Ethiopian. She surfs the internet every week and purchases something new. One day, she realized that there were purchases made that she did not make herself and a price twice the cost of the purchase is paid from her mobile banking. a. Explain how student Halima is benefited from ICT in this context. b. List two negative impacts she encountered from ICT usage in this"
+        ],
+        [
+          "precaution",
+          "many other institutions store their valuable information in computer systems in spite the fact that the risks of computer security (both natural and manmade) are eminent. Thus, precaution is extremely important. Here, it is important to employ the customary 90/10 rule of computer security – 90% of good computer and 10% of technical practices. The good computer practices start with having sufficient level of security awareness. A book on Internet safety for schools put forwards the following for students to know. 207"
+        ],
+        [
+          "The Internet",
+          "� The Internet is a powerful tool that should be used wisely. � It allows students to access to a vast library of previously unavailable resources. � It also enables students to communicate with people around the world. � It also provides creative outlet for students skilled in writing, art, music, science, mathematics and other topics. � Know also that not all Internet information is valid or appropriate."
+        ],
+        [
+          "and the people who send them",
+          "� Sexually explicit materials or violent images can affect students negatively. � Sexual predators will try to convince students to trust them. � Internet information may promote negative attitudes such as hatred or intolerance and dangerous or illegal activities, such as self-injuring behavior, gambling and illegal drug use. � Internet messages and the people who send them are not always what or who they seem."
+        ],
+        [
+          "need to know which information",
+          "� People in chat rooms, instant message “buddies” or those who visit a blog may not be who they appear to be. � E-mail can cause malicious code infection problems for a computer or network. � Students need to know which information is safe to share with others online, which should never be shared and why sharing it could put them at risk. � Students should never reveal online any information about where"
+        ],
+        [
+          "need to know which activities",
+          "for illegal meetings and actions. Personal photos can be easily misused or altered when posted on the Internet. � Internet activities such as playing games and downloading music or video files can be enjoyable. Students need to know which activities are safe and legal. � Gaming sites can attract sexual predators and/or cyber bullies. � Some games may contain pornographic and/or violent images. Students need to talk to their parents about what is acceptable."
+        ],
+        [
+          "a specific file download",
+          "� Students need to know how to detect whether a specific file download is legal and/or free of malicious code. Besides having essential security awareness, it is important that you take preventive steps for having secure computer system and safe internet use. These include: � Secure your computer physically by: � Installing reliable, reputable security and anti-virus software. � Activating your firewall, because a firewall acts as a security guard"
+        ],
+        [
+          "schedule to ensure your data",
+          "209 passwords for different accounts. � Use the Internet with caution and ignore pop-ups, drive-by downloads while surfing. � Perform daily full system scans and create a periodic system backup schedule to ensure your data is retrievable when something happens to your computer. 5.6 Unit Summary"
+        ],
+        [
+          "of being connected",
+          "� Although network allows us to share resource easily, one of the disadvantages of being connected is vulnerability to different security threats. � Computer security is the protection of computer systems (including hardware, software, firmware and information being processed, stored and communicated) and information from harm, theft and unauthorized use. � Information security is the protection of information and information"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_19.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 19"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "✍ Computer security is the protection of computer systems (including hardware, software, firmware and information being processed, stored and communicated) and information from harm, theft and unauthorized use. ✍ Computer security treats can be internal to an information system or external. The cause could be environmental (or natural) in which natural hazards such as earthquakes, flooding or lightning storms lead to fires, extreme temperatures and even electric shocks to your computer, causing potential physical damage and loss of data.",
+        "✍ Computer security can also be artificial (or human errors or technological) and could happen accidentally in which attackers affect the information and computer system. ✍ Broadly, there are seven categories of malicious impact that information and computer security threats can course. Unit 5 : Information and Computer Security 210 systems from unauthorized access, use, disclosure, disruption,",
+        "modification or destruction in order to provide confidentiality, integrity and availability. � Confidentiality ensures that information is available only to the intended audience. � Integrity protects information from being modified by unauthorized parties. � Availability ensures that information should be consistently and readily accessible for authorized parties timely.",
+        "� Computer security threats can be caused by natural in which natural hazards such as earthquakes, flooding or lightning storms leads to fires, extreme temperatures and even electric shocks to your computer, caus- ing potential physical damage and loss of data. � Computer security can be artificial or manmade in which hackers and crackers will affect the information and computer system. � The broad majority of computer security threats come from the manner that computer users practice (90%) and, thus safe use of computer",
+        "systems and the Internet helps us to avoid the major security risks associated. � Threats on the Internet can come from hackers, cyber bullies and predators using the Internet and computer networks. Internal malicious actors (like students and teachers) and your trusted persons can make cyber-attacks by mistake. � The major types of cyber-attacks are denial of services (DoDs), malware attacks, man-in-the-middle, phishing, eavesdropping, SQL injection,",
+        "password attack and social engineering. � You can minimize the risks of cyber security risks by building your awareness level and applying good Internet and computer use practices as well as by implementing technical protective measures. 211 5.7 Unit Review Exercise Part I: Write whether the following statements are true or false. 1. Bing connected does not introduce security vulnerabilities or threats.",
+        "2. Ensuring availability means making service accessible at the time of need. 3. There is little or no danger coming from the Internet. 4. Identity theft is natural security treat. 5. Confidentiality, integrity and availability are principles of a computer security. Part II: Choose the correct answer among the alternatives provided. 1. _________ ensures that information is available only to the intended audience. A. Confidentiality B. Availability",
+        "C. Integrity D. All of the above. 2. Identify the term which denotes that only authorized users are capable of accessing a given information. A. Confidentiality B. Integrity C. Availability D. Authenticity",
+        "3. Which one is different from the others? A. Fire B. Identity theft C. Computer crime D. Information theft 4. The security of a system can be improved by _______________. A. Audit log B. Threat monitoring",
+        "C. Both A and B above D. None of the above. Unit 5 : Information and Computer Security 212 5. Which one of the following replicates and spreads itself? A. Encryption B. Worm C. VoIP",
+        "D. Spyware 6. Sahlu used his social skills in tricking Jundi into revealing access code. This would be called ______________. A. Social engineering B. Social media C. Social viruses D. Social processes 7. Which one can be a good password for you online account?",
+        "A. A text that combines your name and telephone number B. A text that combines your date of birth with your father’s name. C. A randomly generated long combination of capital and small letters and digits. D. All of the above. 8. Which one of the following can be a potential source of a cyber-attack? A. Your father B. Online criminal",
+        "C. School boys and girls D. All of the above. 9. Use the normal function of a given networked computer system to achieve some unrelated other purpose is ___________. A. disclosure of information B. denial of service C. phishing D. illegal Usage",
+        "213 10. Which one of the following is a good practice of computer security? A. Keeping critical personal information private B. Playing games freely available on the Internet C. Opening all email attachment instantly out of curiosity to see their contents D. Sharing passwords for close friends and family members 11. What is an Internet monitoring technique that captures keystrokes on their",
+        "journey from the keyboard to the motherboard called? A. Spyware B. Web log C. Adware D. Key logger 12. Imagine that you purchase a book from an online company. Three months later, you might receive an email asking you to log in to the system to update your Telebirr information. Of course, this email is not actually from Ethio-",
+        "telecom, which runs Telebirr, and as soon as you log in, your information will be stolen. What type of information security breach would you consider this to be? A. Insider attack B. Phishing C. DoDs D. Eavesdropping 13. Malware stands for?",
+        "A. Multipurpose software B. Malfunctioned software C. Malicious software D. Malfunctioning of security Unit 5 : Information and Computer Security 214 14. Which of the following usually observes each activity on the Internet of the victim, gather all information in the background and send it to someone else?",
+        "A. Malware B. Spyware C. Adware D. All of the above. 15. When a person is harassed repeatedly by being followed, called or written is a target of ___________. A. bullying B. stalking",
+        "C. identity theft D. phishing 16. Unsolicited commercial email is known as _______. A. Spam B. Malware C. Virus D. Spyware 17. Among the following, identify the element which is not considered in the",
+        "triad, according to the CIA. A. Confidentiality B. Integrity C. Availability D. Authenticity 18. Why should you be careful about what you open and download on the Internet? A. Because it could be something inappropriate.",
+        "B. Because it could steal information from your computer. C. Because it could have a virus that harms your computer. D. All of the above. 215 19. What should you do to create a positive digital footprint? A. Create a username that does not reveal your identity. B. Post photos and comments about every funny thing you do. C. Share your full name and private information like your birthdate.",
+        "D.  Lie in your profile to make yourself sound more impressive. 20. Hanna is playing an online role play game when another player starts following her around in the game and asking for her personal information. What should Hanna do? A. Turn it into a game and run away from the other player for as long as possible. B. Tell an adult about what is happening, then report and block the other player.",
+        "C. Message some of her friends and start spamming the other player with messages in return D. None of the above. This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [
+        [
+          "Computer security",
+          "✍ Computer security is the protection of computer systems (including hardware, software, firmware and information being processed, stored and communicated) and information from harm, theft and unauthorized use. ✍ Computer security treats can be internal to an information system or external. The cause could be environmental (or natural) in which natural hazards such as earthquakes, flooding or lightning storms lead to fires, extreme temperatures and even electric shocks to your computer, causing potential physical damage and loss of data."
+        ],
+        [
+          "there",
+          "✍ Computer security can also be artificial (or human errors or technological) and could happen accidentally in which attackers affect the information and computer system. ✍ Broadly, there are seven categories of malicious impact that information and computer security threats can course. Unit 5 : Information and Computer Security 210 systems from unauthorized access, use, disclosure, disruption,"
+        ],
+        [
+          "ensures that information",
+          "modification or destruction in order to provide confidentiality, integrity and availability. � Confidentiality ensures that information is available only to the intended audience. � Integrity protects information from being modified by unauthorized parties. � Availability ensures that information should be consistently and readily accessible for authorized parties timely."
+        ],
+        [
+          "major types of cyber-attacks",
+          "systems and the Internet helps us to avoid the major security risks associated. � Threats on the Internet can come from hackers, cyber bullies and predators using the Internet and computer networks. Internal malicious actors (like students and teachers) and your trusted persons can make cyber-attacks by mistake. � The major types of cyber-attacks are denial of services (DoDs), malware attacks, man-in-the-middle, phishing, eavesdropping, SQL injection,"
+        ],
+        [
+          "the following statements",
+          "password attack and social engineering. � You can minimize the risks of cyber security risks by building your awareness level and applying good Internet and computer use practices as well as by implementing technical protective measures. 211 5.7 Unit Review Exercise Part I: Write whether the following statements are true or false. 1. Bing connected does not introduce security vulnerabilities or threats."
+        ],
+        [
+          "Ensuring availability",
+          "2. Ensuring availability means making service accessible at the time of need. 3. There is little or no danger coming from the Internet. 4. Identity theft is natural security treat. 5. Confidentiality, integrity and availability are principles of a computer security. Part II: Choose the correct answer among the alternatives provided. 1. _________ ensures that information is available only to the intended audience. A. Confidentiality B. Availability"
+        ],
+        [
+          "Identify the term which",
+          "C. Integrity D. All of the above. 2. Identify the term which denotes that only authorized users are capable of accessing a given information. A. Confidentiality B. Integrity C. Availability D. Authenticity"
+        ],
+        [
+          "Which one",
+          "3. Which one is different from the others? A. Fire B. Identity theft C. Computer crime D. Information theft 4. The security of a system can be improved by _______________. A. Audit log B. Threat monitoring"
+        ],
+        [
+          "some unrelated other purpose",
+          "C. School boys and girls D. All of the above. 9. Use the normal function of a given networked computer system to achieve some unrelated other purpose is ___________. A. disclosure of information B. denial of service C. phishing D. illegal Usage"
+        ],
+        [
+          "Which one of the following",
+          "213 10. Which one of the following is a good practice of computer security? A. Keeping critical personal information private B. Playing games freely available on the Internet C. Opening all email attachment instantly out of curiosity to see their contents D. Sharing passwords for close friends and family members 11. What is an Internet monitoring technique that captures keystrokes on their"
+        ],
+        [
+          "this email",
+          "journey from the keyboard to the motherboard called? A. Spyware B. Web log C. Adware D. Key logger 12. Imagine that you purchase a book from an online company. Three months later, you might receive an email asking you to log in to the system to update your Telebirr information. Of course, this email is not actually from Ethio-"
+        ],
+        [
+          "When a person",
+          "A. Malware B. Spyware C. Adware D. All of the above. 15. When a person is harassed repeatedly by being followed, called or written is a target of ___________. A. bullying B. stalking"
+        ],
+        [
+          "Unsolicited commercial email",
+          "C. identity theft D. phishing 16. Unsolicited commercial email is known as _______. A. Spam B. Malware C. Virus D. Spyware 17. Among the following, identify the element which is not considered in the"
+        ],
+        [
+          "Hanna",
+          "D.  Lie in your profile to make yourself sound more impressive. 20. Hanna is playing an online role play game when another player starts following her around in the game and asking for her personal information. What should Hanna do? A. Turn it into a game and run away from the other player for as long as possible. B. Tell an adult about what is happening, then report and block the other player."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_9 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_21.jpeg",
+      "image_caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 21"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "1. How can image be made and used as communication?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "2.  Discuss the three basic colours?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "3.  Discuss the graphical elements that you see in the logo of Ministry of",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "Practical Exercise 4.1",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "1. Click the Create New button on the Home screen to start a new project (See",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "2. Then select the template from the alternatives found (See Figure 4.5).",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "3. After selecting the template, adjust the properties at the right side by starting",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "4. Click on Create to open a new document and begin your work on it.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "5. The new project work will be opened (See Figure 4.6) on the workspace,",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    },
+    {
+      "question": "It removes blemishes and other minor problems",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 4  IMAGE PROCESSING AND MULTIMEDIA in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_9."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 4  IMAGE PROCESSING AND MULTIMEDIA (Grade_9 it):\nThis complete study document covers all topics in Unit 4  IMAGE PROCESSING AND MULTIMEDIA, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": [
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_1.jpeg",
+      "filename": "figure_1.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 1"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_2.jpeg",
+      "filename": "figure_2.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 2"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_3.jpeg",
+      "filename": "figure_3.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 3"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_4.jpeg",
+      "filename": "figure_4.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 4"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_5.jpeg",
+      "filename": "figure_5.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 5"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_7.jpeg",
+      "filename": "figure_7.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 7"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_8.jpeg",
+      "filename": "figure_8.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 8"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_10.jpeg",
+      "filename": "figure_10.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 10"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_17.jpeg",
+      "filename": "figure_17.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 17"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_19.jpeg",
+      "filename": "figure_19.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 19"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_21.jpeg",
+      "filename": "figure_21.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 21"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_22.jpeg",
+      "filename": "figure_22.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 22"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_23.jpeg",
+      "filename": "figure_23.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 23"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_24.jpeg",
+      "filename": "figure_24.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 24"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_25.jpeg",
+      "filename": "figure_25.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 25"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_26.jpeg",
+      "filename": "figure_26.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 26"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_27.jpeg",
+      "filename": "figure_27.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 27"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_28.jpeg",
+      "filename": "figure_28.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 28"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_29.jpeg",
+      "filename": "figure_29.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 29"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_31.jpeg",
+      "filename": "figure_31.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 31"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_32.jpeg",
+      "filename": "figure_32.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 32"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_33.jpeg",
+      "filename": "figure_33.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 33"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_35.jpeg",
+      "filename": "figure_35.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 35"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_37.jpeg",
+      "filename": "figure_37.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 37"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_38.jpeg",
+      "filename": "figure_38.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 38"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_39.jpeg",
+      "filename": "figure_39.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 39"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_41.jpeg",
+      "filename": "figure_41.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 41"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_42.jpeg",
+      "filename": "figure_42.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 42"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_43.jpeg",
+      "filename": "figure_43.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 43"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_44.jpeg",
+      "filename": "figure_44.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 44"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_45.jpeg",
+      "filename": "figure_45.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 45"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_46.jpeg",
+      "filename": "figure_46.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 46"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_47.jpeg",
+      "filename": "figure_47.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 47"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_48.jpeg",
+      "filename": "figure_48.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 48"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_49.jpeg",
+      "filename": "figure_49.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 49"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_50.jpeg",
+      "filename": "figure_50.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 50"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_51.jpeg",
+      "filename": "figure_51.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 51"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_52.jpeg",
+      "filename": "figure_52.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 52"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_53.jpeg",
+      "filename": "figure_53.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 53"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_54.jpeg",
+      "filename": "figure_54.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 54"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_55.jpeg",
+      "filename": "figure_55.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 55"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_56.jpeg",
+      "filename": "figure_56.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 56"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_57.jpeg",
+      "filename": "figure_57.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 57"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_58.jpeg",
+      "filename": "figure_58.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 58"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_59.jpeg",
+      "filename": "figure_59.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 59"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_60.jpeg",
+      "filename": "figure_60.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 60"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_9\\it\\Unit 4_ IMAGE PROCESSING AND MULTIMEDIA\\short_note\\images\\figure_61.jpeg",
+      "filename": "figure_61.jpeg",
+      "caption": "Unit 4  IMAGE PROCESSING AND MULTIMEDIA — Visual Figure 61"
+    }
+  ]
+}

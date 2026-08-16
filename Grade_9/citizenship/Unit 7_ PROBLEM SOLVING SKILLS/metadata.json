@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__problem_solving_skills",
-  "title": "Unit 7_ PROBLEM SOLVING SKILLS",
-  "description": "Unit 7_ PROBLEM SOLVING SKILLS for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_PROBLEM_SOLVING_SKILLS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ PROBLEM SOLVING SKILLS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ PROBLEM SOLVING SKILLS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

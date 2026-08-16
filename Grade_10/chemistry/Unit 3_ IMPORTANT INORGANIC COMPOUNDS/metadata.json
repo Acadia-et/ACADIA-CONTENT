@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__important_inorganic_compounds",
-  "title": "Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
-  "description": "Unit 3_ IMPORTANT INORGANIC COMPOUNDS for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_IMPORTANT_INORGANIC_COMPOUNDS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

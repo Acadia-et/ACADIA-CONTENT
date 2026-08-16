@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__environmental_hazards",
-  "title": "Unit 1_ ENVIRONMENTAL HAZARDS",
-  "description": "Unit 1_ ENVIRONMENTAL HAZARDS for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_ENVIRONMENTAL_HAZARDS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ ENVIRONMENTAL HAZARDS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ ENVIRONMENTAL HAZARDS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

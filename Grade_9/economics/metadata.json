@@ -1,15 +1,49 @@
 {
-  "id": "economics",
-  "title": "Economics",
-  "description": "Economics subject",
+  "id": "economics_Grade_9",
+  "grade": "Grade_9",
+  "subject": "economics",
+  "description": "Grade_9 Economics",
   "units": [
-    "Unit 1_ INTRODUCING ECONOMICS",
-    "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
-    "Unit 3_ ECONOMIC RESOURCES AND MARKETS",
-    "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
-    "Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
-    "Unit 6_ INTRODUCTION TO MONEY",
-    "Unit 7_ INTRODUCTION TO MACROECONOMICS",
-    "Unit 8_ BASIC ENTREPRENEURSHIP"
-  ]
+    {
+      "id": "Unit_1__INTRODUCING_ECONOMICS",
+      "title": "Unit 1_ INTRODUCING ECONOMICS",
+      "file": "Unit_1__INTRODUCING_ECONOMICS.json"
+    },
+    {
+      "id": "Unit_2__THE_BASIC_ECONOMIC_PROBLEMS_AND_ECONOMIC_SYSTEMS",
+      "title": "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
+      "file": "Unit_2__THE_BASIC_ECONOMIC_PROBLEMS_AND_ECONOMIC_SYSTEMS.json"
+    },
+    {
+      "id": "Unit_3__ECONOMIC_RESOURCES_AND_MARKETS",
+      "title": "Unit 3_ ECONOMIC RESOURCES AND MARKETS",
+      "file": "Unit_3__ECONOMIC_RESOURCES_AND_MARKETS.json"
+    },
+    {
+      "id": "Unit_4__INTRODUCTION_TO_DEMAND_AND_SUPPLY",
+      "title": "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
+      "file": "Unit_4__INTRODUCTION_TO_DEMAND_AND_SUPPLY.json"
+    },
+    {
+      "id": "Unit_5__INTRODUCTION_TO_PRODUCTION_AND_COST",
+      "title": "Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
+      "file": "Unit_5__INTRODUCTION_TO_PRODUCTION_AND_COST.json"
+    },
+    {
+      "id": "Unit_6__INTRODUCTION_TO_MONEY",
+      "title": "Unit 6_ INTRODUCTION TO MONEY",
+      "file": "Unit_6__INTRODUCTION_TO_MONEY.json"
+    },
+    {
+      "id": "Unit_7__INTRODUCTION_TO_MACROECONOMICS",
+      "title": "Unit 7_ INTRODUCTION TO MACROECONOMICS",
+      "file": "Unit_7__INTRODUCTION_TO_MACROECONOMICS.json"
+    },
+    {
+      "id": "Unit_8__BASIC_ENTREPRENEURSHIP",
+      "title": "Unit 8_ BASIC ENTREPRENEURSHIP",
+      "file": "Unit_8__BASIC_ENTREPRENEURSHIP.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/economics/textbook.pdf"
 }

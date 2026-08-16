@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__national_unity_through_diversity",
-  "title": "Unit 6_ NATIONAL UNITY THROUGH DIVERSITY",
-  "description": "Unit 6_ NATIONAL UNITY THROUGH DIVERSITY for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_NATIONAL_UNITY_THROUGH_DIVERSITY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ NATIONAL UNITY THROUGH DIVERSITY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ NATIONAL UNITY THROUGH DIVERSITY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

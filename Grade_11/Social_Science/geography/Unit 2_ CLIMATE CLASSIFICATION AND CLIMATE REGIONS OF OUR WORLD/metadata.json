@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__climate_classification_and_climate_regions_of_our_world",
-  "title": "Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
-  "description": "Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_CLIMATE_CLASSIFICATION_AND_CLIMATE_REGIONS_OF_OUR_WORLD",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

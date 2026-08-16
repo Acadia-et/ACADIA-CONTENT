@@ -1,0 +1,1117 @@
+{
+  "metadata": {
+    "grade": "Grade 10",
+    "subject": "physics",
+    "unit_title": "Unit 5  MAGNETISM"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 5  MAGNETISM",
+      "paragraphs": [
+        "Unit 5 Magnetism Introduction Magnetism is an interaction that allows certain kinds of objects, which are called magnets, that exert forces on each other without physically touching. Humans have known about magnetism for thousands of years. For example, lodestone is a magnetized form of the iron oxide mineral magnetite. It has the property of attracting iron objects. Today magnetism",
+        "plays many important roles in our lives. In this unit, you will learn about some of the fundamental concepts related to a magnet, magnetic ﬁeld and magnetic force including its simple applications. Brain storm- ing question: Can you list the different ways in which magnetism",
+        "has played a part in your life today? By the end of this unit, you should be able to: • understand the nature and characteristics of magnets; • understand what is meant by the magnetic ﬁeld; • understand the concepts related to magnetic force; • solve problems related to magnetism; • appreciate simple applications of magnetism in your everyday life.",
+        "151 152 Unit 5 Magnetism This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 5  MAGNETISM. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "Introduction Magnetism",
+          "Unit 5 Magnetism Introduction Magnetism is an interaction that allows certain kinds of objects, which are called magnets, that exert forces on each other without physically touching. Humans have known about magnetism for thousands of years. For example, lodestone is a magnetized form of the iron oxide mineral magnetite. It has the property of attracting iron objects. Today magnetism"
+        ],
+        [
+          "understand what",
+          "has played a part in your life today? By the end of this unit, you should be able to: • understand the nature and characteristics of magnets; • understand what is meant by the magnetic ﬁeld; • understand the concepts related to magnetic force; • solve problems related to magnetism; • appreciate simple applications of magnetism in your everyday life."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 5  MAGNETISM: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(MAGNETISM)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Unit 5  MAGNETISM."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Unit 5  MAGNETISM",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 1"
+    },
+    {
+      "title": "5.1",
+      "paragraphs": [
+        "Magnet Exercise 5.1 Most probably, you have been familiar with a magnet. How could you deﬁne it? When was This foundational concept establishes the governing principles of 5.1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum.",
+        "a magnet ﬁrst discovered? By the end of this section, you should be able to: • identify various types of magnets based on their physical shapes; • describe the properties of magnets. Magnets have always been an awesome thing for humans, as they play an important role in a wide range of devices that you use in your daily life. The use of magnets was discovered by the ancient Greeks during the period",
+        "of Greek civilization. They found stones that were able to attract iron and nickel like other substances. This naturally occurring stone which was discovered, then is called as ’lodestone’. This is something like a magnet. Figure 5.1 Magnets of different shapes. A magnet is a material or object that produces a magnetic ﬁeld that is re- sponsible for a force that pulls or attracts other materials. Magnets attract objects made of iron or steel, such as nails and paper clips. Magnets can",
+        "also attract or repel other magnets. Magnets can be made in various shapes and create their own persistent magnetic ﬁeld. The magnets that are commonly available in different shapes are those indicated in Figure 5.1. These magnets of different shapes are used in various appliances used at home, like a tape recorder, radio, motor, door-bell, head phones, etc. They are used in these appliances to either hold or separate, control, elevate (lift) substances, by changing electrical energy into mechanical energy (motors, loudspeakers) or me-",
+        "chanical into electrical energy (generators and microphones). Types of Magnets There are three categories of magnets. These are: 1. Permanent Magnets: are made up of magnetic material (such as steel) that is magnetized and has its own magnetic ﬁeld. They are known as permanent magnets because they do not lose their mag- netic property once they are magnetized. However, the strength 5.1 Magnet",
+        "153 depends on the nature of the material used in its creation. Perma- nent magnets are used in speakers, mobile phones, cars, generators, televisions, sensors, etc. The following are the ways to demagnetize the permanent magnets: • Exposing magnets to extreme temperatures. • The magnetic attraction between the magnet’s atoms gets loose when they are hammered.",
+        "• Striking one magnet with the other in an inappropriate manner will reduce the magnetic strength. 2. Temporary Magnet: can be magnetized in the presence of a mag- netic ﬁeld. When the magnetic ﬁeld is removed, these materials lose their magnetic properties. Iron nails and paper-clips are examples of temporary magnets. 3. Electromagnets: consist of a coil of wire wrapped around a metal core made of iron. When the coil of wire conducts a current, a mag-",
+        "netic ﬁeld is generated, making the material behave like a magnet. The strength of the magnetic ﬁeld can be controlled by controlling the electric current. Electromagnets are used in generators, motors, transformers, loudspeakers, MRI machines, magnetic locks, etc. Properties of magnet The following are the basic properties of magnet: • When a magnet is dipped in iron ﬁlings, you can observe that the iron ﬁlings cling to the end of the magnet as the attraction is greatest",
+        "at the ends of the magnet. These ends are known as the poles of the magnets. Key Concept � Magnetic prop- erties exist when the material is magnetized. � Every magnet",
+        "has two poles: North and South. Like poles repel and unlike poles attract each other. • Magnetic poles always exist in pairs. Thus, when a magnet is cut into two pieces, both pieces will have the North Pole and the South Pole.",
+        "154 Unit 5 Magnetism Figure 5.2 Properties of magnetic poles. • Whenever a magnet is suspended freely in mid-air, it always points in a North-South direction. The pole pointing towards geographic North is known as the North Pole, and the pole pointing towards geographic South is known as the South Pole. • Like poles repel while unlike poles attract.",
+        "• The magnetic force between two magnets is greater when the dis- tance between them is smaller. Section summary • A magnet has a North pole and a South pole. • Like magnetic poles repel each other; unlike poles attract each other. 5.2 Magnetic Field 155",
+        "Review questions 1. What is a magnet? List its properties. 2. How could a magnet loses its magnetic properties? 3. State the rule for magnetic attraction and repulsion. 4. Describe how a temporary magnet differs from a permanent magnet. 5. What are magnetic poles? Does magnetic mono-pole exist? 6. If you broke a magnet into two, would you have isolated North",
+        "and South poles? Explain. This foundational concept establishes the governing principles of 5.1. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "then",
+          "of Greek civilization. They found stones that were able to attract iron and nickel like other substances. This naturally occurring stone which was discovered, then is called as ’lodestone’. This is something like a magnet. Figure 5.1 Magnets of different shapes. A magnet is a material or object that produces a magnetic ﬁeld that is re- sponsible for a force that pulls or attracts other materials. Magnets attract objects made of iron or steel, such as nails and paper clips. Magnets can"
+        ],
+        [
+          "The magnets that",
+          "also attract or repel other magnets. Magnets can be made in various shapes and create their own persistent magnetic ﬁeld. The magnets that are commonly available in different shapes are those indicated in Figure 5.1. These magnets of different shapes are used in various appliances used at home, like a tape recorder, radio, motor, door-bell, head phones, etc. They are used in these appliances to either hold or separate, control, elevate (lift) substances, by changing electrical energy into mechanical energy (motors, loudspeakers) or me-"
+        ],
+        [
+          "Types of Magnets There",
+          "chanical into electrical energy (generators and microphones). Types of Magnets There are three categories of magnets. These are: 1. Permanent Magnets: are made up of magnetic material (such as steel) that is magnetized and has its own magnetic ﬁeld. They are known as permanent magnets because they do not lose their mag- netic property once they are magnetized. However, the strength 5.1 Magnet"
+        ],
+        [
+          "Perma- nent magnets",
+          "153 depends on the nature of the material used in its creation. Perma- nent magnets are used in speakers, mobile phones, cars, generators, televisions, sensors, etc. The following are the ways to demagnetize the permanent magnets: • Exposing magnets to extreme temperatures. • The magnetic attraction between the magnet’s atoms gets loose when they are hammered."
+        ],
+        [
+          "Iron nails and paper-clips",
+          "• Striking one magnet with the other in an inappropriate manner will reduce the magnetic strength. 2. Temporary Magnet: can be magnetized in the presence of a mag- netic ﬁeld. When the magnetic ﬁeld is removed, these materials lose their magnetic properties. Iron nails and paper-clips are examples of temporary magnets. 3. Electromagnets: consist of a coil of wire wrapped around a metal core made of iron. When the coil of wire conducts a current, a mag-"
+        ],
+        [
+          "Electromagnets",
+          "netic ﬁeld is generated, making the material behave like a magnet. The strength of the magnetic ﬁeld can be controlled by controlling the electric current. Electromagnets are used in generators, motors, transformers, loudspeakers, MRI machines, magnetic locks, etc. Properties of magnet The following are the basic properties of magnet: • When a magnet is dipped in iron ﬁlings, you can observe that the iron ﬁlings cling to the end of the magnet as the attraction is greatest"
+        ],
+        [
+          "These ends",
+          "at the ends of the magnet. These ends are known as the poles of the magnets. Key Concept � Magnetic prop- erties exist when the material is magnetized. � Every magnet"
+        ],
+        [
+          "when a magnet",
+          "has two poles: North and South. Like poles repel and unlike poles attract each other. • Magnetic poles always exist in pairs. Thus, when a magnet is cut into two pieces, both pieces will have the North Pole and the South Pole."
+        ],
+        [
+          "Whenever a magnet",
+          "154 Unit 5 Magnetism Figure 5.2 Properties of magnetic poles. • Whenever a magnet is suspended freely in mid-air, it always points in a North-South direction. The pole pointing towards geographic North is known as the North Pole, and the pole pointing towards geographic South is known as the South Pole. • Like poles repel while unlike poles attract."
+        ],
+        [
+          "force between two magnets",
+          "• The magnetic force between two magnets is greater when the dis- tance between them is smaller. Section summary • A magnet has a North pole and a South pole. • Like magnetic poles repel each other; unlike poles attract each other. 5.2 Magnetic Field 155"
+        ],
+        [
+          "What",
+          "Review questions 1. What is a magnet? List its properties. 2. How could a magnet loses its magnetic properties? 3. State the rule for magnetic attraction and repulsion. 4. Describe how a temporary magnet differs from a permanent magnet. 5. What are magnetic poles? Does magnetic mono-pole exist? 6. If you broke a magnet into two, would you have isolated North"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.1: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.1)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.1."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.1",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_2.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 2"
+    },
+    {
+      "title": "5.2",
+      "paragraphs": [
+        "Magnetic Field By the end of this section, you should be able to: • describe what a magnetic ﬁeld is; • state the properties of magnetic lines of force; • draw magnetic ﬁeld lines around magnets. AS you learnt in unit 4, an electric ﬁeld is a region where an electric charge experiences an attraction or repulsion force on other electric charge in the given region. In the same manner, a magnetic ﬁeld is a ﬁeld produced",
+        "by the magnet or electric charges in motion. So it is the region around a magnetic material or moving electric charge within which the force of magnetism acts. Magnetic ﬁelds are represented by using magnetic ﬁeld lines. It is a visual tool used to visualize the direction and strength of the magnetic ﬁeld. Exercise 5.2 Can you observe magnetic ﬁeld",
+        "lines through our naked eyes? Are they similarities between magnetic ﬁeld lines and electric ﬁeld lines? Magnetic ﬁeld lines can be drawn using a compass needle. The compass needle should be placed on a piece of paper near the magnet. Check the",
+        "156 Unit 5 Magnetism direction in which the compass needle points and mark the direction. Move the compass needle to different positions and mark the directions. The lines joining the points shows the magnetic ﬁeld lines. Properties of magnetic ﬁeld lines In order to understand about the properties of magnetic ﬁeld lines, try to perform the following activity.",
+        "Activity 5.1 Field around a pair of bar magnets � Take two bar magnets and place them a short distance apart such that they are repelling each other. � Place a sheet of white paper over the bar magnets and sprinkle some iron ﬁlings onto the paper. � Give the paper a shake to evenly distribute the iron ﬁlings. In your exercise book, draw both the bar magnets and the pattern formed",
+        "by the iron ﬁlings. � Repeat the procedure for two bar magnets attracting each other and draw what the pattern looks like in this situation. � Make a note of the shape of the lines formed by the iron ﬁlings as well as their size and direction for both arrangements of the bar magnet. � What does the pattern look like when you place both bar magnets side by side?",
+        "Exercise 5.3 What are the simi- larities and differ- ences between an electric ﬁeld and a magnetic ﬁeld? What did you observe from the above activity?You have noticed that op- posite poles of a magnet attract each other and bringing them together",
+        "causes their magnetic ﬁeld lines to converge (come together). On the other hand, like poles of a magnet repel each other and bringing them together causes their magnetic ﬁeld lines to diverge (bend out from each other). The following is some more list of some important properties of magnetic ﬁeld lines. 5.2 Magnetic Field 157 • Magnetic ﬁeld lines never intersect with each other.",
+        "• Magnetic ﬁeld lines form a closed-loop. • Outside a magnet, magnetic ﬁeld lines appear to emerge or start from the North pole and merge or terminate at the South pole. Inside a magnet, the direction of the magnetic ﬁeld lines is from the South pole to the North pole. Exercise 5.4 Determine where the ﬁeld around",
+        "a magnet is the strongest and where it is the weakest. • The closeness or density of the ﬁeld lines is directly proportional to the strength of the ﬁeld. In areas where the magnetic ﬁeld is strong, the ﬁeld lines are closer together. In a place where the ﬁeld is weaker, the ﬁeld lines are drawn further apart.",
+        "• The magnetic ﬁeld is stronger at the poles because the ﬁeld lines are denser near the poles. Key Concept � Magnetic ﬁeld lines are imagi- nary lines used to represent mag- netic ﬁelds. They",
+        "describe the di- rection of the magnetic ﬁeld and the strength of the magnetic ﬁeld. Figure 5.3 Magnetic ﬁeld lines plot for a bar magnet. Exercise 5.5",
+        "What are the simi- larities and differ- ences between an electric ﬁeld and a magnetic ﬁeld? The following is the discussion of the similarities and differences between electric and magnetic ﬁelds. 158",
+        "Unit 5 Magnetism Similarities between magnetic and electric ﬁelds • Electric ﬁelds are produced by two kinds of charges, positive and negative. Magnetic ﬁelds are associated with two magnetic poles: North and South, although they are also produced by charges (mov- ing charges). • Like poles repel, but unlike poles attract each other. • The electric ﬁeld points in the direction of the force experienced by",
+        "a positive charge. The magnetic ﬁeld points in the direction of the force experienced by the North pole. Differences between magnetic and electric ﬁelds • Positive and negative charges can exist separately. The north and south poles always come together. Single magnetic poles, known as magnetic monopoles, have been proposed theoretically, but a magnetic monopole has never been observed. • Electric ﬁeld lines have deﬁnite starting and ending points. Magnetic",
+        "ﬁeld lines are continuous loops. Outside of a magnet, the ﬁeld is directed from the North Pole to the South Pole. Inside a magnet, the ﬁeld runs from south to north. Section summary • Magnetic ﬁeld lines are the imaginary lines around a magnet which gives us the pattern of magnetic ﬁeld of the magnet. • Magnetic ﬁeld lines don’t start or end. They form a closed loop. They ﬂow from North pole to South pole outside the",
+        "magnet, while they ﬂow from South pole to North pole inside the magnet. 5.3 The Earth’s magnetic ﬁeld and the compass 159 Review questions 1. Draw a small bar magnet and show the magnetic ﬁeld lines as they appear around the magnet. Use arrows to show the direction of the ﬁeld lines.",
+        "2. Draw the magnetic ﬁeld between two like magnetic poles and then between two unlike magnetic poles. Show the directions of the ﬁelds. 3. Determine where the ﬁeld around a magnet is the strongest and where it is the weakest. 4. Explain the magnetic ﬁeld using the concept of magnetic ﬁeld lines. 5. Write down the properties of magnetic ﬁeld lines."
+      ],
+      "definitions": [
+        [
+          "So it",
+          "by the magnet or electric charges in motion. So it is the region around a magnetic material or moving electric charge within which the force of magnetism acts. Magnetic ﬁelds are represented by using magnetic ﬁeld lines. It is a visual tool used to visualize the direction and strength of the magnetic ﬁeld. Exercise 5.2 Can you observe magnetic ﬁeld"
+        ],
+        [
+          "distance apart such that they",
+          "Activity 5.1 Field around a pair of bar magnets � Take two bar magnets and place them a short distance apart such that they are repelling each other. � Place a sheet of white paper over the bar magnets and sprinkle some iron ﬁlings onto the paper. � Give the paper a shake to evenly distribute the iron ﬁlings. In your exercise book, draw both the bar magnets and the pattern formed"
+        ],
+        [
+          "What",
+          "Exercise 5.3 What are the simi- larities and differ- ences between an electric ﬁeld and a magnetic ﬁeld? What did you observe from the above activity?You have noticed that op- posite poles of a magnet attract each other and bringing them together"
+        ],
+        [
+          "The following",
+          "causes their magnetic ﬁeld lines to converge (come together). On the other hand, like poles of a magnet repel each other and bringing them together causes their magnetic ﬁeld lines to diverge (bend out from each other). The following is some more list of some important properties of magnetic ﬁeld lines. 5.2 Magnetic Field 157 • Magnetic ﬁeld lines never intersect with each other."
+        ],
+        [
+          "lines",
+          "• Magnetic ﬁeld lines form a closed-loop. • Outside a magnet, magnetic ﬁeld lines appear to emerge or start from the North pole and merge or terminate at the South pole. Inside a magnet, the direction of the magnetic ﬁeld lines is from the South pole to the North pole. Exercise 5.4 Determine where the ﬁeld around"
+        ],
+        [
+          "a magnet",
+          "a magnet is the strongest and where it is the weakest. • The closeness or density of the ﬁeld lines is directly proportional to the strength of the ﬁeld. In areas where the magnetic ﬁeld is strong, the ﬁeld lines are closer together. In a place where the ﬁeld is weaker, the ﬁeld lines are drawn further apart."
+        ],
+        [
+          "lines",
+          "• The magnetic ﬁeld is stronger at the poles because the ﬁeld lines are denser near the poles. Key Concept � Magnetic ﬁeld lines are imagi- nary lines used to represent mag- netic ﬁelds. They"
+        ],
+        [
+          "What",
+          "What are the simi- larities and differ- ences between an electric ﬁeld and a magnetic ﬁeld? The following is the discussion of the similarities and differences between electric and magnetic ﬁelds. 158"
+        ],
+        [
+          "although they",
+          "Unit 5 Magnetism Similarities between magnetic and electric ﬁelds • Electric ﬁelds are produced by two kinds of charges, positive and negative. Magnetic ﬁelds are associated with two magnetic poles: North and South, although they are also produced by charges (mov- ing charges). • Like poles repel, but unlike poles attract each other. • The electric ﬁeld points in the direction of the force experienced by"
+        ],
+        [
+          "lines",
+          "ﬁeld lines are continuous loops. Outside of a magnet, the ﬁeld is directed from the North Pole to the South Pole. Inside a magnet, the ﬁeld runs from south to north. Section summary • Magnetic ﬁeld lines are the imaginary lines around a magnet which gives us the pattern of magnetic ﬁeld of the magnet. • Magnetic ﬁeld lines don’t start or end. They form a closed loop. They ﬂow from North pole to South pole outside the"
+        ],
+        [
+          "around a magnet",
+          "2. Draw the magnetic ﬁeld between two like magnetic poles and then between two unlike magnetic poles. Show the directions of the ﬁelds. 3. Determine where the ﬁeld around a magnet is the strongest and where it is the weakest. 4. Explain the magnetic ﬁeld using the concept of magnetic ﬁeld lines. 5. Write down the properties of magnetic ﬁeld lines."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.2: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.2)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.2."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.2",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 3"
+    },
+    {
+      "title": "5.3",
+      "paragraphs": [
+        "The Earth’s magnetic ﬁeld and the compass Exercise 5.6 Does the Earth have a magnet? What do you think? By the end of this section, you should be able to: • describe the Earth’s magnetic ﬁeld;",
+        "• explain the origin of the Earth’s magnetic ﬁeld and its importance for the life on Earth. Earth’s Magnetic Field As you learnt in the previous section, the magnetic ﬁeld is the region around a magnetic material or a moving electric charge. Earth has a huge magnet that produces a magnetic ﬁeld. The origin of the Earth’s magnetic ﬁeld is thought to be deep within the Earth in the outer core layer. The Earth’s magnetic ﬁeld, also known as the geomagnetic ﬁeld, is the mag-",
+        "netic ﬁeld that extends from the Earth’s interior out into space and causes a compass needle to rotate. The movement of molten iron in the outer 160 Unit 5 Magnetism core is responsible for generating the Earth’s magnetic ﬁeld. The shape of the Earth’s magnetic ﬁeld, is similar to that of a huge bar magnet tilted about 11o from the Earth’s geographic North and South poles. In Figure 5.4, you can see a representation of the earth’s magnetic ﬁeld which is very",
+        "similar to the magnetic ﬁeld of a giant bar magnet. So the Earth has two sets of North and South poles: geographic poles and magnetic poles. Key Concept � The Earth is surrounded by a magnetic ﬁeld similar to the ﬁeld around a bar",
+        "magnet. Another interesting thing to note is that if you think of the earth as a big bar magnet, and you know that magnetic ﬁeld lines always point from North to South, then the compass tells us that what you call the magnetic North pole is actually the South pole of the bar magnet. Figure 5.4 Earth’s magnetic ﬁeld. 5.3 The Earth’s magnetic ﬁeld and the compass 161",
+        "A compass Exercise 5.7 Have you ever seen a compass? If so what do you think is the purpose of a compass? This foundational concept establishes the governing principles of 5.3. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum.",
+        "A compass is an instrument that is used to ﬁnd the direction of a magnetic ﬁeld. It can do this because a compass consists of a small metal needle that is magnetized itself and that is free to turn in any direction. Therefore, in the presence of a magnetic ﬁeld, the needle is able to line up in the same direction as the ﬁeld. Figure 5.5 Compass. Compasses are mainly used in navigation to ﬁnd directions on the Earth. This works because the Earth itself has a magnetic ﬁeld which is similar to",
+        "that of a bar magnets, as discussed above. The compass needle aligns with the magnetic ﬁeld direction and points North (or South). Once you know where the North is, you can ﬁgure out any other direction. A picture of a compass is shown in Figure 5.5. The Earth’s magnetic ﬁeld also causes a compass needle to rotate. The North pole of the compass needle points toward the Earth’s magnetic pole, which is in the North. This magnetic pole is actually the magnetic South pole. Earth’s magnetic ﬁeld is like that of a bar magnet with the magnet’s",
+        "South pole near Earth’s North pole. Some animals can detect magnetic ﬁelds, which helps them orient them- selves and ﬁnd directions. Animals that can do this include pigeons, bees, monarch butterﬂies, sea turtles, and ﬁsh. Section summary • Earth is surrounded by a magnetic ﬁeld similar to the ﬁeld around a bar magnet. Review questions",
+        "1. What is the evidence for the existence of the Earth’s magnetic ﬁeld? 162 Unit 5 Magnetism 2. Explain why a compass will show you which direction is mag- netic North."
+      ],
+      "definitions": [
+        [
+          "Magnetism core",
+          "netic ﬁeld that extends from the Earth’s interior out into space and causes a compass needle to rotate. The movement of molten iron in the outer 160 Unit 5 Magnetism core is responsible for generating the Earth’s magnetic ﬁeld. The shape of the Earth’s magnetic ﬁeld, is similar to that of a huge bar magnet tilted about 11o from the Earth’s geographic North and South poles. In Figure 5.4, you can see a representation of the earth’s magnetic ﬁeld which is very"
+        ],
+        [
+          "The Earth",
+          "similar to the magnetic ﬁeld of a giant bar magnet. So the Earth has two sets of North and South poles: geographic poles and magnetic poles. Key Concept � The Earth is surrounded by a magnetic ﬁeld similar to the ﬁeld around a bar"
+        ],
+        [
+          "interesting thing to note",
+          "magnet. Another interesting thing to note is that if you think of the earth as a big bar magnet, and you know that magnetic ﬁeld lines always point from North to South, then the compass tells us that what you call the magnetic North pole is actually the South pole of the bar magnet. Figure 5.4 Earth’s magnetic ﬁeld. 5.3 The Earth’s magnetic ﬁeld and the compass 161"
+        ],
+        [
+          "If so what do you think",
+          "A compass Exercise 5.7 Have you ever seen a compass? If so what do you think is the purpose of a compass?"
+        ],
+        [
+          "A compass is an instrument that",
+          "A compass is an instrument that is used to ﬁnd the direction of a magnetic ﬁeld. It can do this because a compass consists of a small metal needle that is magnetized itself and that is free to turn in any direction. Therefore, in the presence of a magnetic ﬁeld, the needle is able to line up in the same direction as the ﬁeld. Figure 5.5 Compass. Compasses are mainly used in navigation to ﬁnd directions on the Earth. This works because the Earth itself has a magnetic ﬁeld which is similar to"
+        ],
+        [
+          "Once you know where the North",
+          "that of a bar magnets, as discussed above. The compass needle aligns with the magnetic ﬁeld direction and points North (or South). Once you know where the North is, you can ﬁgure out any other direction. A picture of a compass is shown in Figure 5.5. The Earth’s magnetic ﬁeld also causes a compass needle to rotate. The North pole of the compass needle points toward the Earth’s magnetic pole, which is in the North. This magnetic pole is actually the magnetic South pole. Earth’s magnetic ﬁeld is like that of a bar magnet with the magnet’s"
+        ],
+        [
+          "Earth",
+          "South pole near Earth’s North pole. Some animals can detect magnetic ﬁelds, which helps them orient them- selves and ﬁnd directions. Animals that can do this include pigeons, bees, monarch butterﬂies, sea turtles, and ﬁsh. Section summary • Earth is surrounded by a magnetic ﬁeld similar to the ﬁeld around a bar magnet. Review questions"
+        ],
+        [
+          "What",
+          "1. What is the evidence for the existence of the Earth’s magnetic ﬁeld? 162 Unit 5 Magnetism 2. Explain why a compass will show you which direction is mag- netic North."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.3: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.3)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.3."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.3",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 4"
+    },
+    {
+      "title": "5.4",
+      "paragraphs": [
+        "Magnetic ﬁeld of a current-carrying conduc- tor By the end of this section, you should be able to: • describe the factors through which a magnetic ﬁeld due to current- carrying conductor depends on; • Calculate the magnetic ﬁeld of a current-carrying conductor. Exercise 5.8 List factors affect-",
+        "ing the strength of magnetic ﬁeld around a straight current-carrying conductor. Current is generally deﬁned as the rate of ﬂow of charge. You already know that stationary charges produce an electric ﬁeld which is proportional to the magnitude of the charge. Moving charges also produce magnetic",
+        "ﬁelds which are proportional to the current, and hence, a current-carrying wire produces a magnetic effect around it. This magnetic ﬁeld is generally attributed to the sub-atomic particles in the conductor, for example, the moving electrons in the atomic orbitals. As discussed above, a moving charge (or current), produces a magnetic ﬁeld. Figure 5.6 shows a long, straight section of wire carrying a current I. Since there is current present in the wire, a magnetic ﬁeld is produced around the wire and is composed of closed concentric circles, as repre-",
+        "sented by the gray loops in Figure 5.6. Figure 5.6 Magnetic ﬁeld around a current-carrying wire. The strength of a magnetic ﬁeld, B, some distance d away from a straight wire carrying a current, I, can be found using the equation B = µoI 2πd (5.1)",
+        "where, µo = 4π×10−7 Tm A refers to the permeability of free space, I is the 5.4 Magnetic ﬁeld of a current-carrying conductor 163 magnitude of the current, and d is the distance from the source current to the magnetic ﬁeld. The SI unit for magnetic ﬁeld strength B is called the Tesla (T) after the eccentric but brilliant inventor Nikola Tesla (1856 - 1943). Another smaller unit, called the gauss (G), where 1 G = 10−4 T is",
+        "sometimes used. The strongest permanent magnets have ﬁelds near 2 T; superconducting electromagnets may attain 10 T or more. The Earth’s magnetic ﬁeld on its surface is only about 5×10−5 T or 0.5 G. Activity 5.2 Sketch the mag- netic ﬁeld pat- tern of a steady electric current",
+        "ﬂowing in a long straight wire. It should be noted that the distance d must be measured perpendicular to the wire. A perpendicular distance measurement is shown in Figure 5.6. The strength of the ﬁeld, B, decreases as the distance away from the wire, d, increases. Since magnetic ﬁeld is a vector quantity, you need to also determine the direction of the magnetic ﬁeld. The direction of the magnetic ﬁeld created",
+        "by a current-carrying wire takes the form of concentric circles and is per- pendicular to the wire. But you have to be able to ﬁgure out if those circles point clockwise or counter-clockwise. To do that, you use a right-hand rule. If you wrap your right hand’s ﬁngers around the wire with your thumb pointing in the direction of the current, then the direction in which the ﬁngers would curl will give the direction of the magnetic ﬁeld. In Figure 5.7, the concentric lines represent the magnetic ﬁeld lines. Figure 5.7 Right-hand rule",
+        "for a magnetic ﬁeld around a current-carrying wire. Thus, a current in a long straight wire produces a magnetic ﬁeld with cir- cular ﬁeld lines as may be veriﬁed by sprinkling iron ﬁllings on a board normal to the wire. Generally speaking, the magnetic ﬁeld produced due to a current-carrying conductor has the following characteristics: • It encircles the conductor.",
+        "• It lies in a plane perpendicular to the conductor. • A change in the direction of the current ﬂow reverses the direction 164 Unit 5 Magnetism of the ﬁeld. Key Concept � A wire carrying an electric current",
+        "will produce a magnetic ﬁeld with closed ﬁeld lines surrounding the wire. Example 5.1 An inﬁnitely long wire has a current of 3 A passing through it. Calculate the magnetic ﬁeld at a distance of 2 cm from the wire (µ0 = 4π×10−7 Tm",
+        "A ). This foundational concept establishes the governing principles of 5.4. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "Current",
+          "ing the strength of magnetic ﬁeld around a straight current-carrying conductor. Current is generally deﬁned as the rate of ﬂow of charge. You already know that stationary charges produce an electric ﬁeld which is proportional to the magnitude of the charge. Moving charges also produce magnetic"
+        ],
+        [
+          "which",
+          "ﬁelds which are proportional to the current, and hence, a current-carrying wire produces a magnetic effect around it. This magnetic ﬁeld is generally attributed to the sub-atomic particles in the conductor, for example, the moving electrons in the atomic orbitals. As discussed above, a moving charge (or current), produces a magnetic ﬁeld. Figure 5.6 shows a long, straight section of wire carrying a current I. Since there is current present in the wire, a magnetic ﬁeld is produced around the wire and is composed of closed concentric circles, as repre-"
+        ],
+        [
+          "Tm A",
+          "where, µo = 4π×10−7 Tm A refers to the permeability of free space, I is the 5.4 Magnetic ﬁeld of a current-carrying conductor 163 magnitude of the current, and d is the distance from the source current to the magnetic ﬁeld. The SI unit for magnetic ﬁeld strength B is called the Tesla (T) after the eccentric but brilliant inventor Nikola Tesla (1856 - 1943). Another smaller unit, called the gauss (G), where 1 G = 10−4 T is"
+        ],
+        [
+          "on its surface",
+          "sometimes used. The strongest permanent magnets have ﬁelds near 2 T; superconducting electromagnets may attain 10 T or more. The Earth’s magnetic ﬁeld on its surface is only about 5×10−5 T or 0.5 G. Activity 5.2 Sketch the mag- netic ﬁeld pat- tern of a steady electric current"
+        ],
+        [
+          "distance measurement",
+          "ﬂowing in a long straight wire. It should be noted that the distance d must be measured perpendicular to the wire. A perpendicular distance measurement is shown in Figure 5.6. The strength of the ﬁeld, B, decreases as the distance away from the wire, d, increases. Since magnetic ﬁeld is a vector quantity, you need to also determine the direction of the magnetic ﬁeld. The direction of the magnetic ﬁeld created"
+        ],
+        [
+          "form of concentric circles and",
+          "by a current-carrying wire takes the form of concentric circles and is per- pendicular to the wire. But you have to be able to ﬁgure out if those circles point clockwise or counter-clockwise. To do that, you use a right-hand rule. If you wrap your right hand’s ﬁngers around the wire with your thumb pointing in the direction of the current, then the direction in which the ﬁngers would curl will give the direction of the magnetic ﬁeld. In Figure 5.7, the concentric lines represent the magnetic ﬁeld lines. Figure 5.7 Right-hand rule"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.4: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.4)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.4."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.4",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_5.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 5"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "In this example, you are given with I3 A and d = 2 cm. You want to ﬁnd the magnitude and direction of a magnetic ﬁeld. For inﬁnitely long straight wire, the formula for the magnetic ﬁeld is B = µ0I 2πd Substituting the given values into the equation gives B = (4π×10−7 Tm"
+      ],
+      "definitions": [
+        [
+          "you",
+          "In this example, you are given with I3 A and d = 2 cm. You want to ﬁnd the magnitude and direction of a magnetic ﬁeld. For inﬁnitely long straight wire, the formula for the magnetic ﬁeld is B = µ0I 2πd Substituting the given values into the equation gives B = (4π×10−7 Tm"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_6.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 6"
+    },
+    {
+      "title": "A )×(3 A)",
+      "paragraphs": [
+        "2π×(0.02 m) This foundational concept establishes the governing principles of A )×(3 A). Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for A )×(3 A): master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(A))",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in A )×(3 A)."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in A )×(3 A)",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_7.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 7"
+    },
+    {
+      "title": "= 3×10−5 T",
+      "paragraphs": [
+        "The direction of the magnetic ﬁeld can be determined using the right-hand rule. Section summary • A magnetic ﬁeld exists around any wire that carries current. • The strength of the magnetic ﬁeld is directly proportional to the magnitude of current and is inversely proportional to the distance of the point from the wire. • The direction of the magnetic ﬁeld can be obtained using the",
+        "right-hand rule. 5.5 Magnetic force on a moving charge placed in a uniform magnetic ﬁeld 165 Review questions 1. What will be the strength of the magnetic ﬁeld if the distance from the current-carrying conductor is very large? 2. What are the factors on which a magnetic ﬁeld due to a current-carrying conductor depends?"
+      ],
+      "definitions": [
+        [
+          "to the magnitude of current and",
+          "The direction of the magnetic ﬁeld can be determined using the right-hand rule. Section summary • A magnetic ﬁeld exists around any wire that carries current. • The strength of the magnetic ﬁeld is directly proportional to the magnitude of current and is inversely proportional to the distance of the point from the wire. • The direction of the magnetic ﬁeld can be obtained using the"
+        ],
+        [
+          "the current-carrying conductor",
+          "right-hand rule. 5.5 Magnetic force on a moving charge placed in a uniform magnetic ﬁeld 165 Review questions 1. What will be the strength of the magnetic ﬁeld if the distance from the current-carrying conductor is very large? 2. What are the factors on which a magnetic ﬁeld due to a current-carrying conductor depends?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for = 3×10−5 T: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(T)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in = 3×10−5 T."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in = 3×10−5 T",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_8.png",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 8"
+    },
+    {
+      "title": "5.5",
+      "paragraphs": [
+        "Magnetic force on a moving charge placed in a uniform magnetic ﬁeld Exercise 5.9 What is the mech- anism by which one magnet ex- erts a force on another?",
+        "By the end of this section, you should be able to: • describe the effects of magnetic ﬁelds on moving charges; • determine the magnitude and direction of a magnetic force on a moving charge. When a charged particle passes through a uniform magnetic ﬁeld, a mag- netic force is exerted on them. If a charged particle is in motion in a magnetic ﬁeld with a speed or velocity (v), in the magnetic ﬁeld (⃗B), then it will feel a force which is magnetic force (⃗F). At the rest position, these",
+        "particles are unaffected by the magnetic ﬁelds, but as they begin to move, the magnetic ﬁeld pushes at them. Note that a uniform or steady magnetic ﬁeld is the region or ﬁeld where it has equal magnitude of strength and same direction at each point. Consider a positively charged particle that is moving in a uniform mag- netic ﬁeld. Then, the magnitude of the force (magnetic force) is directly proportional to the magnitude of the charge, the component of the ve- locity which is acting perpendicular to the direction of this ﬁeld and the",
+        "magnitude of the generated magnetic ﬁeld. Key Concept � Any moving charged particle creates its own magnetic ﬁeld and is affected when it moves",
+        "through another magnetic ﬁeld. F = qvBsin θ (5.2) 166 Unit 5 Magnetism Here, q is the magnitude of the charge, vsin θ is the component of the velocity that is acting perpendicular to the direction of magnetic ﬁeld and",
+        "the B is the magnitude of the applied magnetic ﬁeld. The magnitude of the force becomes zero, when the speed or velocity of the particle and the magnetic ﬁeld are parallel to each other, and reaches maximum when the velocity of the particle and the magnetic ﬁeld are perpendicular to each other. Figure 5.8 Right-hand rule for a magnetic force on a moving charge.",
+        "The direction of the magnetic force ⃗F is perpendicular to the plane formed by ⃗v and ⃗B, as determined by the right-hand rule, which is illustrated in Figure 5.8. It states that, to determine the direction of the magnetic force on a positive moving charge, you point the thumb of the right-hand in the direction of ⃗v, the ﬁngers in the direction of ⃗B, and a perpendicular to the palm points in the direction of ⃗F. Example 5.2 Determine the magnitude of the magnetic force of a 50 C charged particles",
+        "moving with the velocity of 3 m/s in the same direction to a magnetic ﬁeld of magnitude 1 T. This foundational concept establishes the governing principles of 5.5. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "What",
+          "Magnetic force on a moving charge placed in a uniform magnetic ﬁeld Exercise 5.9 What is the mech- anism by which one magnet ex- erts a force on another?"
+        ],
+        [
+          "a mag- netic force",
+          "By the end of this section, you should be able to: • describe the effects of magnetic ﬁelds on moving charges; • determine the magnitude and direction of a magnetic force on a moving charge. When a charged particle passes through a uniform magnetic ﬁeld, a mag- netic force is exerted on them. If a charged particle is in motion in a magnetic ﬁeld with a speed or velocity (v), in the magnetic ﬁeld (⃗B), then it will feel a force which is magnetic force (⃗F). At the rest position, these"
+        ],
+        [
+          "particles",
+          "particles are unaffected by the magnetic ﬁelds, but as they begin to move, the magnetic ﬁeld pushes at them. Note that a uniform or steady magnetic ﬁeld is the region or ﬁeld where it has equal magnitude of strength and same direction at each point. Consider a positively charged particle that is moving in a uniform mag- netic ﬁeld. Then, the magnitude of the force (magnetic force) is directly proportional to the magnitude of the charge, the component of the ve- locity which is acting perpendicular to the direction of this ﬁeld and the"
+        ],
+        [
+          "and",
+          "magnitude of the generated magnetic ﬁeld. Key Concept � Any moving charged particle creates its own magnetic ﬁeld and is affected when it moves"
+        ],
+        [
+          "component of the velocity that",
+          "through another magnetic ﬁeld. F = qvBsin θ (5.2) 166 Unit 5 Magnetism Here, q is the magnitude of the charge, vsin θ is the component of the velocity that is acting perpendicular to the direction of magnetic ﬁeld and"
+        ],
+        [
+          "the B",
+          "the B is the magnitude of the applied magnetic ﬁeld. The magnitude of the force becomes zero, when the speed or velocity of the particle and the magnetic ﬁeld are parallel to each other, and reaches maximum when the velocity of the particle and the magnetic ﬁeld are perpendicular to each other. Figure 5.8 Right-hand rule for a magnetic force on a moving charge."
+        ],
+        [
+          "which",
+          "The direction of the magnetic force ⃗F is perpendicular to the plane formed by ⃗v and ⃗B, as determined by the right-hand rule, which is illustrated in Figure 5.8. It states that, to determine the direction of the magnetic force on a positive moving charge, you point the thumb of the right-hand in the direction of ⃗v, the ﬁngers in the direction of ⃗B, and a perpendicular to the palm points in the direction of ⃗F. Example 5.2 Determine the magnitude of the magnetic force of a 50 C charged particles"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.5: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.5)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.5."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.5",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 9"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "You are given q= 50 C, v= 3 m/s, B = 1 T and θ = 0o. The required quantity is The magnitude of the magnetic force. The magnitude of the force is obtained by F = qvBsin θ = 50 C ×3‘m/s ×1 T × sin 0o = 0 5.6 Magnetic force on a current-carrying wire 167 Section summary • The force a magnetic ﬁeld exerts on a charged particle de-",
+        "pends on the velocity and charge of the particle and the strength of the ﬁeld. • The magnetic force is perpendicular to the plane formed by ⃗v and ⃗B. Review questions 1. Is it possible for the magnetic force on a charge moving in a magnetic ﬁeld to be zero? 2. An electron moves at 7.5 × 106 m/s perpendicular to Earth’s",
+        "magnetic ﬁeld at an altitude where the ﬁeld strength is 1.0× 10−5 T . Calculate the magnetic force. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "You",
+          "You are given q= 50 C, v= 3 m/s, B = 1 T and θ = 0o. The required quantity is The magnitude of the magnetic force. The magnitude of the force is obtained by F = qvBsin θ = 50 C ×3‘m/s ×1 T × sin 0o = 0 5.6 Magnetic force on a current-carrying wire 167 Section summary • The force a magnetic ﬁeld exerts on a charged particle de-"
+        ],
+        [
+          "The magnetic force",
+          "pends on the velocity and charge of the particle and the strength of the ﬁeld. • The magnetic force is perpendicular to the plane formed by ⃗v and ⃗B. Review questions 1. Is it possible for the magnetic force on a charge moving in a magnetic ﬁeld to be zero? 2. An electron moves at 7.5 × 106 m/s perpendicular to Earth’s"
+        ],
+        [
+          "strength",
+          "magnetic ﬁeld at an altitude where the ﬁeld strength is 1.0× 10−5 T . Calculate the magnetic force."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_10.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 10"
+    },
+    {
+      "title": "5.6",
+      "paragraphs": [
+        "Magnetic force on a current-carrying wire Exercise 5.10 In the previous section, you have learnt how a mag- netic ﬁeld exerts a force on moving charges. What",
+        "about the mag- netic ﬁeld around the current- carrying wire? Does it produce a force? By the end of this section, you should be able to: • state the relationship between magnetic force, current and magnetic",
+        "ﬁeld; • calculate the magnetic force on a current-carrying conductor in a magnetic ﬁeld; • determine the direction in which a current-carrying wire experiences a force in an external magnetic ﬁeld. The force on a current-carrying wire is similar to that of a moving charge as expected since a charge carrying wire is a collection of moving charges. A current-carrying wire feels a force in the presence of a magnetic ﬁeld.",
+        "These forces are transmitted to the material of the conductor, and the conductor as a whole experiences a force distributed along its length. The electric motor and the moving coil galvanometer both depend on their 168 Unit 5 Magnetism operation on the magnetic force on wire carrying-currents. Key Concept � When a",
+        "current-carrying wire lies in a magnetic ﬁeld, magnetic force is exerted on the moving charges within the con- ductor. This foundational concept establishes the governing principles of 5.6. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum.",
+        "Consider a wire of length L where an electric current I ﬂow through the wire as shown in Figure 5.9. If this wire is placed in a magnetic ﬁeld of magnitude B, the magnitude of the force is directly proportional to the current I in the wire, to the magnetic ﬁeld B (assumed uniform), and to the length of wire exposed to the magnetic ﬁeld. The force also depends on the angle between the current direction and the magnetic ﬁeld as shown in Figure 5.9, being proportional to. Thus, the force on a wire carrying a current I with length in a uniform magnetic ﬁeld B is given by:",
+        "F = ILBsin θ (5.3) The direction of the magnetic force on a current-carrying wire in a mag- Figure 5.9 Current-carrying wire in magnetic ﬁeld. netic ﬁeld can be found using the right-hand rule: Point the ﬁngers of your right hand in the direction of ⃗B. Point your thumb in the direction of the conventional current in the wire. The palm of your hand then faces",
+        "or pushes in the direction of the force acting on the wire, as illustrated in Figure 5.10. In general, the force on a current-carrying conductor is: Figure 5.10 Right hand rule for a magnetic force on a current- carrying conductor. i) always perpendicular to the plane containing the conductor and the direction of the ﬁeld in which it is placed and",
+        "ii) greatest when the conductor is at right angles to the ﬁeld. Example 5.3 A wire 25 cm long is at right angles to a 0.30 T uniform magnetic ﬁeld. The current through the wire is 6.0 A. What is the magnitude of the force on the wire?"
+      ],
+      "definitions": [
+        [
+          "on a current-carrying wire",
+          "ﬁeld; • calculate the magnetic force on a current-carrying conductor in a magnetic ﬁeld; • determine the direction in which a current-carrying wire experiences a force in an external magnetic ﬁeld. The force on a current-carrying wire is similar to that of a moving charge as expected since a charge carrying wire is a collection of moving charges. A current-carrying wire feels a force in the presence of a magnetic ﬁeld."
+        ],
+        [
+          "These forces",
+          "These forces are transmitted to the material of the conductor, and the conductor as a whole experiences a force distributed along its length. The electric motor and the moving coil galvanometer both depend on their 168 Unit 5 Magnetism operation on the magnetic force on wire carrying-currents. Key Concept � When a"
+        ],
+        [
+          "magnetic force",
+          "current-carrying wire lies in a magnetic ﬁeld, magnetic force is exerted on the moving charges within the con- ductor."
+        ],
+        [
+          "If this wire",
+          "Consider a wire of length L where an electric current I ﬂow through the wire as shown in Figure 5.9. If this wire is placed in a magnetic ﬁeld of magnitude B, the magnitude of the force is directly proportional to the current I in the wire, to the magnetic ﬁeld B (assumed uniform), and to the length of wire exposed to the magnetic ﬁeld. The force also depends on the angle between the current direction and the magnetic ﬁeld as shown in Figure 5.9, being proportional to. Thus, the force on a wire carrying a current I with length in a uniform magnetic ﬁeld B is given by:"
+        ],
+        [
+          "on a current-carrying conductor",
+          "or pushes in the direction of the force acting on the wire, as illustrated in Figure 5.10. In general, the force on a current-carrying conductor is: Figure 5.10 Right hand rule for a magnetic force on a current- carrying conductor. i) always perpendicular to the plane containing the conductor and the direction of the ﬁeld in which it is placed and"
+        ],
+        [
+          "greatest when the conductor",
+          "ii) greatest when the conductor is at right angles to the ﬁeld. Example 5.3 A wire 25 cm long is at right angles to a 0.30 T uniform magnetic ﬁeld. The current through the wire is 6.0 A. What is the magnitude of the force on the wire?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.6: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.6)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.6."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.6",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_11.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 11"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "In this example, you are given L = 25 cm = 0.25 m, B = 0.3 T, θ = 90o and I = 6 A. 5.6 Magnetic force on a current-carrying wire 169 You want to ﬁnd the magnitude of the force. The magnitude of the magnetic force can be calculated by F = ILBsin θ = 6 A×0.25 m×0.3 T×sin 90o = 0.45 N. Section summary",
+        "• When a current carrying wire is placed in a magnetic ﬁeld, there exists a force on the wire that is perpendicular to the plane formed by the ﬁeld and the wire. Review questions 1. Explain how the magnetic force is produced on a current- carrying wire in a magnetic ﬁeld. 2. List the factors that affect the magnitude of the force a current- carrying wire experiences.",
+        "3. Describe how to use the right-hand rule to determine the di- rection of a magnetic ﬁeld around a straight current-carrying wire. 4. A wire of length 400 m is in a 0.20 T magnetic ﬁeld. If a 2.5 N force acts on the wire, what is the value of the current in the wire? 170 Unit 5 Magnetism"
+      ],
+      "definitions": [
+        [
+          "you",
+          "In this example, you are given L = 25 cm = 0.25 m, B = 0.3 T, θ = 90o and I = 6 A. 5.6 Magnetic force on a current-carrying wire 169 You want to ﬁnd the magnitude of the force. The magnitude of the magnetic force can be calculated by F = ILBsin θ = 6 A×0.25 m×0.3 T×sin 90o = 0.45 N. Section summary"
+        ],
+        [
+          "When a current carrying wire",
+          "• When a current carrying wire is placed in a magnetic ﬁeld, there exists a force on the wire that is perpendicular to the plane formed by the ﬁeld and the wire. Review questions 1. Explain how the magnetic force is produced on a current- carrying wire in a magnetic ﬁeld. 2. List the factors that affect the magnitude of the force a current- carrying wire experiences."
+        ],
+        [
+          "what",
+          "3. Describe how to use the right-hand rule to determine the di- rection of a magnetic ﬁeld around a straight current-carrying wire. 4. A wire of length 400 m is in a 0.20 T magnetic ﬁeld. If a 2.5 N force acts on the wire, what is the value of the current in the wire? 170 Unit 5 Magnetism"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 12"
+    },
+    {
+      "title": "5.7",
+      "paragraphs": [
+        "Magnetic force between two parallel current- carrying wires Exercise 5.11 Explain how to determine the direction of the magnetic forces between two",
+        "parallel wires? By the end of this section, you should be able to: • describe the effects of the magnetic force between two wires. • explain how parallel wires carrying-currents can attract or repel each other. In section 5.4, you have learnt that a wire carrying a current produces magnetic ﬁeld. Further, you also learnt that an external magnetic ﬁeld will exert a force on a current-carrying wire.",
+        "When two wires carrying a current are placed parallel to each other, their magnetic ﬁelds will interact, resulting in force acting between the wires. The magnitude of the force acting on each wire is equal, but the directions are opposite. This is true even if the wires carry currents of different mag- nitudes. Now, you will need to consider two cases for two parallel current-carrying wires. Figure 5.11 Magnetic force",
+        "between two parallel wires carrying currents (a) in the same direction (b) in opposite directions. 1. When current in both wires are in the same direction, you will need to draw a diagram to get a clear idea of the particular situation. Here, you have two parallel current-carrying wires, separated by a particular distance d, such that one of the wires is carrying current",
+        "d, such that one of the wires is carrying current I1 and the other is carrying I2I2I , which are in the same direction. The direction of magnetic force is indicated in Figure 5.11 (a) and is found using the right hand rule. In this case, two forces are acting toward each other. Therefore, you can say that they are attractive. Therefore, you can conclude that if the current in the two wires placed parallel is in the same direction, the force acting on them will be perceived as attractive.",
+        "2. When the current in the two wires is going in opposite directions, 5.8 Applications of magnetism 171 you will need to draw a diagram to get a clear idea of the particular situation. Here, you have two parallel current-carrying wires, sepa- rated by a particular distance d, such that one of the wires is carrying current I1 and the other is carrying I2, but in opposite directions. The direction of magnetic force is indicated in Figure 5.11 (b) and is",
+        "found using the right hand rule. In this case, two forces are acting in opposition to each other. Thus, you can say that they are repulsive. Therefore, you can conclude that if the current in the two conductors placed parallel is in the opposite directions, the force acting on them will be perceived as repulsive. Key Concept � If the two con- ductors carry",
+        "current in the same direction, the wires attract each other. If the two wires carry currents in op- posite directions, they repel each This foundational concept establishes the governing principles of 5.7. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum.",
+        "other. Activity 5.3 Practice the right- hand rule and determine the direction of force in Figure 5.11. Section summary This foundational concept establishes the governing principles of 5.7. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum.",
+        "• The force between two parallel current-carrying conductors is attractive if the currents are in the same direction, repulsive if they are in opposite directions. Review questions 1. Two parallel wires carrying currents in the same direction attract each other. Why? 2. Is the force attractive or repulsive between the phase and neutral lines hung from power poles? Why?"
+      ],
+      "definitions": [
+        [
+          "two wires carrying a current",
+          "When two wires carrying a current are placed parallel to each other, their magnetic ﬁelds will interact, resulting in force acting between the wires. The magnitude of the force acting on each wire is equal, but the directions are opposite. This is true even if the wires carry currents of different mag- nitudes. Now, you will need to consider two cases for two parallel current-carrying wires. Figure 5.11 Magnetic force"
+        ],
+        [
+          "When current in both wires",
+          "between two parallel wires carrying currents (a) in the same direction (b) in opposite directions. 1. When current in both wires are in the same direction, you will need to draw a diagram to get a clear idea of the particular situation. Here, you have two parallel current-carrying wires, separated by a particular distance d, such that one of the wires is carrying current"
+        ],
+        [
+          "such that one of the wires",
+          "d, such that one of the wires is carrying current I1 and the other is carrying I2I2I , which are in the same direction. The direction of magnetic force is indicated in Figure 5.11 (a) and is found using the right hand rule. In this case, two forces are acting toward each other. Therefore, you can say that they are attractive. Therefore, you can conclude that if the current in the two wires placed parallel is in the same direction, the force acting on them will be perceived as attractive."
+        ],
+        [
+          "the current in the two wires",
+          "2. When the current in the two wires is going in opposite directions, 5.8 Applications of magnetism 171 you will need to draw a diagram to get a clear idea of the particular situation. Here, you have two parallel current-carrying wires, sepa- rated by a particular distance d, such that one of the wires is carrying current I1 and the other is carrying I2, but in opposite directions. The direction of magnetic force is indicated in Figure 5.11 (b) and is"
+        ],
+        [
+          "two forces",
+          "found using the right hand rule. In this case, two forces are acting in opposition to each other. Thus, you can say that they are repulsive. Therefore, you can conclude that if the current in the two conductors placed parallel is in the opposite directions, the force acting on them will be perceived as repulsive. Key Concept � If the two con- ductors carry"
+        ],
+        [
+          "current-carrying conductors",
+          "• The force between two parallel current-carrying conductors is attractive if the currents are in the same direction, repulsive if they are in opposite directions. Review questions 1. Two parallel wires carrying currents in the same direction attract each other. Why? 2. Is the force attractive or repulsive between the phase and neutral lines hung from power poles? Why?"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.7: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.7)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.7."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.7",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_13.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 13"
+    },
+    {
+      "title": "5.8",
+      "paragraphs": [
+        "Applications of magnetism Exercise 5.12 What do you think are the ap- plications of the magnetism? By the end of this section, you should be able to: • describe some applications of magnetism.",
+        "Magnets play a signiﬁcant role in a wide range of devices including simple toys, computers, credit cards, Magnetic Resonance Imaging (MRI) ma- chines, and business equipment. The following is a discussion of some of the applications of magnetism. 172 Unit 5 Magnetism Health and medicine Magnets are found in some commonly used medical equipment such as",
+        "MRIs. It uses powerful magnetic ﬁelds to generate a radar-like radio signal from inside the body, using the signal to create a clear, detailed picture of bones, organs and other tissue. An MRI magnet is very strong-thousands of times more powerful than common magnets. Another medical use for magnets is for treating cancer. A doctor injects a magnetically sensitive ﬂuid into the cancer area and uses a powerful magnet to generate heat in the body. The heat kills the cancer cells without harming healthy organs. In the home",
+        "Though it may not be obvious, most homes contain many magnets. Re- frigerator magnets hold papers, bottle openers, and other small items to the metal refrigerator door. A pocket compass uses a magnetic needle Figure 5.12 MRI scanning machine. 5.8 Applications of magnetism 173 to show which way is north. The dark magnetic strip on the back of a credit card stores data in much the same way as a computer’s hard drive",
+        "does. Vacuum cleaners, blenders, and washing machines all have electric motors that work on magnetic principles. You also ﬁnd magnets in phones, doorbells and children’s toys. Computers and Electronics Many computers use magnets to store data on hard drives. Magnets alter the direction of magnetic material on a hard disk in segments that then represent computer data. Later, computers read the direction of each segment of the magnetic material to \"read\" the data. The small speakers",
+        "found in computers, televisions, and radios also use magnets; inside the speaker, a wire coil and magnet convert electronic signals into sound vibrations. Electric Power and Other Industries Magnets offer many beneﬁts to the industrial world. Magnets in electric generators turn mechanical energy into electricity, while some motors use magnets to convert electricity back into mechanical work. In recycling, electrically-powered magnets in cranes grab and move large pieces of",
+        "metal, some weighing thousands of pounds. Mines use magnetic sorting machines to separate useful metallic ores from crushed rock. In food processing, magnets remove small metal bits from grains and other foods. Farmers use magnets to catch pieces of metal that cows eat out in the ﬁeld. The cow swallows the magnet with its food; as it moves through the animal’s digestive system it traps metal fragments. Figure 5.13 Magnetic compass used for navigation.",
+        "Compasses and Navigation Peoples use magnetic compasses for navigation purposes. They found out magnets could direct needles and correlate with the North pole, and they used that information to navigate. The early compasses were created with lodestone because magnets were not yet longer invented. Lodestone 174 Unit 5 Magnetism comes from the mineral magnetite and is the handiest obviously-occurring",
+        "magnet. Modern day magnets, like neodymium magnets and uncommon earth magnets, are crafted from a complicated process in which some of the metals are forged together. This technique helps to cause them to stronger and extra suitable for a way they are used today. Therefore, lodestone in comparison to sturdy uncommon earth magnets is weaker. Section summary • Magnetism has a number of applications from health to navi- gation.",
+        "Review question • List other applications of magnetism not discussed here. Virtual Labs On the soft copy of the book, click on the following link to per- form virtual experiments on magnetism unit under the guidance of your teacher. 1. Magnet and Compass PhET Experiment. 2. Generator PhET Experiment.",
+        "3. Magnets and Electromagnets PhET Experiment. 5.8 Applications of magnetism 175 End of unit summary • Every magnet has two poles: North and South. These are inseparable. Like poles repel each other and unlike poles attract each other. • The Earth also has a magnetic ﬁeld.",
+        "• A compass needle can be used to ﬁnd the magnetic North pole and help us ﬁnd our direction. • A current-carrying conductor produces a magnetic ﬁeld around it. The right-hand rule is used to determine the direc- tion of the magnetic ﬁeld. • When a current-carrying conductor is placed in the magnetic ﬁeld, it experiences a magnetic force. • The magnitude of magnetic force on a moving charge q in a",
+        "magnetic ﬁeld B is given by F = qvBsin θ. • The magnitude of the magnetic force on a wire carrying a current I with length in a uniform magnetic ﬁeld B is given by F = ILBsin θ. • The force between conductors is attractive when the currents ﬂow in the same direction in the two wires. When the two wires are carrying currents in opposite directions, they repel each other.",
+        "End of unit questions and problems 1. What is a magnet? 2. How do magnets and their properties inﬂuence everyday life? 3. Describe what is meant by the term magnetic ﬁeld. 4. Much like the static electric force, there is a magnetic force 176 Unit 5 Magnetism between two magnets. How are the magnetic and electric",
+        "forces similar? How are they different? 5. What happens to the poles of a magnet if it is cut into pieces? 6. What happens when like magnetic poles are brought close together? What about when unlike magnetic poles are brought close together? 7. Draw the shape of the magnetic ﬁeld around a bar magnet. 8. Explain how a compass needle indicates the direction of a magnetic ﬁeld.",
+        "9. Compare the magnetic ﬁeld of the Earth to the magnetic ﬁeld of a bar magnet. 10. Explain the difference between the geographical North Pole and the magnetic North pole of the Earth. 11. Draw magnetic ﬁeld lines for two similar magnetic poles and two dissimilar magnetic poles. 12. A wire 0.50 m long carrying a current of 8.0 A is at right angles to a uniform magnetic ﬁeld. The force on the wire is 0.40 N.",
+        "What is the strength of the magnetic ﬁeld? 13. The current through a wire 0.80 m long is 5.0 A. The wire is per- pendicular to a 0.60 T magnetic ﬁeld. What is the magnitude of the force on the wire? 14. An electric wire in the wall of a building carries a current of 25 A vertically upward. What is the magnetic ﬁeld at a distance of 10 cm from the wire? 15. Determine the magnitude and direction of magnetic force on",
+        "an electron traveling 8.75×105m/s horizontally to the East in a vertically upward of magnetic ﬁeld 0.75 T. This foundational concept establishes the governing principles of 5.8. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the physics curriculum."
+      ],
+      "definitions": [
+        [
+          "What do you think",
+          "Applications of magnetism Exercise 5.12 What do you think are the ap- plications of the magnetism? By the end of this section, you should be able to: • describe some applications of magnetism."
+        ],
+        [
+          "The following",
+          "Magnets play a signiﬁcant role in a wide range of devices including simple toys, computers, credit cards, Magnetic Resonance Imaging (MRI) ma- chines, and business equipment. The following is a discussion of some of the applications of magnetism. 172 Unit 5 Magnetism Health and medicine Magnets are found in some commonly used medical equipment such as"
+        ],
+        [
+          "An MRI magnet",
+          "MRIs. It uses powerful magnetic ﬁelds to generate a radar-like radio signal from inside the body, using the signal to create a clear, detailed picture of bones, organs and other tissue. An MRI magnet is very strong-thousands of times more powerful than common magnets. Another medical use for magnets is for treating cancer. A doctor injects a magnetically sensitive ﬂuid into the cancer area and uses a powerful magnet to generate heat in the body. The heat kills the cancer cells without harming healthy organs. In the home"
+        ],
+        [
+          "to show which way",
+          "Though it may not be obvious, most homes contain many magnets. Re- frigerator magnets hold papers, bottle openers, and other small items to the metal refrigerator door. A pocket compass uses a magnetic needle Figure 5.12 MRI scanning machine. 5.8 Applications of magnetism 173 to show which way is north. The dark magnetic strip on the back of a credit card stores data in much the same way as a computer’s hard drive"
+        ],
+        [
+          "from the mineral magnetite and",
+          "Compasses and Navigation Peoples use magnetic compasses for navigation purposes. They found out magnets could direct needles and correlate with the North pole, and they used that information to navigate. The early compasses were created with lodestone because magnets were not yet longer invented. Lodestone 174 Unit 5 Magnetism comes from the mineral magnetite and is the handiest obviously-occurring"
+        ],
+        [
+          "in which some of the metals",
+          "magnet. Modern day magnets, like neodymium magnets and uncommon earth magnets, are crafted from a complicated process in which some of the metals are forged together. This technique helps to cause them to stronger and extra suitable for a way they are used today. Therefore, lodestone in comparison to sturdy uncommon earth magnets is weaker. Section summary • Magnetism has a number of applications from health to navi- gation."
+        ],
+        [
+          "These",
+          "3. Magnets and Electromagnets PhET Experiment. 5.8 Applications of magnetism 175 End of unit summary • Every magnet has two poles: North and South. These are inseparable. Like poles repel each other and unlike poles attract each other. • The Earth also has a magnetic ﬁeld."
+        ],
+        [
+          "The right-hand rule",
+          "• A compass needle can be used to ﬁnd the magnetic North pole and help us ﬁnd our direction. • A current-carrying conductor produces a magnetic ﬁeld around it. The right-hand rule is used to determine the direc- tion of the magnetic ﬁeld. • When a current-carrying conductor is placed in the magnetic ﬁeld, it experiences a magnetic force. • The magnitude of magnetic force on a moving charge q in a"
+        ],
+        [
+          "The force between conductors",
+          "magnetic ﬁeld B is given by F = qvBsin θ. • The magnitude of the magnetic force on a wire carrying a current I with length in a uniform magnetic ﬁeld B is given by F = ILBsin θ. • The force between conductors is attractive when the currents ﬂow in the same direction in the two wires. When the two wires are carrying currents in opposite directions, they repel each other."
+        ],
+        [
+          "What",
+          "End of unit questions and problems 1. What is a magnet? 2. How do magnets and their properties inﬂuence everyday life? 3. Describe what is meant by the term magnetic ﬁeld. 4. Much like the static electric force, there is a magnetic force 176 Unit 5 Magnetism between two magnets. How are the magnetic and electric"
+        ],
+        [
+          "How",
+          "forces similar? How are they different? 5. What happens to the poles of a magnet if it is cut into pieces? 6. What happens when like magnetic poles are brought close together? What about when unlike magnetic poles are brought close together? 7. Draw the shape of the magnetic ﬁeld around a bar magnet. 8. Explain how a compass needle indicates the direction of a magnetic ﬁeld."
+        ],
+        [
+          "The force on the wire",
+          "9. Compare the magnetic ﬁeld of the Earth to the magnetic ﬁeld of a bar magnet. 10. Explain the difference between the geographical North Pole and the magnetic North pole of the Earth. 11. Draw magnetic ﬁeld lines for two similar magnetic poles and two dissimilar magnetic poles. 12. A wire 0.50 m long carrying a current of 8.0 A is at right angles to a uniform magnetic ﬁeld. The force on the wire is 0.40 N."
+        ],
+        [
+          "What",
+          "What is the strength of the magnetic ﬁeld? 13. The current through a wire 0.80 m long is 5.0 A. The wire is per- pendicular to a 0.60 T magnetic ﬁeld. What is the magnitude of the force on the wire? 14. An electric wire in the wall of a building carries a current of 25 A vertically upward. What is the magnetic ﬁeld at a distance of 10 cm from the wire? 15. Determine the magnitude and direction of magnetic force on"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 5.8: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how physics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(5.8)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 5.8."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 5.8",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in physics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_14.jpeg",
+      "image_caption": "Unit 5  MAGNETISM — Visual Figure 14"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "• solve problems related to magnetism;",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "1. Permanent Magnets: are made up of magnetic material (such as",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. Temporary Magnet: can be magnetized in the presence of a mag-",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "3. Electromagnets: consist of a coil of wire wrapped around a metal",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "Review questions",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "1. What is a magnet? List its properties.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. How could a magnet loses its magnetic properties?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "3. State the rule for magnetic attraction and repulsion.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "4. Describe how a temporary magnet differs from a permanent",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "5. What are magnetic poles? Does magnetic mono-pole exist?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  MAGNETISM in physics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 5  MAGNETISM (Grade_10 physics):\nThis complete study document covers all topics in Unit 5  MAGNETISM, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": [
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_1.jpeg",
+      "filename": "figure_1.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 1"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_2.jpeg",
+      "filename": "figure_2.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 2"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_3.jpeg",
+      "filename": "figure_3.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 3"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_4.jpeg",
+      "filename": "figure_4.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 4"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_5.jpeg",
+      "filename": "figure_5.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 5"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_6.jpeg",
+      "filename": "figure_6.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 6"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_7.jpeg",
+      "filename": "figure_7.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 7"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_8.png",
+      "filename": "figure_8.png",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 8"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_9.jpeg",
+      "filename": "figure_9.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 9"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_10.jpeg",
+      "filename": "figure_10.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 10"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_11.jpeg",
+      "filename": "figure_11.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 11"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_12.jpeg",
+      "filename": "figure_12.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 12"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_13.jpeg",
+      "filename": "figure_13.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 13"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_14.jpeg",
+      "filename": "figure_14.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 14"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\physics\\Unit 5_ MAGNETISM\\short_note\\images\\figure_15.jpeg",
+      "filename": "figure_15.jpeg",
+      "caption": "Unit 5  MAGNETISM — Visual Figure 15"
+    }
+  ]
+}

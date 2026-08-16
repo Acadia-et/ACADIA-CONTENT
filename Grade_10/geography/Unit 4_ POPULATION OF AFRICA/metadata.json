@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__population_of_africa",
-  "title": "Unit 4_ POPULATION OF AFRICA",
-  "description": "Unit 4_ POPULATION OF AFRICA for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_POPULATION_OF_AFRICA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ POPULATION OF AFRICA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ POPULATION OF AFRICA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

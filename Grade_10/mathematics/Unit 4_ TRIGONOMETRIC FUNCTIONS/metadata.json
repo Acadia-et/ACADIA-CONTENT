@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__trigonometric_functions",
-  "title": "Unit 4_ TRIGONOMETRIC FUNCTIONS",
-  "description": "Unit 4_ TRIGONOMETRIC FUNCTIONS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_TRIGONOMETRIC_FUNCTIONS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ TRIGONOMETRIC FUNCTIONS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ TRIGONOMETRIC FUNCTIONS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_9__multilingualism",
-  "title": "Unit 9_ MULTILINGUALISM",
-  "description": "Unit 9_ MULTILINGUALISM for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_9_MULTILINGUALISM",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 9_ MULTILINGUALISM",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 9_ MULTILINGUALISM",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

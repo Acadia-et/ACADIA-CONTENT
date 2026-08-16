@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__geographic_issues_and_public_concerns",
-  "title": "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
-  "description": "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_GEOGRAPHIC_ISSUES_AND_PUBLIC_CONCERNS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

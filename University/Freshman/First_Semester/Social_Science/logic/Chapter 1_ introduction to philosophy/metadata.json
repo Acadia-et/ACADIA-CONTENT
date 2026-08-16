@@ -1,14 +1,30 @@
-{
-  "id": "chapter_1__introduction_to_philosophy",
-  "title": "Chapter 1_ introduction to philosophy",
-  "description": "Chapter 1_ introduction to philosophy for logic",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_1_introduction_to_philosophy",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 1_ introduction to philosophy",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 1_ introduction to philosophy",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

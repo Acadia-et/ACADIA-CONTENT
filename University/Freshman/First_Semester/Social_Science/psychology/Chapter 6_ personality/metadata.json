@@ -1,14 +1,30 @@
-{
-  "id": "chapter_6__personality",
-  "title": "Chapter 6_ personality",
-  "description": "Chapter 6_ personality for psychology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_6_personality",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 6_ personality",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 6_ personality",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

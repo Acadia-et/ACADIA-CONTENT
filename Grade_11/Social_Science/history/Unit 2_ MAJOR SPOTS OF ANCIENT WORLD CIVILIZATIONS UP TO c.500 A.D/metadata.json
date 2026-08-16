@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__major_spots_of_ancient_world_civilizations_up_to_c.500_a.d",
-  "title": "Unit 2_ MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO c.500 A.D",
-  "description": "Unit 2_ MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO c.500 A.D for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_MAJOR_SPOTS_OF_ANCIENT_WORLD_CIVILIZATIONS_UP_TO_c.500_A.D",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO c.500 A.D",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO c.500 A.D",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__animal_genetics_and_breeding_practices",
-  "title": "Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES",
-  "description": "Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_ANIMAL_GENETICS_AND_BREEDING_PRACTICES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

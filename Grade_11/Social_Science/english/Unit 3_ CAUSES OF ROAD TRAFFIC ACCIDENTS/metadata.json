@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__causes_of_road_traffic_accidents",
-  "title": "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
-  "description": "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_CAUSES_OF_ROAD_TRAFFIC_ACCIDENTS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

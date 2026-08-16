@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__introduction_to_linear_programming",
-  "title": "Unit 4_ INTRODUCTION TO LINEAR PROGRAMMING",
-  "description": "Unit 4_ INTRODUCTION TO LINEAR PROGRAMMING for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_INTRODUCTION_TO_LINEAR_PROGRAMMING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ INTRODUCTION TO LINEAR PROGRAMMING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ INTRODUCTION TO LINEAR PROGRAMMING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

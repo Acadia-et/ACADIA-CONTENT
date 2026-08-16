@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__federalism_in_ethiopia",
-  "title": "Unit 5_ FEDERALISM IN ETHIOPIA",
-  "description": "Unit 5_ FEDERALISM IN ETHIOPIA for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_FEDERALISM_IN_ETHIOPIA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ FEDERALISM IN ETHIOPIA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ FEDERALISM IN ETHIOPIA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

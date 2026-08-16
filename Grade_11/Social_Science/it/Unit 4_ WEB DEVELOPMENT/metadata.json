@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__web_development",
-  "title": "Unit 4_ WEB DEVELOPMENT",
-  "description": "Unit 4_ WEB DEVELOPMENT for it",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_WEB_DEVELOPMENT",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ WEB DEVELOPMENT",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ WEB DEVELOPMENT",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

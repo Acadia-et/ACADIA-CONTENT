@@ -1,14 +1,30 @@
-{
-  "id": "chapter_4__cellular_metabolism_and_metabolic_disorder",
-  "title": "Chapter 4_ cellular metabolism and metabolic disorder",
-  "description": "Chapter 4_ cellular metabolism and metabolic disorder for Biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_4_cellular_metabolism_and_metabolic_disorder",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 4_ cellular metabolism and metabolic disorder",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 4_ cellular metabolism and metabolic disorder",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__characteristics_and_classification_of_organisms",
-  "title": "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
-  "description": "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_CHARACTERISTICS_AND_CLASSIFICATION_OF_ORGANISMS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

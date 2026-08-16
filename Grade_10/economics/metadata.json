@@ -1,15 +1,49 @@
 {
-  "id": "economics",
-  "title": "Economics",
-  "description": "Economics subject",
+  "id": "economics_Grade_10",
+  "grade": "Grade_10",
+  "subject": "economics",
+  "description": "Grade_10 Economics",
   "units": [
-    "Unit 1_ THEORY OF CONSUMER BEHAVIOUR",
-    "Unit 2_ THEORIES OF DEMAND AND SUPPLY",
-    "Unit 3_ THEORIES OF PRODUCTION AND COST",
-    "Unit 4_ MARKET STRUCTURE",
-    "Unit 5_ BANKING AND FINANCE",
-    "Unit 6_ ECONOMIC GROWTH",
-    "Unit 7_ THE ETHIOPIAN ECONOMY",
-    "Unit 8_ BUSINESS STARTUPS AND INNOVATION"
-  ]
+    {
+      "id": "Unit_1__THEORY_OF_CONSUMER_BEHAVIOUR",
+      "title": "Unit 1_ THEORY OF CONSUMER BEHAVIOUR",
+      "file": "Unit_1__THEORY_OF_CONSUMER_BEHAVIOUR.json"
+    },
+    {
+      "id": "Unit_2__THEORIES_OF_DEMAND_AND_SUPPLY",
+      "title": "Unit 2_ THEORIES OF DEMAND AND SUPPLY",
+      "file": "Unit_2__THEORIES_OF_DEMAND_AND_SUPPLY.json"
+    },
+    {
+      "id": "Unit_3__THEORIES_OF_PRODUCTION_AND_COST",
+      "title": "Unit 3_ THEORIES OF PRODUCTION AND COST",
+      "file": "Unit_3__THEORIES_OF_PRODUCTION_AND_COST.json"
+    },
+    {
+      "id": "Unit_4__MARKET_STRUCTURE",
+      "title": "Unit 4_ MARKET STRUCTURE",
+      "file": "Unit_4__MARKET_STRUCTURE.json"
+    },
+    {
+      "id": "Unit_5__BANKING_AND_FINANCE",
+      "title": "Unit 5_ BANKING AND FINANCE",
+      "file": "Unit_5__BANKING_AND_FINANCE.json"
+    },
+    {
+      "id": "Unit_6__ECONOMIC_GROWTH",
+      "title": "Unit 6_ ECONOMIC GROWTH",
+      "file": "Unit_6__ECONOMIC_GROWTH.json"
+    },
+    {
+      "id": "Unit_7__THE_ETHIOPIAN_ECONOMY",
+      "title": "Unit 7_ THE ETHIOPIAN ECONOMY",
+      "file": "Unit_7__THE_ETHIOPIAN_ECONOMY.json"
+    },
+    {
+      "id": "Unit_8__BUSINESS_STARTUPS_AND_INNOVATION",
+      "title": "Unit 8_ BUSINESS STARTUPS AND INNOVATION",
+      "file": "Unit_8__BUSINESS_STARTUPS_AND_INNOVATION.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/textbook.pdf"
 }

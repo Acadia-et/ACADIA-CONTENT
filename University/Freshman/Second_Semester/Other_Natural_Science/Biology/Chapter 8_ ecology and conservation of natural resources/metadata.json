@@ -1,14 +1,30 @@
-{
-  "id": "chapter_8__ecology_and_conservation_of_natural_resources",
-  "title": "Chapter 8_ ecology and conservation of natural resources",
-  "description": "Chapter 8_ ecology and conservation of natural resources for Biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_8_ecology_and_conservation_of_natural_resources",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 8_ ecology and conservation of natural resources",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 8_ ecology and conservation of natural resources",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

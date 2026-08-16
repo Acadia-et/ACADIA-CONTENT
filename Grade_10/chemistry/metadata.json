@@ -1,13 +1,39 @@
 {
-  "id": "chemistry",
-  "title": "Chemistry",
-  "description": "Chemistry subject",
+  "id": "chemistry_Grade_10",
+  "grade": "Grade_10",
+  "subject": "chemistry",
+  "description": "Grade_10 Chemistry",
   "units": [
-    "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
-    "Unit 2_ SOLUTIONS",
-    "Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
-    "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
-    "Unit 5_ METALS AND NONMETALS",
-    "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES"
-  ]
+    {
+      "id": "Unit_1__CHEMICAL_REACTIONS_AND_STOICHIOMETRY",
+      "title": "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
+      "file": "Unit_1__CHEMICAL_REACTIONS_AND_STOICHIOMETRY.json"
+    },
+    {
+      "id": "Unit_2__SOLUTIONS",
+      "title": "Unit 2_ SOLUTIONS",
+      "file": "Unit_2__SOLUTIONS.json"
+    },
+    {
+      "id": "Unit_3__IMPORTANT_INORGANIC_COMPOUNDS",
+      "title": "Unit 3_ IMPORTANT INORGANIC COMPOUNDS",
+      "file": "Unit_3__IMPORTANT_INORGANIC_COMPOUNDS.json"
+    },
+    {
+      "id": "Unit_4__ENERGY_CHANGES_AND_ELECTROCHEMISTRY",
+      "title": "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
+      "file": "Unit_4__ENERGY_CHANGES_AND_ELECTROCHEMISTRY.json"
+    },
+    {
+      "id": "Unit_5__METALS_AND_NONMETALS",
+      "title": "Unit 5_ METALS AND NONMETALS",
+      "file": "Unit_5__METALS_AND_NONMETALS.json"
+    },
+    {
+      "id": "Unit_6__HYDROCARBONS_AND_THEIR_NATURAL_SOURCES",
+      "title": "Unit 6_ HYDROCARBONS AND THEIR NATURAL SOURCES",
+      "file": "Unit_6__HYDROCARBONS_AND_THEIR_NATURAL_SOURCES.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/textbook.pdf"
 }

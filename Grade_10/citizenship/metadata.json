@@ -1,15 +1,49 @@
 {
-  "id": "citizenship",
-  "title": "Citizenship",
-  "description": "Citizenship subject",
+  "id": "citizenship_Grade_10",
+  "grade": "Grade_10",
+  "subject": "citizenship",
+  "description": "Grade_10 Citizenship",
   "units": [
-    "Unit 1_ DEMOCRACY AND DEMOCRATIZATION",
-    "Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE",
-    "Unit 3_ UNDERSTANDING GOOD GOVERNANCE",
-    "Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS",
-    "Unit 5_ FEDERALISM IN ETHIOPIA",
-    "Unit 6_ HUMAN RIGHTS",
-    "Unit 7_ PATRIOTISM",
-    "Unit 8_ GLOBALIZATION AND GLOBAL ISSUES"
-  ]
+    {
+      "id": "Unit_1__DEMOCRACY_AND_DEMOCRATIZATION",
+      "title": "Unit 1_ DEMOCRACY AND DEMOCRATIZATION",
+      "file": "Unit_1__DEMOCRACY_AND_DEMOCRATIZATION.json"
+    },
+    {
+      "id": "Unit_2__CITIZENS_IN_THE_DIGITAL_TECHNOLOGY_AGE",
+      "title": "Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE",
+      "file": "Unit_2__CITIZENS_IN_THE_DIGITAL_TECHNOLOGY_AGE.json"
+    },
+    {
+      "id": "Unit_3__UNDERSTANDING_GOOD_GOVERNANCE",
+      "title": "Unit 3_ UNDERSTANDING GOOD GOVERNANCE",
+      "file": "Unit_3__UNDERSTANDING_GOOD_GOVERNANCE.json"
+    },
+    {
+      "id": "Unit_4__PEACE_AND_INDIGENOUS_CONFLICT_RESOLUTION_MECHANISMS",
+      "title": "Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS",
+      "file": "Unit_4__PEACE_AND_INDIGENOUS_CONFLICT_RESOLUTION_MECHANISMS.json"
+    },
+    {
+      "id": "Unit_5__FEDERALISM_IN_ETHIOPIA",
+      "title": "Unit 5_ FEDERALISM IN ETHIOPIA",
+      "file": "Unit_5__FEDERALISM_IN_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_6__HUMAN_RIGHTS",
+      "title": "Unit 6_ HUMAN RIGHTS",
+      "file": "Unit_6__HUMAN_RIGHTS.json"
+    },
+    {
+      "id": "Unit_7__PATRIOTISM",
+      "title": "Unit 7_ PATRIOTISM",
+      "file": "Unit_7__PATRIOTISM.json"
+    },
+    {
+      "id": "Unit_8__GLOBALIZATION_AND_GLOBAL_ISSUES",
+      "title": "Unit 8_ GLOBALIZATION AND GLOBAL ISSUES",
+      "file": "Unit_8__GLOBALIZATION_AND_GLOBAL_ISSUES.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/textbook.pdf"
 }

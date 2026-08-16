@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__introduction_to_production_and_cost",
-  "title": "Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
-  "description": "Unit 5_ INTRODUCTION TO PRODUCTION AND COST for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_INTRODUCTION_TO_PRODUCTION_AND_COST",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ INTRODUCTION TO PRODUCTION AND COST",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

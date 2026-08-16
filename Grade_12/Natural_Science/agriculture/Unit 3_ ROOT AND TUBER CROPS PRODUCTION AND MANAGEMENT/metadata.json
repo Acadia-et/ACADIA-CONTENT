@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__root_and_tuber_crops_production_and_management",
-  "title": "Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT",
-  "description": "Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_ROOT_AND_TUBER_CROPS_PRODUCTION_AND_MANAGEMENT",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__global_population_dynamics_and_challenges",
-  "title": "Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES",
-  "description": "Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_GLOBAL_POPULATION_DYNAMICS_AND_CHALLENGES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ GLOBAL POPULATION DYNAMICS AND CHALLENGES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

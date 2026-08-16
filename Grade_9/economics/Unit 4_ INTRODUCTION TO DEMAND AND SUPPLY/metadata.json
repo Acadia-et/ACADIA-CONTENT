@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__introduction_to_demand_and_supply",
-  "title": "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
-  "description": "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_INTRODUCTION_TO_DEMAND_AND_SUPPLY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ INTRODUCTION TO DEMAND AND SUPPLY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__national_income_accounting",
-  "title": "Unit 3_ NATIONAL INCOME ACCOUNTING",
-  "description": "Unit 3_ NATIONAL INCOME ACCOUNTING for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_NATIONAL_INCOME_ACCOUNTING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ NATIONAL INCOME ACCOUNTING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ NATIONAL INCOME ACCOUNTING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__measurements_and_scientific_methods",
-  "title": "Unit 2_ MEASUREMENTS AND SCIENTIFIC METHODS",
-  "description": "Unit 2_ MEASUREMENTS AND SCIENTIFIC METHODS for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_MEASUREMENTS_AND_SCIENTIFIC_METHODS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ MEASUREMENTS AND SCIENTIFIC METHODS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ MEASUREMENTS AND SCIENTIFIC METHODS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

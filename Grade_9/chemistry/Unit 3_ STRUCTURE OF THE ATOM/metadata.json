@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__structure_of_the_atom",
-  "title": "Unit 3_ STRUCTURE OF THE ATOM",
-  "description": "Unit 3_ STRUCTURE OF THE ATOM for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_STRUCTURE_OF_THE_ATOM",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ STRUCTURE OF THE ATOM",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ STRUCTURE OF THE ATOM",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__africa_and_the_outside_world_1500-1880s",
-  "title": "Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s",
-  "description": "Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_AFRICA_AND_THE_OUTSIDE_WORLD_1500-1880s",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

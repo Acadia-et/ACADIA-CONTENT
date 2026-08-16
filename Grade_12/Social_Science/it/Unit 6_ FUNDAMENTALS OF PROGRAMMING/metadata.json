@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__fundamentals_of_programming",
-  "title": "Unit 6_ FUNDAMENTALS OF PROGRAMMING",
-  "description": "Unit 6_ FUNDAMENTALS OF PROGRAMMING for it",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_FUNDAMENTALS_OF_PROGRAMMING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ FUNDAMENTALS OF PROGRAMMING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ FUNDAMENTALS OF PROGRAMMING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

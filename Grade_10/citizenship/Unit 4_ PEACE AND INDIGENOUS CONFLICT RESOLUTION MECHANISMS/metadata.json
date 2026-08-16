@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__peace_and_indigenous_conflict_resolution_mechanisms",
-  "title": "Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS",
-  "description": "Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_PEACE_AND_INDIGENOUS_CONFLICT_RESOLUTION_MECHANISMS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ PEACE AND INDIGENOUS CONFLICT RESOLUTION MECHANISMS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

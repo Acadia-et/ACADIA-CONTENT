@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__poverty_in_ethiopia",
-  "title": "Unit 6_ POVERTY IN ETHIOPIA",
-  "description": "Unit 6_ POVERTY IN ETHIOPIA for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_POVERTY_IN_ETHIOPIA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ POVERTY IN ETHIOPIA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ POVERTY IN ETHIOPIA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

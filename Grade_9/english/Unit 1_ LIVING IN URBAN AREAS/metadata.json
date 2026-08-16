@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__living_in_urban_areas",
-  "title": "Unit 1_ LIVING IN URBAN AREAS",
-  "description": "Unit 1_ LIVING IN URBAN AREAS for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_LIVING_IN_URBAN_AREAS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ LIVING IN URBAN AREAS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ LIVING IN URBAN AREAS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

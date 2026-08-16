@@ -1,14 +1,30 @@
-{
-  "id": "chapter_8__economic_activitie_in_ethiopia",
-  "title": "Chapter 8_ economic activitie in Ethiopia",
-  "description": "Chapter 8_ economic activitie in Ethiopia for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_8_economic_activitie_in_Ethiopia",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 8_ economic activitie in Ethiopia",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 8_ economic activitie in Ethiopia",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

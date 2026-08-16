@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__citizens_in_the_digital_technology_age",
-  "title": "Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE",
-  "description": "Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE for citizenship",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_CITIZENS_IN_THE_DIGITAL_TECHNOLOGY_AGE",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ CITIZENS IN THE DIGITAL TECHNOLOGY AGE",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

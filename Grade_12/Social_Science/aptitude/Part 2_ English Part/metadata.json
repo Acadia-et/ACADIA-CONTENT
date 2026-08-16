@@ -1,14 +1,30 @@
-{
-  "id": "part_2__english_part",
-  "title": "Part 2_ English Part",
-  "description": "Part 2_ English Part for aptitude",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Part_2_English_Part",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Part 2_ English Part",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Part 2_ English Part",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,49 @@
 {
-  "id": "economics",
-  "title": "Economics",
-  "description": "Economics subject",
+  "id": "economics_Grade_12/Social_Science",
+  "grade": "Grade_12/Social_Science",
+  "subject": "economics",
+  "description": "Grade_12/Social_Science Economics",
   "units": [
-    "Unit 1_ THEORY OF CONSUMER BEHAVIOR AND DEMAND",
-    "Unit 2_ MARKET STRUCTURE AND THE DECISION OF FIRMS",
-    "Unit 3_ NATIONAL INCOME ACCOUNTING",
-    "Unit 4_ CONSUMPTION, SAVING AND INVESTMENT",
-    "Unit 5_ TRADE AND FINANCE",
-    "Unit 6_ ECONOMIC DEVELOPMENT",
-    "Unit 7_ MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA"
-  ]
+    {
+      "id": "Unit_1__THE_FUNDAMENTAL_CONCEPTS_OF_MACROECONOMICS",
+      "title": "Unit 1_ THE FUNDAMENTAL CONCEPTS OF MACROECONOMICS",
+      "file": "Unit_1__THE_FUNDAMENTAL_CONCEPTS_OF_MACROECONOMICS.json"
+    },
+    {
+      "id": "Unit_2__AGGREGATE_DEMAND_AND_AGGREGATE_SUPPLY_ANALYSIS",
+      "title": "Unit 2_ AGGREGATE DEMAND AND AGGREGATE SUPPLY ANALYSIS",
+      "file": "Unit_2__AGGREGATE_DEMAND_AND_AGGREGATE_SUPPLY_ANALYSIS.json"
+    },
+    {
+      "id": "Unit_3__MARKET_FAILURE_AND_CONSUMER_PROTECTION",
+      "title": "Unit 3_ MARKET FAILURE AND CONSUMER PROTECTION",
+      "file": "Unit_3__MARKET_FAILURE_AND_CONSUMER_PROTECTION.json"
+    },
+    {
+      "id": "Unit_4__MACROECONOMIC_POLICY_INSTRUMENTS",
+      "title": "Unit 4_ MACROECONOMIC POLICY INSTRUMENTS",
+      "file": "Unit_4__MACROECONOMIC_POLICY_INSTRUMENTS.json"
+    },
+    {
+      "id": "Unit_5__TAX_THEORY_AND_PRACTICE",
+      "title": "Unit 5_ TAX THEORY AND PRACTICE",
+      "file": "Unit_5__TAX_THEORY_AND_PRACTICE.json"
+    },
+    {
+      "id": "Unit_6__POVERTY_AND_INEQUALITY",
+      "title": "Unit 6_ POVERTY AND INEQUALITY",
+      "file": "Unit_6__POVERTY_AND_INEQUALITY.json"
+    },
+    {
+      "id": "Unit_7__MACROECONOMIC_REFORMS_IN_ETHIOPIA",
+      "title": "Unit 7_ MACROECONOMIC REFORMS IN ETHIOPIA",
+      "file": "Unit_7__MACROECONOMIC_REFORMS_IN_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_8__ECONOMY_ENVIRONMENT_AND_CLIMATE_CHANGE",
+      "title": "Unit 8_ ECONOMY, ENVIRONMENT AND CLIMATE CHANGE",
+      "file": "Unit_8__ECONOMY_ENVIRONMENT_AND_CLIMATE_CHANGE.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Social_Science/economics/textbook.pdf"
 }

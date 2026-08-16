@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__sequences_and_series",
-  "title": "Unit 1_ SEQUENCES AND SERIES",
-  "description": "Unit 1_ SEQUENCES AND SERIES for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_SEQUENCES_AND_SERIES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ SEQUENCES AND SERIES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ SEQUENCES AND SERIES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "chapter_6__infectious_diseases_and_immunity",
-  "title": "Chapter 6_ infectious diseases and immunity",
-  "description": "Chapter 6_ infectious diseases and immunity for Biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_6_infectious_diseases_and_immunity",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 6_ infectious diseases and immunity",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 6_ infectious diseases and immunity",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

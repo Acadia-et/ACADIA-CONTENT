@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__human_natural_environment_interactions",
-  "title": "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
-  "description": "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_HUMAN_NATURAL_ENVIRONMENT_INTERACTIONS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

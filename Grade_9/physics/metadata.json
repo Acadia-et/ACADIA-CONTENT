@@ -1,13 +1,44 @@
 {
-  "id": "physics",
-  "title": "Physics",
-  "description": "Physics subject",
+  "id": "physics_Grade_9",
+  "grade": "Grade_9",
+  "subject": "physics",
+  "description": "Grade_9 Physics",
   "units": [
-    "Unit 1_ VECTOR QUANTITIES",
-    "Unit 2_ UNIFORMLY ACCELERATED MOTION",
-    "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
-    "Unit 4_ STATIC AND CURRENT ELECTRICITY",
-    "Unit 5_ MAGNETISM",
-    "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS"
-  ]
+    {
+      "id": "Unit_1__PHYSICS_AND_HUMAN_SOCIETY",
+      "title": "Unit 1_ PHYSICS AND HUMAN SOCIETY",
+      "file": "Unit_1__PHYSICS_AND_HUMAN_SOCIETY.json"
+    },
+    {
+      "id": "Unit_2__PHYSICAL_QUANTITIES",
+      "title": "Unit 2_ PHYSICAL QUANTITIES",
+      "file": "Unit_2__PHYSICAL_QUANTITIES.json"
+    },
+    {
+      "id": "Unit_3__MOTION_IN_A_STRAIGHT_LINE",
+      "title": "Unit 3_ MOTION IN A STRAIGHT LINE",
+      "file": "Unit_3__MOTION_IN_A_STRAIGHT_LINE.json"
+    },
+    {
+      "id": "Unit_4__FORCE_WORK_ENERGY_AND_POWER",
+      "title": "Unit 4_ FORCE, WORK, ENERGY AND POWER",
+      "file": "Unit_4__FORCE_WORK_ENERGY_AND_POWER.json"
+    },
+    {
+      "id": "Unit_5__SIMPLE_MACHINES",
+      "title": "Unit 5_ SIMPLE MACHINES",
+      "file": "Unit_5__SIMPLE_MACHINES.json"
+    },
+    {
+      "id": "Unit_6__MECHANICAL_OSCILLATION_AND_SOUND_WAVE",
+      "title": "Unit 6_ MECHANICAL OSCILLATION AND SOUND WAVE",
+      "file": "Unit_6__MECHANICAL_OSCILLATION_AND_SOUND_WAVE.json"
+    },
+    {
+      "id": "Unit_7__TEMPERATURE_AND_THERMOMETRY",
+      "title": "Unit 7_ TEMPERATURE AND THERMOMETRY",
+      "file": "Unit_7__TEMPERATURE_AND_THERMOMETRY.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/physics/textbook.pdf"
 }

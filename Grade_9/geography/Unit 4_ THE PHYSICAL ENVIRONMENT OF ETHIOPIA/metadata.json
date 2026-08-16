@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__the_physical_environment_of_ethiopia",
-  "title": "Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA",
-  "description": "Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_THE_PHYSICAL_ENVIRONMENT_OF_ETHIOPIA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

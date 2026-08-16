@@ -1,14 +1,30 @@
-{
-  "id": "chapter_10__application_of_biological_science",
-  "title": "Chapter 10_ application of biological science",
-  "description": "Chapter 10_ application of biological science for Biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_10_application_of_biological_science",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 10_ application of biological science",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 10_ application of biological science",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

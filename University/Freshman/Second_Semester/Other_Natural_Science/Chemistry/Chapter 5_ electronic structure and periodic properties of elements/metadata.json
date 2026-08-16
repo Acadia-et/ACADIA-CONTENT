@@ -1,14 +1,30 @@
-{
-  "id": "chapter_5__electronic_structure_and_periodic_properties_of_elements",
-  "title": "Chapter 5_ electronic structure and periodic properties of elements",
-  "description": "Chapter 5_ electronic structure and periodic properties of elements for Chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_5_electronic_structure_and_periodic_properties_of_elements",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 5_ electronic structure and periodic properties of elements",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 5_ electronic structure and periodic properties of elements",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

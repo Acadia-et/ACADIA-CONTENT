@@ -1,14 +1,30 @@
-{
-  "id": "unit_8__business_startups_and_innovation",
-  "title": "Unit 8_ BUSINESS STARTUPS AND INNOVATION",
-  "description": "Unit 8_ BUSINESS STARTUPS AND INNOVATION for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_8_BUSINESS_STARTUPS_AND_INNOVATION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 8_ BUSINESS STARTUPS AND INNOVATION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 8_ BUSINESS STARTUPS AND INNOVATION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

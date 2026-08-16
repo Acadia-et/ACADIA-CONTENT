@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__electromagnetic_waves_and_geometrical_optics",
-  "title": "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS",
-  "description": "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_ELECTROMAGNETIC_WAVES_AND_GEOMETRICAL_OPTICS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

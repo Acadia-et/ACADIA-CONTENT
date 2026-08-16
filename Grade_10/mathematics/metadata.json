@@ -1,14 +1,44 @@
 {
-  "id": "mathematics",
-  "title": "Mathematics",
-  "description": "Mathematics subject",
+  "id": "mathematics_Grade_10",
+  "grade": "Grade_10",
+  "subject": "mathematics",
+  "description": "Grade_10 Mathematics",
   "units": [
-    "Unit 1_ RELATIONS AND FUNCTIONS",
-    "Unit 2_ POLYNOMIAL FUNCTIONS",
-    "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
-    "Unit 4_ TRIGONOMETRIC FUNCTIONS",
-    "Unit 5_ CIRCLES",
-    "Unit 6_ SOLID FIGURES",
-    "Unit 7_ COORDINATE GEOMETRY"
-  ]
+    {
+      "id": "Unit_1__RELATIONS_AND_FUNCTIONS",
+      "title": "Unit 1_ RELATIONS AND FUNCTIONS",
+      "file": "Unit_1__RELATIONS_AND_FUNCTIONS.json"
+    },
+    {
+      "id": "Unit_2__POLYNOMIAL_FUNCTIONS",
+      "title": "Unit 2_ POLYNOMIAL FUNCTIONS",
+      "file": "Unit_2__POLYNOMIAL_FUNCTIONS.json"
+    },
+    {
+      "id": "Unit_3__EXPONENTIAL_AND_LOGARITHMIC_FUNCTIONS",
+      "title": "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
+      "file": "Unit_3__EXPONENTIAL_AND_LOGARITHMIC_FUNCTIONS.json"
+    },
+    {
+      "id": "Unit_4__TRIGONOMETRIC_FUNCTIONS",
+      "title": "Unit 4_ TRIGONOMETRIC FUNCTIONS",
+      "file": "Unit_4__TRIGONOMETRIC_FUNCTIONS.json"
+    },
+    {
+      "id": "Unit_5__CIRCLES",
+      "title": "Unit 5_ CIRCLES",
+      "file": "Unit_5__CIRCLES.json"
+    },
+    {
+      "id": "Unit_6__SOLID_FIGURES",
+      "title": "Unit 6_ SOLID FIGURES",
+      "file": "Unit_6__SOLID_FIGURES.json"
+    },
+    {
+      "id": "Unit_7__COORDINATE_GEOMETRY",
+      "title": "Unit 7_ COORDINATE GEOMETRY",
+      "file": "Unit_7__COORDINATE_GEOMETRY.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/mathematics/textbook.pdf"
 }

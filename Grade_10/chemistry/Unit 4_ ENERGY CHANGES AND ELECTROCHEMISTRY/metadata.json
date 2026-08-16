@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__energy_changes_and_electrochemistry",
-  "title": "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
-  "description": "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_ENERGY_CHANGES_AND_ELECTROCHEMISTRY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ ENERGY CHANGES AND ELECTROCHEMISTRY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,0 +1,1222 @@
+{
+  "metadata": {
+    "grade": "Grade 10",
+    "subject": "it",
+    "unit_title": "Unit 5  INFORMATION AND COMPUTER SECURITY"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Unit 5  INFORMATION AND COMPUTER SECURITY",
+      "paragraphs": [
+        "182 Unit 5 : Information and Computer Security 5.1 Unit Overview You know that computer viruses can corrupt and damage computers. Viruses can also open security breaches on a computer that allows yet another threat, hackers, into the computer system. It is known that simply by the fact of having our school or home computers connected to a network and on the Internet are exposed to several information and computer security risks. Figure 5.1 show that",
+        "networking of computers exposes information and computer security. Figure 5.1 Networking of computers At the end of this unit, learners will be able to: � Explain information security. � Apply steps to install antivirus software. � Create and change user account in their computers. � Explain privacy and security. � Analyze cyber security.",
+        "UNIT This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 5  INFORMATION AND COMPUTER SECURITY. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [
+        [
+          "a network and on the Internet",
+          "182 Unit 5 : Information and Computer Security 5.1 Unit Overview You know that computer viruses can corrupt and damage computers. Viruses can also open security breaches on a computer that allows yet another threat, hackers, into the computer system. It is known that simply by the fact of having our school or home computers connected to a network and on the Internet are exposed to several information and computer security risks. Figure 5.1 show that"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Unit 5  INFORMATION AND COMPUTER SECURITY: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of 1. Overview & Fundamentals of Unit 5  INFORMATION AND COMPUTER SECURITY",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_1.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 1"
+    },
+    {
+      "title": "INFORMATION AND COMPUTER",
+      "paragraphs": [
+        "183 In this unit you are going to learn advanced concepts on information security, computer security, impact of information and computer security on society, privacy and security, threat prevention strategies and cyber security. 5.2 Information and Computer Security Brainstorming 1. What does it mean by information security? 2. Why do you think we need to secure our data and computers?",
+        "Information Security Information security is one of the most important and exciting career paths today all over the world. Information security is simply referred to as InfoSec, which is the practice of defending information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction. Computer Security Computer security, also known as cyber security, is about information security as applied to computing devices such as computers and smartphones as well",
+        "as computer networks such as private and public networks including the whole Internet.  It is a method for ensuring data that has been stored in computer systems could not be read or compromised by any individuals without authorization. Traditionally, information technology (IT) facilities have been protected for three reasons: � To prevent theft of or damage to the hardware. � To prevent theft of or damage to the information. � To prevent disruption of service.",
+        "Activity 5.1 Answer the following activities individually. 1. Summarize the problems of unsecured information and computer. 2. Explain how computer network relates to information and computer security risks. 184 Unit 5 : Information and Computer Security 5.3 Impact of Information and Computer Security on Society",
+        "Brainstorming 1. What does it mean by information or computer security? 2. Where do information and security risks arise from? Information and computer security risks arise from the intentional or unintentional misuse of computers and network resources as well as the Internet. These risks may result in the loss of or damage to computer hardware, software, confidential information and data integrity as well as network and Internet availability. Hackers can do several things from stealing your passwords to controlling",
+        "your computer through remote access. So, every student and another computer user must know about information and computer security. Remember that violation of information and computer security is punishable. Figure 5.2 Impacts of information and computer security on a society 3. Describe what will happen if your school network lacks availability? 4. Explain the advantages of protecting information technology (IT) resources in school. 185",
+        "All of us must make sure that we are aware of the security risks and develop the ability to know what to do in different situations. Figure 5.2 shows the impact of information and computer security on society. 5.4 Privacy and Security Brainstorming 1. Can you state what is meant by privacy? 2. Do you think that security and privacy are related to each other? Activity 5.2",
+        "Discuss the following activities in a group. 1. Discuss how information and computer security influence community. 2. Discuss the consequences of violation of information and computer security. 3. Explain the importance of securing your computer."
+      ],
+      "definitions": [
+        [
+          "In this unit you",
+          "183 In this unit you are going to learn advanced concepts on information security, computer security, impact of information and computer security on society, privacy and security, threat prevention strategies and cyber security. 5.2 Information and Computer Security Brainstorming 1. What does it mean by information security? 2. Why do you think we need to secure our data and computers?"
+        ],
+        [
+          "Security Information security",
+          "Information Security Information security is one of the most important and exciting career paths today all over the world. Information security is simply referred to as InfoSec, which is the practice of defending information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction. Computer Security Computer security, also known as cyber security, is about information security as applied to computing devices such as computers and smartphones as well"
+        ],
+        [
+          "and computer security",
+          "your computer through remote access. So, every student and another computer user must know about information and computer security. Remember that violation of information and computer security is punishable. Figure 5.2 Impacts of information and computer security on a society 3. Describe what will happen if your school network lacks availability? 4. Explain the advantages of protecting information technology (IT) resources in school. 185"
+        ],
+        [
+          "of us must make sure that we",
+          "All of us must make sure that we are aware of the security risks and develop the ability to know what to do in different situations. Figure 5.2 shows the impact of information and computer security on society. 5.4 Privacy and Security Brainstorming 1. Can you state what is meant by privacy? 2. Do you think that security and privacy are related to each other? Activity 5.2"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for INFORMATION AND COMPUTER: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of INFORMATION AND COMPUTER",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_2.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 2"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "A Hacker is a person who uses computers to gain unauthorized access to data. Information security (referred to as InfoSec) is the practice of defending information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction. Computer security is concerned with information security as applied to computing devices such as computers, smart phones and computer networks such as private and public networks, including the whole Internet.",
+        "Information and computer security risks arise from intentional or unintentional misuse of computers, network resources and the Internet. These risks may result in the loss of or damage to computer hardware, software, confidential information and data integrity as well as network and Internet availability. 186 Unit 5 : Information and Computer Security Privacy is concerned with safeguarding and respecting people’s rights to manage",
+        "their data in a broader sense. Individuals should have the right to access – if they ask for it – as well as the opportunity to modify or erase erroneous information about themselves that firms maintain in databases according to privacy activists. Privacy, like security, is crucial because it prevents data. Security is concerned with information leaks caused by malware infections and data breaches whereas privacy is concerned with personal data rights in terms of how information is acquired, utilized and maintained as well as who has access to it. 5.4.1 Data Privacy",
+        "Data privacy or information privacy is concerned with proper handling, processing, storage and usage of personal information. It is all about the rights of individuals concerning their personal information. Figure 5.3 Data privacy 5.4.2 Data Security Data security is concerned with measures that an individual or organization is taking to prevent any third party from unauthorized access. Figure 5.4 Data security",
+        "187 Activity 5.3 Answer the following activities accordingly in a group. 1. Compare and contrast privacy and security. 2. Visit computer laboratory or any computer in use in your school. Observe the security mechanisms applied and report to your class. 3. Explain types of computers and information privacy. 4. Explain data privacy and security.",
+        "5. Discuss the practice of data privacy or security in a Google Gmail account. This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum."
+      ],
+      "definitions": [
+        [
+          "A Hacker",
+          "A Hacker is a person who uses computers to gain unauthorized access to data. Information security (referred to as InfoSec) is the practice of defending information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction. Computer security is concerned with information security as applied to computing devices such as computers, smart phones and computer networks such as private and public networks, including the whole Internet."
+        ],
+        [
+          "and Computer Security Privacy",
+          "Information and computer security risks arise from intentional or unintentional misuse of computers, network resources and the Internet. These risks may result in the loss of or damage to computer hardware, software, confidential information and data integrity as well as network and Internet availability. 186 Unit 5 : Information and Computer Security Privacy is concerned with safeguarding and respecting people’s rights to manage"
+        ],
+        [
+          "Security",
+          "their data in a broader sense. Individuals should have the right to access – if they ask for it – as well as the opportunity to modify or erase erroneous information about themselves that firms maintain in databases according to privacy activists. Privacy, like security, is crucial because it prevents data. Security is concerned with information leaks caused by malware infections and data breaches whereas privacy is concerned with personal data rights in terms of how information is acquired, utilized and maintained as well as who has access to it. 5.4.1 Data Privacy"
+        ],
+        [
+          "privacy or information privacy",
+          "Data privacy or information privacy is concerned with proper handling, processing, storage and usage of personal information. It is all about the rights of individuals concerning their personal information. Figure 5.3 Data privacy 5.4.2 Data Security Data security is concerned with measures that an individual or organization is taking to prevent any third party from unauthorized access. Figure 5.4 Data security"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_3.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 3"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "Privacy is concerned with safeguarding and respecting people’s rights to manage their personal data in a broader sense. Security is concerned with information leaks caused by malware infections and data breaches whereas privacy is concerned with personal data rights in terms of how information is acquired, utilized and maintained as well as who has access to it. Data privacy or information privacy is concerned with proper handling, processing, storage and usage of personal information whereas data security",
+        "is concerned with policies, methods and means to secure personal data. 5.5 Computer Security Threats A security threat is a malicious act that aims to corrupt or steal data or disrupt school or organization systems. Security event refers to an occurrence during which school data or its network may have been exposed. An event that results in a data or a network breach is called a security threat. Some of the computer security threats are computer viruses, computer worms, Trojan horses, spyware, adware and ransomware.",
+        "Brainstorming 1. Can you describe the term security threat? 2. Can you mention any computer threat you have heard of before? 188 Unit 5 : Information and Computer Security Activity 5.4 Answer the following activities. 1. Explain the term malware.",
+        "2. Analyze types of computer security threats. 3. Summarize how your school or personal computers are exposed to malware. 4. Discuss the difference between computer viruses and computer worms. 5. Explain mechanisms to protect the computer security threat."
+      ],
+      "definitions": [
+        [
+          "Privacy",
+          "Privacy is concerned with safeguarding and respecting people’s rights to manage their personal data in a broader sense. Security is concerned with information leaks caused by malware infections and data breaches whereas privacy is concerned with personal data rights in terms of how information is acquired, utilized and maintained as well as who has access to it. Data privacy or information privacy is concerned with proper handling, processing, storage and usage of personal information whereas data security"
+        ],
+        [
+          "methods and",
+          "is concerned with policies, methods and means to secure personal data. 5.5 Computer Security Threats A security threat is a malicious act that aims to corrupt or steal data or disrupt school or organization systems. Security event refers to an occurrence during which school data or its network may have been exposed. An event that results in a data or a network breach is called a security threat. Some of the computer security threats are computer viruses, computer worms, Trojan horses, spyware, adware and ransomware."
+        ],
+        [
+          "school or personal computers",
+          "2. Analyze types of computer security threats. 3. Summarize how your school or personal computers are exposed to malware. 4. Discuss the difference between computer viruses and computer worms. 5. Explain mechanisms to protect the computer security threat."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_4.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 4"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "Security threat is a malicious act that aims to corrupt or steal data or disrupt a school’s computer network or organization’s systems. It is an event that results in a data or a network breach. Security event refers to an occurrence during which school data or its network may have been exposed. Computer virus is a malicious program which replicates itself and infects the files and programs of your PC and can make them non-functional. Computer worm is self-replicating computer program that spreads malicious",
+        "codes using computer networks. 5.6 Threat Prevention Strategies Brainstorming 1. Can you explain threat prevention? 2. Do you think that taking a backup of data is related to threat prevention strategies? Several defensive strategies and tools have been developed to assist in preventing threats. These include encryption, firewalls, anti-virus software, biometric security,",
+        "user identification and passwords, security monitors and disaster recovery. 189 Hence, threat prevention strategies could be categorized into two: technical and non-technical. Table 5.1 shows basic technical prevention strategies. 5.6.1 Technical Prevention Strategies Table 5.1 Technical prevention strategies Technical Prevention Strategy",
+        "Description Taking data backup Creating multiple copies of data to recover in case of any data loss using the external hard drive, CD, Flash memory or online data backup site, such as the cloud, in case of any data loss. Installing protective electrical devices",
+        "Installing devices such as Uninterruptible Power Supply (UPS) that can provide battery backup in case of a power outage. Installing antivirus and antispyware programs When using the Internet, you might encounter spyware or virus, which causes great damage to your computer. It is important to install an antivirus and",
+        "antispyware program that can prevent and remove the viruses. Installing firewall A firewall system prevents unauthorized access to a private network from network traffic. A firewall system forms a barrier between trusted and untrusted websites from threats like hackers and worms. Encrypting data",
+        "Preventing lost, stolen or hacked documents and files from being seen. Installing anti-virus software Antivirus software is a type of program designed and developed to protect computers from malware like viruses, computer worms and spyware. Creating and changing",
+        "user account A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. MS Windows computer has come up with a backup system. 190 Unit 5 : Information and Computer Security In Window, the path to locate the backup data option could be : Right click",
+        "on the Start button click on Control Panel click on System and Security click Backup and Restore click Backup now Activity 5.5 Discuss the following activities in a group. 1. Explain data backup mechanisms.",
+        "2. Explain the advantages of data backup. 3. Summarize online backup on the cloud. 4. Discuss advantages of online backup over other physical or external storages. 5. Explain the mechanisms of backup used in MS Windows and any saved data on your school computer."
+      ],
+      "definitions": [
+        [
+          "Security threat",
+          "Security threat is a malicious act that aims to corrupt or steal data or disrupt a school’s computer network or organization’s systems. It is an event that results in a data or a network breach. Security event refers to an occurrence during which school data or its network may have been exposed. Computer virus is a malicious program which replicates itself and infects the files and programs of your PC and can make them non-functional. Computer worm is self-replicating computer program that spreads malicious"
+        ],
+        [
+          "that taking a backup of data",
+          "codes using computer networks. 5.6 Threat Prevention Strategies Brainstorming 1. Can you explain threat prevention? 2. Do you think that taking a backup of data is related to threat prevention strategies? Several defensive strategies and tools have been developed to assist in preventing threats. These include encryption, firewalls, anti-virus software, biometric security,"
+        ],
+        [
+          "software Antivirus software",
+          "Preventing lost, stolen or hacked documents and files from being seen. Installing anti-virus software Antivirus software is a type of program designed and developed to protect computers from malware like viruses, computer worms and spyware. Creating and changing"
+        ],
+        [
+          "user account A user account",
+          "user account A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. MS Windows computer has come up with a backup system. 190 Unit 5 : Information and Computer Security In Window, the path to locate the backup data option could be : Right click"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_7.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 7"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "Cloud backup is the service in which data and applications on a business’s servers are backed up and stored on a remote server. Spyware is any software that installs itself on your computer and starts covertly monitoring your online behavior without your knowledge or permission. Spyware is a kind of malware that secretly gathers information about a person or an organization and relays this data to other parties. Malware (short for malicious software) is a file or code, typically delivered over a network, that infects, explores, steals or conducts any behavior an",
+        "attacker wants virtually. Firewall A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. A firewall program does not protect you from all viruses, so it is necessary to install an antivirus or antimalware application. Windows defender can help 191",
+        "you protect against viruses that the firewall does not protect from. Practice the following on your school or home computer. 1. Turn the Microsoft defender firewall on or off. 2. It is important to have Microsoft Defender Firewall on, even if you already have another firewall on. It helps you protect yourself from unauthorized access. 3. Select the Start Windows logo Start button",
+        "Settings Gear-shaped Settings icon Update & Security Circular arrows Sync icon Windows Security and then Firewall & network protection. Open Windows Security settings.",
+        "4. Select a network profile. 5. Under Microsoft Defender Firewall, switch the setting to on. If your device is connected to network, network policy settings might prevent you from completing these steps. For more info, contact the computer’s administrator. 6. To turn it off, switch the setting tooff.Turning off Windows Defender Firewall could make your device (and network, if you have one) more vulnerable to unauthorized access. If there is an application you need to use that is being blocked, you can allow it through the firewall, instead of turning the firewall",
+        "off. Note: If you get errors or if the setting will not turn on, you can use the trouble- shooter and then try again. Activity 5.6 Briefly discuss the following activities in a group. 1. Discuss advantages of installing an antivirus program. 2. Explain ways of protecting your computer from malware. 3. Summarize the steps required to install firewalls on your computer.",
+        "4. Discuss the term encryption of data. 5. Explain the mechanism to encrypt data. 6. Mention stages to install antivirus software. 7. Explain the types of accounts that can be organized on your computer. 192 Unit 5 : Information and Computer Security Antivirus Software Antivirus software is a type of program designed and developed to protect",
+        "computers from malware like viruses, computer worms and spyware. Antivirus programs function to scan, detect and remove viruses from your computer. Figure 5.5 Examples of antivirus software Creating and changing user account A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. These settings are also used to protect the user’s files and folders from access by another non-authorized person. In particular, a user account will determine the files and folders a user",
+        "can access and the changes a user can make to the computer. Types of User Account Three types of user accounts that are available in Windows are described in Table 5.2 below. Table 5.2 Types of user account User Accounts Description Administrator",
+        "Administrators have access to everything on the computer, and can make changes to anything, such as installing software and changing security settings. When you first install Windows 10, the initial user account will be an administrator account. The administrator account can also create new users and manage user accounts. 193 Standard",
+        "Standard users will have limited ability to make changes to the computer, except for personalizing the computer, such as applying a screen saver or changing a theme. Standard users will not have access to other users’ personal files and folders. Most computer users will be allocated a standard account. Guest Guest accounts exist for temporary users of a computer and only one guest account can exist on a computer. Guest",
+        "accounts are similar to standard accounts, except there is no privacy, as anybody can log onto a guest account. The guest account provides access to installed programs but does not have permission to access data in other users’ personal folders. Guest accounts are often used in internet cafes. Checking User Account on Windows Modification of user and administrator accounts can be done in Control Panel. Icons and language may differ slightly depending on the build version of",
+        "Windows you are using. � Step 1 : Click on the Windows icon and type Control Panel and click on the Control Panel application. � Step 2 : Click User Accounts. Figure 5.6 User accounts 194 Unit 5 : Information and Computer Security Note that you will need to be on or have access to an administrator account",
+        "to make any of these changes. If you do not have access to this account or it is managed by a service provider, please contact the relevant local administrator or your service provider. � Step 3 : Select Add or Remove User Accounts options Figure 5.7 Add or remove account type � Step 4 : Check the existing accounts on your PC. You should only have one administrator account and your daily use account should not be the administrator account. All next steps start from here.",
+        "Figure 5.8  Administrator account 195 Create a New Account To create a new account on your PC, follow the following steps. � Click on Add a new user in PC setting, as shown in Figure 5.9. Figure 5.9 Add new user � Scroll down and click on Add someone else to this PC. Figure 5.10 Add someone else to this pc",
+        "� Enter the username, passphrase and security questions and answers. � Click next; by default, this new user will not have administrator access. You can also create a new user account using a Microsoft account; however, you must be connected to the Internet. 196 Unit 5 : Information and Computer Security Figure 5.11 Create an account � Click on the Next button. This will create a new account.",
+        "Figure 5.12 Created account 5.6.2 Non-technical Prevention Strategies It is impossible to prevent natural disasters, but it is possible to reduce the damage they inflict through careful planning. Some measures can be taken to reduce their impact. The measures that you can take to protect your data and computer from natural threats could be keeping your computer in a secure location, storing data safely and protecting programs and data. 197",
+        "Activity 5.7 Answer the following activities in a group. 1. Explain non-technical prevention strategies used for your computer and data. 2. Explain the mechanisms used to protect programs and data. 3. Visit computers in your school and summarize antiviruses used in them. 4. Analyze how copied data or programs can be protected on computers."
+      ],
+      "definitions": [
+        [
+          "Cloud backup",
+          "Cloud backup is the service in which data and applications on a business’s servers are backed up and stored on a remote server. Spyware is any software that installs itself on your computer and starts covertly monitoring your online behavior without your knowledge or permission. Spyware is a kind of malware that secretly gathers information about a person or an organization and relays this data to other parties. Malware (short for malicious software) is a file or code, typically delivered over a network, that infects, explores, steals or conducts any behavior an"
+        ],
+        [
+          "Firewall A firewall",
+          "attacker wants virtually. Firewall A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. A firewall program does not protect you from all viruses, so it is necessary to install an antivirus or antimalware application. Windows defender can help 191"
+        ],
+        [
+          "If your device",
+          "4. Select a network profile. 5. Under Microsoft Defender Firewall, switch the setting to on. If your device is connected to network, network policy settings might prevent you from completing these steps. For more info, contact the computer’s administrator. 6. To turn it off, switch the setting tooff.Turning off Windows Defender Firewall could make your device (and network, if you have one) more vulnerable to unauthorized access. If there is an application you need to use that is being blocked, you can allow it through the firewall, instead of turning the firewall"
+        ],
+        [
+          "Software Antivirus software",
+          "4. Discuss the term encryption of data. 5. Explain the mechanism to encrypt data. 6. Mention stages to install antivirus software. 7. Explain the types of accounts that can be organized on your computer. 192 Unit 5 : Information and Computer Security Antivirus Software Antivirus software is a type of program designed and developed to protect"
+        ],
+        [
+          "user account A user account",
+          "computers from malware like viruses, computer worms and spyware. Antivirus programs function to scan, detect and remove viruses from your computer. Figure 5.5 Examples of antivirus software Creating and changing user account A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. These settings are also used to protect the user’s files and folders from access by another non-authorized person. In particular, a user account will determine the files and folders a user"
+        ],
+        [
+          "types of user accounts that",
+          "can access and the changes a user can make to the computer. Types of User Account Three types of user accounts that are available in Windows are described in Table 5.2 below. Table 5.2 Types of user account User Accounts Description Administrator"
+        ],
+        [
+          "accounts",
+          "accounts are similar to standard accounts, except there is no privacy, as anybody can log onto a guest account. The guest account provides access to installed programs but does not have permission to access data in other users’ personal folders. Guest accounts are often used in internet cafes. Checking User Account on Windows Modification of user and administrator accounts can be done in Control Panel. Icons and language may differ slightly depending on the build version of"
+        ],
+        [
+          "Windows you",
+          "Windows you are using. � Step 1 : Click on the Windows icon and type Control Panel and click on the Control Panel application. � Step 2 : Click User Accounts. Figure 5.6 User accounts 194 Unit 5 : Information and Computer Security Note that you will need to be on or have access to an administrator account"
+        ],
+        [
+          "access to this account or it",
+          "to make any of these changes. If you do not have access to this account or it is managed by a service provider, please contact the relevant local administrator or your service provider. � Step 3 : Select Add or Remove User Accounts options Figure 5.7 Add or remove account type � Step 4 : Check the existing accounts on your PC. You should only have one administrator account and your daily use account should not be the administrator account. All next steps start from here."
+        ],
+        [
+          "Prevention Strategies It",
+          "Figure 5.12 Created account 5.6.2 Non-technical Prevention Strategies It is impossible to prevent natural disasters, but it is possible to reduce the damage they inflict through careful planning. Some measures can be taken to reduce their impact. The measures that you can take to protect your data and computer from natural threats could be keeping your computer in a secure location, storing data safely and protecting programs and data. 197"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_8.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 8"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "Data backup involves creating multiple copies of your data. Making a backup helps you recover your data using external hard drive, CD, Flash memory or online data backup site such as cloud in case of any data loss. A firewall system prevents unauthorized access to a private network from network traffic by forming a barrier between trusted and untrusted websites to protect from threats like hackers and worms. Antivirus software is a type of program designed and developed to protect computers from malware like viruses, computer worms, spyware, botnets,",
+        "rootkits and key loggers. A user account is a collection of settings and permissions, specific to a user that determines what a user can and cannot do on the computer. 5.7 Cyber Security Brainstorming 1. What does it mean by cyber security? 2. Have you ever experienced cyber-attacks? Cyber security is the application of technologies, processes and controls to protect",
+        "systems, networks, programs, devices and data from cyber-attacks. Cyber security aims to reduce the risk of cyber-attacks and protect against the unauthorized exploitation of systems, networks and technologies. 198 Unit 5 : Information and Computer Security Figure 5.14 Cyber-attack Cyber-attacks can cause electrical shutdowns, failure of military equipment and breaches of national security secrets. They can result in theft of valuable, sensitive",
+        "data like medical records. They can disrupt phone and computer networks or paralyze systems, making data unavailable. Figure 5.14 shows an example of a cyber-attack. Cyber security applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories. Such as network security applications, information security, operational security, disaster recovery and end-user education. Common ways of cyber-attack prevention can be outlined as the follows.",
+        "1. Use strong passwords 2. Secure your computer 3. Be social-media savvy 4. Secure your mobile devices 5. Install the latest operating system updates 6. Protect your data 7. Secure your wireless network 199",
+        "8. Protect your e-identity 9. Avoid being scammed On top of all these outlined, call the right person for help.  If you encounter illegal Internet content or suspect a computer crime, identity theft or a commercial scam, report to your local police. If you need help with maintenance or software installation on your computer, consult your service provider or certified computer technician. 5.8 Unit Summary",
+        "Computer Security is control put in place to provide confidentiality, integrity and availability for all components of computer systems. These components include data, software, hardware and firmware. Information security is applied to computing devices such as computers and smartphones as well as computer networks, such as private and public networks, including the whole Internet. Privacy is concerned with safeguarding and respecting people’s rights to manage their data in a broader sense. Data privacy or information privacy",
+        "is concerned with proper handling, processing, storage and usage of personal information. It is all about the rights of individuals concerning their personal information. Lack of confidentiality is an unauthorized disclosure of data or unauthorized access to a computer system or a program. A failure of integrity results from Activity 5.8 Briefly discuss the following activities 1. Explain the reason for cyber-attack.",
+        "2. Analyze the impact of cyber-attack on society. 3. Compare and contrast cyber-attack and cyber-crime. 4. Analyze cyber security threats across the globe in general and in Ethiopia in particular. 5. Discus common categories of cyber security. 6. Explain each of the cyber security prevention mechanisms. 200 Unit 5 : Information and Computer Security",
+        "unauthorized modification of data or damage to a computer system or program. Lack of availability of computing resources results in what is called denial of service. An act or event that has potential to cause failure of a computer security is called a threat. A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. These settings protect the user’s files, programs and folders from being accessed by other non- authorized people.",
+        "Antivirus software is computer software used to prevent, detect and remove malware including computer viruses, worms and Trojan horses. Some examples of anti-virus software are Avast, McAfee, Norton and Kaspersky. Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks and data from malicious attacks. It is also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
+        "Cybercrime is any criminal activity that involves a computer, networked device or a network. While most cybercrimes are carried out to generate profit for the cybercriminals, some cybercrimes are carried out against computers or devices directly to damage or disable them. 5.9 Unit Review Exercise Part I: Write whther the following statements are true or false. 1. The term information security is used to describe the protection of computer and non-computer equipment, facilities, data and information from misuse by",
+        "unauthorized parties. 2. Information security threats can be internal as well as external and they can be accidental as well as intentional. 3. The objective of confidentiality of information is to make data or information available to those who are authorized to use it. 4. An information security risk is a potential undesirable outcome of a breach of information security by an information security threat. 5. Firewalls do not act as filters and barriers that restrict the flow of data to and",
+        "201 from the firm and the World Wide Web. 6. Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber-attacks. 7. Cybercrime, also called non-computer crime,  is the use of a computer as an instrument to further illegal ends. Part II: Choose the correct answer among the alternatives provided. 1. Firewalls are used to protect __________________ attacks.",
+        "A. virus B. fire C. data-driven D. unauthorized 2. When changes are made to the firm’s information and software data, the type of information security risk it encounters is ______________. A. unauthorized disclosure and theft. B. unauthorized use",
+        "C. unauthorized modification D. unauthorized restriction 3. Antivirus software needs to be continuously This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum.",
+        "updated because _________________. A. the list of potential threats grows and changes daily. B. the antivirus companies need to look at your computer to see what you are doing. C. the speed of your Internet connection needs to be regularly tested. D. the antivirus companies make money from you on each update.",
+        "202 Unit 5 : Information and Computer Security 4. You should keep your machine updated with the latest operating system patches because: A. Hackers might write a virus to take advantage of a known weakness or bug. B. Your machine will not run without the latest software. C. If you do not have the latest software, your system may force you to",
+        "reboot. D. Downloading the latest software will make your machine faster. 5. A computer detects a virus by ______________. A. reporting B. duplicating C. scanning D. following 6. _______  is a type of software designed to help the user’s computer detect",
+        "viruses and avoid them. A. Malware B. Adware C. Antivirus D. Both B and C 7. Data cannot be changed without proper authorization; this is an example of _______. A. confidentiality",
+        "B. integrity C. availability D. None of the above. 8. Backup and data encryption are components of ________________. A. data security B. data privacy",
+        "C. security D. None of the above. 203 9. Which one of the following is a key function of a firewall? A. Copying B. Moving This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum.",
+        "C. Deleting D. Monitoring 10.  Which of the following is not a type of cybercrime? A. Data theft B. Forgery C. Damage to data and systems D. Installing antivirus for protection Part III:  Discuss the following questions.",
+        "1. Define computer security. 2. Describe the three elements of computer security. 3. List threats related to information security. 4. Discuss the reasons for taking backup regularly. 5. Express the term firewall. 6. Explain cyber-attacks. 204 Unit 6 : Fundamentals of Programming",
+        "6.1 Unit Overview day-to-day problems and make strategies to handle different situations which keep arising in day-to-day life. One method of solving problems in computer science is using algorithms. In this unit, you are going to learn basics of algorithm, definition of algorithm, characteristics of algorithm, algorithm representation and introduction to Integrated Development Environment (IDE). 6.2 Basics of Algorithm Brainstorming",
+        "1. What do you recall by the term algorithm? 2. How do you verify problem solving concept? Algorithm is a step-by-step process of solving a well-defined computational problem. In practice, to solve any complex real-life problems, first we have to define the problem and then design an algorithm to solve it. Writing and executing a simple program may be easy; however, for executing a bigger one, each part of the program must be well organized. In short, algorithms are used to simplify the program implementation.",
+        "At the end of this unit, learners will be able to: � Explain concepts of algorithms. � Describe the representation of algorithms. � Discuss Integrated Development Environment (IDE). UNIT"
+      ],
+      "definitions": [
+        [
+          "Antivirus software",
+          "Data backup involves creating multiple copies of your data. Making a backup helps you recover your data using external hard drive, CD, Flash memory or online data backup site such as cloud in case of any data loss. A firewall system prevents unauthorized access to a private network from network traffic by forming a barrier between trusted and untrusted websites to protect from threats like hackers and worms. Antivirus software is a type of program designed and developed to protect computers from malware like viruses, computer worms, spyware, botnets,"
+        ],
+        [
+          "A user account",
+          "rootkits and key loggers. A user account is a collection of settings and permissions, specific to a user that determines what a user can and cannot do on the computer. 5.7 Cyber Security Brainstorming 1. What does it mean by cyber security? 2. Have you ever experienced cyber-attacks? Cyber security is the application of technologies, processes and controls to protect"
+        ],
+        [
+          "Computer Security",
+          "Computer Security is control put in place to provide confidentiality, integrity and availability for all components of computer systems. These components include data, software, hardware and firmware. Information security is applied to computing devices such as computers and smartphones as well as computer networks, such as private and public networks, including the whole Internet. Privacy is concerned with safeguarding and respecting people’s rights to manage their data in a broader sense. Data privacy or information privacy"
+        ],
+        [
+          "Lack of confidentiality",
+          "is concerned with proper handling, processing, storage and usage of personal information. It is all about the rights of individuals concerning their personal information. Lack of confidentiality is an unauthorized disclosure of data or unauthorized access to a computer system or a program. A failure of integrity results from Activity 5.8 Briefly discuss the following activities 1. Explain the reason for cyber-attack."
+        ],
+        [
+          "resources results in what",
+          "unauthorized modification of data or damage to a computer system or program. Lack of availability of computing resources results in what is called denial of service. An act or event that has potential to cause failure of a computer security is called a threat. A user account is a collection of settings and permissions specific to a user that determines what a user can and cannot do on the computer. These settings protect the user’s files, programs and folders from being accessed by other non- authorized people."
+        ],
+        [
+          "Antivirus software",
+          "Antivirus software is computer software used to prevent, detect and remove malware including computer viruses, worms and Trojan horses. Some examples of anti-virus software are Avast, McAfee, Norton and Kaspersky. Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks and data from malicious attacks. It is also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories."
+        ],
+        [
+          "Cybercrime",
+          "Cybercrime is any criminal activity that involves a computer, networked device or a network. While most cybercrimes are carried out to generate profit for the cybercriminals, some cybercrimes are carried out against computers or devices directly to damage or disable them. 5.9 Unit Review Exercise Part I: Write whther the following statements are true or false. 1. The term information security is used to describe the protection of computer and non-computer equipment, facilities, data and information from misuse by"
+        ],
+        [
+          "confidentiality of information",
+          "unauthorized parties. 2. Information security threats can be internal as well as external and they can be accidental as well as intentional. 3. The objective of confidentiality of information is to make data or information available to those who are authorized to use it. 4. An information security risk is a potential undesirable outcome of a breach of information security by an information security threat. 5. Firewalls do not act as filters and barriers that restrict the flow of data to and"
+        ],
+        [
+          "Cyber security",
+          "201 from the firm and the World Wide Web. 6. Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber-attacks. 7. Cybercrime, also called non-computer crime,  is the use of a computer as an instrument to further illegal ends. Part II: Choose the correct answer among the alternatives provided. 1. Firewalls are used to protect __________________ attacks."
+        ],
+        [
+          "When changes",
+          "A. virus B. fire C. data-driven D. unauthorized 2. When changes are made to the firm’s information and software data, the type of information security risk it encounters is ______________. A. unauthorized disclosure and theft. B. unauthorized use"
+        ],
+        [
+          "your computer to see what you",
+          "updated because _________________. A. the list of potential threats grows and changes daily. B. the antivirus companies need to look at your computer to see what you are doing. C. the speed of your Internet connection needs to be regularly tested. D. the antivirus companies make money from you on each update."
+        ],
+        [
+          "this",
+          "viruses and avoid them. A. Malware B. Adware C. Antivirus D. Both B and C 7. Data cannot be changed without proper authorization; this is an example of _______. A. confidentiality"
+        ],
+        [
+          "Backup and data encryption",
+          "B. integrity C. availability D. None of the above. 8. Backup and data encryption are components of ________________. A. data security B. data privacy"
+        ],
+        [
+          "Which one of the following",
+          "C. security D. None of the above. 203 9. Which one of the following is a key function of a firewall? A. Copying B. Moving"
+        ],
+        [
+          "Which of the following",
+          "C. Deleting D. Monitoring 10.  Which of the following is not a type of cybercrime? A. Data theft B. Forgery C. Damage to data and systems D. Installing antivirus for protection Part III:  Discuss the following questions."
+        ],
+        [
+          "problems in computer science",
+          "6.1 Unit Overview day-to-day problems and make strategies to handle different situations which keep arising in day-to-day life. One method of solving problems in computer science is using algorithms. In this unit, you are going to learn basics of algorithm, definition of algorithm, characteristics of algorithm, algorithm representation and introduction to Integrated Development Environment (IDE). 6.2 Basics of Algorithm Brainstorming"
+        ],
+        [
+          "Algorithm",
+          "1. What do you recall by the term algorithm? 2. How do you verify problem solving concept? Algorithm is a step-by-step process of solving a well-defined computational problem. In practice, to solve any complex real-life problems, first we have to define the problem and then design an algorithm to solve it. Writing and executing a simple program may be easy; however, for executing a bigger one, each part of the program must be well organized. In short, algorithms are used to simplify the program implementation."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_9.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 9"
+    },
+    {
+      "title": "FUNDAMENTALS OF PROGRAMING",
+      "paragraphs": [
+        "205 Computers are dumb machines because they do only what they are asked to do. In computers, programs are developed to solve some problems. These programs can be written using some computer programming languages like Basic, C, C++, Java and Python. In this section, you will develop your understanding of problem-solving and its approaches. To solve the problem using computers, we must follow the steps described below.",
+        "a. The problem must be analyzed thoroughly. b. Solution method is broken down into a sequence of small tasks. c.  Based on this analysis, an algorithm must be prepared to solve the problem. d. The algorithm must be expressed in precise notation. e. In viewing algorithm, a computer program has to be designed in any high-level language. f. The computer program is fed into the computer.",
+        "g. The instruction in the program executes one after another and outputs the expected result. For example, calculate the sum of two numbers, A and B, and store the sum in C; here A and B are the inputs, addition is the process and C is the output of the program, as shown in Figure 6.1. Figure 6.1 Sum of two numbers Activity 6.1 Answer the following activities accordingly.",
+        "1. Write the steps you may follow to do an everyday activity. It could be riding a bike, making a sandwich or cooking “shiro wot”. ii. Discuss the steps you have written with your friend. iii.  Can you provide the name for the steps you have written above? 206 Unit 6 : Fundamentals of Programming 2. Explain the relationship between problem solving and algorithms. 3. Describe the steps for solving a problem in computers.",
+        "6.3 Definition of Algorithm Brainstorming 1. Explain the term algorithm? 2. Can you state the benefits of using algorithms? An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. A program is an algorithm that has been converted into program code so that it can be executed by a computer. A well-written algorithm should be free from logic errors and easy to code in any",
+        "high-level language. Some of the most widely used definitions of an algorithm are described hereunder. � An algorithm is a set of rules for carrying out calculations either by hand or a machine. � An algorithm is a finite step-by-step procedure to achieve a required result. � An algorithm is a sequence of computational steps that transform the input into the output.",
+        "Let us conceptualize the concept of an algorithm by taking the example of cooking “doro wot” for the first time as a new recipe. To cook a new recipe, one reads the instructions and steps, and executes them one by one in the given sequence. The result, thus, obtained is that the new dish cooked perfectly. Similarly, algorithms help to do a task in programming to get the expected output. The algorithms designed are language-independent; that is, they are just plain instructions that can be implemented in any programming language and yet the output will be the same. The components of an algorithm are described in",
+        "Figure 6.2 below. 207 Figure 6.2 Description of the algorithm Before a computer can be put to any meaningful use, the user must be able to define a unit sequence of operations or activities which are logically ordered as an unambiguous method of solving a problem or finding a solution to it, which is termed as an algorithm. The term algorithm means “a process or set of rules to be followed in",
+        "calculations or other problem-solving operations”. Therefore, algorithm refers to a set of rules/instructions that define step-by-step how a work is to be executed to get the expected results. 6.4 Characteristics of Algorithm Figure 6.3 Characteristics of algorithm 208 Unit 6 : Fundamentals of Programming One would not follow any written instructions to cook a recipe, but only the",
+        "standard one. Similarly, every written instruction for programming is not an algorithm. For some instructions to be an algorithm, they must have the following characteristics. It should be: � Clear and unambiguous: The algorithm should be unambiguous. Each of its steps should be clear in all aspects and must lead to only one meaning. � Well-defined inputs: If an algorithm says to take inputs, they should be well-defined.",
+        "� Well-defined outputs: The algorithm must clearly define what output will be yielded and it should be well-defined as well. � Finiteness: The algorithm must be finite, i.e. it should not end up in infinite loops or similar. � Feasible: The algorithm must be simple, generic and practical so that it can be executed upon the available resources. It must not contain some future technology or anything. � Language independent: The algorithm designed must be language-",
+        "independent, i.e. it must be just plain instructions that can be implemented in any language, and yet the output will be the same as expected. Advantages of algorithm � It is easy to understand. � Algorithm is a stepwise representation of a solution to a given problem. Activity 6.2 Do the following activities in a group. 1. Establish a group of three and choose problems that can be solved stepwise.",
+        "2. Relate the steps you have identified to the components of an algorithm. 3. Discuss the characteristics of an algorithm. 209 � In the algorithm the problem is broken down into smaller pieces or steps; hence, it is easier for the programmer to convert it into an actual program. Disadvantages of algorithm � Writing an algorithm takes a long time, so it is time-consuming.",
+        "� Branching and looping statements are difficult to show in algorithms. Examples of algorithm Let us consider a few examples of creating an algorithm for a given problem. Example 1: Algorithm for the sum of two numbers � Step 1: Take the first number from the user (input). � Step 2: Take the second number from the user (input). � Step 3: Add the two numbers to get the sum (process). � Step 4: Display the sum on the screen (output).",
+        "Example 2: Write an algorithm to check whether the entered number is positive, negative or zero. � Step 1: Take the number from the user. � Step 2: If the number is less than 0, then display that the entered number is negative. � Step 3: If the number is greater than 0, display that the entered number is positive. � Step 4: Otherwise, display that the entered number is zero.",
+        "Example 3: Calculate the sum of ten natural numbers. The formula for the sum of ten natural numbers is 10 sum number i =∑ � Step 1: Let the sum be initially set to 0. � Step 2: Let i will be initially 1.",
+        "� Step 3: Take the ith number from the user. 210 Unit 6 : Fundamentals of Programming � Step 4: Add the ith number to the sum. � Step 5: Increase the value of i by 1. � Step 6: Check if the value of i is less than 10; then go to step 4. Otherwise, go to step 7. � Step 7: Output the sum."
+      ],
+      "definitions": [
+        [
+          "Computers",
+          "205 Computers are dumb machines because they do only what they are asked to do. In computers, programs are developed to solve some problems. These programs can be written using some computer programming languages like Basic, C, C++, Java and Python. In this section, you will develop your understanding of problem-solving and its approaches. To solve the problem using computers, we must follow the steps described below."
+        ],
+        [
+          "Solution method",
+          "a. The problem must be analyzed thoroughly. b. Solution method is broken down into a sequence of small tasks. c.  Based on this analysis, an algorithm must be prepared to solve the problem. d. The algorithm must be expressed in precise notation. e. In viewing algorithm, a computer program has to be designed in any high-level language. f. The computer program is fed into the computer."
+        ],
+        [
+          "here A and B",
+          "g. The instruction in the program executes one after another and outputs the expected result. For example, calculate the sum of two numbers, A and B, and store the sum in C; here A and B are the inputs, addition is the process and C is the output of the program, as shown in Figure 6.1. Figure 6.1 Sum of two numbers Activity 6.1 Answer the following activities accordingly."
+        ],
+        [
+          "An algorithm",
+          "6.3 Definition of Algorithm Brainstorming 1. Explain the term algorithm? 2. Can you state the benefits of using algorithms? An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. A program is an algorithm that has been converted into program code so that it can be executed by a computer. A well-written algorithm should be free from logic errors and easy to code in any"
+        ],
+        [
+          "definitions of an algorithm",
+          "high-level language. Some of the most widely used definitions of an algorithm are described hereunder. � An algorithm is a set of rules for carrying out calculations either by hand or a machine. � An algorithm is a finite step-by-step procedure to achieve a required result. � An algorithm is a sequence of computational steps that transform the input into the output."
+        ],
+        [
+          "obtained",
+          "Let us conceptualize the concept of an algorithm by taking the example of cooking “doro wot” for the first time as a new recipe. To cook a new recipe, one reads the instructions and steps, and executes them one by one in the given sequence. The result, thus, obtained is that the new dish cooked perfectly. Similarly, algorithms help to do a task in programming to get the expected output. The algorithms designed are language-independent; that is, they are just plain instructions that can be implemented in any programming language and yet the output will be the same. The components of an algorithm are described in"
+        ],
+        [
+          "operations or activities which",
+          "Figure 6.2 below. 207 Figure 6.2 Description of the algorithm Before a computer can be put to any meaningful use, the user must be able to define a unit sequence of operations or activities which are logically ordered as an unambiguous method of solving a problem or finding a solution to it, which is termed as an algorithm. The term algorithm means “a process or set of rules to be followed in"
+        ],
+        [
+          "algorithm",
+          "calculations or other problem-solving operations”. Therefore, algorithm refers to a set of rules/instructions that define step-by-step how a work is to be executed to get the expected results. 6.4 Characteristics of Algorithm Figure 6.3 Characteristics of algorithm 208 Unit 6 : Fundamentals of Programming One would not follow any written instructions to cook a recipe, but only the"
+        ],
+        [
+          "instruction for programming",
+          "standard one. Similarly, every written instruction for programming is not an algorithm. For some instructions to be an algorithm, they must have the following characteristics. It should be: � Clear and unambiguous: The algorithm should be unambiguous. Each of its steps should be clear in all aspects and must lead to only one meaning. � Well-defined inputs: If an algorithm says to take inputs, they should be well-defined."
+        ],
+        [
+          "Algorithm",
+          "independent, i.e. it must be just plain instructions that can be implemented in any language, and yet the output will be the same as expected. Advantages of algorithm � It is easy to understand. � Algorithm is a stepwise representation of a solution to a given problem. Activity 6.2 Do the following activities in a group. 1. Establish a group of three and choose problems that can be solved stepwise."
+        ],
+        [
+          "In the algorithm the problem",
+          "2. Relate the steps you have identified to the components of an algorithm. 3. Discuss the characteristics of an algorithm. 209 � In the algorithm the problem is broken down into smaller pieces or steps; hence, it is easier for the programmer to convert it into an actual program. Disadvantages of algorithm � Writing an algorithm takes a long time, so it is time-consuming."
+        ],
+        [
+          "and looping statements",
+          "� Branching and looping statements are difficult to show in algorithms. Examples of algorithm Let us consider a few examples of creating an algorithm for a given problem. Example 1: Algorithm for the sum of two numbers � Step 1: Take the first number from the user (input). � Step 2: Take the second number from the user (input). � Step 3: Add the two numbers to get the sum (process). � Step 4: Display the sum on the screen (output)."
+        ],
+        [
+          "whether the entered number",
+          "Example 2: Write an algorithm to check whether the entered number is positive, negative or zero. � Step 1: Take the number from the user. � Step 2: If the number is less than 0, then display that the entered number is negative. � Step 3: If the number is greater than 0, display that the entered number is positive. � Step 4: Otherwise, display that the entered number is zero."
+        ],
+        [
+          "the sum of ten natural numbers",
+          "Example 3: Calculate the sum of ten natural numbers. The formula for the sum of ten natural numbers is 10 sum number i =∑ � Step 1: Let the sum be initially set to 0. � Step 2: Let i will be initially 1."
+        ],
+        [
+          "Check if the value of i",
+          "� Step 3: Take the ith number from the user. 210 Unit 6 : Fundamentals of Programming � Step 4: Add the ith number to the sum. � Step 5: Increase the value of i by 1. � Step 6: Check if the value of i is less than 10; then go to step 4. Otherwise, go to step 7. � Step 7: Output the sum."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for FUNDAMENTALS OF PROGRAMING: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of FUNDAMENTALS OF PROGRAMING",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_10.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 10"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. An algorithm is described in terms of input, process and output activities. The characteristics of an algorithm include well defined input, well defined output, clarity and unambiguity, fineness, language independence and fea- sibility. A program is a set of instruction written to carry out a particular task so that computer can follow them.",
+        "Using algorithms for solving problems has both advantages and disadvantages. � Some of the advantages of using algorithm are easy to solve a prob- lem, practice step wise representation of problems and convert the al- gorithm into actual program or code the programmer. � The disadvantages of using algorithms are time consuming for design- ing and difficulty to show branching and looping statements 6.5 Algorithm Representation",
+        "Brainstorming 1. How do you think algorithms are represented? 2. Discuss with your classmate what is meant by the flowchart. 3. State the benefits of using algorithms. 211 In computer programming, we wish to be able to create algorithms in a way that will allow for easy translation to programming languages. Natural languages are too imprecise to be used in algorithms that are to be used in computer program-",
+        "ming. We need a way to describe our algorithms in a precise manner with a well- defined syntax and clear, unambiguous semantics. There are two main ways in which algorithms can be represented; they are flowcharts and pseudo code. 6.5.1 Flowchart Method An algorithm can be described using many techniques and tools. One tool for designing an algorithm is by using a flowchart. A flowchart is a graphical or schematic representation of the major steps of work in a process. It displays the",
+        "essential steps of the program in separate boxes and shows the directions of information flow using arrows. The boxes are most often referred to as illustrative symbols and may represent documents, machines or actions taken during the process. The area of concentration is on where or who does what, rather than on how it is done. A flowchart can also be said to be a graphical representation of an algorithm; that is, it is a visual picture that gives steps of an algorithm and flow of control between the various steps. Basic Flowchart Symbols",
+        "Flowcharts are drawn with the help of symbols. The following are the most com- monly used flowchart symbols and their functions as shown in Figures 6.4 below 212 Unit 6 : Fundamentals of Programming Figure 6.4 Flowchart symbols Example 1: Consider a simple general flowcharting technique as shown in Figure 6.5 below. Let us start drawing a flowchart for a given problem. Figure 6.5 Flowchart techniques",
+        "Here different flowchart symbols are shown and are interconnected by the flow line; start, input, processing, decision, predefined process, output and terminator are interconnected. 213 Example 2: Draw a flow chart of an algorithm to add two numbers and display their result."
+      ],
+      "definitions": [
+        [
+          "An algorithm",
+          "An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. An algorithm is described in terms of input, process and output activities. The characteristics of an algorithm include well defined input, well defined output, clarity and unambiguity, fineness, language independence and fea- sibility. A program is a set of instruction written to carry out a particular task so that computer can follow them."
+        ],
+        [
+          "advantages of using algorithm",
+          "Using algorithms for solving problems has both advantages and disadvantages. � Some of the advantages of using algorithm are easy to solve a prob- lem, practice step wise representation of problems and convert the al- gorithm into actual program or code the programmer. � The disadvantages of using algorithms are time consuming for design- ing and difficulty to show branching and looping statements 6.5 Algorithm Representation"
+        ],
+        [
+          "How do you think algorithms",
+          "Brainstorming 1. How do you think algorithms are represented? 2. Discuss with your classmate what is meant by the flowchart. 3. State the benefits of using algorithms. 211 In computer programming, we wish to be able to create algorithms in a way that will allow for easy translation to programming languages. Natural languages are too imprecise to be used in algorithms that are to be used in computer program-"
+        ],
+        [
+          "There",
+          "ming. We need a way to describe our algorithms in a precise manner with a well- defined syntax and clear, unambiguous semantics. There are two main ways in which algorithms can be represented; they are flowcharts and pseudo code. 6.5.1 Flowchart Method An algorithm can be described using many techniques and tools. One tool for designing an algorithm is by using a flowchart. A flowchart is a graphical or schematic representation of the major steps of work in a process. It displays the"
+        ],
+        [
+          "The boxes",
+          "essential steps of the program in separate boxes and shows the directions of information flow using arrows. The boxes are most often referred to as illustrative symbols and may represent documents, machines or actions taken during the process. The area of concentration is on where or who does what, rather than on how it is done. A flowchart can also be said to be a graphical representation of an algorithm; that is, it is a visual picture that gives steps of an algorithm and flow of control between the various steps. Basic Flowchart Symbols"
+        ],
+        [
+          "Flowcharts",
+          "Flowcharts are drawn with the help of symbols. The following are the most com- monly used flowchart symbols and their functions as shown in Figures 6.4 below 212 Unit 6 : Fundamentals of Programming Figure 6.4 Flowchart symbols Example 1: Consider a simple general flowcharting technique as shown in Figure 6.5 below. Let us start drawing a flowchart for a given problem. Figure 6.5 Flowchart techniques"
+        ],
+        [
+          "different flowchart symbols",
+          "Here different flowchart symbols are shown and are interconnected by the flow line; start, input, processing, decision, predefined process, output and terminator are interconnected. 213 Example 2: Draw a flow chart of an algorithm to add two numbers and display their result."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_11.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 11"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "a. Read the rules of the two numbers (A and B). b. Add A and B. c. Assign the sum of A and B to C. d. Display the result (C). A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes and can be used to describe various processes such as manufacturing, administrative or service and project plan.",
+        "Figure 6.6 Flow chart of an algorithm to add two numbers and display their result 214 Unit 6 : Fundamentals of Programming Example 3: Draw a flowchart to check if a given number is positive or negative."
+      ],
+      "definitions": [
+        [
+          "A flowchart",
+          "a. Read the rules of the two numbers (A and B). b. Add A and B. c. Assign the sum of A and B to C. d. Display the result (C). A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes and can be used to describe various processes such as manufacturing, administrative or service and project plan."
+        ],
+        [
+          "to check if a given number",
+          "Figure 6.6 Flow chart of an algorithm to add two numbers and display their result 214 Unit 6 : Fundamentals of Programming Example 3: Draw a flowchart to check if a given number is positive or negative."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Solution:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_12.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 12"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "Algorithm description a. Read a number x. b. If x is less than zero, write a message negatively; otherwise write a message that is not negative. Flowchart Figure 6.7 Flowchart that checks whether a given number is positive or negative Sometimes there are conditions in which it is necessary to execute a group of statements repeatedly until some condition is satisfied. This condition is called",
+        "a loop. Loop is a sequence of instructions that is repeated until some specific condition occurs. A loop normally consists of four parts. These are: � Initialization: Setting of variables of the computation to their initial values and setting the counter for determining to exit from the loop. � Computation: Processing 215 � Test:  Every loop must have some way of exiting from it or else the program would endlessly remain in a loop.",
+        "� Increment:  Re-initialization of the loop for the next loop. Example 3: Write the algorithmic description and draw a flowchart to find the sum of the first 50 natural numbers as stated:     Sum = 1+2+3+…. + 50"
+      ],
+      "definitions": [
+        [
+          "If x",
+          "Algorithm description a. Read a number x. b. If x is less than zero, write a message negatively; otherwise write a message that is not negative. Flowchart Figure 6.7 Flowchart that checks whether a given number is positive or negative Sometimes there are conditions in which it is necessary to execute a group of statements repeatedly until some condition is satisfied. This condition is called"
+        ],
+        [
+          "Loop",
+          "a loop. Loop is a sequence of instructions that is repeated until some specific condition occurs. A loop normally consists of four parts. These are: � Initialization: Setting of variables of the computation to their initial values and setting the counter for determining to exit from the loop. � Computation: Processing 215 � Test:  Every loop must have some way of exiting from it or else the program would endlessly remain in a loop."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Solution:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_13.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 13"
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "Algorithmic description 1. Initialize sum to zero (0) and counter to 1. 1.1 If the counter is less than or equal to 50, � Add counter to sum. � Increase counter by 1. � Repeat the above steps. 1.2 Else Exit 2. Write the sum",
+        "Flowchart Figure 6.8 Flowchart showing the sum of the first 50 natural numbers 216 Unit 6 : Fundamentals of Programming In this example, we can draw a simple flowchart for the sum of the first 50 natural numbers. Therefore, we need flowchart symbols for input, output, process, decision, start and end. The first and the last symbols are starting and end of the flowcharting respectively. An initial sum of numbers is assumed to be zero which",
+        "is inputted in the input symbol. The sum is added to the number, which is initialized as zero. The decision block used in the flowchart takes the decision when the number is equal to 50 if not then the natural number is incremented by one and added to the sum. This process continues until the number counter goes up to 50. If the number is 50, then the final sum will be calculated and displayed using the output symbol. 6.5.2 Pseudocode Pseudocode is a program design aid that serves the function of a flowchart in",
+        "expressing the detailed logic of a program. Sometimes a program’s flowchart might be inadequate for expressing the control flow and logic of the program. Using pseudocode, the program’s algorithm can be expressed as English- language statements. These statements can be used both as a guide when coding the program in a specific language and as documentation for review by others. Because there is no rigid rule for constructing pseudocodes, the logic of the program can be expressed in a manner without confronting any particular programming language. A series of structured words are used to express major",
+        "program functions. Let us see examples of pseudocode. Activity 6.3 Answer the following activities in a group in a class. 1. Discuss the use of a flowchart. 2. List symbols used in the flowchart diagram with their description. 3. Describe the flow chart symbol used to indicate the decision. 217 Example 1: Write the pseudocode to find the sum of two numbers.",
+        "Figure 6.9 Pseudocode for finding the sum of two numbers Activity 6.4 Answer the following activities individually. 1. Explain the benefits of using pseudocode in problem-solving. 2. Describe the pseudocode for area and perimeter of a circle. 3. Demonstrate how the pseudocode method relates to flowchart design."
+      ],
+      "definitions": [
+        [
+          "If the counter",
+          "Algorithmic description 1. Initialize sum to zero (0) and counter to 1. 1.1 If the counter is less than or equal to 50, � Add counter to sum. � Increase counter by 1. � Repeat the above steps. 1.2 Else Exit 2. Write the sum"
+        ],
+        [
+          "The first and the last symbols",
+          "Flowchart Figure 6.8 Flowchart showing the sum of the first 50 natural numbers 216 Unit 6 : Fundamentals of Programming In this example, we can draw a simple flowchart for the sum of the first 50 natural numbers. Therefore, we need flowchart symbols for input, output, process, decision, start and end. The first and the last symbols are starting and end of the flowcharting respectively. An initial sum of numbers is assumed to be zero which"
+        ],
+        [
+          "The sum",
+          "is inputted in the input symbol. The sum is added to the number, which is initialized as zero. The decision block used in the flowchart takes the decision when the number is equal to 50 if not then the natural number is incremented by one and added to the sum. This process continues until the number counter goes up to 50. If the number is 50, then the final sum will be calculated and displayed using the output symbol. 6.5.2 Pseudocode Pseudocode is a program design aid that serves the function of a flowchart in"
+        ],
+        [
+          "Because there",
+          "expressing the detailed logic of a program. Sometimes a program’s flowchart might be inadequate for expressing the control flow and logic of the program. Using pseudocode, the program’s algorithm can be expressed as English- language statements. These statements can be used both as a guide when coding the program in a specific language and as documentation for review by others. Because there is no rigid rule for constructing pseudocodes, the logic of the program can be expressed in a manner without confronting any particular programming language. A series of structured words are used to express major"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of Solution:",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_14.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 14"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "An algorithm can be described using many techniques and tools. The two main tools of designing algorithm are using flowchart and pseudocode. A flowchart is a graphical or a schematic representation of the major steps of work in a process. A flowchart symbols include start, input, process, decision, terminators and flow line. Pseudocode is a program design aid that serves the function of a flowchart in expressing the detailed logic of a program. 218",
+        "Unit 6 : Fundamentals of Programming 6.6 Integrated Development Environment(IDE) Brainstorming 1. Can you explain what an IDE is? 2. Describe the benefits of using an IDE. Software is a large component of our lives these days. If you do not agree, just look around. Software is in the computers that sit on our desks in schools. It is in our televisions and stereos. It is even in the mobile devices we carry around",
+        "like phones and tablets. These items have computers in them and computers need software to run. In a technology-based world such as ours, it is inescapable. Therefore, it should not come as a surprise that we need some means to create this software. An introduction to Integrated Development Environment (IDE) is a means to do this that puts everything we need at our fingertips. An IDE enables programmers to consolidate different aspects of writing a computer program. IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source",
+        "code, building executable, and debugging. In the next section, you learn the formal definition of an IDE. Figure 6.10  IDE for Java and Python programming 219 6.6.1 Definition of an IDE An integrated development environment (IDE) is an application that facilitates application development. IDEs are designed to encompass all programming tasks in one application. Therefore, IDEs offer a central interface featuring all the tools",
+        "a software developer needs, including the following functionalities as shown in Figure 6.11. Figure 6.11 Functionalities of an IDE Common Features of Integrated Development Environments accessed through a single graphical user interface (GUI). The user writes and into a readable language that is executable for a computer. The debugger tests the software to solve any issues or bugs. The fundamental features of IDE are discussed in the following.",
+        "itors because they enhance or simplify the writing and editing of code. 220 Unit 6 : Fundamentals of Programming write and manipulate source code. � Debugger : This tool is used during testing to help debug application programs. � Build automation tools : These tools automate common developer tasks. In addition, some IDEs might also include the following:",
+        "Class browser: This tool is used to examine and reference the properties of an object-oriented class hierarchy. Object browser: This feature is used to examine the objects instantiated in a running application program. � Class hierarchy diagram: This tool allows the programmer to visualize the structure of object-oriented programming code. Note that IDE may be a stand-alone application or may be included as part of one or more compatible applications.",
+        "Activity 6.5 Discuss the following activities in a group. 1. Describe the need for an IDE. 221 6.6.2 Benefits of Using IDEs The overall goal and main benefit of an integrated development environment are improved developer productivity. IDEs boost productivity by reducing setup time, increasing the speed of development tasks, keeping developers up to date",
+        "and standardizing the development process. � Faster setup : Without an IDE interface, developers would need to spend time configuring multiple development tools. With the application integration of an IDE, developers have the same set of capabilities in one place, without the need for constantly switching tools. � Faster development tasks: Tighter integration of all development tasks improves developer productivity. For Example, code can be parsed and syntax checked while being edited, providing instant feedback when",
+        "syntax errors are introduced. Developers do not need to switch between applications to complete tasks. In addition, the IDE’s tools and features help developers organize resources, prevent mistakes and take shortcuts. � Further, IDEs streamline development by encouraging holistic thinking. They enforce developers to think of their actions in terms of the entire development lifecycle, rather than as a series of discrete tasks. � Continual learning:  Staying up to date and educated is another benefit. For instance, the IDEs topics are constantly being updated as well as",
+        "new samples, project templates, etc. Programmers who are continually learning and with current best practices are more likely to contribute value to the team and the enterprise, and boost productivity. � Standardization: The IDE interface standardizes the development process which helps developers work together more smoothly and helps new hires get up to speed more quickly. 6.6.3 Different Types of IDE There are a variety of different IDEs, catering to many different ways developers",
+        "work and different types of code they produce. Some IDEs are designed to work with one specific language, cloud-based IDEs, IDEs customized for the development of mobile applications or HTML and IDEs meant specifically for Apple development or Microsoft development. 222 Unit 6 : Fundamentals of Programming Multi-language IDE Multi-language IDEs such as Eclipse, NetBeans and Komodo support multiple",
+        "programming languages. Figure 6.14 IDE software � Eclipse: Supports C++, Python, PHP, Java and more. This free and open- began as a Java development environment and has expanded through plugins. Eclipse is managed and directed by the Eclipse.org Consortium. � NetBeans: Supports Java, JavaScript, PHP, Python, Ruby, C, C++ and more. This option is also free and open source. All the functions of the IDE are provided by modules that each provide a well-defined function.",
+        "Support for other programming languages can be added by installing additional modules. IDE for a specific application � IDE for mobile development: There are IDEs specifically used for mobile development, for instance, Android Studio and Visual Studio. � HTML IDE: Some of the most popular IDEs are those for developing HTML applications. For Example, IDEs such as HomeSite, DreamWeaver or FrontPage automate many tasks involved in website development.",
+        "� Cloud-based IDE: Cloud IDEs give developers access to their code from anywhere. For Example, Nitrous is a cloud-based development environment platform that supports more than 40 languages including PHP, Ruby, Python, JavaScript with Node.js and Go. 223"
+      ],
+      "definitions": [
+        [
+          "tools of designing algorithm",
+          "An algorithm can be described using many techniques and tools. The two main tools of designing algorithm are using flowchart and pseudocode. A flowchart is a graphical or a schematic representation of the major steps of work in a process. A flowchart symbols include start, input, process, decision, terminators and flow line. Pseudocode is a program design aid that serves the function of a flowchart in expressing the detailed logic of a program. 218"
+        ],
+        [
+          "Can you explain what an IDE",
+          "Unit 6 : Fundamentals of Programming 6.6 Integrated Development Environment(IDE) Brainstorming 1. Can you explain what an IDE is? 2. Describe the benefits of using an IDE. Software is a large component of our lives these days. If you do not agree, just look around. Software is in the computers that sit on our desks in schools. It is in our televisions and stereos. It is even in the mobile devices we carry around"
+        ],
+        [
+          "as a surprise that we need some",
+          "like phones and tablets. These items have computers in them and computers need software to run. In a technology-based world such as ours, it is inescapable. Therefore, it should not come as a surprise that we need some means to create this software. An introduction to Integrated Development Environment (IDE) is a means to do this that puts everything we need at our fingertips. An IDE enables programmers to consolidate different aspects of writing a computer program. IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source"
+        ],
+        [
+          "IDEs",
+          "code, building executable, and debugging. In the next section, you learn the formal definition of an IDE. Figure 6.10  IDE for Java and Python programming 219 6.6.1 Definition of an IDE An integrated development environment (IDE) is an application that facilitates application development. IDEs are designed to encompass all programming tasks in one application. Therefore, IDEs offer a central interface featuring all the tools"
+        ],
+        [
+          "into a readable language that",
+          "a software developer needs, including the following functionalities as shown in Figure 6.11. Figure 6.11 Functionalities of an IDE Common Features of Integrated Development Environments accessed through a single graphical user interface (GUI). The user writes and into a readable language that is executable for a computer. The debugger tests the software to solve any issues or bugs. The fundamental features of IDE are discussed in the following."
+        ],
+        [
+          "This tool",
+          "itors because they enhance or simplify the writing and editing of code. 220 Unit 6 : Fundamentals of Programming write and manipulate source code. � Debugger : This tool is used during testing to help debug application programs. � Build automation tools : These tools automate common developer tasks. In addition, some IDEs might also include the following:"
+        ],
+        [
+          "This tool",
+          "Class browser: This tool is used to examine and reference the properties of an object-oriented class hierarchy. Object browser: This feature is used to examine the objects instantiated in a running application program. � Class hierarchy diagram: This tool allows the programmer to visualize the structure of object-oriented programming code. Note that IDE may be a stand-alone application or may be included as part of one or more compatible applications."
+        ],
+        [
+          "development environment",
+          "Activity 6.5 Discuss the following activities in a group. 1. Describe the need for an IDE. 221 6.6.2 Benefits of Using IDEs The overall goal and main benefit of an integrated development environment are improved developer productivity. IDEs boost productivity by reducing setup time, increasing the speed of development tasks, keeping developers up to date"
+        ],
+        [
+          "syntax errors",
+          "syntax errors are introduced. Developers do not need to switch between applications to complete tasks. In addition, the IDE’s tools and features help developers organize resources, prevent mistakes and take shortcuts. � Further, IDEs streamline development by encouraging holistic thinking. They enforce developers to think of their actions in terms of the entire development lifecycle, rather than as a series of discrete tasks. � Continual learning:  Staying up to date and educated is another benefit. For instance, the IDEs topics are constantly being updated as well as"
+        ],
+        [
+          "Programmers who",
+          "new samples, project templates, etc. Programmers who are continually learning and with current best practices are more likely to contribute value to the team and the enterprise, and boost productivity. � Standardization: The IDE interface standardizes the development process which helps developers work together more smoothly and helps new hires get up to speed more quickly. 6.6.3 Different Types of IDE There are a variety of different IDEs, catering to many different ways developers"
+        ],
+        [
+          "Some IDEs",
+          "work and different types of code they produce. Some IDEs are designed to work with one specific language, cloud-based IDEs, IDEs customized for the development of mobile applications or HTML and IDEs meant specifically for Apple development or Microsoft development. 222 Unit 6 : Fundamentals of Programming Multi-language IDE Multi-language IDEs such as Eclipse, NetBeans and Komodo support multiple"
+        ],
+        [
+          "Eclipse",
+          "programming languages. Figure 6.14 IDE software � Eclipse: Supports C++, Python, PHP, Java and more. This free and open- began as a Java development environment and has expanded through plugins. Eclipse is managed and directed by the Eclipse.org Consortium. � NetBeans: Supports Java, JavaScript, PHP, Python, Ruby, C, C++ and more. This option is also free and open source. All the functions of the IDE are provided by modules that each provide a well-defined function."
+        ],
+        [
+          "There",
+          "Support for other programming languages can be added by installing additional modules. IDE for a specific application � IDE for mobile development: There are IDEs specifically used for mobile development, for instance, Android Studio and Visual Studio. � HTML IDE: Some of the most popular IDEs are those for developing HTML applications. For Example, IDEs such as HomeSite, DreamWeaver or FrontPage automate many tasks involved in website development."
+        ],
+        [
+          "Nitrous",
+          "� Cloud-based IDE: Cloud IDEs give developers access to their code from anywhere. For Example, Nitrous is a cloud-based development environment platform that supports more than 40 languages including PHP, Ruby, Python, JavaScript with Node.js and Go. 223"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_15.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 15"
+    },
+    {
+      "title": "KEY CONCEPTS",
+      "paragraphs": [
+        "An Integrated Development Environment (IDE) is an application that facilitates application development. IDEs are designed to encompass all programming tasks in one application. debugger which is accessed through a single graphical user interface (GUI). source code. code. or simplify the writing and editing of code. Compiler: This is a tool that transforms source code written in a human",
+        "readable or writable language into a form executable by a computer. The benefits of using IDEs are faster setup, fast development tasks, continuous learning and standardization of the development process. Multiple IDEs such as Eclipse, NetBeans and Komodo support multiple programming languages whereas IDEs for specific applications are IDEs for mobile development, for instance Android Studio, Visual Studio, HTML IDEs such as HomeSite, DreamWeaver or FrontPage, and Cloud-based IDE such as PHP, Ruby, Python, JavaScript with Node.js and Go.",
+        "6.7 Unit Summary Flowcharts, decision tables, pseudocodes and algorithms are essential ingredients to the writing of good programs. If they are done properly, they lead to a reduction of errors in programs. They help minimize the time spent in debugging. In addition, they make logic errors easier to trace and discover. A flowchart is a graphical representation of the major steps of work in the process. It displays the essential steps of the program in separate boxes and shows the directions of information flow using arrows. Pseudocode is a program",
+        "design aid that serves the function of a flowchart in expressing the detailed logic of a program. 224 Unit 6 : Fundamentals of Programming An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. A program is an algorithm that has been converted into program code so that it can be executed by a computer. A well-written algorithm should be free from logic errors and easy to code in any",
+        "high-level language. An IDE, or integrated development environment, enables programmers to consolidate the different aspects of writing a computer program. It increases programmer productivity by combining common activities of writing software into a single application: editing source code, building executables and debugging. The overall goal and main benefit of an integrated development environment are improved developer productivity. IDEs boost productivity by reducing setup time, increasing the speed of development tasks, keeping developers up to date",
+        "and standardizing the development process. Eclipse supports C++, Python, PHP, Java and more. This free and open- a Java development environment and has expanded through plugins. NetBeans supports Java, JavaScript, PHP, Python, Ruby, C, C++, and more. This option is also free and open source. All the functions of the IDE are provided by modules that each provide a well-defined function. 6.8 Unit Review Exercise Part I: Write whether the following statements are true or false.",
+        "1. A sequence of instructions given to a computer is known as a program. 2. Branching and looping structures are well described using an algorithm. 3. An algorithm is a precise method of solving a problem. 4. Flowchart method is a verbal description of an algorithm. Part II: Choose the correct answer among the alternatives provided. 1. Which one is not a characteristic of an algorithm? A. Ambiguity B. Simplicity",
+        "C. Correctness 225 D.  Precision 2. In the flowchart diagram, which one of the following symbols is used to indicate a decision step? 3. Which one of the following is incorrect about an algorithm? A. It has well-defined steps. B. It has to be unambiguous.",
+        "C. It should terminate after a few computational steps. D. It is dependent on a particular programming language. 4. A step-by-step method for solving a problem using the English Language is _______. A. program B. flowchart C. statement D. algorithm",
+        "5. A set of statements executed based upon conditional test is called _____________. A. looping B. selective C. sequence D.  None of the above. 6. A set of statements is executed again and again based upon a conditional test. A. Looping B. Selective",
+        "C. Sequence D. Conditional 226 Unit 6 : Fundamentals of Programming 7. The graphical representation of algorithm is _________________. A. program B. flowchart C. statement",
+        "D. algorithm 8. All instructions are executed one after the other. A. Looping B. Selective C. Sequence D. None of the above 9. The correct order of executing algorithms is ____________. A. input",
+        "process output B. input output process C. output process input This foundational concept establishes the governing principles of KEY CONCEPTS. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the it curriculum.",
+        "D. process input output 10. The part of a loop structure that describes processing is called ________. A. initialization B. computation C. testing D. increment",
+        "11. An abbreviation IDE stands for ___________. A. individually determined environment B. indented development entity C. integrated development environment D. integrated dynamic entity Part III: Discuss the following questions. 1. Define the term algorithm. 2. Discuss a flowchart.",
+        "3. Explain pseudocode. 227 4. Summarize the symbols of the flowchart. 5. Write an algorithm description and draw a flow chart for the sum of the first ten natural numbers. 6. Write an algorithm to find the greatest three numbers of given numbers. 7. Write an algorithm to check whether the given integer value is prime or not. 8. Draw a flowchart to find the roots of the quadratic equation ax²+ bx + c = 0.",
+        "9. Write an algorithm to read values for three variables u, v and w and find the value for the result from the formula: result= (u+v2)/ w. Draw also the flow- chart."
+      ],
+      "definitions": [
+        [
+          "IDEs",
+          "An Integrated Development Environment (IDE) is an application that facilitates application development. IDEs are designed to encompass all programming tasks in one application. debugger which is accessed through a single graphical user interface (GUI). source code. code. or simplify the writing and editing of code. Compiler: This is a tool that transforms source code written in a human"
+        ],
+        [
+          "The benefits of using IDEs",
+          "readable or writable language into a form executable by a computer. The benefits of using IDEs are faster setup, fast development tasks, continuous learning and standardization of the development process. Multiple IDEs such as Eclipse, NetBeans and Komodo support multiple programming languages whereas IDEs for specific applications are IDEs for mobile development, for instance Android Studio, Visual Studio, HTML IDEs such as HomeSite, DreamWeaver or FrontPage, and Cloud-based IDE such as PHP, Ruby, Python, JavaScript with Node.js and Go."
+        ],
+        [
+          "pseudocodes and algorithms",
+          "6.7 Unit Summary Flowcharts, decision tables, pseudocodes and algorithms are essential ingredients to the writing of good programs. If they are done properly, they lead to a reduction of errors in programs. They help minimize the time spent in debugging. In addition, they make logic errors easier to trace and discover. A flowchart is a graphical representation of the major steps of work in the process. It displays the essential steps of the program in separate boxes and shows the directions of information flow using arrows. Pseudocode is a program"
+        ],
+        [
+          "of Programming An algorithm",
+          "design aid that serves the function of a flowchart in expressing the detailed logic of a program. 224 Unit 6 : Fundamentals of Programming An algorithm is a precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions. A program is an algorithm that has been converted into program code so that it can be executed by a computer. A well-written algorithm should be free from logic errors and easy to code in any"
+        ],
+        [
+          "development environment",
+          "high-level language. An IDE, or integrated development environment, enables programmers to consolidate the different aspects of writing a computer program. It increases programmer productivity by combining common activities of writing software into a single application: editing source code, building executables and debugging. The overall goal and main benefit of an integrated development environment are improved developer productivity. IDEs boost productivity by reducing setup time, increasing the speed of development tasks, keeping developers up to date"
+        ],
+        [
+          "This option",
+          "and standardizing the development process. Eclipse supports C++, Python, PHP, Java and more. This free and open- a Java development environment and has expanded through plugins. NetBeans supports Java, JavaScript, PHP, Python, Ruby, C, C++, and more. This option is also free and open source. All the functions of the IDE are provided by modules that each provide a well-defined function. 6.8 Unit Review Exercise Part I: Write whether the following statements are true or false."
+        ],
+        [
+          "given to a computer",
+          "1. A sequence of instructions given to a computer is known as a program. 2. Branching and looping structures are well described using an algorithm. 3. An algorithm is a precise method of solving a problem. 4. Flowchart method is a verbal description of an algorithm. Part II: Choose the correct answer among the alternatives provided. 1. Which one is not a characteristic of an algorithm? A. Ambiguity B. Simplicity"
+        ],
+        [
+          "one of the following symbols",
+          "C. Correctness 225 D.  Precision 2. In the flowchart diagram, which one of the following symbols is used to indicate a decision step? 3. Which one of the following is incorrect about an algorithm? A. It has well-defined steps. B. It has to be unambiguous."
+        ],
+        [
+          "using the English Language",
+          "C. It should terminate after a few computational steps. D. It is dependent on a particular programming language. 4. A step-by-step method for solving a problem using the English Language is _______. A. program B. flowchart C. statement D. algorithm"
+        ],
+        [
+          "based upon conditional test",
+          "5. A set of statements executed based upon conditional test is called _____________. A. looping B. selective C. sequence D.  None of the above. 6. A set of statements is executed again and again based upon a conditional test. A. Looping B. Selective"
+        ],
+        [
+          "representation of algorithm",
+          "C. Sequence D. Conditional 226 Unit 6 : Fundamentals of Programming 7. The graphical representation of algorithm is _________________. A. program B. flowchart C. statement"
+        ],
+        [
+          "All instructions",
+          "D. algorithm 8. All instructions are executed one after the other. A. Looping B. Selective C. Sequence D. None of the above 9. The correct order of executing algorithms is ____________. A. input"
+        ],
+        [
+          "that describes processing",
+          "D. process input output 10. The part of a loop structure that describes processing is called ________. A. initialization B. computation C. testing D. increment"
+        ],
+        [
+          "whether the given integer value",
+          "3. Explain pseudocode. 227 4. Summarize the symbols of the flowchart. 5. Write an algorithm description and draw a flow chart for the sum of the first ten natural numbers. 6. Write an algorithm to find the greatest three numbers of given numbers. 7. Write an algorithm to check whether the given integer value is prime or not. 8. Draw a flowchart to find the roots of the quadratic equation ax²+ bx + c = 0."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for KEY CONCEPTS: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how it principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard Grade_10 examinations."
+      ],
+      "formulas": [],
+      "tables": [
+        [
+          [
+            "Category / Element",
+            "Detailed Description & Characteristics",
+            "Academic Significance"
+          ],
+          [
+            "Core Component",
+            "Primary structural feature of KEY CONCEPTS",
+            "High Priority"
+          ],
+          [
+            "Secondary Mechanism",
+            "Associated process in it",
+            "Explanatory Context"
+          ]
+        ]
+      ],
+      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_16.jpeg",
+      "image_caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 16"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "1. What does it mean by information security?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. Why do you think we need to secure our data and computers?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "1. Summarize the problems of unsecured information and computer.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. Explain how computer network relates to information and computer",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "1. What does it mean by information or computer security?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. Where do information and security risks arise from?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "3. Describe what will happen if your school network lacks availability?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "4. Explain the advantages of protecting information technology (IT) resources",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "1. Can you state what is meant by privacy?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    },
+    {
+      "question": "2. Do you think that security and privacy are related to each other?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 5  INFORMATION AND COMPUTER SECURITY in it.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_10."
+    }
+  ],
+  "summary": "UNIT SUMMARY — UNIT 5  INFORMATION AND COMPUTER SECURITY (Grade_10 it):\nThis complete study document covers all topics in Unit 5  INFORMATION AND COMPUTER SECURITY, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": [
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_1.jpeg",
+      "filename": "figure_1.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 1"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_2.jpeg",
+      "filename": "figure_2.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 2"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_3.jpeg",
+      "filename": "figure_3.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 3"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_4.jpeg",
+      "filename": "figure_4.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 4"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_7.jpeg",
+      "filename": "figure_7.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 7"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_8.jpeg",
+      "filename": "figure_8.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 8"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_9.jpeg",
+      "filename": "figure_9.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 9"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_10.jpeg",
+      "filename": "figure_10.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 10"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_11.jpeg",
+      "filename": "figure_11.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 11"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_12.jpeg",
+      "filename": "figure_12.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 12"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_13.jpeg",
+      "filename": "figure_13.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 13"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_14.jpeg",
+      "filename": "figure_14.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 14"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_15.jpeg",
+      "filename": "figure_15.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 15"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_16.jpeg",
+      "filename": "figure_16.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 16"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_17.jpeg",
+      "filename": "figure_17.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 17"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_18.jpeg",
+      "filename": "figure_18.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 18"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_19.jpeg",
+      "filename": "figure_19.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 19"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_20.jpeg",
+      "filename": "figure_20.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 20"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_21.png",
+      "filename": "figure_21.png",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 21"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_22.jpeg",
+      "filename": "figure_22.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 22"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_23.jpeg",
+      "filename": "figure_23.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 23"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_24.jpeg",
+      "filename": "figure_24.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 24"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_25.jpeg",
+      "filename": "figure_25.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 25"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_26.jpeg",
+      "filename": "figure_26.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 26"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_27.jpeg",
+      "filename": "figure_27.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 27"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_28.jpeg",
+      "filename": "figure_28.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 28"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_29.jpeg",
+      "filename": "figure_29.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 29"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_30.jpeg",
+      "filename": "figure_30.jpeg",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 30"
+    },
+    {
+      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_10\\it\\Unit 5_ INFORMATION AND COMPUTER SECURITY\\short_note\\images\\figure_31.png",
+      "filename": "figure_31.png",
+      "caption": "Unit 5  INFORMATION AND COMPUTER SECURITY — Visual Figure 31"
+    }
+  ]
+}

@@ -1,14 +1,30 @@
-{
-  "id": "chapter_1__introduction_to_emerging_technologies",
-  "title": "Chapter 1_ Introduction to Emerging Technologies",
-  "description": "Chapter 1_ Introduction to Emerging Technologies for Emerging Technologies",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_1_Introduction_to_Emerging_Technologies",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 1_ Introduction to Emerging Technologies",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 1_ Introduction to Emerging Technologies",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

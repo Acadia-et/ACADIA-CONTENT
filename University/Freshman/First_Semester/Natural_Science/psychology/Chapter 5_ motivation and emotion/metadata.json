@@ -1,14 +1,30 @@
-{
-  "id": "chapter_5__motivation_and_emotion",
-  "title": "Chapter 5_ motivation and emotion",
-  "description": "Chapter 5_ motivation and emotion for psychology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_5_motivation_and_emotion",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 5_ motivation and emotion",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 5_ motivation and emotion",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

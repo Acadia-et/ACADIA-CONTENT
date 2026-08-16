@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__punctuality",
-  "title": "Unit 3_ PUNCTUALITY",
-  "description": "Unit 3_ PUNCTUALITY for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_PUNCTUALITY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ PUNCTUALITY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ PUNCTUALITY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

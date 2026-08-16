@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__elasticity_and_static_equilibrium_of_rigid_body",
-  "title": "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
-  "description": "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_ELASTICITY_AND_STATIC_EQUILIBRIUM_OF_RIGID_BODY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

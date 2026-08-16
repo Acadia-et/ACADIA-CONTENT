@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__natural_resource_base_of_africa",
-  "title": "Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
-  "description": "Unit 3_ NATURAL RESOURCE BASE OF AFRICA for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_NATURAL_RESOURCE_BASE_OF_AFRICA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

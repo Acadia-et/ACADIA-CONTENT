@@ -1,13 +1,39 @@
 {
-  "id": "it",
-  "title": "It",
-  "description": "It subject",
+  "id": "it_Grade_11/Social_Science",
+  "grade": "Grade_11/Social_Science",
+  "subject": "it",
+  "description": "Grade_11/Social_Science It",
   "units": [
-    "Unit 1_ INFORMATION SYSTEMS AND ITS APPLICATIONS",
-    "Unit 2_ EMERGING TECHNOLOGIES",
-    "Unit 3_ DATABASE MANAGEMENT",
-    "Unit 4_ WEB DEVELOPMENT",
-    "Unit 5_ HARDWARE TROUBLESHOOTING AND PREVENTIVE MAINTENANCE",
-    "Unit 6_ FUNDAMENTALS OF PROGRAMMING"
-  ]
+    {
+      "id": "Unit_1__INFORMATION_SYSTEMS_AND_ITS_APPLICATIONS",
+      "title": "Unit 1_ INFORMATION SYSTEMS AND ITS APPLICATIONS",
+      "file": "Unit_1__INFORMATION_SYSTEMS_AND_ITS_APPLICATIONS.json"
+    },
+    {
+      "id": "Unit_2__EMERGING_TECHNOLOGIES",
+      "title": "Unit 2_ EMERGING TECHNOLOGIES",
+      "file": "Unit_2__EMERGING_TECHNOLOGIES.json"
+    },
+    {
+      "id": "Unit_3__DATABASE_MANAGEMENT",
+      "title": "Unit 3_ DATABASE MANAGEMENT",
+      "file": "Unit_3__DATABASE_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_4__WEB_DEVELOPMENT",
+      "title": "Unit 4_ WEB DEVELOPMENT",
+      "file": "Unit_4__WEB_DEVELOPMENT.json"
+    },
+    {
+      "id": "Unit_5__HARDWARE_TROUBLESHOOTING_AND_PREVENTIVE_MAINTENANCE",
+      "title": "Unit 5_ HARDWARE TROUBLESHOOTING AND PREVENTIVE MAINTENANCE",
+      "file": "Unit_5__HARDWARE_TROUBLESHOOTING_AND_PREVENTIVE_MAINTENANCE.json"
+    },
+    {
+      "id": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING",
+      "title": "Unit 6_ FUNDAMENTALS OF PROGRAMMING",
+      "file": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Social_Science/it/textbook.pdf"
 }

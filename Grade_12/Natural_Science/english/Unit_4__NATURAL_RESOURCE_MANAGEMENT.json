@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Main Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/english/Unit 4_ NATURAL RESOURCE MANAGEMENT/short_note/main_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 4.81,
+      "free_content": false,
+      "source": "github"
+    },
+    {
+      "content_type": "short_note",
+      "title": "Study Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/english/Unit 4_ NATURAL RESOURCE MANAGEMENT/short_note/notes.json",
+      "file_format": "json",
+      "free_content": false,
+      "source": "github"
+    }
+  ]
+}

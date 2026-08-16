@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__chemical_reactions_and_stoichiometry",
-  "title": "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
-  "description": "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_CHEMICAL_REACTIONS_AND_STOICHIOMETRY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ CHEMICAL REACTIONS AND STOICHIOMETRY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

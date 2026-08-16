@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__the_middle_ages_and_early_modern_world,_c._500_ad-1789",
-  "title": "Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",
-  "description": "Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_THE_MIDDLE_AGES_AND_EARLY_MODERN_WORLD,_C._500_AD-1789",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__database_management_system",
-  "title": "Unit 3_ DATABASE MANAGEMENT SYSTEM",
-  "description": "Unit 3_ DATABASE MANAGEMENT SYSTEM for it",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_DATABASE_MANAGEMENT_SYSTEM",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ DATABASE MANAGEMENT SYSTEM",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ DATABASE MANAGEMENT SYSTEM",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

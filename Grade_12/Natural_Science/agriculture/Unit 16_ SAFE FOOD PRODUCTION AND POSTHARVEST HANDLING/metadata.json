@@ -1,14 +1,30 @@
-{
-  "id": "unit_16__safe_food_production_and_postharvest_handling",
-  "title": "Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING",
-  "description": "Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_16_SAFE_FOOD_PRODUCTION_AND_POSTHARVEST_HANDLING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

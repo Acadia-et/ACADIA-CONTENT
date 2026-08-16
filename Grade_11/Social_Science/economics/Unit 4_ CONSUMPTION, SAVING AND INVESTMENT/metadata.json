@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__consumption,_saving_and_investment",
-  "title": "Unit 4_ CONSUMPTION, SAVING AND INVESTMENT",
-  "description": "Unit 4_ CONSUMPTION, SAVING AND INVESTMENT for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_CONSUMPTION,_SAVING_AND_INVESTMENT",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ CONSUMPTION, SAVING AND INVESTMENT",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ CONSUMPTION, SAVING AND INVESTMENT",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

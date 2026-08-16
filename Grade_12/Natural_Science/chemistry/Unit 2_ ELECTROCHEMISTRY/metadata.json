@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__electrochemistry",
-  "title": "Unit 2_ ELECTROCHEMISTRY",
-  "description": "Unit 2_ ELECTROCHEMISTRY for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_ELECTROCHEMISTRY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ ELECTROCHEMISTRY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ ELECTROCHEMISTRY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

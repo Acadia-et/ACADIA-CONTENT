@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__chemical_equilibrium",
-  "title": "Unit 5_ CHEMICAL EQUILIBRIUM",
-  "description": "Unit 5_ CHEMICAL EQUILIBRIUM for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_CHEMICAL_EQUILIBRIUM",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ CHEMICAL EQUILIBRIUM",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ CHEMICAL EQUILIBRIUM",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

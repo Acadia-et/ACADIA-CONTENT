@@ -1,14 +1,30 @@
-{
-  "id": "chapter_5__informal_fallacies",
-  "title": "Chapter 5_ informal fallacies",
-  "description": "Chapter 5_ informal fallacies for logic",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_5_informal_fallacies",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 5_ informal fallacies",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 5_ informal fallacies",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

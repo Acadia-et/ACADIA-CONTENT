@@ -1,14 +1,30 @@
-{
-  "id": "part_1__mathematical_part",
-  "title": "Part 1_ Mathematical Part",
-  "description": "Part 1_ Mathematical Part for aptitude",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Part_1_Mathematical_Part",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Part 1_ Mathematical Part",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Part 1_ Mathematical Part",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

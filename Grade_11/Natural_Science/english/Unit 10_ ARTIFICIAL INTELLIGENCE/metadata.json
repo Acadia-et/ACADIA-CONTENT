@@ -1,14 +1,30 @@
-{
-  "id": "unit_10__artificial_intelligence",
-  "title": "Unit 10_ ARTIFICIAL INTELLIGENCE",
-  "description": "Unit 10_ ARTIFICIAL INTELLIGENCE for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_10_ARTIFICIAL_INTELLIGENCE",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 10_ ARTIFICIAL INTELLIGENCE",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 10_ ARTIFICIAL INTELLIGENCE",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__biochemical_molecules",
-  "title": "Unit 3_ BIOCHEMICAL MOLECULES",
-  "description": "Unit 3_ BIOCHEMICAL MOLECULES for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_BIOCHEMICAL_MOLECULES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ BIOCHEMICAL MOLECULES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ BIOCHEMICAL MOLECULES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

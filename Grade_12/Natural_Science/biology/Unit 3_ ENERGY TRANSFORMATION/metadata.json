@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__energy_transformation",
-  "title": "Unit 3_ ENERGY TRANSFORMATION",
-  "description": "Unit 3_ ENERGY TRANSFORMATION for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_ENERGY_TRANSFORMATION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ ENERGY TRANSFORMATION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ ENERGY TRANSFORMATION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

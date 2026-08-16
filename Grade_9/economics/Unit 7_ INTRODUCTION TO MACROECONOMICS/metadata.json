@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__introduction_to_macroeconomics",
-  "title": "Unit 7_ INTRODUCTION TO MACROECONOMICS",
-  "description": "Unit 7_ INTRODUCTION TO MACROECONOMICS for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_INTRODUCTION_TO_MACROECONOMICS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ INTRODUCTION TO MACROECONOMICS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ INTRODUCTION TO MACROECONOMICS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

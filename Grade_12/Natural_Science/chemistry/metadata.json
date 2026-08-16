@@ -1,13 +1,34 @@
 {
-  "id": "chemistry",
-  "title": "Chemistry",
-  "description": "Chemistry subject",
+  "id": "chemistry_Grade_12/Natural_Science",
+  "grade": "Grade_12/Natural_Science",
+  "subject": "chemistry",
+  "description": "Grade_12/Natural_Science Chemistry",
   "units": [
-    "Unit 1_ ACID-BASE CONCEPTS AND IONIC EQUILIBRIA",
-    "Unit 2_ ELECTROCHEMISTRY",
-    "Unit 3_ CHEMICAL KINETICS",
-    "Unit 4_ ORGANIC CHEMISTRY",
-    "Unit 5_ POLYMERS",
-    "Unit 6_ ANALYTICAL CHEMISTRY"
-  ]
+    {
+      "id": "Unit_1__ACID_BASE_CONCEPTS_AND_IONIC_EQUILIBRIA",
+      "title": "Unit 1_ ACID-BASE CONCEPTS AND IONIC EQUILIBRIA",
+      "file": "Unit_1__ACID_BASE_CONCEPTS_AND_IONIC_EQUILIBRIA.json"
+    },
+    {
+      "id": "Unit_2__ELECTROCHEMISTRY",
+      "title": "Unit 2_ ELECTROCHEMISTRY",
+      "file": "Unit_2__ELECTROCHEMISTRY.json"
+    },
+    {
+      "id": "Unit_3__INDUSTRIAL_CHEMISTRY",
+      "title": "Unit 3_ INDUSTRIAL CHEMISTRY",
+      "file": "Unit_3__INDUSTRIAL_CHEMISTRY.json"
+    },
+    {
+      "id": "Unit_4__POLYMERS",
+      "title": "Unit 4_ POLYMERS",
+      "file": "Unit_4__POLYMERS.json"
+    },
+    {
+      "id": "Unit_5__INTRODUCTION_TO_ENVIRONMENTAL_CHEMISTRY",
+      "title": "Unit 5_ INTRODUCTION TO ENVIRONMENTAL CHEMISTRY",
+      "file": "Unit_5__INTRODUCTION_TO_ENVIRONMENTAL_CHEMISTRY.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/chemistry/textbook.pdf"
 }

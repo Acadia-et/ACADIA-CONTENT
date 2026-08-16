@@ -1,13 +1,39 @@
 {
-  "id": "it",
-  "title": "It",
-  "description": "It subject",
+  "id": "it_Grade_12/Natural_Science",
+  "grade": "Grade_12/Natural_Science",
+  "subject": "it",
+  "description": "Grade_12/Natural_Science It",
   "units": [
-    "Unit 1_ INFORMATION SYSTEMS AND THEIR APPLICATIONS",
-    "Unit 2_ EMERGING TECHNOLOGIES",
-    "Unit 3_ DATABASE MANAGEMENT SYSTEM",
-    "Unit 4_ WEB AUTHORING",
-    "Unit 5_ MAINTENANCE AND TROUBLESHOOTING",
-    "Unit 6_ FUNDAMENTALS OF PROGRAMMING"
-  ]
+    {
+      "id": "Unit_1__INFORMATION_SYSTEMS_AND_THEIR_APPLICATIONS",
+      "title": "Unit 1_ INFORMATION SYSTEMS AND THEIR APPLICATIONS",
+      "file": "Unit_1__INFORMATION_SYSTEMS_AND_THEIR_APPLICATIONS.json"
+    },
+    {
+      "id": "Unit_2__EMERGING_TECHNOLOGIES",
+      "title": "Unit 2_ EMERGING TECHNOLOGIES",
+      "file": "Unit_2__EMERGING_TECHNOLOGIES.json"
+    },
+    {
+      "id": "Unit_3__DATABASE_MANAGEMENT_SYSTEM",
+      "title": "Unit 3_ DATABASE MANAGEMENT SYSTEM",
+      "file": "Unit_3__DATABASE_MANAGEMENT_SYSTEM.json"
+    },
+    {
+      "id": "Unit_4__WEB_AUTHORING",
+      "title": "Unit 4_ WEB AUTHORING",
+      "file": "Unit_4__WEB_AUTHORING.json"
+    },
+    {
+      "id": "Unit_5__MAINTENANCE_AND_TROUBLESHOOTING",
+      "title": "Unit 5_ MAINTENANCE AND TROUBLESHOOTING",
+      "file": "Unit_5__MAINTENANCE_AND_TROUBLESHOOTING.json"
+    },
+    {
+      "id": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING",
+      "title": "Unit 6_ FUNDAMENTALS OF PROGRAMMING",
+      "file": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/it/textbook.pdf"
 }

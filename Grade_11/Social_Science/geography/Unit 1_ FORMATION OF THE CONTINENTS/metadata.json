@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__formation_of_the_continents",
-  "title": "Unit 1_ FORMATION OF THE CONTINENTS",
-  "description": "Unit 1_ FORMATION OF THE CONTINENTS for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_FORMATION_OF_THE_CONTINENTS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ FORMATION OF THE CONTINENTS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ FORMATION OF THE CONTINENTS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

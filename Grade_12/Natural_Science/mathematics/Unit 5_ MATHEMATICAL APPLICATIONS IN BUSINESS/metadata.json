@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__mathematical_applications_in_business",
-  "title": "Unit 5_ MATHEMATICAL APPLICATIONS IN BUSINESS",
-  "description": "Unit 5_ MATHEMATICAL APPLICATIONS IN BUSINESS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_MATHEMATICAL_APPLICATIONS_IN_BUSINESS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ MATHEMATICAL APPLICATIONS IN BUSINESS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ MATHEMATICAL APPLICATIONS IN BUSINESS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

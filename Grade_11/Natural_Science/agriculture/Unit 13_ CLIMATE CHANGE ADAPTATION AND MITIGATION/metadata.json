@@ -1,14 +1,30 @@
-{
-  "id": "unit_13__climate_change_adaptation_and_mitigation",
-  "title": "Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION",
-  "description": "Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_13_CLIMATE_CHANGE_ADAPTATION_AND_MITIGATION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

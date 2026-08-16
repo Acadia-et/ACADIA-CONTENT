@@ -1,17 +1,59 @@
 {
-  "id": "english",
-  "title": "English",
-  "description": "English subject",
+  "id": "english_Grade_10",
+  "grade": "Grade_10",
+  "subject": "english",
+  "description": "Grade_10 English",
   "units": [
-    "Unit 10_ DIGITAL VS SATELLITE TELEVISION",
-    "Unit 1_ POPULATION GROWTH",
-    "Unit 2_ TRAVEL BEHAVIORS",
-    "Unit 3_ PUNCTUALITY",
-    "Unit 4_ TOURIST ATTRACTIONS",
-    "Unit 5_ HONEY PROCESSING",
-    "Unit 6_ MIGRATION",
-    "Unit 7_ BRANDING ETHIOPIA AND NATIONAL IDENTITY",
-    "Unit 8_ THE HEALING POWER OF PLANTS",
-    "Unit 9_ MULTILINGUALISM"
-  ]
+    {
+      "id": "Unit_10__DIGITAL_VS_SATELLITE_TELEVISION",
+      "title": "Unit 10_ DIGITAL VS SATELLITE TELEVISION",
+      "file": "Unit_10__DIGITAL_VS_SATELLITE_TELEVISION.json"
+    },
+    {
+      "id": "Unit_1__POPULATION_GROWTH",
+      "title": "Unit 1_ POPULATION GROWTH",
+      "file": "Unit_1__POPULATION_GROWTH.json"
+    },
+    {
+      "id": "Unit_2__TRAVEL_BEHAVIORS",
+      "title": "Unit 2_ TRAVEL BEHAVIORS",
+      "file": "Unit_2__TRAVEL_BEHAVIORS.json"
+    },
+    {
+      "id": "Unit_3__PUNCTUALITY",
+      "title": "Unit 3_ PUNCTUALITY",
+      "file": "Unit_3__PUNCTUALITY.json"
+    },
+    {
+      "id": "Unit_4__TOURIST_ATTRACTIONS",
+      "title": "Unit 4_ TOURIST ATTRACTIONS",
+      "file": "Unit_4__TOURIST_ATTRACTIONS.json"
+    },
+    {
+      "id": "Unit_5__HONEY_PROCESSING",
+      "title": "Unit 5_ HONEY PROCESSING",
+      "file": "Unit_5__HONEY_PROCESSING.json"
+    },
+    {
+      "id": "Unit_6__MIGRATION",
+      "title": "Unit 6_ MIGRATION",
+      "file": "Unit_6__MIGRATION.json"
+    },
+    {
+      "id": "Unit_7__BRANDING_ETHIOPIA_AND_NATIONAL_IDENTITY",
+      "title": "Unit 7_ BRANDING ETHIOPIA AND NATIONAL IDENTITY",
+      "file": "Unit_7__BRANDING_ETHIOPIA_AND_NATIONAL_IDENTITY.json"
+    },
+    {
+      "id": "Unit_8__THE_HEALING_POWER_OF_PLANTS",
+      "title": "Unit 8_ THE HEALING POWER OF PLANTS",
+      "file": "Unit_8__THE_HEALING_POWER_OF_PLANTS.json"
+    },
+    {
+      "id": "Unit_9__MULTILINGUALISM",
+      "title": "Unit 9_ MULTILINGUALISM",
+      "file": "Unit_9__MULTILINGUALISM.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/textbook.pdf"
 }

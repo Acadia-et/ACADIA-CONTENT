@@ -1,13 +1,39 @@
 {
-  "id": "biology",
-  "title": "Biology",
-  "description": "Biology subject",
+  "id": "biology_Grade_10",
+  "grade": "Grade_10",
+  "subject": "biology",
+  "description": "Grade_10 Biology",
   "units": [
-    "Unit 1_ SUB-FIELDS OF BIOLOGY",
-    "Unit 2_ PLANTS",
-    "Unit 3_ BIOCHEMICAL MOLECULES",
-    "Unit 4_ CELL REPRODUCTION",
-    "Unit 5_ HUMAN BIOLOGY",
-    "Unit 6_ ECOLOGICAL INTERACTION"
-  ]
+    {
+      "id": "Unit_1__SUB_FIELDS_OF_BIOLOGY",
+      "title": "Unit 1_ SUB-FIELDS OF BIOLOGY",
+      "file": "Unit_1__SUB_FIELDS_OF_BIOLOGY.json"
+    },
+    {
+      "id": "Unit_2__PLANTS",
+      "title": "Unit 2_ PLANTS",
+      "file": "Unit_2__PLANTS.json"
+    },
+    {
+      "id": "Unit_3__BIOCHEMICAL_MOLECULES",
+      "title": "Unit 3_ BIOCHEMICAL MOLECULES",
+      "file": "Unit_3__BIOCHEMICAL_MOLECULES.json"
+    },
+    {
+      "id": "Unit_4__CELL_REPRODUCTION",
+      "title": "Unit 4_ CELL REPRODUCTION",
+      "file": "Unit_4__CELL_REPRODUCTION.json"
+    },
+    {
+      "id": "Unit_5__HUMAN_BIOLOGY",
+      "title": "Unit 5_ HUMAN BIOLOGY",
+      "file": "Unit_5__HUMAN_BIOLOGY.json"
+    },
+    {
+      "id": "Unit_6__ECOLOGICAL_INTERACTION",
+      "title": "Unit 6_ ECOLOGICAL INTERACTION",
+      "file": "Unit_6__ECOLOGICAL_INTERACTION.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/biology/textbook.pdf"
 }

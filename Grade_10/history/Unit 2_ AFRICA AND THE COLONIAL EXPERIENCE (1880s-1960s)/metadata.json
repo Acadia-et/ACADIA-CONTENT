@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__africa_and_the_colonial_experience_(1880s-1960s)",
-  "title": "Unit 2_ AFRICA AND THE COLONIAL EXPERIENCE (1880s-1960s)",
-  "description": "Unit 2_ AFRICA AND THE COLONIAL EXPERIENCE (1880s-1960s) for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_AFRICA_AND_THE_COLONIAL_EXPERIENCE_(1880s-1960s)",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ AFRICA AND THE COLONIAL EXPERIENCE (1880s-1960s)",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ AFRICA AND THE COLONIAL EXPERIENCE (1880s-1960s)",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

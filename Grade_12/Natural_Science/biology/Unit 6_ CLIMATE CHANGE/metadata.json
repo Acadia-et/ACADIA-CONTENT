@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__climate_change",
-  "title": "Unit 6_ CLIMATE CHANGE",
-  "description": "Unit 6_ CLIMATE CHANGE for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_CLIMATE_CHANGE",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ CLIMATE CHANGE",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ CLIMATE CHANGE",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

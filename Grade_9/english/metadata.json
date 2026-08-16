@@ -1,15 +1,49 @@
 {
-  "id": "english",
-  "title": "English",
-  "description": "English subject",
+  "id": "english_Grade_9",
+  "grade": "Grade_9",
+  "subject": "english",
+  "description": "Grade_9 English",
   "units": [
-    "Unit 1_ LIVING IN URBAN AREAS",
-    "Unit 2_ STUDY SKILLS",
-    "Unit 3_ TRAFFIC ACCIDENT",
-    "Unit 4_ NATIONAL PARKS",
-    "Unit 5_ HORTICULTURE",
-    "Unit 6_ POVERTY IN ETHIOPIA",
-    "Unit 7_ COMMUNITY SERVICES",
-    "Unit 8_ COMMUNICABLE DISEASES"
-  ]
+    {
+      "id": "Unit_1__LIVING_IN_URBAN_AREAS",
+      "title": "Unit 1_ LIVING IN URBAN AREAS",
+      "file": "Unit_1__LIVING_IN_URBAN_AREAS.json"
+    },
+    {
+      "id": "Unit_2__STUDY_SKILLS",
+      "title": "Unit 2_ STUDY SKILLS",
+      "file": "Unit_2__STUDY_SKILLS.json"
+    },
+    {
+      "id": "Unit_3__TRAFFIC_ACCIDENT",
+      "title": "Unit 3_ TRAFFIC ACCIDENT",
+      "file": "Unit_3__TRAFFIC_ACCIDENT.json"
+    },
+    {
+      "id": "Unit_4__NATIONAL_PARKS",
+      "title": "Unit 4_ NATIONAL PARKS",
+      "file": "Unit_4__NATIONAL_PARKS.json"
+    },
+    {
+      "id": "Unit_5__HORTICULTURE",
+      "title": "Unit 5_ HORTICULTURE",
+      "file": "Unit_5__HORTICULTURE.json"
+    },
+    {
+      "id": "Unit_6__POVERTY_IN_ETHIOPIA",
+      "title": "Unit 6_ POVERTY IN ETHIOPIA",
+      "file": "Unit_6__POVERTY_IN_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_7__COMMUNITY_SERVICES",
+      "title": "Unit 7_ COMMUNITY SERVICES",
+      "file": "Unit_7__COMMUNITY_SERVICES.json"
+    },
+    {
+      "id": "Unit_8__COMMUNICABLE_DISEASES",
+      "title": "Unit 8_ COMMUNICABLE DISEASES",
+      "file": "Unit_8__COMMUNICABLE_DISEASES.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/english/textbook.pdf"
 }

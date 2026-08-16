@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__history,_historiography,_and_human_evolution",
-  "title": "Unit 1_ HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",
-  "description": "Unit 1_ HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_HISTORY,_HISTORIOGRAPHY,_AND_HUMAN_EVOLUTION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

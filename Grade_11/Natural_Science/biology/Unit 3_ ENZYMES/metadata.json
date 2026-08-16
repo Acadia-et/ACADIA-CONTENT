@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__enzymes",
-  "title": "Unit 3_ ENZYMES",
-  "description": "Unit 3_ ENZYMES for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_ENZYMES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ ENZYMES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ ENZYMES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

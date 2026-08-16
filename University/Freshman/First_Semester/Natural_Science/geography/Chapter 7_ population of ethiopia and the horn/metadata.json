@@ -1,14 +1,30 @@
-{
-  "id": "chapter_7__population_of_ethiopia_and_the_horn",
-  "title": "Chapter 7_ population of ethiopia and the horn",
-  "description": "Chapter 7_ population of ethiopia and the horn for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_7_population_of_ethiopia_and_the_horn",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 7_ population of ethiopia and the horn",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 7_ population of ethiopia and the horn",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

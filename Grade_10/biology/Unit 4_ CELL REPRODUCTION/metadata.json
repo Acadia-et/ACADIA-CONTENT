@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__cell_reproduction",
-  "title": "Unit 4_ CELL REPRODUCTION",
-  "description": "Unit 4_ CELL REPRODUCTION for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_CELL_REPRODUCTION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ CELL REPRODUCTION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ CELL REPRODUCTION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

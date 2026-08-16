@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__image_processing_and_multimedia",
-  "title": "Unit 4_ IMAGE PROCESSING AND MULTIMEDIA",
-  "description": "Unit 4_ IMAGE PROCESSING AND MULTIMEDIA for it",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_IMAGE_PROCESSING_AND_MULTIMEDIA",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ IMAGE PROCESSING AND MULTIMEDIA",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ IMAGE PROCESSING AND MULTIMEDIA",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

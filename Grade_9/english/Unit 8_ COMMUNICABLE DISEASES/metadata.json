@@ -1,14 +1,30 @@
-{
-  "id": "unit_8__communicable_diseases",
-  "title": "Unit 8_ COMMUNICABLE DISEASES",
-  "description": "Unit 8_ COMMUNICABLE DISEASES for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_8_COMMUNICABLE_DISEASES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 8_ COMMUNICABLE DISEASES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 8_ COMMUNICABLE DISEASES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

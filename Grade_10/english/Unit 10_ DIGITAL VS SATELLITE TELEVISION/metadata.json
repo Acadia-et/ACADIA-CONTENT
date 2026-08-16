@@ -1,14 +1,30 @@
-{
-  "id": "unit_10__digital_vs_satellite_television",
-  "title": "Unit 10_ DIGITAL VS SATELLITE TELEVISION",
-  "description": "Unit 10_ DIGITAL VS SATELLITE TELEVISION for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_10_DIGITAL_VS_SATELLITE_TELEVISION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 10_ DIGITAL VS SATELLITE TELEVISION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 10_ DIGITAL VS SATELLITE TELEVISION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

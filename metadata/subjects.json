@@ -1,0 +1,234 @@
+{
+  "grade9": [
+    {
+      "id": "biology",
+      "name": "Biology"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry"
+    },
+    {
+      "id": "citizenship",
+      "name": "Citizenship"
+    },
+    {
+      "id": "economics",
+      "name": "Economics"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "geography",
+      "name": "Geography"
+    },
+    {
+      "id": "history",
+      "name": "History"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    },
+    {
+      "id": "physics",
+      "name": "Physics"
+    }
+  ],
+  "grade10": [
+    {
+      "id": "biology",
+      "name": "Biology"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry"
+    },
+    {
+      "id": "citizenship",
+      "name": "Citizenship"
+    },
+    {
+      "id": "economics",
+      "name": "Economics"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "geography",
+      "name": "Geography"
+    },
+    {
+      "id": "history",
+      "name": "History"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    },
+    {
+      "id": "physics",
+      "name": "Physics"
+    }
+  ],
+  "grade11_natural": [
+    {
+      "id": "agriculture",
+      "name": "Agriculture"
+    },
+    {
+      "id": "aptitude",
+      "name": "Aptitude"
+    },
+    {
+      "id": "biology",
+      "name": "Biology"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    },
+    {
+      "id": "physics",
+      "name": "Physics"
+    }
+  ],
+  "grade11_social": [
+    {
+      "id": "aptitude",
+      "name": "Aptitude"
+    },
+    {
+      "id": "economics",
+      "name": "Economics"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "geography",
+      "name": "Geography"
+    },
+    {
+      "id": "history",
+      "name": "History"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    }
+  ],
+  "grade12_natural": [
+    {
+      "id": "agriculture",
+      "name": "Agriculture"
+    },
+    {
+      "id": "aptitude",
+      "name": "Aptitude"
+    },
+    {
+      "id": "biology",
+      "name": "Biology"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    },
+    {
+      "id": "physics",
+      "name": "Physics"
+    }
+  ],
+  "grade12_social": [
+    {
+      "id": "aptitude",
+      "name": "Aptitude"
+    },
+    {
+      "id": "economics",
+      "name": "Economics"
+    },
+    {
+      "id": "english",
+      "name": "English"
+    },
+    {
+      "id": "geography",
+      "name": "Geography"
+    },
+    {
+      "id": "history",
+      "name": "History"
+    },
+    {
+      "id": "it",
+      "name": "It"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics"
+    }
+  ],
+  "freshman_first_semester": [
+    {
+      "id": "Natural_Science",
+      "name": "Natural Science"
+    },
+    {
+      "id": "Social_Science",
+      "name": "Social Science"
+    }
+  ],
+  "freshman_second_semester": [
+    {
+      "id": "Other_Natural_Science",
+      "name": "Other Natural Science"
+    },
+    {
+      "id": "Pre_Engineering_Courses",
+      "name": "Pre Engineering Courses"
+    }
+  ]
+}

@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__major_global_environmental_changes",
-  "title": "Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES",
-  "description": "Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES for geography",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_MAJOR_GLOBAL_ENVIRONMENTAL_CHANGES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ MAJOR GLOBAL ENVIRONMENTAL CHANGES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

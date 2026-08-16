@@ -1,14 +1,30 @@
-{
-  "id": "chapter_2__basic_concept_of_logic",
-  "title": "Chapter 2_ basic concept of logic",
-  "description": "Chapter 2_ basic concept of logic for logic",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_2_basic_concept_of_logic",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 2_ basic concept of logic",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 2_ basic concept of logic",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

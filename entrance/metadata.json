@@ -1,0 +1,10 @@
+{
+  "stream_id": "natural_science",
+  "stream_name": "Natural Science",
+  "academic_path": "high-school",
+  "grades": ["9", "10", "11", "12"],
+  "subjects": ["Mathematics", "English", "Physics", "Chemistry", "Biology", "Aptitude"],
+  "years": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
+  "content_type": "entrance_exam",
+  "description": "Ethiopian university entrance exam preparation materials for Natural Science stream"
+}

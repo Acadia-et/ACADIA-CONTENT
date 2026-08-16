@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__polynomial_functions",
-  "title": "Unit 2_ POLYNOMIAL FUNCTIONS",
-  "description": "Unit 2_ POLYNOMIAL FUNCTIONS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_POLYNOMIAL_FUNCTIONS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ POLYNOMIAL FUNCTIONS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ POLYNOMIAL FUNCTIONS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

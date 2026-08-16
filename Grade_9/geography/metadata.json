@@ -1,13 +1,39 @@
 {
-  "id": "geography",
-  "title": "Geography",
-  "description": "Geography subject",
+  "id": "geography_Grade_9",
+  "grade": "Grade_9",
+  "subject": "geography",
+  "description": "Grade_9 Geography",
   "units": [
-    "Unit 1_ INTRODUCTION TO GEOGRAPHY",
-    "Unit 2_ THE EARTH",
-    "Unit 3_ MAP READING AND INTERPRETATION",
-    "Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA",
-    "Unit 5_ POPULATION OF ETHIOPIA",
-    "Unit 6_ ECONOMIC ACTIVITIES IN ETHIOPIA"
-  ]
+    {
+      "id": "Unit_1__INTRODUCTION_TO_GEOGRAPHY",
+      "title": "Unit 1_ INTRODUCTION TO GEOGRAPHY",
+      "file": "Unit_1__INTRODUCTION_TO_GEOGRAPHY.json"
+    },
+    {
+      "id": "Unit_2__THE_EARTH",
+      "title": "Unit 2_ THE EARTH",
+      "file": "Unit_2__THE_EARTH.json"
+    },
+    {
+      "id": "Unit_3__MAP_READING_AND_INTERPRETATION",
+      "title": "Unit 3_ MAP READING AND INTERPRETATION",
+      "file": "Unit_3__MAP_READING_AND_INTERPRETATION.json"
+    },
+    {
+      "id": "Unit_4__THE_PHYSICAL_ENVIRONMENT_OF_ETHIOPIA",
+      "title": "Unit 4_ THE PHYSICAL ENVIRONMENT OF ETHIOPIA",
+      "file": "Unit_4__THE_PHYSICAL_ENVIRONMENT_OF_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_5__POPULATION_OF_ETHIOPIA",
+      "title": "Unit 5_ POPULATION OF ETHIOPIA",
+      "file": "Unit_5__POPULATION_OF_ETHIOPIA.json"
+    },
+    {
+      "id": "Unit_6__ECONOMIC_ACTIVITIES_IN_ETHIOPIA",
+      "title": "Unit 6_ ECONOMIC ACTIVITIES IN ETHIOPIA",
+      "file": "Unit_6__ECONOMIC_ACTIVITIES_IN_ETHIOPIA.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/geography/textbook.pdf"
 }

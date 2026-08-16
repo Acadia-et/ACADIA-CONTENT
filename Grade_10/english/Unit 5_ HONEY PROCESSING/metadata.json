@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__honey_processing",
-  "title": "Unit 5_ HONEY PROCESSING",
-  "description": "Unit 5_ HONEY PROCESSING for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_HONEY_PROCESSING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ HONEY PROCESSING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ HONEY PROCESSING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

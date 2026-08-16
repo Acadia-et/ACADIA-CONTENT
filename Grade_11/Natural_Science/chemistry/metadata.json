@@ -1,13 +1,39 @@
 {
-  "id": "chemistry",
-  "title": "Chemistry",
-  "description": "Chemistry subject",
+  "id": "chemistry_Grade_11/Natural_Science",
+  "grade": "Grade_11/Natural_Science",
+  "subject": "chemistry",
+  "description": "Grade_11/Natural_Science Chemistry",
   "units": [
-    "Unit 1_ ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS",
-    "Unit 2_ CHEMICAL BONDING",
-    "Unit 3_ PHYSICAL STATES OF MATTER",
-    "Unit 4_ CHEMICAL KINETICS",
-    "Unit 5_ CHEMICAL EQUILIBRIUM",
-    "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS"
-  ]
+    {
+      "id": "Unit_1__ATOMIC_STRUCTURE_AND_PERIODIC_PROPERTIES_OF_THE_ELEMENTS",
+      "title": "Unit 1_ ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS",
+      "file": "Unit_1__ATOMIC_STRUCTURE_AND_PERIODIC_PROPERTIES_OF_THE_ELEMENTS.json"
+    },
+    {
+      "id": "Unit_2__CHEMICAL_BONDING",
+      "title": "Unit 2_ CHEMICAL BONDING",
+      "file": "Unit_2__CHEMICAL_BONDING.json"
+    },
+    {
+      "id": "Unit_3__PHYSICAL_STATES_OF_MATTER",
+      "title": "Unit 3_ PHYSICAL STATES OF MATTER",
+      "file": "Unit_3__PHYSICAL_STATES_OF_MATTER.json"
+    },
+    {
+      "id": "Unit_4__CHEMICAL_KINETICS",
+      "title": "Unit 4_ CHEMICAL KINETICS",
+      "file": "Unit_4__CHEMICAL_KINETICS.json"
+    },
+    {
+      "id": "Unit_5__CHEMICAL_EQUILIBRIUM",
+      "title": "Unit 5_ CHEMICAL EQUILIBRIUM",
+      "file": "Unit_5__CHEMICAL_EQUILIBRIUM.json"
+    },
+    {
+      "id": "Unit_6__SOME_IMPORTANT_OXYGEN_CONTAINING_ORGANIC_COMPOUNDS",
+      "title": "Unit 6_ SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS",
+      "file": "Unit_6__SOME_IMPORTANT_OXYGEN_CONTAINING_ORGANIC_COMPOUNDS.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Natural_Science/chemistry/textbook.pdf"
 }

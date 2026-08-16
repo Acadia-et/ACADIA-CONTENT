@@ -1,17 +1,59 @@
 {
-  "id": "english",
-  "title": "English",
-  "description": "English subject",
+  "id": "english_Grade_11/Natural_Science",
+  "grade": "Grade_11/Natural_Science",
+  "subject": "english",
+  "description": "Grade_11/Natural_Science English",
   "units": [
-    "Unit 10_ ARTIFICIAL INTELLIGENCE",
-    "Unit 1_ ENVIRONMENTAL HAZARDS",
-    "Unit 2_ CIVILIZATION",
-    "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
-    "Unit 4_ PEOPLE AND NATURAL RESOURCES",
-    "Unit 5_ IRRIGATION",
-    "Unit 6_ GLOBAL WARMING",
-    "Unit 7_ PATRIOTISM",
-    "Unit 8_ EFFICIENCY OF HEALTH SERVICES",
-    "Unit 9_ INDIGENOUS CONFLICT RESOLUTION"
-  ]
+    {
+      "id": "Unit_10__ARTIFICIAL_INTELLIGENCE",
+      "title": "Unit 10_ ARTIFICIAL INTELLIGENCE",
+      "file": "Unit_10__ARTIFICIAL_INTELLIGENCE.json"
+    },
+    {
+      "id": "Unit_1__ENVIRONMENTAL_HAZARDS",
+      "title": "Unit 1_ ENVIRONMENTAL HAZARDS",
+      "file": "Unit_1__ENVIRONMENTAL_HAZARDS.json"
+    },
+    {
+      "id": "Unit_2__CIVILIZATION",
+      "title": "Unit 2_ CIVILIZATION",
+      "file": "Unit_2__CIVILIZATION.json"
+    },
+    {
+      "id": "Unit_3__CAUSES_OF_ROAD_TRAFFIC_ACCIDENTS",
+      "title": "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
+      "file": "Unit_3__CAUSES_OF_ROAD_TRAFFIC_ACCIDENTS.json"
+    },
+    {
+      "id": "Unit_4__PEOPLE_AND_NATURAL_RESOURCES",
+      "title": "Unit 4_ PEOPLE AND NATURAL RESOURCES",
+      "file": "Unit_4__PEOPLE_AND_NATURAL_RESOURCES.json"
+    },
+    {
+      "id": "Unit_5__IRRIGATION",
+      "title": "Unit 5_ IRRIGATION",
+      "file": "Unit_5__IRRIGATION.json"
+    },
+    {
+      "id": "Unit_6__GLOBAL_WARMING",
+      "title": "Unit 6_ GLOBAL WARMING",
+      "file": "Unit_6__GLOBAL_WARMING.json"
+    },
+    {
+      "id": "Unit_7__PATRIOTISM",
+      "title": "Unit 7_ PATRIOTISM",
+      "file": "Unit_7__PATRIOTISM.json"
+    },
+    {
+      "id": "Unit_8__EFFICIENCY_OF_HEALTH_SERVICES",
+      "title": "Unit 8_ EFFICIENCY OF HEALTH SERVICES",
+      "file": "Unit_8__EFFICIENCY_OF_HEALTH_SERVICES.json"
+    },
+    {
+      "id": "Unit_9__INDIGENOUS_CONFLICT_RESOLUTION",
+      "title": "Unit 9_ INDIGENOUS CONFLICT RESOLUTION",
+      "file": "Unit_9__INDIGENOUS_CONFLICT_RESOLUTION.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Natural_Science/english/textbook.pdf"
 }

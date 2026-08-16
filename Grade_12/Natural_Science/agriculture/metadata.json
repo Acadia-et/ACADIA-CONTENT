@@ -1,24 +1,94 @@
 {
-  "id": "agriculture",
-  "title": "Agriculture",
-  "description": "Agriculture subject",
+  "id": "agriculture_Grade_12/Natural_Science",
+  "grade": "Grade_12/Natural_Science",
+  "subject": "agriculture",
+  "description": "Grade_12/Natural_Science Agriculture",
   "units": [
-    "Unit 10_ FISHERY PRODUCTION AND MANAGEMENT",
-    "Unit 11_ APICULTURE",
-    "Unit 12_ NURSERY AND PLANTATION TECHNOLOGY",
-    "Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES",
-    "Unit 14_ SOIL AND WATER CONSERVATION",
-    "Unit 15_ GENDER AND HUMAN NUTRITION",
-    "Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING",
-    "Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE",
-    "Unit 1_ VEGETABLE CROPS PRODUCTION AND MANAGEMENT",
-    "Unit 2_ FRUIT CROPS PRODUCTION AND MANAGEMENT",
-    "Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT",
-    "Unit 4_ COFFEE, TEA AND SPICES PRODUCTION AND MANAGEMENT",
-    "Unit 5_ INTRODUCTION TO PLANT BIOTECHNOLOGY",
-    "Unit 6_ BEEF CATTLE PRODUCTION AND MANAGEMENT",
-    "Unit 7_ SHEEP AND GOAT PRODUCTION AND MANAGEMENT",
-    "Unit 8_ CAMEL PRODUCTION AND MANAGEMENT",
-    "Unit 9_ POULTRY PRODUCTION AND MANAGEMENT"
-  ]
+    {
+      "id": "Unit_10__FISHERY_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 10_ FISHERY PRODUCTION AND MANAGEMENT",
+      "file": "Unit_10__FISHERY_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_11__APICULTURE",
+      "title": "Unit 11_ APICULTURE",
+      "file": "Unit_11__APICULTURE.json"
+    },
+    {
+      "id": "Unit_12__NURSERY_AND_PLANTATION_TECHNOLOGY",
+      "title": "Unit 12_ NURSERY AND PLANTATION TECHNOLOGY",
+      "file": "Unit_12__NURSERY_AND_PLANTATION_TECHNOLOGY.json"
+    },
+    {
+      "id": "Unit_13__BASICS_OF_AGRO_FORESTRY_SYSTEMS_AND_PRACTICES",
+      "title": "Unit 13_ BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES",
+      "file": "Unit_13__BASICS_OF_AGRO_FORESTRY_SYSTEMS_AND_PRACTICES.json"
+    },
+    {
+      "id": "Unit_14__SOIL_AND_WATER_CONSERVATION",
+      "title": "Unit 14_ SOIL AND WATER CONSERVATION",
+      "file": "Unit_14__SOIL_AND_WATER_CONSERVATION.json"
+    },
+    {
+      "id": "Unit_15__GENDER_AND_HUMAN_NUTRITION",
+      "title": "Unit 15_ GENDER AND HUMAN NUTRITION",
+      "file": "Unit_15__GENDER_AND_HUMAN_NUTRITION.json"
+    },
+    {
+      "id": "Unit_16__SAFE_FOOD_PRODUCTION_AND_POSTHARVEST_HANDLING",
+      "title": "Unit 16_ SAFE FOOD PRODUCTION AND POSTHARVEST HANDLING",
+      "file": "Unit_16__SAFE_FOOD_PRODUCTION_AND_POSTHARVEST_HANDLING.json"
+    },
+    {
+      "id": "Unit_17__APPLICATION_OF_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES_ICT_IN_AGRICULTURE",
+      "title": "Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE",
+      "file": "Unit_17__APPLICATION_OF_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES_ICT_IN_AGRICULTURE.json"
+    },
+    {
+      "id": "Unit_1__VEGETABLE_CROPS_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 1_ VEGETABLE CROPS PRODUCTION AND MANAGEMENT",
+      "file": "Unit_1__VEGETABLE_CROPS_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_2__FRUIT_CROPS_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 2_ FRUIT CROPS PRODUCTION AND MANAGEMENT",
+      "file": "Unit_2__FRUIT_CROPS_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_3__ROOT_AND_TUBER_CROPS_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 3_ ROOT AND TUBER CROPS PRODUCTION AND MANAGEMENT",
+      "file": "Unit_3__ROOT_AND_TUBER_CROPS_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_4__COFFEE_TEA_AND_SPICES_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 4_ COFFEE, TEA AND SPICES PRODUCTION AND MANAGEMENT",
+      "file": "Unit_4__COFFEE_TEA_AND_SPICES_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_5__INTRODUCTION_TO_PLANT_BIOTECHNOLOGY",
+      "title": "Unit 5_ INTRODUCTION TO PLANT BIOTECHNOLOGY",
+      "file": "Unit_5__INTRODUCTION_TO_PLANT_BIOTECHNOLOGY.json"
+    },
+    {
+      "id": "Unit_6__BEEF_CATTLE_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 6_ BEEF CATTLE PRODUCTION AND MANAGEMENT",
+      "file": "Unit_6__BEEF_CATTLE_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_7__SHEEP_AND_GOAT_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 7_ SHEEP AND GOAT PRODUCTION AND MANAGEMENT",
+      "file": "Unit_7__SHEEP_AND_GOAT_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_8__CAMEL_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 8_ CAMEL PRODUCTION AND MANAGEMENT",
+      "file": "Unit_8__CAMEL_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_9__POULTRY_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 9_ POULTRY PRODUCTION AND MANAGEMENT",
+      "file": "Unit_9__POULTRY_PRODUCTION_AND_MANAGEMENT.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/agriculture/textbook.pdf"
 }

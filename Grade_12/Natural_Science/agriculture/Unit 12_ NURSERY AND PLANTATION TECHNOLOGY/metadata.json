@@ -1,14 +1,30 @@
-{
-  "id": "unit_12__nursery_and_plantation_technology",
-  "title": "Unit 12_ NURSERY AND PLANTATION TECHNOLOGY",
-  "description": "Unit 12_ NURSERY AND PLANTATION TECHNOLOGY for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_12_NURSERY_AND_PLANTATION_TECHNOLOGY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 12_ NURSERY AND PLANTATION TECHNOLOGY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 12_ NURSERY AND PLANTATION TECHNOLOGY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

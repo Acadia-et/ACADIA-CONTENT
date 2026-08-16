@@ -1,17 +1,59 @@
 {
-  "id": "english",
-  "title": "English",
-  "description": "English subject",
+  "id": "english_Grade_12/Natural_Science",
+  "grade": "Grade_12/Natural_Science",
+  "subject": "english",
+  "description": "Grade_12/Natural_Science English",
   "units": [
-    "Unit 10_ ARTIFICIAL INTELLIGENCE",
-    "Unit 1_ ENVIRONMENTAL HAZARDS",
-    "Unit 2_ CIVILIZATION",
-    "Unit 3_ CAUSES OF ROAD TRAFFIC ACCIDENTS",
-    "Unit 4_ PEOPLE AND NATURAL RESOURCES",
-    "Unit 5_ IRRIGATION",
-    "Unit 6_ GLOBAL WARMING",
-    "Unit 7_ PATRIOTISM",
-    "Unit 8_ EFFICIENCY OF HEALTH SERVICES",
-    "Unit 9_ INDIGENOUS CONFLICT RESOLUTION"
-  ]
+    {
+      "id": "Unit_10__ROBOTICS",
+      "title": "Unit 10_ ROBOTICS",
+      "file": "Unit_10__ROBOTICS.json"
+    },
+    {
+      "id": "Unit_1__SUSTAINABLE_DEVELOPMENT",
+      "title": "Unit 1_ SUSTAINABLE DEVELOPMENT",
+      "file": "Unit_1__SUSTAINABLE_DEVELOPMENT.json"
+    },
+    {
+      "id": "Unit_2__TIME_MANAGEMENT",
+      "title": "Unit 2_ TIME MANAGEMENT",
+      "file": "Unit_2__TIME_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_3__EVIDENCE_ON_TRAFFIC_ACCIDENT",
+      "title": "Unit 3_ EVIDENCE ON TRAFFIC ACCIDENT",
+      "file": "Unit_3__EVIDENCE_ON_TRAFFIC_ACCIDENT.json"
+    },
+    {
+      "id": "Unit_4__NATURAL_RESOURCE_MANAGEMENT",
+      "title": "Unit 4_ NATURAL RESOURCE MANAGEMENT",
+      "file": "Unit_4__NATURAL_RESOURCE_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_5__MECHANIZED_AGRICULTURE",
+      "title": "Unit 5_ MECHANIZED AGRICULTURE",
+      "file": "Unit_5__MECHANIZED_AGRICULTURE.json"
+    },
+    {
+      "id": "Unit_6__GREEN_ECONOMIES",
+      "title": "Unit 6_ GREEN ECONOMIES",
+      "file": "Unit_6__GREEN_ECONOMIES.json"
+    },
+    {
+      "id": "Unit_7__NATIONAL_PRIDE",
+      "title": "Unit 7_ NATIONAL PRIDE",
+      "file": "Unit_7__NATIONAL_PRIDE.json"
+    },
+    {
+      "id": "Unit_8__TELEMEDICINE",
+      "title": "Unit 8_ TELEMEDICINE",
+      "file": "Unit_8__TELEMEDICINE.json"
+    },
+    {
+      "id": "Unit_9__CONFLICT_MANAGEMENT",
+      "title": "Unit 9_ CONFLICT MANAGEMENT",
+      "file": "Unit_9__CONFLICT_MANAGEMENT.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/Natural_Science/english/textbook.pdf"
 }

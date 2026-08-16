@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__electrostatics_and_electric_circuit",
-  "title": "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
-  "description": "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_ELECTROSTATICS_AND_ELECTRIC_CIRCUIT",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

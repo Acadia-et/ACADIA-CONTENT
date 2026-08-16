@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__coordinate_geometry",
-  "title": "Unit 7_ COORDINATE GEOMETRY",
-  "description": "Unit 7_ COORDINATE GEOMETRY for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_COORDINATE_GEOMETRY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ COORDINATE GEOMETRY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ COORDINATE GEOMETRY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

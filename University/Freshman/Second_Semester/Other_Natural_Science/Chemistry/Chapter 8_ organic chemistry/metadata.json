@@ -1,14 +1,30 @@
-{
-  "id": "chapter_8__organic_chemistry",
-  "title": "Chapter 8_ organic chemistry",
-  "description": "Chapter 8_ organic chemistry for Chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_8_organic_chemistry",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 8_ organic chemistry",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 8_ organic chemistry",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__human_biology",
-  "title": "Unit 5_ HUMAN BIOLOGY",
-  "description": "Unit 5_ HUMAN BIOLOGY for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_HUMAN_BIOLOGY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ HUMAN BIOLOGY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ HUMAN BIOLOGY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

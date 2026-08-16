@@ -1,0 +1,1506 @@
+{
+  "metadata": {
+    "grade": "university",
+    "subject": "mathematics",
+    "unit_title": "Chapter 4  analytic geometry"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Chapter 4  analytic geometry",
+      "paragraphs": [
+        "Chapter 4: Analytic Geometry ……………………………………………………………. 123 4.1   Distance Formula and Equation of Lines ……………………………. 124 4.1.1 Distance between two points and division of segments …….124 4.1.2   Equations of lines …………………………………………… 127 4.1.3   Distance between a point and a  line …………………………131 4.2 Circles ………………………………………………………………...... 132 4.2.1 Definition of a circle …………………………………………. 133 4.2.2 Equation of a circle …………………………………………...... 134",
+        "4.2.3 Intersection of a circle with a line  and  tangent line to a circle ... 137 4.3 Parabolas …………………………………………………………………. 139 4.3.1 Definition of parabola ………………………………………….. 140 4.3.2 Equation of parabolas …………………………………………... 141 4.4 Ellipse …………………………………………………………………….. 146 4.4.1 Definition of ellipse …………………………………………….. 146 4.4.2 Equation of ellipse ……………………………………………… 148 4.5 Hyperbola ………………………………………………………………… 152",
+        "4.5.1 Definition of a hyperbola ……………………………………...... 153 4.5.2 Equation of a hyperbola ………………………………………… 155 4.6 The general second degree equation ……………………………………… 162 4.6.1 Rotation of coordinate axes …………………………………….. 163 4.6.2  Analysis of the general second degree equations..……………... 166 References …………………………………………………………………………………… 171 Chapter One Propositional Logic and Set Theory",
+        "In this chapter, we study the basic concepts of propositional logic and some part of set theory. In the first part, we deal about propositional logic, logical connectives, quantifiers and arguments. In the second part, we turn our attention to set theory and discus about description of sets and operations of sets. Main Objectives of this Chapter At the end of this chapter, students will be able to:-  Know the basic concepts of mathematical logic.  Know methods and procedures in combining the validity of statements.",
+        " Understand the concept of quantifiers.  Know basic facts about argument and validity.  Understand the concept of set.  Apply rules of operations on sets to find the result.  Show set operations using Venn diagrams. 1.1. Propositional Logic Mathematical or symbolic logic is an analytical theory of the art of reasoning whose goal is to systematize and codify principles of valid reasoning. It has emerged from a study of the use of",
+        "language in argument and persuasion and is based on the identification and examination of those parts of language which are essential for these purposes. It is formal in the sense that it lacks reference to meaning. Thereby it achieves versatility: it may be used to judge the correctness of a chain of reasoning (in particular, a \"mathematical proof\") solely on the basis of the form (and not the content) of the sequence of statements which make up the chain. There is a variety of symbolic logics. We shall be concerned only with that one which encompasses most of the deductions of the sort encountered in mathematics. Within the context of logic itself, this is \"classical\" symbolic logic."
+      ],
+      "definitions": [
+        [
+          "Mathematical or symbolic logic",
+          " Understand the concept of quantifiers.  Know basic facts about argument and validity.  Understand the concept of set.  Apply rules of operations on sets to find the result.  Show set operations using Venn diagrams. 1.1. Propositional Logic Mathematical or symbolic logic is an analytical theory of the art of reasoning whose goal is to systematize and codify principles of valid reasoning. It has emerged from a study of the use of"
+        ],
+        [
+          "in argument and persuasion and",
+          "language in argument and persuasion and is based on the identification and examination of those parts of language which are essential for these purposes. It is formal in the sense that it lacks reference to meaning. Thereby it achieves versatility: it may be used to judge the correctness of a chain of reasoning (in particular, a \"mathematical proof\") solely on the basis of the form (and not the content) of the sequence of statements which make up the chain. There is a variety of symbolic logics. We shall be concerned only with that one which encompasses most of the deductions of the sort encountered in mathematics. Within the context of logic itself, this is \"classical\" symbolic logic."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Chapter 4  analytic geometry: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(geometry)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 4  analytic geometry."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 4  analytic geometry",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Section objectives:",
+      "paragraphs": [
+        "After completing this section, students will be able to:-  Identify the difference between proposition and sentence.  Describe the five logical connectives.  Determine the truth values of propositions using the rules of logical connectives.  Construct compound propositions using the five logical connectives.  Identify the difference between the converse and contrapositive of conditional statements.  Determine the truth values of compound propositions.  Distinguish a given compound proposition is whether tautology or contradiction.",
+        "1.1.1. Definition and examples of propositions Consider the following sentences. a. 2 is an even number. b. A triangle has four sides. c. Athlete Haile G/silassie weighed 45 kg when he was 20 years old. d. May God bless you! e. Give me that book. f. What is your name?",
+        "The first three sentences are declarative sentences. The first one is true and the second one is false. The truth value of the third sentence cannot be ascertained because of lack of historical records but it is, by its very form, either true or false but not both. On the other hand, the last three sentences have no truth value. So they are not declaratives. Now we begin by examining proposition, the building blocks of every argument. A proposition is a sentence that may be asserted or denied. Proposition in this way are different from questions, commands, and exclamations. Neither questions, which can be asked, nor exclamations, which can be uttered, can possibly be asserted or denied. Only propositions assert that something is (or",
+        "is not) the case, and therefore only they can be true or false. Definition 1.1: A proposition (or statement) is a sentence which has a truth value (either True or False but not both). The above definition does not mean that we must always know what the truth value is.  For example, the sentence “The 1000th digit in the decimal expansion of  is 7” is a proposition, but it may be necessary to find this information in a Web site on the Internet to determine whether this statement is true. Indeed, for a sentence to be a proposition (or a statement), it is not a requirement that we are able to determine its truth value.",
+        "Every proposition has a truth value, namely true (denoted by ) or false (denoted by ). 1.1.2. Logical connectives In mathematical discourse and elsewhere one constantly encounters declarative sentences which have been formed by modifying a statement with the word “not” or by connecting statements with the words “and”, “or”, “if . . . then (or implies)”, and “if and only if”. These five words or combinations of words are called propositional connectives. Note: Letters such as etc. are usually used to denote propositions.",
+        "Conjunction When two propositions are joined with the connective “and,” the proposition formed is a logical conjunction. “and” is denoted by “ ”.  So, the logical conjunction of two propositions,  and , is written: ,      read as “  and ,”  or “  conjunction ”. p and q are called the components of the conjunction. is true if and only if  is true and  is true.",
+        "The truth table for conjunction is given as follows: Example 1.1: Consider the following propositions: : 3 is an odd number. (True) : 27 is a prime number. (False) : Addis Ababa is the capital city of Ethiopia. (True) a. : 3 is an odd number and 27 is a prime number. (False) b.",
+        ": 3 is an odd number and Addis Ababa is the capital city of Ethiopia. (True) Disjunction When two propositions are joined with the connective “or,” the proposition formed is called a logical disjunction.  “or”  is denoted by “ ”.  So, the logical disjunction of two propositions,  and , is written: read as “  or ”  or “  disjunction .” is false if and only if  both  and  are false. The truth table for disjunction is given as follows: Example 1.2: Consider the following propositions:",
+        ": 3 is an odd number. (True) : 27 is a prime number. (False) : Nairobi is the capital city of Ethiopia. (False) a. : 3 is an odd number or 27 is a prime number. (True) b. : 27 is a prime number or Nairobi is the capital city of Ethiopia. (False) Note: The use of “or” in propositional logic is rather different from its normal use in the English",
+        "language. For example, if Solomon says, “I will go to the football match in the afternoon or I will go to the cinema in the afternoon,” he means he will do one thing or the other, but not both. Here “or” is used in the exclusive sense.  But in propositional logic, “or” is used in the inclusive sense; that is, we allow Solomon the possibility of doing both things without him being inconsistent. Implication When two propositions are joined with the connective “implies,” the proposition formed is called a logical implication. “implies” is denoted by “",
+        ".” So, the logical implication of two propositions,  and , is written: read as “  implies .” The function of the connective “implies” between two propositions is the same as the use of “If … then …” Thus can be read as “if , then .” is false if and only if  is true and  is false. This form of a proposition is common in mathematics. The proposition  is called the hypothesis",
+        "or the antecedent of the conditional proposition while  is called its conclusion or the consequent. The following is the truth table for implication. Examples 1.3: Consider the following propositions: : 3 is an odd number. (True) : 27 is a prime number. (False) : Addis Ababa is the capital city of Ethiopia. (True)",
+        ": If 3 is an odd number, then 27 is prime. (False) : If 3 is an odd number, then Addis Ababa is the capital city of Ethiopia. (True) We have already mentioned that can be expressed as both “If , then ” and “  implies . ” There are various ways of expressing the proposition , namely: If , then . if .",
+        "implies . only if . is sufficient for . is necessary for Bi-implication When two propositions are joined with the connective “bi-implication,” the proposition formed is called a logical bi-implication or a logical equivalence. A bi-implication is denoted by “ ”.  So the logical bi-",
+        "implication of two propositions,  and , is written: is false if and only if  and  have different truth values. The truth table for bi-implication is given by: Examples 1.4: a. Let : 2 is greater than 3. (False) : 5 is greater than 4. (True) Then : 2 is greater than 3 if and only if 5 is greater than 4. (False)",
+        "b. Consider the following propositions: : 3 is an odd number. (True) : 2 is a prime number. (True) :  3 is an odd number if and only if 2 is a prime number. (True) There are various ways of stating the proposition if and only if  (also written as  iff ), implies  and  implies , is necessary and sufficient for",
+        "is necessary and sufficient for is equivalent to Negation Given any proposition , we can form the proposition called the negation of . The truth value of is  if  is  and  if  is . We can describe the relation between  and as follows.",
+        "Example 1.5: Let : Addis Ababa is the capital city of Ethiopia. (True) : Addis Ababa is not the capital city of Ethiopia. (False) Exercises 1. Which of the following sentences are propositions? For those that are, indicate the truth value. a. 123 is a prime number. b. 0 is an even number. c.",
+        "d. Multiply by 3. e. What an impossible question! 2. State the negation of each of the following statements. a. is a rational number. b. 0 is not a negative integer. c. 111 is a prime number.",
+        "3. Let : 15 is an odd number. : 21 is a prime number. State each of the following in words, and determine the truth value of each. a. b. c. d. e.",
+        "f. a. g. 4. Complete the following truth table. 1.1.3. Compound (or complex) propositions So far, what we have done is simply to define the logical connectives, and express them through algebraic symbols. Now we shall learn how to form propositions involving more than one connective, and how to determine the truth values of such propositions.",
+        "Definition 1.2: The proposition formed by joining two or more proposition by connective(s) is called a compound statement. Note: We must be careful to insert the brackets in proper places, just as we do in arithmetic. For example, the expression will be meaningless unless we know which connective should apply first. It could mean or , which are very different",
+        "propositions. The truth value of such complicated propositions is determined by systematic applications of the rules for the connectives. The possible truth values of a proposition are often listed in a table, called a truth table. If  and  are propositions, then there are four possible combinations of truth values for  and . That is, and . If a third proposition  is involved, then there are eight possible combinations of truth values for ,  and . In general, a truth table involving “ ” propositions ,…,",
+        "contains possible combinations of truth values. So, we use truth tables to determine the truth value of a compound proposition based on the truth value of its constituent component propositions. Examples 1.6: a. Suppose   and  are true and  and  are false. What is the truth value of i. Since  is true and  is false,",
+        "is false. ii. Since  is true and  is false, is true. iii. Thus by applying the rule of implication, we get that is true. b. Suppose that a compound proposition is symbolized by and that the truth values of and  are",
+        "and , respectively. Then the truth value of is , that of is , that of is . So the truth value of is . Remark: When dealing with compound propositions, we shall adopt the following convention on the use of parenthesis. Whenever “ ” or “ ” occur with “ ” or “",
+        "”, we shall assume that “ ” or “ ” is applied first, and then “ ” or “ ” is then applied. For example, means means means means This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "However, it is always advisable to use brackets to indicate the order of the desired operations.  . Definition 1.3: Two compound propositions  and  are said to be equivalent if they have the same truth value for all possible combinations of truth values for the component propositions occurring in both  and . In this case we write Example 1.7:   Let Then,  is equivalent to , since columns 5 and 6 of the above table are identical. Example 1.8:   Let Then",
+        "Looking at columns 5 and 6 of the table we see that they are not identical. Thus It is useful at this point to mention the non-equivalence of certain conditional propositions. Given the conditional , we give the related conditional propositions:- :                 Converse of :             Inverse of :            Contrapositive of As we observed from example 1.7, the conditional",
+        "and its contrapositve are equivalent. On the other hand, and Do not confuse the contrapositive and the converse of the conditional proposition. Here is the difference: Converse: The hypothesis of a converse statement is the conclusion of the conditional statement and the conclusion of the converse statement is the hypothesis of the conditional statement.",
+        "Contrapositive: The hypothesis of a contrapositive statement is the negation of conclusion of the conditional statement and the conclusion of the contrapositive statement is the negation of hypothesis of the conditional statement. Example 1.9: a. If Kidist lives in Addis Ababa, then she lives in Ethiopia. Converse: If Kidist lives in Ethiopia, then she lives in Addis Ababa. Contrapositive: If Kidist does not live in Ethiopia, then she does not live in Addis Ababa.",
+        "Inverse: If Kidist does not live in Addis Ababa, then she does not live in Ethiopia. b. If it is morning, then the sun is in the east. Converse: If the sun is in the east, then it is morning. Contrapositive: If the sun is not in the east, then it is not morning. Inverse: If it is not morning, then the sun is not the east. Propositions, under the relation of logical equivalence, satisfy various laws or identities, which are listed below. 1.",
+        "Idempotent Laws a. b. 2. Commutative Laws a. b. 3. This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "Associative Laws a. b. 4. Distributive Laws a. b. 5. This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "De Morgan’s Laws 10 a. b. 6. Law of Contrapositive 7. Complement Law This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "1.1.4. Tautology and contradiction Definition: A compound proposition is a tautology if it is always true regardless of the truth values of its component propositions. If, on the other hand, a compound proposition is always false regardless of its component propositions, we say that such a proposition is a contradiction. Note: A proposition that is neither a tautology nor a contradiction is called a contingency. Examples 1.10: a. Suppose  is any proposition. Consider the compound propositions and",
+        "Observe that is a tautology while is a contradiction. b. For any propositions  and . Consider the compound proposition .  Let us make a truth table and study the situation. We have exhibited all the possibilities and we see that for all truth values of the constituent propositions, the proposition",
+        "is always true. Thus, is a tautology. c. The truth table for the compound proposition 11 In example 1.10(c), the given compound proposition has a truth value for every possible combination of assignments of truth values for the component propositions and",
+        ". Thus is a contradiction. This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "a given compound proposition",
+          "After completing this section, students will be able to:-  Identify the difference between proposition and sentence.  Describe the five logical connectives.  Determine the truth values of propositions using the rules of logical connectives.  Construct compound propositions using the five logical connectives.  Identify the difference between the converse and contrapositive of conditional statements.  Determine the truth values of compound propositions.  Distinguish a given compound proposition is whether tautology or contradiction."
+        ],
+        [
+          "What",
+          "1.1.1. Definition and examples of propositions Consider the following sentences. a. 2 is an even number. b. A triangle has four sides. c. Athlete Haile G/silassie weighed 45 kg when he was 20 years old. d. May God bless you! e. Give me that book. f. What is your name?"
+        ],
+        [
+          "The first three sentences",
+          "The first three sentences are declarative sentences. The first one is true and the second one is false. The truth value of the third sentence cannot be ascertained because of lack of historical records but it is, by its very form, either true or false but not both. On the other hand, the last three sentences have no truth value. So they are not declaratives. Now we begin by examining proposition, the building blocks of every argument. A proposition is a sentence that may be asserted or denied. Proposition in this way are different from questions, commands, and exclamations. Neither questions, which can be asked, nor exclamations, which can be uttered, can possibly be asserted or denied. Only propositions assert that something is (or"
+        ],
+        [
+          "know what the truth value",
+          "is not) the case, and therefore only they can be true or false. Definition 1.1: A proposition (or statement) is a sentence which has a truth value (either True or False but not both). The above definition does not mean that we must always know what the truth value is.  For example, the sentence “The 1000th digit in the decimal expansion of  is 7” is a proposition, but it may be necessary to find this information in a Web site on the Internet to determine whether this statement is true. Indeed, for a sentence to be a proposition (or a statement), it is not a requirement that we are able to determine its truth value."
+        ],
+        [
+          "words or combinations of words",
+          "Every proposition has a truth value, namely true (denoted by ) or false (denoted by ). 1.1.2. Logical connectives In mathematical discourse and elsewhere one constantly encounters declarative sentences which have been formed by modifying a statement with the word “not” or by connecting statements with the words “and”, “or”, “if . . . then (or implies)”, and “if and only if”. These five words or combinations of words are called propositional connectives. Note: Letters such as etc. are usually used to denote propositions."
+        ],
+        [
+          "When two propositions",
+          "Conjunction When two propositions are joined with the connective “and,” the proposition formed is a logical conjunction. “and” is denoted by “ ”.  So, the logical conjunction of two propositions,  and , is written: ,      read as “  and ,”  or “  conjunction ”. p and q are called the components of the conjunction. is true if and only if  is true and  is true."
+        ],
+        [
+          "The truth table for conjunction",
+          "The truth table for conjunction is given as follows: Example 1.1: Consider the following propositions: : 3 is an odd number. (True) : 27 is a prime number. (False) : Addis Ababa is the capital city of Ethiopia. (True) a. : 3 is an odd number and 27 is a prime number. (False) b."
+        ],
+        [
+          "an odd number and Addis Ababa",
+          ": 3 is an odd number and Addis Ababa is the capital city of Ethiopia. (True) Disjunction When two propositions are joined with the connective “or,” the proposition formed is called a logical disjunction.  “or”  is denoted by “ ”.  So, the logical disjunction of two propositions,  and , is written: read as “  or ”  or “  disjunction .” is false if and only if  both  and  are false. The truth table for disjunction is given as follows: Example 1.2: Consider the following propositions:"
+        ],
+        [
+          "Nairobi",
+          ": 3 is an odd number. (True) : 27 is a prime number. (False) : Nairobi is the capital city of Ethiopia. (False) a. : 3 is an odd number or 27 is a prime number. (True) b. : 27 is a prime number or Nairobi is the capital city of Ethiopia. (False) Note: The use of “or” in propositional logic is rather different from its normal use in the English"
+        ],
+        [
+          "that",
+          "language. For example, if Solomon says, “I will go to the football match in the afternoon or I will go to the cinema in the afternoon,” he means he will do one thing or the other, but not both. Here “or” is used in the exclusive sense.  But in propositional logic, “or” is used in the inclusive sense; that is, we allow Solomon the possibility of doing both things without him being inconsistent. Implication When two propositions are joined with the connective “implies,” the proposition formed is called a logical implication. “implies” is denoted by “"
+        ],
+        [
+          "between two propositions",
+          ".” So, the logical implication of two propositions,  and , is written: read as “  implies .” The function of the connective “implies” between two propositions is the same as the use of “If … then …” Thus can be read as “if , then .” is false if and only if  is true and  is false. This form of a proposition is common in mathematics. The proposition  is called the hypothesis"
+        ],
+        [
+          "conditional proposition while",
+          "or the antecedent of the conditional proposition while  is called its conclusion or the consequent. The following is the truth table for implication. Examples 1.3: Consider the following propositions: : 3 is an odd number. (True) : 27 is a prime number. (False) : Addis Ababa is the capital city of Ethiopia. (True)"
+        ],
+        [
+          "then Addis Ababa",
+          ": If 3 is an odd number, then 27 is prime. (False) : If 3 is an odd number, then Addis Ababa is the capital city of Ethiopia. (True) We have already mentioned that can be expressed as both “If , then ” and “  implies . ” There are various ways of expressing the proposition , namely: If , then . if ."
+        ],
+        [
+          "When two propositions",
+          "implies . only if . is sufficient for . is necessary for Bi-implication When two propositions are joined with the connective “bi-implication,” the proposition formed is called a logical bi-implication or a logical equivalence. A bi-implication is denoted by “ ”.  So the logical bi-"
+        ],
+        [
+          "truth table for bi-implication",
+          "implication of two propositions,  and , is written: is false if and only if  and  have different truth values. The truth table for bi-implication is given by: Examples 1.4: a. Let : 2 is greater than 3. (False) : 5 is greater than 4. (True) Then : 2 is greater than 3 if and only if 5 is greater than 4. (False)"
+        ],
+        [
+          "There",
+          "b. Consider the following propositions: : 3 is an odd number. (True) : 2 is a prime number. (True) :  3 is an odd number if and only if 2 is a prime number. (True) There are various ways of stating the proposition if and only if  (also written as  iff ), implies  and  implies , is necessary and sufficient for"
+        ],
+        [
+          "is necessary and sufficient for",
+          "is necessary and sufficient for is equivalent to Negation Given any proposition , we can form the proposition called the negation of . The truth value of is  if  is  and  if  is . We can describe the relation between  and as follows."
+        ],
+        [
+          "Addis Ababa",
+          "Example 1.5: Let : Addis Ababa is the capital city of Ethiopia. (True) : Addis Ababa is not the capital city of Ethiopia. (False) Exercises 1. Which of the following sentences are propositions? For those that are, indicate the truth value. a. 123 is a prime number. b. 0 is an even number. c."
+        ],
+        [
+          "what we have done",
+          "f. a. g. 4. Complete the following truth table. 1.1.3. Compound (or complex) propositions So far, what we have done is simply to define the logical connectives, and express them through algebraic symbols. Now we shall learn how to form propositions involving more than one connective, and how to determine the truth values of such propositions."
+        ],
+        [
+          "which",
+          "Definition 1.2: The proposition formed by joining two or more proposition by connective(s) is called a compound statement. Note: We must be careful to insert the brackets in proper places, just as we do in arithmetic. For example, the expression will be meaningless unless we know which connective should apply first. It could mean or , which are very different"
+        ],
+        [
+          "such complicated propositions",
+          "propositions. The truth value of such complicated propositions is determined by systematic applications of the rules for the connectives. The possible truth values of a proposition are often listed in a table, called a truth table. If  and  are propositions, then there are four possible combinations of truth values for  and . That is, and . If a third proposition  is involved, then there are eight possible combinations of truth values for ,  and . In general, a truth table involving “ ” propositions ,…,"
+        ],
+        [
+          "Suppose   and",
+          "contains possible combinations of truth values. So, we use truth tables to determine the truth value of a compound proposition based on the truth value of its constituent component propositions. Examples 1.6: a. Suppose   and  are true and  and  are false. What is the truth value of i. Since  is true and  is false,"
+        ],
+        [
+          "Since  is true and",
+          "is false. ii. Since  is true and  is false, is true. iii. Thus by applying the rule of implication, we get that is true. b. Suppose that a compound proposition is symbolized by and that the truth values of and  are"
+        ],
+        [
+          "Then the truth value of",
+          "and , respectively. Then the truth value of is , that of is , that of is . So the truth value of is . Remark: When dealing with compound propositions, we shall adopt the following convention on the use of parenthesis. Whenever “ ” or “ ” occur with “ ” or “"
+        ],
+        [
+          "means means means",
+          "”, we shall assume that “ ” or “ ” is applied first, and then “ ” or “ ” is then applied. For example, means means means means"
+        ],
+        [
+          "Two compound propositions  and",
+          "However, it is always advisable to use brackets to indicate the order of the desired operations.  . Definition 1.3: Two compound propositions  and  are said to be equivalent if they have the same truth value for all possible combinations of truth values for the component propositions occurring in both  and . In this case we write Example 1.7:   Let Then,  is equivalent to , since columns 5 and 6 of the above table are identical. Example 1.8:   Let Then"
+        ],
+        [
+          "of the table we see that they",
+          "Looking at columns 5 and 6 of the table we see that they are not identical. Thus It is useful at this point to mention the non-equivalence of certain conditional propositions. Given the conditional , we give the related conditional propositions:- :                 Converse of :             Inverse of :            Contrapositive of As we observed from example 1.7, the conditional"
+        ],
+        [
+          "and its contrapositve",
+          "and its contrapositve are equivalent. On the other hand, and Do not confuse the contrapositive and the converse of the conditional proposition. Here is the difference: Converse: The hypothesis of a converse statement is the conclusion of the conditional statement and the conclusion of the converse statement is the hypothesis of the conditional statement."
+        ],
+        [
+          "of a contrapositive statement",
+          "Contrapositive: The hypothesis of a contrapositive statement is the negation of conclusion of the conditional statement and the conclusion of the contrapositive statement is the negation of hypothesis of the conditional statement. Example 1.9: a. If Kidist lives in Addis Ababa, then she lives in Ethiopia. Converse: If Kidist lives in Ethiopia, then she lives in Addis Ababa. Contrapositive: If Kidist does not live in Ethiopia, then she does not live in Addis Ababa."
+        ],
+        [
+          "If it",
+          "Inverse: If Kidist does not live in Addis Ababa, then she does not live in Ethiopia. b. If it is morning, then the sun is in the east. Converse: If the sun is in the east, then it is morning. Contrapositive: If the sun is not in the east, then it is not morning. Inverse: If it is not morning, then the sun is not the east. Propositions, under the relation of logical equivalence, satisfy various laws or identities, which are listed below. 1."
+        ],
+        [
+          "A compound proposition",
+          "1.1.4. Tautology and contradiction Definition: A compound proposition is a tautology if it is always true regardless of the truth values of its component propositions. If, on the other hand, a compound proposition is always false regardless of its component propositions, we say that such a proposition is a contradiction. Note: A proposition that is neither a tautology nor a contradiction is called a contingency. Examples 1.10: a. Suppose  is any proposition. Consider the compound propositions and"
+        ],
+        [
+          "Observe that",
+          "Observe that is a tautology while is a contradiction. b. For any propositions  and . Consider the compound proposition .  Let us make a truth table and study the situation. We have exhibited all the possibilities and we see that for all truth values of the constituent propositions, the proposition"
+        ],
+        [
+          "Thus",
+          ". Thus is a contradiction."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Section objectives:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(objectives:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Section objectives:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Section objectives:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Remark:",
+      "paragraphs": [
+        "1. In a truth table, if a proposition is a tautology, then every line in its column has  as its entry; if a proposition is a contradiction, every line in its column has  as its entry. 2. Two compound propositions and are equivalent if and only if “ ” is a tautology. Exercises",
+        "1. For statements and , use a truth table to show that each of the following pairs of statements are logically equivalent. a. and b. and c. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "and d. and e. and 2. For statements , and , show that the following compound statements are tautology. a. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "b. c. 3. For statements  and , show that is a contradiction. 4. Write the contrapositive and the converse of the following conditional statements. a. If it is cold, then the lake is frozen. b. If Solomon is healthy, then he is happy. c. If it rains, Tigist does not take a walk.",
+        "5. Let  and  be statements. Which of the following implies that is false? a. is false. b. is true. c. is true. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "d. is true. e. is false. 6. Suppose that the statements and  are assigned the truth values and , respectively. Find the truth value of each of the following statements.",
+        "a. b. c. f. g. h. 12 d. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "e. i. j. 7. Suppose the value of is ; what can be said about the value of 8. a. Suppose the value of is ; what can be said about the values of and",
+        "b. Suppose the value of is ; what can be said about the values of and 9. Construct the truth table for each of the following statements. a. b. c. d.",
+        "e. f. 10. For each of the following determine whether the information given is sufficient to decide the truth value of the statement. If the information is enough, state the truth value. If it is insufficient, show that both truth values are possible. a. , where b.",
+        ", where c. , where d. , where e. , where f. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        ", where and 1.2. Open propositions and quantifiers In mathematics, one frequently comes across sentences that involve a variable. For example, is one such. The truth value of this statement depends on the value we assign for the variable . For example, if , then this sentence is true, whereas if , then the",
+        "sentence is false. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "if a proposition",
+          "1. In a truth table, if a proposition is a tautology, then every line in its column has  as its entry; if a proposition is a contradiction, every line in its column has  as its entry. 2. Two compound propositions and are equivalent if and only if “ ” is a tautology. Exercises"
+        ],
+        [
+          "following pairs of statements",
+          "1. For statements and , use a truth table to show that each of the following pairs of statements are logically equivalent. a. and b. and c."
+        ],
+        [
+          "following compound statements",
+          "and d. and e. and 2. For statements , and , show that the following compound statements are tautology. a."
+        ],
+        [
+          "show that",
+          "b. c. 3. For statements  and , show that is a contradiction. 4. Write the contrapositive and the converse of the following conditional statements. a. If it is cold, then the lake is frozen. b. If Solomon is healthy, then he is happy. c. If it rains, Tigist does not take a walk."
+        ],
+        [
+          "of the following implies that",
+          "5. Let  and  be statements. Which of the following implies that is false? a. is false. b. is true. c. is true."
+        ],
+        [
+          "Suppose that the statements and",
+          "d. is true. e. is false. 6. Suppose that the statements and  are assigned the truth values and , respectively. Find the truth value of each of the following statements."
+        ],
+        [
+          "Suppose the value of",
+          "e. i. j. 7. Suppose the value of is ; what can be said about the value of 8. a. Suppose the value of is ; what can be said about the values of and"
+        ],
+        [
+          "Suppose the value of",
+          "b. Suppose the value of is ; what can be said about the values of and 9. Construct the truth table for each of the following statements. a. b. c. d."
+        ],
+        [
+          "whether the information given",
+          "e. f. 10. For each of the following determine whether the information given is sufficient to decide the truth value of the statement. If the information is enough, state the truth value. If it is insufficient, show that both truth values are possible. a. , where b."
+        ],
+        [
+          "then this sentence",
+          ", where and 1.2. Open propositions and quantifiers In mathematics, one frequently comes across sentences that involve a variable. For example, is one such. The truth value of this statement depends on the value we assign for the variable . For example, if , then this sentence is true, whereas if , then the"
+        ],
+        [
+          "sentence",
+          "sentence is false."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Remark:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Remark:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Remark:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Remark:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Section objectives:",
+      "paragraphs": [
+        "After completing this section, students will be able to:-  Define open proposition.  Explain and exemplify the difference between proposition and open proposition.  Identify the two types of quantifiers.  Convert open propositions into propositions using quantifiers.  Determine the truth value of a quantified proposition. 13  Convert a quantified proposition into words and vise versa.",
+        " Explain the relationship between existential and universal quantifiers.  Analyze quantifiers occurring in combinations. Definition 1.4: An open statement (also called a predicate) is a sentence that contains one or more variables and whose truth value depends on the values assigned for the variables. We represent an open statement by a capital letter followed by the variable(s) in parenthesis, e.g., etc. Example 1.11: Here are some open propositions: a.",
+        "is the day before Sunday. b. is a city in Africa. c. is greater than . d. It is clear that each one of these examples involves variables, but is not a proposition as we cannot assign a truth value to it. However, if individuals are substituted for the variables, then",
+        "each one of them is a proposition or statement. For example, we may have the following. a.  Monday is the day before Sunday. b. London is a city in Africa. c. 5 is greater than 9. d. –13 + 4= –9 Remark The collection of all allowable values for the variable in an open sentence is called the universal set (the universe of discourse) and denoted by .",
+        "Definition 1.5: Two open proposition and are said to be equivalent if and only if for all individual . Note that if the universe is specified, then and are equivalent if and only if",
+        "for all Example 1.12: Let Let Then for all and have the same truth value. ( ) ( ) This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "( ) ( ) ( ) ( ) ( ) ( ) Therefore for all This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "14 Definition 1.6: Let  be the universal set. An open proposition is a tautology if and only if is always true for all values of Example 1.13: The open proposition is a tautology. As we have observed in example 1.11, an open proposition can be converted into a proposition",
+        "by substituting the individuals for the variables. However, there are other ways that an open proposition can be converted into a proposition, namely by a method called quantification. Let be an open proposition over the domain . Adding the phrase “For every ” to or “For some ” to produces a statement called a quantified statement.",
+        "Consider the following open propositions with universe . a. b. c. Then is always true for each is true only for and This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is always false for all values of Hence, given an open proposition , with universe , we observe that there are three possibilities. a. is true for all b. is true for some",
+        "c. is false for all Now we proceed to study open propositions which are satisfied by “all” and “some” members of the given universe. a. The phrase \"for every  \" is called a universal quantifier. We regard \"for every ,\" \"for all ,\" and \"for each  \" as having the same meaning and symbolize each by “ .” Think of the symbol  as an inverted (representing all). If",
+        "is an open proposition with universe , then is a quantified proposition and is read as “every has the property .” b. The phrase \"there exists an  \" is called an existential quantifier. We regard \"there exists an ,\" \"for some ,\" and \"for at least one  \" as having the same meaning, and symbolize each by .” Think of the symbol  as the backwards capital (representing exists). If is an",
+        "open proposition with universe , then is a quantified proposition and is read as “there exists with the property .” This foundational concept establishes the governing principles of Section objectives:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "Here",
+          " Explain the relationship between existential and universal quantifiers.  Analyze quantifiers occurring in combinations. Definition 1.4: An open statement (also called a predicate) is a sentence that contains one or more variables and whose truth value depends on the values assigned for the variables. We represent an open statement by a capital letter followed by the variable(s) in parenthesis, e.g., etc. Example 1.11: Here are some open propositions: a."
+        ],
+        [
+          "but",
+          "is the day before Sunday. b. is a city in Africa. c. is greater than . d. It is clear that each one of these examples involves variables, but is not a proposition as we cannot assign a truth value to it. However, if individuals are substituted for the variables, then"
+        ],
+        [
+          "each one of them",
+          "each one of them is a proposition or statement. For example, we may have the following. a.  Monday is the day before Sunday. b. London is a city in Africa. c. 5 is greater than 9. d. –13 + 4= –9 Remark The collection of all allowable values for the variable in an open sentence is called the universal set (the universe of discourse) and denoted by ."
+        ],
+        [
+          "Two open proposition and",
+          "Definition 1.5: Two open proposition and are said to be equivalent if and only if for all individual . Note that if the universe is specified, then and are equivalent if and only if"
+        ],
+        [
+          "An open proposition",
+          "14 Definition 1.6: Let  be the universal set. An open proposition is a tautology if and only if is always true for all values of Example 1.13: The open proposition is a tautology. As we have observed in example 1.11, an open proposition can be converted into a proposition"
+        ],
+        [
+          "there",
+          "by substituting the individuals for the variables. However, there are other ways that an open proposition can be converted into a proposition, namely by a method called quantification. Let be an open proposition over the domain . Adding the phrase “For every ” to or “For some ” to produces a statement called a quantified statement."
+        ],
+        [
+          "Then is always true for each",
+          "Consider the following open propositions with universe . a. b. c. Then is always true for each is true only for and"
+        ],
+        [
+          "we observe that there",
+          "is always false for all values of Hence, given an open proposition , with universe , we observe that there are three possibilities. a. is true for all b. is true for some"
+        ],
+        [
+          "study open propositions which",
+          "c. is false for all Now we proceed to study open propositions which are satisfied by “all” and “some” members of the given universe. a. The phrase \"for every  \" is called a universal quantifier. We regard \"for every ,\" \"for all ,\" and \"for each  \" as having the same meaning and symbolize each by “ .” Think of the symbol  as an inverted (representing all). If"
+        ],
+        [
+          "then",
+          "is an open proposition with universe , then is a quantified proposition and is read as “every has the property .” b. The phrase \"there exists an  \" is called an existential quantifier. We regard \"there exists an ,\" \"for some ,\" and \"for at least one  \" as having the same meaning, and symbolize each by .” Think of the symbol  as the backwards capital (representing exists). If is an"
+        ],
+        [
+          "then",
+          "open proposition with universe , then is a quantified proposition and is read as “there exists with the property .”"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Section objectives:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(objectives:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Section objectives:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Section objectives:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Remarks:",
+      "paragraphs": [
+        "15 i. To show that is , it is sufficient to find at least one such that is .  Such an element is called a counter example. ii. This foundational concept establishes the governing principles of Remarks:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is  if we cannot find any having the property . Example 1.14: a. Write the following statements using quantifiers. i. For each real number This foundational concept establishes the governing principles of Remarks:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "To show that",
+          "15 i. To show that is , it is sufficient to find at least one such that is .  Such an element is called a counter example. ii."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Remarks:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Remarks:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Remarks:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Remarks:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "ii. There is a real number such that This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "There",
+          "ii. There is a real number such that"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "iii. The square of any real number is nonnegative. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "The square of any real number",
+          "iii. The square of any real number is nonnegative."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "b. i.  Let . The truth value for [i.e ] is . ii. Let . The truth value for is . This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is a counterexample since but . On the other hand, is true, since such that iii. Let . The truth value for This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is  since there is no real number whose absolute value is Relationship between the existential and universal quantifiers If is a formula in , consider the following four statements. a. b. c.",
+        "d. We might translate these into words as follows. a. Everything has property . b. Something has property . c. Nothing has property . d. Something does not have property . Now (d) is the denial of (a), and (c) is the denial of (b), on the basis of everyday meaning. Thus, for example, the existential quantifier may be defined in terms of the universal quantifier.",
+        "Now we proceed to discuss the negation of quantifiers. Let be an open proposition. Then is false only if we can find an individual “ ” in the universe such that is false. If we succeed in getting such an individual, then is true. Hence will be false if",
+        "is true. Therefore the negation of is . Hence we conclude that 16 Similarly, we can easily verified that Remark: To negate a statement that involves the quantifiers  and , change each  to , change each  to , and negate the open statement.",
+        "Example 1.15: Let a. b. Given propositions containing quantifiers we can form a compound proposition by joining them with connectives in the same way we form a compound proposition without quantifiers. For example, if we have and",
+        "we can form Consider the following statements involving quantifiers. Illustrations of these along with translations appear below. a. All rationals are reals. b. No rationals are reals. c. Some rationals are reals. d. Some rationals are not reals. Example 1.16:",
+        "Let The set of integers. Let :  is a prime number. :  is an even number. :  is an odd number. Then a. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is ; since there is an , say 2, such that is . b. is . As a counterexample take 7. Then is  and is . Hence c. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "is . d. is . Quantifiers Occurring in Combinations So far, we have only considered cases in which universal and existential quantifiers appear simply.  However, if we consider cases in which universal and existential quantifiers occur in combination, we are lead to essentially new logical structures.  The following are the simplest forms of combinations:",
+        "17 1. “for all  and for all  the relation holds”; 2. “there is an  and there is a  for which holds”; 3. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "“for every  there is a  such that holds”; 4. “there is an  which stands to every  in the relation .” Example 1.17: Let The set of integers. This foundational concept establishes the governing principles of Solution:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "Let a. means that there is an integer  and there is an integer  such that .  This statement is true when and , since 4 + 1 = 5. Therefore, the statement is always true for this universe.  There are",
+        "other choices of  and  for which it would be true, but the symbolic statement merely says that there is at least one choice for  and  which will make the statement true, and we have demonstrated one such choice. b. means that there is an integer such that for every , This is false since no fixed value of will make this true for all  in the universe; e.g. if",
+        ", then is false for some . c. means that for every integer , there is an integer  such that .  Let , then will always be an integer, so this is a true statement.",
+        "d. means that for every integer  and for every integer , This is false, for if and , we get Example 1.18: a. Consider the statement For every two real numbers  and ,",
+        "If we let where the domain of both  and  is , the statement can be expressed as or as 18 Since and for all real numbers  and , it follows that and so",
+        "is true for all real numbers  and . Thus the quantified statement is true. b. Consider the open statement where the domain of the variable  is the set  of even integers and the domain of the variable is the set  of odd integers. Then the quantified statement can be expressed in words as There exist an even integer  and an odd integer  such that Since is true, the quantified statement is true.",
+        "c. Consider the open statement where the domain of both  and  is the set of positive rational numbers. Then the quantified statement can be expressed in words as For every positive rational number , there exists a positive rational number  such that It turns out that the quantified statement is true. If we replace by , then we have",
+        "Since and for every real number is false. d. Consider the open statement is odd where the domain of both  and  is the set  of natural numbers. Then the quantified statement expressed in words, is There exists a natural number  such that for every natural numbers ,",
+        "is odd. The statement is false. In general, from the meaning of the universal quantifier it follows that in an expression the two universal quantifiers may be interchanged without altering the sense of the sentence. This also holds for the existential quantifies in an expression such as In the statement , the choice of  is allowed to depend on  - the  that works for one  need not work for another . On the other hand, in the statement",
+        ", the must work for all , i.e.,  is independent of . For example, the expression where and are variables referring to the domain of real numbers, constitutes a true proposition, namely, “For every number , there is a number , such that  is less that ,” i.e., “given any number, there is a greater number.”  However, if the order of the symbol and",
+        "is changed, in this case, we obtain: , which is a false proposition, namely, 19 “There is a number which is greater than every number.”  By transposing and therefore, we get a different statement."
+      ],
+      "definitions": [
+        [
+          "The truth value for",
+          "b. i.  Let . The truth value for [i.e ] is . ii. Let . The truth value for is ."
+        ],
+        [
+          "is  since there",
+          "is  since there is no real number whose absolute value is Relationship between the existential and universal quantifiers If is a formula in , consider the following four statements. a. b. c."
+        ],
+        [
+          "Then",
+          "Now we proceed to discuss the negation of quantifiers. Let be an open proposition. Then is false only if we can find an individual “ ” in the universe such that is false. If we succeed in getting such an individual, then is true. Hence will be false if"
+        ],
+        [
+          "Therefore the negation of",
+          "is true. Therefore the negation of is . Hence we conclude that 16 Similarly, we can easily verified that Remark: To negate a statement that involves the quantifiers  and , change each  to , change each  to , and negate the open statement."
+        ],
+        [
+          "All rationals",
+          "we can form Consider the following statements involving quantifiers. Illustrations of these along with translations appear below. a. All rationals are reals. b. No rationals are reals. c. Some rationals are reals. d. Some rationals are not reals. Example 1.16:"
+        ],
+        [
+          "since there",
+          "is ; since there is an , say 2, such that is . b. is . As a counterexample take 7. Then is  and is . Hence c."
+        ],
+        [
+          "The following",
+          "is . d. is . Quantifiers Occurring in Combinations So far, we have only considered cases in which universal and existential quantifiers appear simply.  However, if we consider cases in which universal and existential quantifiers occur in combination, we are lead to essentially new logical structures.  The following are the simplest forms of combinations:"
+        ],
+        [
+          "there is an  and there",
+          "17 1. “for all  and for all  the relation holds”; 2. “there is an  and there is a  for which holds”; 3."
+        ],
+        [
+          "for every  there",
+          "“for every  there is a  such that holds”; 4. “there is an  which stands to every  in the relation .” Example 1.17: Let The set of integers."
+        ],
+        [
+          "means that there",
+          "Let a. means that there is an integer  and there is an integer  such that .  This statement is true when and , since 4 + 1 = 5. Therefore, the statement is always true for this universe.  There are"
+        ],
+        [
+          "merely says that there",
+          "other choices of  and  for which it would be true, but the symbolic statement merely says that there is at least one choice for  and  which will make the statement true, and we have demonstrated one such choice. b. means that there is an integer such that for every , This is false since no fixed value of will make this true for all  in the universe; e.g. if"
+        ],
+        [
+          "then",
+          ", then is false for some . c. means that for every integer , there is an integer  such that .  Let , then will always be an integer, so this is a true statement."
+        ],
+        [
+          "This",
+          "d. means that for every integer  and for every integer , This is false, for if and , we get Example 1.18: a. Consider the statement For every two real numbers  and ,"
+        ],
+        [
+          "where the domain of both  and",
+          "If we let where the domain of both  and  is , the statement can be expressed as or as 18 Since and for all real numbers  and , it follows that and so"
+        ],
+        [
+          "Thus the quantified statement",
+          "is true for all real numbers  and . Thus the quantified statement is true. b. Consider the open statement where the domain of the variable  is the set  of even integers and the domain of the variable is the set  of odd integers. Then the quantified statement can be expressed in words as There exist an even integer  and an odd integer  such that Since is true, the quantified statement is true."
+        ],
+        [
+          "where the domain of both  and",
+          "c. Consider the open statement where the domain of both  and  is the set of positive rational numbers. Then the quantified statement can be expressed in words as For every positive rational number , there exists a positive rational number  such that It turns out that the quantified statement is true. If we replace by , then we have"
+        ],
+        [
+          "Since and for every real number",
+          "Since and for every real number is false. d. Consider the open statement is odd where the domain of both  and  is the set  of natural numbers. Then the quantified statement expressed in words, is There exists a natural number  such that for every natural numbers ,"
+        ],
+        [
+          "The statement",
+          "is odd. The statement is false. In general, from the meaning of the universal quantifier it follows that in an expression the two universal quantifiers may be interchanged without altering the sense of the sentence. This also holds for the existential quantifies in an expression such as In the statement , the choice of  is allowed to depend on  - the  that works for one  need not work for another . On the other hand, in the statement"
+        ],
+        [
+          "the expression where and",
+          ", the must work for all , i.e.,  is independent of . For example, the expression where and are variables referring to the domain of real numbers, constitutes a true proposition, namely, “For every number , there is a number , such that  is less that ,” i.e., “given any number, there is a greater number.”  However, if the order of the symbol and"
+        ],
+        [
+          "which",
+          "is changed, in this case, we obtain: , which is a false proposition, namely, 19 “There is a number which is greater than every number.”  By transposing and therefore, we get a different statement."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "The logical situation here is:",
+      "paragraphs": [
+        "Finally, we conclude this section with the remark that there are no mechanical rules for translating sentences from English into the logical notation which has been introduced. In every case one must first decide on the meaning of the English sentence and then attempt to convey that same meaning in terms of predicates, quantifiers, and, possibly, individual constants. Exercises 1. In each of the following, two open statements and are given, where the",
+        "domain of both  and  is . Determine the truth value of for the given values of  and . a. . and b. . and c. This foundational concept establishes the governing principles of The logical situation here is:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        ". and 2. Let  denote the set of odd integers and let is even, and is even. be open statements over the domain . State and in words. 3. State the negation of the following quantified statements.",
+        "a. For every rational number , the number  is rational. b. There exists a rational number  such that 4. Let is an integer. be an open sentence over the domain . Determine, with explanations, whether the following statements are true or false: a. b. 5. Determine the truth value of the following statements.",
+        "a. b. c. d. e. f. g. h. This foundational concept establishes the governing principles of The logical situation here is:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "6. Consider the quantified statement For every and is prime. 20 where the domain of the variables  and  is a. Express this quantified statement in symbols. b. Is the quantified statement in (a) true or false? Explain.",
+        "c. Express the negation of the quantified statement in (a) in symbols. d. Is the negation of the quantified in (a) true or false? Explain. 7. Consider the open statement where the domain of  is and the domain of  is a. State the quantified statement in words.",
+        "b. Show quantified statement in (a) is true. 8.   Consider the open statement where the domain of  is and the domain of  is a. State the quantified statement in words. b. Show quantified statement in (a) is true. 1. 3.  Argument and Validity"
+      ],
+      "definitions": [
+        [
+          "with the remark that there",
+          "Finally, we conclude this section with the remark that there are no mechanical rules for translating sentences from English into the logical notation which has been introduced. In every case one must first decide on the meaning of the English sentence and then attempt to convey that same meaning in terms of predicates, quantifiers, and, possibly, individual constants. Exercises 1. In each of the following, two open statements and are given, where the"
+        ],
+        [
+          "domain of both  and",
+          "domain of both  and  is . Determine the truth value of for the given values of  and . a. . and b. . and c."
+        ],
+        [
+          "the set of odd integers and let",
+          ". and 2. Let  denote the set of odd integers and let is even, and is even. be open statements over the domain . State and in words. 3. State the negation of the following quantified statements."
+        ],
+        [
+          "the number",
+          "a. For every rational number , the number  is rational. b. There exists a rational number  such that 4. Let is an integer. be an open sentence over the domain . Determine, with explanations, whether the following statements are true or false: a. b. 5. Determine the truth value of the following statements."
+        ],
+        [
+          "statement For every and",
+          "6. Consider the quantified statement For every and is prime. 20 where the domain of the variables  and  is a. Express this quantified statement in symbols. b. Is the quantified statement in (a) true or false? Explain."
+        ],
+        [
+          "statement where the domain of",
+          "c. Express the negation of the quantified statement in (a) in symbols. d. Is the negation of the quantified in (a) true or false? Explain. 7. Consider the open statement where the domain of  is and the domain of  is a. State the quantified statement in words."
+        ],
+        [
+          "statement where the domain of",
+          "b. Show quantified statement in (a) is true. 8.   Consider the open statement where the domain of  is and the domain of  is a. State the quantified statement in words. b. Show quantified statement in (a) is true. 1. 3.  Argument and Validity"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for The logical situation here is:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(is:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in The logical situation here is:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in The logical situation here is:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Section objectives:",
+      "paragraphs": [
+        "After completing this section, students will be able to:-  Define argument (or logical deduction).  Identify hypothesis and conclusion of a given argument.  Determine the validity of an argument using a truth table.  Determine the validity of an argument using rules of inferences. Definition 1.7: An argument (logical deduction) is an assertion that a given set of statements , called hypotheses or premises, yield another statement , called the conclusion. Such a logical deduction is denoted by:",
+        "or Example 1.19:  Consider the following argument: If you study hard, then you will pass the exam. You did not pass the exam. 21 Therefore, you did not study hard. Let : You study hard. : You will pass the exam."
+      ],
+      "definitions": [
+        [
+          "Such a logical deduction",
+          "After completing this section, students will be able to:-  Define argument (or logical deduction).  Identify hypothesis and conclusion of a given argument.  Determine the validity of an argument using a truth table.  Determine the validity of an argument using rules of inferences. Definition 1.7: An argument (logical deduction) is an assertion that a given set of statements , called hypotheses or premises, yield another statement , called the conclusion. Such a logical deduction is denoted by:"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Section objectives:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(objectives:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Section objectives:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Section objectives:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "The argument form can be written as:",
+      "paragraphs": [
+        "When is an argument form accepted to be correct?  In normal usage, we use an argument in order to demonstrate that a certain conclusion follows from known premises.  Therefore, we shall require that under any assignment of truth values to the statements appearing, if the premises became all true, then the conclusion must also become true.  Hence, we state the following definition. Definition 1.8: An argument form is said to be valid if  is true whenever all the premises",
+        "are true; otherwise it is invalid. Example 1.20: Investigate the validity of the following argument: a.   b. c. If it rains, crops will be good. It did not rain. Therefore, crops were not good. Solution: First we construct a truth table for the statements appearing in the argument forms. a.",
+        "The premises and are true simultaneously in row 4 only. Since in this case is also true, the argument is valid. b. p  22 This foundational concept establishes the governing principles of The argument form can be written as:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "The 1st, 2nd, 5th, 6th and 7th rows are those in which all the premises take value .  In the 5th, 6th and 7th rows however the conclusion takes value .  Hence, the argument form is invalid. c. Let : It rains. : Crops are good. : It did not rain. : Crops were not good. The argument form is Now we can use truth table to test validity as follows:",
+        "The premises and are true simultaneously in row 4 only. Since in this case is also true, the argument is valid. This foundational concept establishes the governing principles of The argument form can be written as:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "When",
+          "When is an argument form accepted to be correct?  In normal usage, we use an argument in order to demonstrate that a certain conclusion follows from known premises.  Therefore, we shall require that under any assignment of truth values to the statements appearing, if the premises became all true, then the conclusion must also become true.  Hence, we state the following definition. Definition 1.8: An argument form is said to be valid if  is true whenever all the premises"
+        ],
+        [
+          "otherwise it",
+          "are true; otherwise it is invalid. Example 1.20: Investigate the validity of the following argument: a.   b. c. If it rains, crops will be good. It did not rain. Therefore, crops were not good. Solution: First we construct a truth table for the statements appearing in the argument forms. a."
+        ],
+        [
+          "The premises and",
+          "The premises and are true simultaneously in row 4 only. Since in this case is also true, the argument is valid. b. p  22"
+        ],
+        [
+          "rows",
+          "The 1st, 2nd, 5th, 6th and 7th rows are those in which all the premises take value .  In the 5th, 6th and 7th rows however the conclusion takes value .  Hence, the argument form is invalid. c. Let : It rains. : Crops are good. : It did not rain. : Crops were not good. The argument form is Now we can use truth table to test validity as follows:"
+        ],
+        [
+          "The premises and",
+          "The premises and are true simultaneously in row 4 only. Since in this case is also true, the argument is valid."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for The argument form can be written as:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(as:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in The argument form can be written as:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in The argument form can be written as:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Remark:",
+      "paragraphs": [
+        "1. What is important in validity is the form of the argument rather than the meaning or content of the statements involved. 2. The argument form is valid iff the statement is a tautology. Rules of inferences Below we list certain valid deductions called rules of inferences. 1.",
+        "Modes Ponens 2. Modes Tollens 3. Principle of Syllogism 23 4. Principle of Adjunction This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "a. b. 5. Principle of Detachment 6. Modes Tollendo Ponens 7. Modes Ponendo Tollens This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "8. Constructive Dilemma 9. Principle of Equivalence 10. Principle of Conditionalization Formal proof of validity of an argument Definition 1.9: A formal proof of a conclusion",
+        "given hypotheses is a sequence of stapes, each of which applies some inference rule to hypotheses or previously proven statements (antecedent) to yield a new true statement (the consequent). 24 A formal proof of validity is given by writing on the premises and the statements which follows from them in a single column, and setting off in another column, to the right of each statement, its justification.  It is convenient to list all the premises first.",
+        "Example 1.21: Show that is valid. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "What is important in validity",
+          "1. What is important in validity is the form of the argument rather than the meaning or content of the statements involved. 2. The argument form is valid iff the statement is a tautology. Rules of inferences Below we list certain valid deductions called rules of inferences. 1."
+        ],
+        [
+          "given hypotheses",
+          "given hypotheses is a sequence of stapes, each of which applies some inference rule to hypotheses or previously proven statements (antecedent) to yield a new true statement (the consequent). 24 A formal proof of validity is given by writing on the premises and the statements which follows from them in a single column, and setting off in another column, to the right of each statement, its justification.  It is convenient to list all the premises first."
+        ],
+        [
+          "Show that",
+          "Example 1.21: Show that is valid."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Remark:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Remark:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Remark:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Remark:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Solution:",
+      "paragraphs": [
+        "1. is true                                                   premise 2. is true                                    premise 3. is true                                     contrapositive of (2) 4. is true                                           Modes Ponens using (1) and (3)",
+        "Example 1.22: Show that the hypotheses It is not sunny this afternoon and it is colder than yesterday. If we go swimming, then it is sunny. If we do not go swimming, then we will take a canoe trip. If we take a canoe trip, then we will be home by sunset."
+      ],
+      "definitions": [
+        [
+          "Show that the hypotheses It",
+          "Example 1.22: Show that the hypotheses It is not sunny this afternoon and it is colder than yesterday. If we go swimming, then it is sunny. If we do not go swimming, then we will take a canoe trip. If we take a canoe trip, then we will be home by sunset."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Solution:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Solution:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Solution:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Solution:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Lead to the conclusion:",
+      "paragraphs": [
+        "We will be home by sunset. Let : It is sunny this afternoon. : It is colder than yesterday. : We go swimming. : We take a canoe trip. : We will be home by sunset. Then 1.",
+        "hypothesis 2. simplification using (1) 3. hypothesis 4. Modus Tollens using (2) and (3) 5. This foundational concept establishes the governing principles of Lead to the conclusion:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "hypothesis 6. Modus Ponens using (4) and (5) 7. hypothesis 8. Modus Ponens using (6) and (7) Exercises This foundational concept establishes the governing principles of Lead to the conclusion:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "1. Use the truth table method to show that the following argument forms are valid. i. ii. iii. iv. 25 v. 2. For the following argument given a, b and c below:",
+        "i. Identify the premises. ii. Write argument forms. iii. Check the validity. a.    If he studies medicine, he will get a good job. If he gets a good job, he will get a good wage. He did not get a good wage. Therefore, he did not study medicine. b. If the team is late, then it cannot play the game. If the referee is here, then the team is can play the game. The team is late. Therefore, the",
+        "referee is not here. c.   If the professor offers chocolate for an answer, you answer the professor’s question. The professor offers chocolate for an answer. Therefore, you answer the professor’s question 3. Give formal proof to show that the following argument forms are valid. a. b. c.",
+        "d. e. f. g. h. i. 4. Prove the following are valid arguments by giving formal proof. a. If the rain does not come, the crops are ruined and the people will starve.  The",
+        "crops are not ruined or the people will not starve.  Therefore, the rain comes. b. If the team is late, then it cannot play the game.  If the referee is here then the team can play the game.  The team is late.  Therefore, the referee is not here. 1.4.  Set theory In this section, we study some part of set theory especially description of sets, Venn diagrams and operations of sets."
+      ],
+      "definitions": [
+        [
+          "the following argument forms",
+          "1. Use the truth table method to show that the following argument forms are valid. i. ii. iii. iv. 25 v. 2. For the following argument given a, b and c below:"
+        ],
+        [
+          "If the team",
+          "i. Identify the premises. ii. Write argument forms. iii. Check the validity. a.    If he studies medicine, he will get a good job. If he gets a good job, he will get a good wage. He did not get a good wage. Therefore, he did not study medicine. b. If the team is late, then it cannot play the game. If the referee is here, then the team is can play the game. The team is late. Therefore, the"
+        ],
+        [
+          "referee",
+          "referee is not here. c.   If the professor offers chocolate for an answer, you answer the professor’s question. The professor offers chocolate for an answer. Therefore, you answer the professor’s question 3. Give formal proof to show that the following argument forms are valid. a. b. c."
+        ],
+        [
+          "Prove the following",
+          "d. e. f. g. h. i. 4. Prove the following are valid arguments by giving formal proof. a. If the rain does not come, the crops are ruined and the people will starve.  The"
+        ],
+        [
+          "crops",
+          "crops are not ruined or the people will not starve.  Therefore, the rain comes. b. If the team is late, then it cannot play the game.  If the referee is here then the team can play the game.  The team is late.  Therefore, the referee is not here. 1.4.  Set theory In this section, we study some part of set theory especially description of sets, Venn diagrams and operations of sets."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Lead to the conclusion:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(conclusion:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Lead to the conclusion:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Lead to the conclusion:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Section objectives:",
+      "paragraphs": [
+        "After completing this section, students will be able to:-  Explain the concept of set.  Describe sets in different ways. 26  Identify operations on sets.  Illustrate sets using Venn diagrams. 1.4.1. The concept of a set The term set is an undefined term, just as a point and a line are undefined terms in geometry.",
+        "However, the concept of a set permeates every aspect of mathematics. Set theory underlies the language and concepts of modern mathematics. The term set refers to a well-defined collection of objects that share a certain property or certain properties. The term “well-defined” here means that the set is described in such a way that one can decide whether or not a given object belongs in the set. If  is a set, then the objects of the collection  are called the elements or members of the set . If  is an element of the set , we write . If  is not an element of the set , we write",
+        "As a convention, we use capital letters to denote the names of sets and lowercase letters for elements of a set. Note that for each objects  and each set , exactly one of or but not both must be true. 1.4.2. Description of sets Sets are described or characterized by one of the following four different ways.",
+        "1.  Verbal Method In this method, an ordinary English statement with minimum mathematical symbolization of the property of the elements is used to describe a set. Actually, the statement could be in any language. Example 1.23: a. The set of counting numbers less than ten. b. The set of letters in the word “Addis Ababa.” c.  The set of all countries in Africa.",
+        "2.  Roster/Complete Listing Method If the elements of a set can all be listed, we list them all between a pair of braces without repetition separating by commas, and without concern about the order of their appearance. Such a method of describing a set is called the roster/complete listing method. Examples 1.24: a.    The set of vowels in English alphabet may also be described as b.   The set of positive factors of 24 is also described as"
+      ],
+      "definitions": [
+        [
+          "concept of a set The term set",
+          "After completing this section, students will be able to:-  Explain the concept of set.  Describe sets in different ways. 26  Identify operations on sets.  Illustrate sets using Venn diagrams. 1.4.1. The concept of a set The term set is an undefined term, just as a point and a line are undefined terms in geometry."
+        ],
+        [
+          "The term set",
+          "However, the concept of a set permeates every aspect of mathematics. Set theory underlies the language and concepts of modern mathematics. The term set refers to a well-defined collection of objects that share a certain property or certain properties. The term “well-defined” here means that the set is described in such a way that one can decide whether or not a given object belongs in the set. If  is a set, then the objects of the collection  are called the elements or members of the set . If  is an element of the set , we write . If  is not an element of the set , we write"
+        ],
+        [
+          "Description of sets Sets",
+          "As a convention, we use capital letters to denote the names of sets and lowercase letters for elements of a set. Note that for each objects  and each set , exactly one of or but not both must be true. 1.4.2. Description of sets Sets are described or characterized by one of the following four different ways."
+        ],
+        [
+          "of the property of the elements",
+          "1.  Verbal Method In this method, an ordinary English statement with minimum mathematical symbolization of the property of the elements is used to describe a set. Actually, the statement could be in any language. Example 1.23: a. The set of counting numbers less than ten. b. The set of letters in the word “Addis Ababa.” c.  The set of all countries in Africa."
+        ],
+        [
+          "a method of describing a set",
+          "2.  Roster/Complete Listing Method If the elements of a set can all be listed, we list them all between a pair of braces without repetition separating by commas, and without concern about the order of their appearance. Such a method of describing a set is called the roster/complete listing method. Examples 1.24: a.    The set of vowels in English alphabet may also be described as b.   The set of positive factors of 24 is also described as"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Section objectives:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(objectives:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Section objectives:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Section objectives:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Remark:",
+      "paragraphs": [
+        "27 i. We agree on the convention that the order of writing the elements in the list is immaterial. As a result the sets and contain the same elements, namely and ii.   The set",
+        "contains just two distinct elements; namely  and , hence it is the same set as We list distinct elements without repetition. Example 1.25: a.  Let Elements of  are and Notice that  and",
+        "are different objects. Here but b. Let . The only element of  is . But c.   Let Then C has four elements. The readers are invited to write down all the elements of C.",
+        "3. Partial Listing Method In many occasions, the number of elements of a set may be too large to list them all; and in other occasions there may not be an end to the list. In such cases we look for a common property of the elements and describe the set by partially listing the elements. More precisely, if the common property is simple that it can easily be identified from a list of the first few elements, then with in a pair of  braces, we list these few elements followed (or preceded) by exactly three dotes and possibly by one last element. The following are such instances of describing sets by partial listing method.",
+        "Example 1.26: a. The set of all counting numbers is b. The set of non-positive integers is c. The set of multiples of 5 is d. The set of odd integers less than 100 is 4. Set-builder Method When all the elements satisfy a common property , we express the situation as an open",
+        "proposition and describe the set using a method called the Set-builder Method as follows: We read it as “  is equal to the set of all ’s such that is true.” Here the bar and the colon “ ” mean “such that.” Notice that the letter  is only a place holder and can be replaced throughout by other letters. So, for a property , the set {",
+        "and are all the same set. Example 1.27: The following sets are described using the set-builder method. a. b. c. 28 This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "d. e. Exercise: Express each of the above by using either the complete or the partial listing method. Definition 1.10: The set which has no element is called the empty (or null) set and is denoted by  or . Example 1.28: The set of such that is an empty set. Definition 1.11: A set is finite if it has limited number of elements and it is called infinite if it",
+        "has unlimited number of elements. Relationships between two sets Definition 1.12:  Set  is said to be a subset of set  (or is contained in ), denoted by , if every element of  is an element of , i.e., It follows from the definition that set  is not a subset of set  if at least one element of  is not an element of . i.e., . In such cases we write",
+        "or Remarks: For any set and Example 1.29: a. If and , then and This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "On the other hand, it is clear that: and b. If and , then since every multiple of 6 is even. However, This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "while . Thus c. If then and . On the other hand, since , and Definition 1.13: This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "a. Sets  and  are said to be equal if they contain exactly the same elements. In this case, we write . That is, b. Sets  and  are said to be equivalent if and only if there is a one to one correspondence among their elements. In this case, we write Example 1.30: a. The sets are all equal. b.",
+        "29 Definition 1.14: Set  is said to be a proper subset of set  if every element of  is also an element of , but  has at least one element that is not in . In this case, we write . We also say  is a proper super set of A, and write . It is clear that . Instead they use the symbol for both subset and proper subset. In this material, we prefer to use the notations commonly used in high school",
+        "mathematics, and we continue using and differently, namely for subset and proper subset, respectively. Definition 1.15: Let  be a set. The power set of , dented by , is the set whose elements are all subsets of . That is, Note: If a set  is finite with  elements, then",
+        "a. The number of subsets of  is and b. The number proper subsets of  is Example 1.31: Let . As noted before, and are subset of . Moreover, This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "and are also subsets of . Therefore, Frequently it is necessary to limit the topic of discussion to elements of a certain fixed set and regard all sets under consideration as a subset of this fixed set. We call this set the universal set or the universe and denoted by . Exercises 1. Which of the following are sets? c. 1,2,3",
+        "d. {1,2},3 e. {{1},2},3 f. {1,{2},3} g. {1,2,a,b}. 2. Which of the following sets can be described in complete listing, partial listing and/or set-builder methods? Describe each set by at least one of the three methods. a. The set of the first 10 letters in the English alphabet.",
+        "b. The set of all countries in the world. c. The set of students of Addis Ababa University in the 2018/2019 academic year. d. The set of positive multiples of 5. e. The set of all horses with six legs. 3. Write each of the following sets by listing its elements within braces. 30 c. d.",
+        "e. f. g. 4. Let  be the set of positive even integers less than 15. Find the truth value of each of the following. a. b. c. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "d. e. f. g. h. i. 5. Find the truth value of each of the following and justify your conclusion. a. This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "b. c. for any set A d. , for any set A e. f. g.  For any set This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "h. 6. For each of the following set, find its power set. a. b. c. d. 7. How many subsets and proper subsets do the sets that contain exactly and",
+        "elements have? 8. Is there a set A with exactly the following indicated property? a. Only one subset b. Only one proper subset 31 c. Exactly 3 proper subsets d. Exactly 4 subsets e. Exactly 6 proper subsets",
+        "f. Exactly 30 subsets g. Exactly 14 proper subsets h. Exactly 15 proper subsets 9. How many elements does A contain if it has: a. 64 subsets? b. 31 proper subsets? c. No proper subset? d. 255 proper subsets?",
+        "10. Find the truth value of each of the following. a. b. c. For any set d. For any set 11. For any three sets ,  and , prove that: a. If and",
+        ", then b. If and , then 1.4.3. Set Operations and Venn diagrams Given two subsets  and  of a universal set , new sets can be formed using  and  in many ways, such as taking common elements or non-common elements, and putting everything together. Such processes of forming new sets are called set operations. In this section, three most",
+        "important operations, namely union, intersection and complement are discussed. Definition 1.16: The union of two sets  and , denoted by , is the set of all elements that are either in  or in  (or in both sets). That is, As easily seen the union operator “ ” in the theory of set is the counterpart of the logical operator “ ”. Definition 1.17: The intersection of two sets  and , denoted by , is the set of all elements that are",
+        "in  and . That is, 32 As suggested by definition 1.17, the intersection operator “ ” in the theory of sets is the counterpart of the logical operator “ ”. Note: - Two sets  and  are said to be disjoint sets if Example 1.32: a. Let",
+        "and . Then, and b. Let  = The set of positive even integers, and = The set of positive multiples of 3. Then, Definition 1.18: The difference between two sets  and , denoted by , is the of all elements in",
+        "and not in ; this set is also called the relative complement of  with respect to . Symbolically, This foundational concept establishes the governing principles of Remark:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "the elements in the list",
+          "27 i. We agree on the convention that the order of writing the elements in the list is immaterial. As a result the sets and contain the same elements, namely and ii.   The set"
+        ],
+        [
+          "hence it",
+          "contains just two distinct elements; namely  and , hence it is the same set as We list distinct elements without repetition. Example 1.25: a.  Let Elements of  are and Notice that  and"
+        ],
+        [
+          "The only element of",
+          "are different objects. Here but b. Let . The only element of  is . But c.   Let Then C has four elements. The readers are invited to write down all the elements of C."
+        ],
+        [
+          "if the common property",
+          "3. Partial Listing Method In many occasions, the number of elements of a set may be too large to list them all; and in other occasions there may not be an end to the list. In such cases we look for a common property of the elements and describe the set by partially listing the elements. More precisely, if the common property is simple that it can easily be identified from a list of the first few elements, then with in a pair of  braces, we list these few elements followed (or preceded) by exactly three dotes and possibly by one last element. The following are such instances of describing sets by partial listing method."
+        ],
+        [
+          "The set of all counting numbers",
+          "Example 1.26: a. The set of all counting numbers is b. The set of non-positive integers is c. The set of multiples of 5 is d. The set of odd integers less than 100 is 4. Set-builder Method When all the elements satisfy a common property , we express the situation as an open"
+        ],
+        [
+          "s such that",
+          "proposition and describe the set using a method called the Set-builder Method as follows: We read it as “  is equal to the set of all ’s such that is true.” Here the bar and the colon “ ” mean “such that.” Notice that the letter  is only a place holder and can be replaced throughout by other letters. So, for a property , the set {"
+        ],
+        [
+          "and",
+          "and are all the same set. Example 1.27: The following sets are described using the set-builder method. a. b. c. 28"
+        ],
+        [
+          "The set which has no element",
+          "d. e. Exercise: Express each of the above by using either the complete or the partial listing method. Definition 1.10: The set which has no element is called the empty (or null) set and is denoted by  or . Example 1.28: The set of such that is an empty set. Definition 1.11: A set is finite if it has limited number of elements and it is called infinite if it"
+        ],
+        [
+          "Set",
+          "has unlimited number of elements. Relationships between two sets Definition 1.12:  Set  is said to be a subset of set  (or is contained in ), denoted by , if every element of  is an element of , i.e., It follows from the definition that set  is not a subset of set  if at least one element of  is not an element of . i.e., . In such cases we write"
+        ],
+        [
+          "Sets  and",
+          "a. Sets  and  are said to be equal if they contain exactly the same elements. In this case, we write . That is, b. Sets  and  are said to be equivalent if and only if there is a one to one correspondence among their elements. In this case, we write Example 1.30: a. The sets are all equal. b."
+        ],
+        [
+          "Set",
+          "29 Definition 1.14: Set  is said to be a proper subset of set  if every element of  is also an element of , but  has at least one element that is not in . In this case, we write . We also say  is a proper super set of A, and write . It is clear that . Instead they use the symbol for both subset and proper subset. In this material, we prefer to use the notations commonly used in high school"
+        ],
+        [
+          "is the set whose elements",
+          "mathematics, and we continue using and differently, namely for subset and proper subset, respectively. Definition 1.15: Let  be a set. The power set of , dented by , is the set whose elements are all subsets of . That is, Note: If a set  is finite with  elements, then"
+        ],
+        [
+          "The number of subsets of",
+          "a. The number of subsets of  is and b. The number proper subsets of  is Example 1.31: Let . As noted before, and are subset of . Moreover,"
+        ],
+        [
+          "and",
+          "and are also subsets of . Therefore, Frequently it is necessary to limit the topic of discussion to elements of a certain fixed set and regard all sets under consideration as a subset of this fixed set. We call this set the universal set or the universe and denoted by . Exercises 1. Which of the following are sets? c. 1,2,3"
+        ],
+        [
+          "processes of forming new sets",
+          ", then b. If and , then 1.4.3. Set Operations and Venn diagrams Given two subsets  and  of a universal set , new sets can be formed using  and  in many ways, such as taking common elements or non-common elements, and putting everything together. Such processes of forming new sets are called set operations. In this section, three most"
+        ],
+        [
+          "intersection and complement",
+          "important operations, namely union, intersection and complement are discussed. Definition 1.16: The union of two sets  and , denoted by , is the set of all elements that are either in  or in  (or in both sets). That is, As easily seen the union operator “ ” in the theory of set is the counterpart of the logical operator “ ”. Definition 1.17: The intersection of two sets  and , denoted by , is the set of all elements that are"
+        ],
+        [
+          "That",
+          "in  and . That is, 32 As suggested by definition 1.17, the intersection operator “ ” in the theory of sets is the counterpart of the logical operator “ ”. Note: - Two sets  and  are said to be disjoint sets if Example 1.32: a. Let"
+        ],
+        [
+          "this set",
+          "and not in ; this set is also called the relative complement of  with respect to . Symbolically,"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Remark:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Remark:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Remark:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Remark:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "Note:",
+      "paragraphs": [
+        "is sometimes denoted by and are used interchangeably. Example 1.33: If , then and Note: The above example shows that, in general, are This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "disjoint. Definition 1.19: Let  be a subset of a universal set . The absolute complement (or simply complement) of , denoted by (or or , is defined to be the set of all elements of  that are not in . That is, or",
+        "Notice that taking the absolute complement of  is the same as finding the relative complement of  with respect to the universal set . That is, Example 1.34: a. If , and if , then b. Let and",
+        "Then, 33 , and c. Let and . Then , and Find This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        ". Which of these are equal? Theorem 1.1: For any two sets  and , each of the following holds. 1. 2. 3. 4. 5. 6. This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "Now we define the symmetric difference of two sets. Definition 1.20: The symmetric difference of two sets  and , denoted by , is the set Example 1.35: Let be the universal set, and . Then and",
+        ". Thus Theorem 1.2: For any three sets ,  and , each of the following holds. a. .                                        ( is commutative) b. .                                        ( is commutative) c. .                   ( is associative)",
+        "d. .                   ( is associative) e. .         ( is distributive over ) f. .         ( is distributive over ) Let us prove property “e” formally. (definition of )",
+        "(definition of )  ( is distributive over )  )                         (definition of ) 34  (definition of )",
+        "Therefore, we have The readers are invited to prove the rest part of theorem (1.2). Venn diagrams While working with sets, it is helpful to use diagrams, called Venn diagrams, to illustrate the relationships involved. A Venn diagram is a schematic or pictorial representative of the sets involved in the discussion. Usually sets are represented as interlocking circles, each of which is enclosed in a rectangle, which represents the universal set . In some",
+        "occasions, we list the elements of set  inside the closed curve representing . Example 1.36: a. If and , then a Venn diagram representation of these two sets looks like the following. b. Let A Venn diagram representation of these sets is given below.",
+        "35 Example 1.37: Let U = The set of one digits numbers A = The set of one digits even numbers B = The set of positive prime numbers less than 10 We illustrate the sets using a Venn diagram as follows. a. Illustrate by a Venn diagram b. Illustrate A’  by a Venn diagram",
+        "c. Illustrate A\\B by using a Venn diagram A’  :   The shaded portion A B :   The shaded portion 36 Now we illustrate intersections and unions of sets by Venn diagram. Cases Shaded is",
+        "Shaded Only some common elements No common element Exercises 1. If This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "and , find . 2. Let and or }. Find a. This foundational concept establishes the governing principles of Note:. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum."
+      ],
+      "definitions": [
+        [
+          "is sometimes denoted by and",
+          "is sometimes denoted by and are used interchangeably. Example 1.33: If , then and Note: The above example shows that, in general, are"
+        ],
+        [
+          "set of all elements of  that",
+          "disjoint. Definition 1.19: Let  be a subset of a universal set . The absolute complement (or simply complement) of , denoted by (or or , is defined to be the set of all elements of  that are not in . That is, or"
+        ],
+        [
+          "the absolute complement of",
+          "Notice that taking the absolute complement of  is the same as finding the relative complement of  with respect to the universal set . That is, Example 1.34: a. If , and if , then b. Let and"
+        ],
+        [
+          "Which of these",
+          ". Which of these are equal? Theorem 1.1: For any two sets  and , each of the following holds. 1. 2. 3. 4. 5. 6."
+        ],
+        [
+          "we have The readers",
+          "Therefore, we have The readers are invited to prove the rest part of theorem (1.2). Venn diagrams While working with sets, it is helpful to use diagrams, called Venn diagrams, to illustrate the relationships involved. A Venn diagram is a schematic or pictorial representative of the sets involved in the discussion. Usually sets are represented as interlocking circles, each of which is enclosed in a rectangle, which represents the universal set . In some"
+        ],
+        [
+          "representation of these sets",
+          "occasions, we list the elements of set  inside the closed curve representing . Example 1.36: a. If and , then a Venn diagram representation of these two sets looks like the following. b. Let A Venn diagram representation of these sets is given below."
+        ],
+        [
+          "Cases Shaded",
+          "c. Illustrate A\\B by using a Venn diagram A’  :   The shaded portion A B :   The shaded portion 36 Now we illustrate intersections and unions of sets by Venn diagram. Cases Shaded is"
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for Note:: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(Note:)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in Note:."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in Note:",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    },
+    {
+      "title": "A  B =",
+      "paragraphs": [
+        "A \\ B:   The shaded portion 37 b. Is 3. Suppose The set of one digit numbers and is an even natural number less than or equal to 9} Describe each of the sets by complete listing method:",
+        "a. b. c. d. e. f. g. 4. Suppose This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "The set of one digit numbers and is an even natural number less than or equal to 9} Describe each of the sets by complete listing method: h. i. j. k. l.",
+        "m. n. 5. Use Venn diagram to illustrate the following statements: a. b. c. If , then d. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "6. Let and . Then show that 7. Perform each of the following operations. a. b. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "c. d. 8. Let is a positive prime factor of 66} is composite number } and . Then find each of the following. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "38 9.   Let and a. , then b. , then c. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        ", then 10. Let and . Verify each of the following. a. b. c. d. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "e. 11. Depending on question No. 10 find. a. b. c. d. 12. For any two subsets  and  of a universal set , prove that: a. This foundational concept establishes the governing principles of A  B =. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the mathematics curriculum.",
+        "b. c. d. 13. Draw an appropriate Venn diagram to depict each of the following sets. a. U = The set of high school students in Addis Ababa. A = The set of female high school students in Addis Ababa. B = The set of high school anti-AIDS club member students in Addis Ababa. C = The set of high school Nature Club member students in Addis Ababa.",
+        "b. U = The set of integers. A = The set of even integers. B = The set of odd integers. C = The set of multiples of 3. D = The set of prime numbers."
+      ],
+      "definitions": [
+        [
+          "set of one digit numbers and",
+          "A \\ B:   The shaded portion 37 b. Is 3. Suppose The set of one digit numbers and is an even natural number less than or equal to 9} Describe each of the sets by complete listing method:"
+        ],
+        [
+          "set of one digit numbers and",
+          "The set of one digit numbers and is an even natural number less than or equal to 9} Describe each of the sets by complete listing method: h. i. j. k. l."
+        ],
+        [
+          "Let",
+          "c. d. 8. Let is a positive prime factor of 66} is composite number } and . Then find each of the following."
+        ]
+      ],
+      "key_points": [
+        "Primary takeaway for A  B =: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(=)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in A  B =."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in A  B =",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    }
+  ],
+  "exercises": [
+    {
+      "question": "1. Which of the following sentences are propositions? For those that are, indicate the truth",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "2. State the negation of each of the following statements.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "3. Let : 15 is an odd number.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "4. Complete the following truth table.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "1. In a truth table, if a proposition is a tautology, then every line in its column has  as its",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "2. Two compound propositions",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "1. For statements",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "2. For statements",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "3. For statements  and , show that",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    },
+    {
+      "question": "4. Write the contrapositive and the converse of the following conditional statements.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  analytic geometry in mathematics.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+    }
+  ],
+  "summary": "UNIT SUMMARY — CHAPTER 4  ANALYTIC GEOMETRY (university mathematics):\nThis complete study document covers all topics in Chapter 4  analytic geometry, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": []
+}

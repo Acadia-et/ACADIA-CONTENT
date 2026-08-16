@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__chemical_bonding",
-  "title": "Unit 5_ CHEMICAL BONDING",
-  "description": "Unit 5_ CHEMICAL BONDING for chemistry",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_CHEMICAL_BONDING",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ CHEMICAL BONDING",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ CHEMICAL BONDING",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

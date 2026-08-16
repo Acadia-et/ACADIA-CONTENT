@@ -1,13 +1,39 @@
 {
-  "id": "physics",
-  "title": "Physics",
-  "description": "Physics subject",
+  "id": "physics_Grade_10",
+  "grade": "Grade_10",
+  "subject": "physics",
+  "description": "Grade_10 Physics",
   "units": [
-    "Unit 1_ VECTOR QUANTITIES",
-    "Unit 2_ UNIFORMLY ACCELERATED MOTION",
-    "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
-    "Unit 4_ STATIC AND CURRENT ELECTRICITY",
-    "Unit 5_ MAGNETISM",
-    "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS"
-  ]
+    {
+      "id": "Unit_1__VECTOR_QUANTITIES",
+      "title": "Unit 1_ VECTOR QUANTITIES",
+      "file": "Unit_1__VECTOR_QUANTITIES.json"
+    },
+    {
+      "id": "Unit_2__UNIFORMLY_ACCELERATED_MOTION",
+      "title": "Unit 2_ UNIFORMLY ACCELERATED MOTION",
+      "file": "Unit_2__UNIFORMLY_ACCELERATED_MOTION.json"
+    },
+    {
+      "id": "Unit_3__ELASTICITY_AND_STATIC_EQUILIBRIUM_OF_RIGID_BODY",
+      "title": "Unit 3_ ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY",
+      "file": "Unit_3__ELASTICITY_AND_STATIC_EQUILIBRIUM_OF_RIGID_BODY.json"
+    },
+    {
+      "id": "Unit_4__STATIC_AND_CURRENT_ELECTRICITY",
+      "title": "Unit 4_ STATIC AND CURRENT ELECTRICITY",
+      "file": "Unit_4__STATIC_AND_CURRENT_ELECTRICITY.json"
+    },
+    {
+      "id": "Unit_5__MAGNETISM",
+      "title": "Unit 5_ MAGNETISM",
+      "file": "Unit_5__MAGNETISM.json"
+    },
+    {
+      "id": "Unit_6__ELECTROMAGNETIC_WAVES_AND_GEOMETRICAL_OPTICS",
+      "title": "Unit 6_ ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS",
+      "file": "Unit_6__ELECTROMAGNETIC_WAVES_AND_GEOMETRICAL_OPTICS.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/textbook.pdf"
 }

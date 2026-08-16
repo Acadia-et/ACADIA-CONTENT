@@ -1,22 +1,84 @@
 {
-  "id": "agriculture",
-  "title": "Agriculture",
-  "description": "Agriculture subject",
+  "id": "agriculture_Grade_11/Natural_Science",
+  "grade": "Grade_11/Natural_Science",
+  "subject": "agriculture",
+  "description": "Grade_11/Natural_Science Agriculture",
   "units": [
-    "Unit 10_ INTRODUCTION TO NATURAL RESOURCES",
-    "Unit 11_ MANAGEMENT OF NATURAL RESOURCES",
-    "Unit 12_ CONCEPTS OF BIODIVERSITY",
-    "Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION",
-    "Unit 14_ INTRODUCTION TO HUMAN NUTRITION",
-    "Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION",
-    "Unit 1_ INTRODUCTION TO CROP PRODUCTION",
-    "Unit 2_ FIELD CROPS PRODUCTION AND MANAGEMENT",
-    "Unit 3_ INDUSTRIAL CROPS PRODUCTION AND MANAGEMENT",
-    "Unit 4_ INTRODUCTION TO FARM ANIMALS",
-    "Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES",
-    "Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES",
-    "Unit 7_ FARM ANIMALS HOUSING",
-    "Unit 8_ BASIC ANIMAL HEALTH AND DISEASE CONTROL",
-    "Unit 9_ DAIRY CATTLE PRODUCTION AND MANAGEMENT"
-  ]
+    {
+      "id": "Unit_10__INTRODUCTION_TO_NATURAL_RESOURCES",
+      "title": "Unit 10_ INTRODUCTION TO NATURAL RESOURCES",
+      "file": "Unit_10__INTRODUCTION_TO_NATURAL_RESOURCES.json"
+    },
+    {
+      "id": "Unit_11__MANAGEMENT_OF_NATURAL_RESOURCES",
+      "title": "Unit 11_ MANAGEMENT OF NATURAL RESOURCES",
+      "file": "Unit_11__MANAGEMENT_OF_NATURAL_RESOURCES.json"
+    },
+    {
+      "id": "Unit_12__CONCEPTS_OF_BIODIVERSITY",
+      "title": "Unit 12_ CONCEPTS OF BIODIVERSITY",
+      "file": "Unit_12__CONCEPTS_OF_BIODIVERSITY.json"
+    },
+    {
+      "id": "Unit_13__CLIMATE_CHANGE_ADAPTATION_AND_MITIGATION",
+      "title": "Unit 13_ CLIMATE CHANGE ADAPTATION AND MITIGATION",
+      "file": "Unit_13__CLIMATE_CHANGE_ADAPTATION_AND_MITIGATION.json"
+    },
+    {
+      "id": "Unit_14__INTRODUCTION_TO_HUMAN_NUTRITION",
+      "title": "Unit 14_ INTRODUCTION TO HUMAN NUTRITION",
+      "file": "Unit_14__INTRODUCTION_TO_HUMAN_NUTRITION.json"
+    },
+    {
+      "id": "Unit_15__DIVERSIFIED_FOOD_PRODUCTION_AND_CONSUMPTION",
+      "title": "Unit 15_ DIVERSIFIED FOOD PRODUCTION AND CONSUMPTION",
+      "file": "Unit_15__DIVERSIFIED_FOOD_PRODUCTION_AND_CONSUMPTION.json"
+    },
+    {
+      "id": "Unit_1__INTRODUCTION_TO_CROP_PRODUCTION",
+      "title": "Unit 1_ INTRODUCTION TO CROP PRODUCTION",
+      "file": "Unit_1__INTRODUCTION_TO_CROP_PRODUCTION.json"
+    },
+    {
+      "id": "Unit_2__FIELD_CROPS_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 2_ FIELD CROPS PRODUCTION AND MANAGEMENT",
+      "file": "Unit_2__FIELD_CROPS_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_3__INDUSTRIAL_CROPS_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 3_ INDUSTRIAL CROPS PRODUCTION AND MANAGEMENT",
+      "file": "Unit_3__INDUSTRIAL_CROPS_PRODUCTION_AND_MANAGEMENT.json"
+    },
+    {
+      "id": "Unit_4__INTRODUCTION_TO_FARM_ANIMALS",
+      "title": "Unit 4_ INTRODUCTION TO FARM ANIMALS",
+      "file": "Unit_4__INTRODUCTION_TO_FARM_ANIMALS.json"
+    },
+    {
+      "id": "Unit_5__ANIMAL_FEEDS_AND_FEEDING_PRACTICES",
+      "title": "Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES",
+      "file": "Unit_5__ANIMAL_FEEDS_AND_FEEDING_PRACTICES.json"
+    },
+    {
+      "id": "Unit_6__ANIMAL_GENETICS_AND_BREEDING_PRACTICES",
+      "title": "Unit 6_ ANIMAL GENETICS AND BREEDING PRACTICES",
+      "file": "Unit_6__ANIMAL_GENETICS_AND_BREEDING_PRACTICES.json"
+    },
+    {
+      "id": "Unit_7__FARM_ANIMALS_HOUSING",
+      "title": "Unit 7_ FARM ANIMALS HOUSING",
+      "file": "Unit_7__FARM_ANIMALS_HOUSING.json"
+    },
+    {
+      "id": "Unit_8__BASIC_ANIMAL_HEALTH_AND_DISEASE_CONTROL",
+      "title": "Unit 8_ BASIC ANIMAL HEALTH AND DISEASE CONTROL",
+      "file": "Unit_8__BASIC_ANIMAL_HEALTH_AND_DISEASE_CONTROL.json"
+    },
+    {
+      "id": "Unit_9__DAIRY_CATTLE_PRODUCTION_AND_MANAGEMENT",
+      "title": "Unit 9_ DAIRY CATTLE PRODUCTION AND MANAGEMENT",
+      "file": "Unit_9__DAIRY_CATTLE_PRODUCTION_AND_MANAGEMENT.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Natural_Science/agriculture/textbook.pdf"
 }

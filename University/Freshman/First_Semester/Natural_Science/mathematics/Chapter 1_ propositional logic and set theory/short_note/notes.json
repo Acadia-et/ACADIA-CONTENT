@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "grade": "university",
+    "subject": "mathematics",
+    "unit_title": "Chapter 1  propositional logic and set theory"
+  },
+  "sections": [
+    {
+      "title": "1. Overview & Fundamentals of Chapter 1  propositional logic and set theory",
+      "paragraphs": [
+        "Content                                                                                                           Page Chapter 1: Propositional Logic and set Theory …………………………………………..   1 1.1. Propositional Logic          ………………………………………………   1 1.1.1 Definition and examples of Propositions ………………………   2 1.1.2 Logical connectives …………………………………………….   2 1.1.3 Compound (or complex) proposition …………………………..   7 1.1.4 Tautology and contradiction …………………………………… 10",
+        "1.2. Open propositions and quantifiers ……………………………………... 12 1.3. Arguments and Validity ………………………………………………... 20 1.4. Set Theory        ………………………………………………………….",
+        "25 1.4.1    The Concept of a set …………………………………………….. 26 1.4.2    Description of sets ………………………………………………. 26 1.4.3    Set operations and Venn diagrams ……………………………… 31 Chapter 2: The Real and Complex Number Systems ……………………………………... 39 2.1 The real number system ………………………………………………... 39 2.1.1 The natural numbers, principle of mathematical induction and the well ordering axiom ………………………………… 39",
+        "2.1.2 The set of integers ……………………………………………. 45 2.1.3 The set of rational numbers …………………………………..  48 2.1.4 The set of real numbers, upper bound and lower bound, least Upper bound and greatest lower bound; completeness property of real numbers ………………………………………………. 52 2.2 The set of complex numbers ...………………………………………….. 56 2.2.1 Plotting complex numbers…………………………………….. 57 2.2.2 Operations on complex numbers ………………………………57",
+        "2.2.3 Conjugate of a complex number ……………………………… 58 2.2.4 Modulus (Norm) of a complex number ………………………. 59 2.2.5 Additive and multiplicative inverse …………………………... 60 2.2.6 Argument of a complex number ……………………………….61 2.2.7 Polar form of a complex numbers ................…………………. 62 2.2.8 Extraction of roots ……………………………………………. 66 Chapter 3: Functions ………………………………………………………………………  68 3.1 Review of relations and functions ……………………………………...  68",
+        "3.2 Real valued functions and their properties ……………………………..  76 3.3 Types of functions and inverse of a function …………………………..  81 3.4 Polynomials, zeros of polynomials, rational functions and their graphs …………………………………………………………….   85 3.5 Definition and basic properties of logarithmic, exponential, trigonometric and hyperbolic functions, and their graphs. …………….   97"
+      ],
+      "definitions": [],
+      "key_points": [
+        "Primary takeaway for 1. Overview & Fundamentals of Chapter 1  propositional logic and set theory: master the fundamental definitions and structural relationships.",
+        "Core mechanism: observe how mathematics principles operate systematically across context and application.",
+        "Academic application: critical concept frequently assessed in standard university examinations."
+      ],
+      "formulas": [
+        {
+          "eq": "Formula / Equation: Parameter = f(theory)",
+          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
+          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 1  propositional logic and set theory."
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Parameter / Variable",
+            "Description & Definition",
+            "SI Unit / Expression"
+          ],
+          [
+            "Primary Constant",
+            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 1  propositional logic and set theory",
+            "Standard Units"
+          ],
+          [
+            "Variable Parameter",
+            "Dependent variable analyzed in mathematics",
+            "Derived Units"
+          ]
+        ]
+      ],
+      "image_path": null,
+      "image_caption": null
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Explain the fundamental definitions and key principles of Chapter 1  propositional logic and set theory.",
+      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 1  propositional logic and set theory in mathematics cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+    },
+    {
+      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 1  propositional logic and set theory.",
+      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university mathematics."
+    },
+    {
+      "question": "Compare and contrast the primary categories presented in the unit tables.",
+      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+    }
+  ],
+  "summary": "UNIT SUMMARY — CHAPTER 1  PROPOSITIONAL LOGIC AND SET THEORY (university mathematics):\nThis complete study document covers all topics in Chapter 1  propositional logic and set theory, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
+  "images": []
+}

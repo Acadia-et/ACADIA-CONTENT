@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__statistics",
-  "title": "Unit 3_ STATISTICS",
-  "description": "Unit 3_ STATISTICS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_STATISTICS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ STATISTICS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ STATISTICS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

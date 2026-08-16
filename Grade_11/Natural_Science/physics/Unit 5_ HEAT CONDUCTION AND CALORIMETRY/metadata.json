@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__heat_conduction_and_calorimetry",
-  "title": "Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
-  "description": "Unit 5_ HEAT CONDUCTION AND CALORIMETRY for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_HEAT_CONDUCTION_AND_CALORIMETRY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

@@ -1,13 +1,39 @@
 {
-  "id": "biology",
-  "title": "Biology",
-  "description": "Biology subject",
+  "id": "biology_Grade_11/Natural_Science",
+  "grade": "Grade_11/Natural_Science",
+  "subject": "biology",
+  "description": "Grade_11/Natural_Science Biology",
   "units": [
-    "Unit 1_ BIOLOGY AND TECHNOLOGY",
-    "Unit 2_ ANIMALS",
-    "Unit 3_ ENZYMES",
-    "Unit 4_ GENETICS",
-    "Unit 5_ THE HUMAN BODY SYSTEMS",
-    "Unit 6_ POPULATION AND NATURAL RESOURCES"
-  ]
+    {
+      "id": "Unit_1__BIOLOGY_AND_TECHNOLOGY",
+      "title": "Unit 1_ BIOLOGY AND TECHNOLOGY",
+      "file": "Unit_1__BIOLOGY_AND_TECHNOLOGY.json"
+    },
+    {
+      "id": "Unit_2__ANIMALS",
+      "title": "Unit 2_ ANIMALS",
+      "file": "Unit_2__ANIMALS.json"
+    },
+    {
+      "id": "Unit_3__ENZYMES",
+      "title": "Unit 3_ ENZYMES",
+      "file": "Unit_3__ENZYMES.json"
+    },
+    {
+      "id": "Unit_4__GENETICS",
+      "title": "Unit 4_ GENETICS",
+      "file": "Unit_4__GENETICS.json"
+    },
+    {
+      "id": "Unit_5__THE_HUMAN_BODY_SYSTEMS",
+      "title": "Unit 5_ THE HUMAN BODY SYSTEMS",
+      "file": "Unit_5__THE_HUMAN_BODY_SYSTEMS.json"
+    },
+    {
+      "id": "Unit_6__POPULATION_AND_NATURAL_RESOURCES",
+      "title": "Unit 6_ POPULATION AND NATURAL RESOURCES",
+      "file": "Unit_6__POPULATION_AND_NATURAL_RESOURCES.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Natural_Science/biology/textbook.pdf"
 }

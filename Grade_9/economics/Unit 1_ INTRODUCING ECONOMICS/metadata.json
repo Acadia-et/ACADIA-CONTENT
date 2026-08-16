@@ -1,14 +1,30 @@
-{
-  "id": "unit_1__introducing_economics",
-  "title": "Unit 1_ INTRODUCING ECONOMICS",
-  "description": "Unit 1_ INTRODUCING ECONOMICS for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_1_INTRODUCING_ECONOMICS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 1_ INTRODUCING ECONOMICS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 1_ INTRODUCING ECONOMICS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

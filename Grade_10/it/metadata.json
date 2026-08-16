@@ -1,13 +1,39 @@
 {
-  "id": "it",
-  "title": "It",
-  "description": "It subject",
+  "id": "it_Grade_10",
+  "grade": "Grade_10",
+  "subject": "it",
+  "description": "Grade_10 It",
   "units": [
-    "Unit 1_ ORGANIZATION OF FILES",
-    "Unit 2_ COMPUTER NETWORK",
-    "Unit 3_ APPLICATION SOFTWARE",
-    "Unit 4_ IMAGE PROCESSING AND MULTIMEDIA",
-    "Unit 5_ INFORMATION AND COMPUTER SECURITY",
-    "Unit 6_ FUNDAMENTALS OF PROGRAMMING"
-  ]
+    {
+      "id": "Unit_1__ORGANIZATION_OF_FILES",
+      "title": "Unit 1_ ORGANIZATION OF FILES",
+      "file": "Unit_1__ORGANIZATION_OF_FILES.json"
+    },
+    {
+      "id": "Unit_2__COMPUTER_NETWORK",
+      "title": "Unit 2_ COMPUTER NETWORK",
+      "file": "Unit_2__COMPUTER_NETWORK.json"
+    },
+    {
+      "id": "Unit_3__APPLICATION_SOFTWARE",
+      "title": "Unit 3_ APPLICATION SOFTWARE",
+      "file": "Unit_3__APPLICATION_SOFTWARE.json"
+    },
+    {
+      "id": "Unit_4__IMAGE_PROCESSING_AND_MULTIMEDIA",
+      "title": "Unit 4_ IMAGE PROCESSING AND MULTIMEDIA",
+      "file": "Unit_4__IMAGE_PROCESSING_AND_MULTIMEDIA.json"
+    },
+    {
+      "id": "Unit_5__INFORMATION_AND_COMPUTER_SECURITY",
+      "title": "Unit 5_ INFORMATION AND COMPUTER SECURITY",
+      "file": "Unit_5__INFORMATION_AND_COMPUTER_SECURITY.json"
+    },
+    {
+      "id": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING",
+      "title": "Unit 6_ FUNDAMENTALS OF PROGRAMMING",
+      "file": "Unit_6__FUNDAMENTALS_OF_PROGRAMMING.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/it/textbook.pdf"
 }

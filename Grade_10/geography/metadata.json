@@ -1,15 +1,49 @@
 {
-  "id": "geography",
-  "title": "Geography",
-  "description": "Geography subject",
+  "id": "geography_Grade_10",
+  "grade": "Grade_10",
+  "subject": "geography",
+  "description": "Grade_10 Geography",
   "units": [
-    "Unit 1_ LANDFORMS OF AFRICA",
-    "Unit 2_ CLIMATE OF AFRICA",
-    "Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
-    "Unit 4_ POPULATION OF AFRICA",
-    "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
-    "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
-    "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN AFRICA",
-    "Unit 8_ GEOSPATIAL INFORMATION AND DATA PROCESSING"
-  ]
+    {
+      "id": "Unit_1__LANDFORMS_OF_AFRICA",
+      "title": "Unit 1_ LANDFORMS OF AFRICA",
+      "file": "Unit_1__LANDFORMS_OF_AFRICA.json"
+    },
+    {
+      "id": "Unit_2__CLIMATE_OF_AFRICA",
+      "title": "Unit 2_ CLIMATE OF AFRICA",
+      "file": "Unit_2__CLIMATE_OF_AFRICA.json"
+    },
+    {
+      "id": "Unit_3__NATURAL_RESOURCE_BASE_OF_AFRICA",
+      "title": "Unit 3_ NATURAL RESOURCE BASE OF AFRICA",
+      "file": "Unit_3__NATURAL_RESOURCE_BASE_OF_AFRICA.json"
+    },
+    {
+      "id": "Unit_4__POPULATION_OF_AFRICA",
+      "title": "Unit 4_ POPULATION OF AFRICA",
+      "file": "Unit_4__POPULATION_OF_AFRICA.json"
+    },
+    {
+      "id": "Unit_5__MAJOR_ECONOMIC_AND_CULTURAL_ACTIVITIES_OF_AFRICA",
+      "title": "Unit 5_ MAJOR ECONOMIC AND CULTURAL ACTIVITIES OF AFRICA",
+      "file": "Unit_5__MAJOR_ECONOMIC_AND_CULTURAL_ACTIVITIES_OF_AFRICA.json"
+    },
+    {
+      "id": "Unit_6__HUMAN_NATURAL_ENVIRONMENT_INTERACTIONS",
+      "title": "Unit 6_ HUMAN NATURAL ENVIRONMENT INTERACTIONS",
+      "file": "Unit_6__HUMAN_NATURAL_ENVIRONMENT_INTERACTIONS.json"
+    },
+    {
+      "id": "Unit_7__GEOGRAPHIC_ISSUES_AND_PUBLIC_CONCERNS_IN_AFRICA",
+      "title": "Unit 7_ GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN AFRICA",
+      "file": "Unit_7__GEOGRAPHIC_ISSUES_AND_PUBLIC_CONCERNS_IN_AFRICA.json"
+    },
+    {
+      "id": "Unit_8__GEOSPATIAL_INFORMATION_AND_DATA_PROCESSING",
+      "title": "Unit 8_ GEOSPATIAL INFORMATION AND DATA PROCESSING",
+      "file": "Unit_8__GEOSPATIAL_INFORMATION_AND_DATA_PROCESSING.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/geography/textbook.pdf"
 }

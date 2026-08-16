@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__the_basic_economic_problems_and_economic_systems",
-  "title": "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
-  "description": "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_THE_BASIC_ECONOMIC_PROBLEMS_AND_ECONOMIC_SYSTEMS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

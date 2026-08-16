@@ -1,14 +1,30 @@
-{
-  "id": "unit_4__static_and_current_electricity",
-  "title": "Unit 4_ STATIC AND CURRENT ELECTRICITY",
-  "description": "Unit 4_ STATIC AND CURRENT ELECTRICITY for physics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_4_STATIC_AND_CURRENT_ELECTRICITY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 4_ STATIC AND CURRENT ELECTRICITY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 4_ STATIC AND CURRENT ELECTRICITY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

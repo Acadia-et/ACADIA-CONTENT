@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__animal_feeds_and_feeding_practices",
-  "title": "Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES",
-  "description": "Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_ANIMAL_FEEDS_AND_FEEDING_PRACTICES",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ ANIMAL FEEDS AND FEEDING PRACTICES",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

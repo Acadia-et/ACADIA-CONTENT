@@ -1,16 +1,54 @@
 {
-  "id": "history",
-  "title": "History",
-  "description": "History subject",
+  "id": "history_Grade_9",
+  "grade": "Grade_9",
+  "subject": "history",
+  "description": "Grade_9 History",
   "units": [
-    "Unit 1_ THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION",
-    "Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD",
-    "Unit 3_ PEOPLES AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13th C",
-    "Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 TO 1750s",
-    "Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500",
-    "Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s",
-    "Unit 7_ STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C",
-    "Unit 8_ POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16th TO MID-19th C",
-    "Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815"
-  ]
+    {
+      "id": "Unit_1__THE_DISCIPLINE_OF_HISTORY_AND_HUMAN_EVOLUTION",
+      "title": "Unit 1_ THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION",
+      "file": "Unit_1__THE_DISCIPLINE_OF_HISTORY_AND_HUMAN_EVOLUTION.json"
+    },
+    {
+      "id": "Unit_2__ANCIENT_WORLD_CIVILIZATIONS_UP_TO_c_500_AD",
+      "title": "Unit 2_ ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD",
+      "file": "Unit_2__ANCIENT_WORLD_CIVILIZATIONS_UP_TO_c_500_AD.json"
+    },
+    {
+      "id": "Unit_3__PEOPLES_AND_STATES_IN_ETHIOPIA_AND_THE_HORN_TO_THE_END_OF_13th_C",
+      "title": "Unit 3_ PEOPLES AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13th C",
+      "file": "Unit_3__PEOPLES_AND_STATES_IN_ETHIOPIA_AND_THE_HORN_TO_THE_END_OF_13th_C.json"
+    },
+    {
+      "id": "Unit_4__THE_MIDDLE_AGES_AND_EARLY_MODERN_WORLD_C_500_TO_1750s",
+      "title": "Unit 4_ THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 TO 1750s",
+      "file": "Unit_4__THE_MIDDLE_AGES_AND_EARLY_MODERN_WORLD_C_500_TO_1750s.json"
+    },
+    {
+      "id": "Unit_5__PEOPLES_AND_STATES_OF_AFRICA_TO_1500",
+      "title": "Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500",
+      "file": "Unit_5__PEOPLES_AND_STATES_OF_AFRICA_TO_1500.json"
+    },
+    {
+      "id": "Unit_6__AFRICA_AND_THE_OUTSIDE_WORLD_1500_1880s",
+      "title": "Unit 6_ AFRICA AND THE OUTSIDE WORLD 1500-1880s",
+      "file": "Unit_6__AFRICA_AND_THE_OUTSIDE_WORLD_1500_1880s.json"
+    },
+    {
+      "id": "Unit_7__STATES_PRINCIPALITIES_POPULATION_MOVEMENTS_INTERACTIONS_IN_ETHIOPIA_13th_TO_MID_16th_C",
+      "title": "Unit 7_ STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C",
+      "file": "Unit_7__STATES_PRINCIPALITIES_POPULATION_MOVEMENTS_INTERACTIONS_IN_ETHIOPIA_13th_TO_MID_16th_C.json"
+    },
+    {
+      "id": "Unit_8__POLITICAL_SOCIAL_AND_ECONOMIC_PROCESSES_IN_ETHIOPIA_MID_16th_TO_MID_19th_C",
+      "title": "Unit 8_ POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16th TO MID-19th C",
+      "file": "Unit_8__POLITICAL_SOCIAL_AND_ECONOMIC_PROCESSES_IN_ETHIOPIA_MID_16th_TO_MID_19th_C.json"
+    },
+    {
+      "id": "Unit_9__THE_AGE_OF_REVOLUTIONS_1750s_TO_1815",
+      "title": "Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815",
+      "file": "Unit_9__THE_AGE_OF_REVOLUTIONS_1750s_TO_1815.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/history/textbook.pdf"
 }

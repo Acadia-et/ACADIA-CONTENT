@@ -1,14 +1,30 @@
-{
-  "id": "unit_7__africa_since_1960",
-  "title": "Unit 7_ AFRICA SINCE 1960",
-  "description": "Unit 7_ AFRICA SINCE 1960 for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_7_AFRICA_SINCE_1960",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 7_ AFRICA SINCE 1960",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 7_ AFRICA SINCE 1960",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

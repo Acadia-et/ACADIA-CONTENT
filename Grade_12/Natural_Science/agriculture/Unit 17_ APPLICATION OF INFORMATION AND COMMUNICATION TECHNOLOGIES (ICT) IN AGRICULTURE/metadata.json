@@ -1,14 +1,30 @@
-{
-  "id": "unit_17__application_of_information_and_communication_technologies_(ict)_in_agriculture",
-  "title": "Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE",
-  "description": "Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE for agriculture",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_17_APPLICATION_OF_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES_(ICT)_IN_AGRICULTURE",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 17_ APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) IN AGRICULTURE",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

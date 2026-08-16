@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__travel_behaviors",
-  "title": "Unit 2_ TRAVEL BEHAVIORS",
-  "description": "Unit 2_ TRAVEL BEHAVIORS for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_TRAVEL_BEHAVIORS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ TRAVEL BEHAVIORS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ TRAVEL BEHAVIORS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

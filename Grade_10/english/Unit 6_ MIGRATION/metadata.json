@@ -1,14 +1,30 @@
-{
-  "id": "unit_6__migration",
-  "title": "Unit 6_ MIGRATION",
-  "description": "Unit 6_ MIGRATION for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_6_MIGRATION",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 6_ MIGRATION",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 6_ MIGRATION",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

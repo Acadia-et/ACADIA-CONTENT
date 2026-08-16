@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__human_health,_nutrition,_and_disease",
-  "title": "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
-  "description": "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_HUMAN_HEALTH,_NUTRITION,_AND_DISEASE",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

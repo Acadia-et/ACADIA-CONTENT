@@ -1,14 +1,30 @@
-{
-  "id": "unit_9__the_age_of_revolutions_1750s_to_1815",
-  "title": "Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815",
-  "description": "Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815 for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_9_THE_AGE_OF_REVOLUTIONS_1750s_TO_1815",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 9_ THE AGE OF REVOLUTIONS 1750s TO 1815",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

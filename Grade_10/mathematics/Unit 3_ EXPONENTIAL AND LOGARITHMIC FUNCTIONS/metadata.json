@@ -1,14 +1,30 @@
-{
-  "id": "unit_3__exponential_and_logarithmic_functions",
-  "title": "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
-  "description": "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS for mathematics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_3_EXPONENTIAL_AND_LOGARITHMIC_FUNCTIONS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

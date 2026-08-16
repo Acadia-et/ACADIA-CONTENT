@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__microorganisms",
-  "title": "Unit 2_ MICROORGANISMS",
-  "description": "Unit 2_ MICROORGANISMS for biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_MICROORGANISMS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ MICROORGANISMS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ MICROORGANISMS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

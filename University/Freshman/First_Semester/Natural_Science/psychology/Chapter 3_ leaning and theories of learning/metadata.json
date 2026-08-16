@@ -1,14 +1,30 @@
-{
-  "id": "chapter_3__leaning_and_theories_of_learning",
-  "title": "Chapter 3_ leaning and theories of learning",
-  "description": "Chapter 3_ leaning and theories of learning for psychology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_3_leaning_and_theories_of_learning",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 3_ leaning and theories of learning",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 3_ leaning and theories of learning",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

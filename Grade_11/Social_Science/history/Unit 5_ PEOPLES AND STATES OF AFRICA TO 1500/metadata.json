@@ -1,14 +1,30 @@
-{
-  "id": "unit_5__peoples_and_states_of_africa_to_1500",
-  "title": "Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500",
-  "description": "Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500 for history",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_5_PEOPLES_AND_STATES_OF_AFRICA_TO_1500",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 5_ PEOPLES AND STATES OF AFRICA TO 1500",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

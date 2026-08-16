@@ -1,14 +1,30 @@
-{
-  "id": "unit_8__the_healing_power_of_plants",
-  "title": "Unit 8_ THE HEALING POWER OF PLANTS",
-  "description": "Unit 8_ THE HEALING POWER OF PLANTS for english",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_8_THE_HEALING_POWER_OF_PLANTS",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 8_ THE HEALING POWER OF PLANTS",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 8_ THE HEALING POWER OF PLANTS",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

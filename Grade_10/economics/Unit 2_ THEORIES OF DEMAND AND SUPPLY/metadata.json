@@ -1,14 +1,30 @@
-{
-  "id": "unit_2__theories_of_demand_and_supply",
-  "title": "Unit 2_ THEORIES OF DEMAND AND SUPPLY",
-  "description": "Unit 2_ THEORIES OF DEMAND AND SUPPLY for economics",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Unit_2_THEORIES_OF_DEMAND_AND_SUPPLY",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Unit 2_ THEORIES OF DEMAND AND SUPPLY",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Unit 2_ THEORIES OF DEMAND AND SUPPLY",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

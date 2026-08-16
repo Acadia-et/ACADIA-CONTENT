@@ -1,14 +1,30 @@
-{
-  "id": "chapter_5__genetics_and_evolution",
-  "title": "Chapter 5_ genetics and evolution",
-  "description": "Chapter 5_ genetics and evolution for Biology",
-  "content_types": [
-    "exam",
-    "flashcard",
-    "past_paper",
-    "quiz",
-    "short_note",
-    "video"
-  ],
-  "units": []
+﻿{
+    "id":  "Chapter_5_genetics_and_evolution",
+    "quizzes":  [
+
+                ],
+    "flashcards":  [
+
+                   ],
+    "title":  "Chapter 5_ genetics and evolution",
+    "pdfs":  [
+
+             ],
+    "description":  "Description for Chapter 5_ genetics and evolution",
+    "version":  1,
+    "difficulty":  "Medium",
+    "estimatedTime":  "45 minutes",
+    "videos":  [
+
+               ],
+    "objectives":  [
+                       "Objective 1 for this unit",
+                       "Objective 2 for this unit"
+                   ],
+    "practiceExams":  [
+
+                      ],
+    "pastPapers":  [
+
+                   ]
 }

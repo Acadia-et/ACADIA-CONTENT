@@ -1,14 +1,44 @@
 {
-  "id": "physics",
-  "title": "Physics",
-  "description": "Physics subject",
+  "id": "physics_Grade_11/Natural_Science",
+  "grade": "Grade_11/Natural_Science",
+  "subject": "physics",
+  "description": "Grade_11/Natural_Science Physics",
   "units": [
-    "Unit 1_ PHYSICS AND HUMAN SOCIETY",
-    "Unit 2_ VECTORS",
-    "Unit 3_ MOTION IN ONE AND TWO DIMENSIONS",
-    "Unit 4_ DYNAMICS",
-    "Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
-    "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
-    "Unit 7_ NUCLEAR PHYSICS"
-  ]
+    {
+      "id": "Unit_1__PHYSICS_AND_HUMAN_SOCIETY",
+      "title": "Unit 1_ PHYSICS AND HUMAN SOCIETY",
+      "file": "Unit_1__PHYSICS_AND_HUMAN_SOCIETY.json"
+    },
+    {
+      "id": "Unit_2__VECTORS",
+      "title": "Unit 2_ VECTORS",
+      "file": "Unit_2__VECTORS.json"
+    },
+    {
+      "id": "Unit_3__MOTION_IN_ONE_AND_TWO_DIMENSIONS",
+      "title": "Unit 3_ MOTION IN ONE AND TWO DIMENSIONS",
+      "file": "Unit_3__MOTION_IN_ONE_AND_TWO_DIMENSIONS.json"
+    },
+    {
+      "id": "Unit_4__DYNAMICS",
+      "title": "Unit 4_ DYNAMICS",
+      "file": "Unit_4__DYNAMICS.json"
+    },
+    {
+      "id": "Unit_5__HEAT_CONDUCTION_AND_CALORIMETRY",
+      "title": "Unit 5_ HEAT CONDUCTION AND CALORIMETRY",
+      "file": "Unit_5__HEAT_CONDUCTION_AND_CALORIMETRY.json"
+    },
+    {
+      "id": "Unit_6__ELECTROSTATICS_AND_ELECTRIC_CIRCUIT",
+      "title": "Unit 6_ ELECTROSTATICS AND ELECTRIC CIRCUIT",
+      "file": "Unit_6__ELECTROSTATICS_AND_ELECTRIC_CIRCUIT.json"
+    },
+    {
+      "id": "Unit_7__NUCLEAR_PHYSICS",
+      "title": "Unit 7_ NUCLEAR PHYSICS",
+      "file": "Unit_7__NUCLEAR_PHYSICS.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/Natural_Science/physics/textbook.pdf"
 }

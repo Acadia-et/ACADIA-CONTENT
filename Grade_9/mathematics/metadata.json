@@ -1,14 +1,54 @@
 {
-  "id": "mathematics",
-  "title": "Mathematics",
-  "description": "Mathematics subject",
+  "id": "mathematics_Grade_9",
+  "grade": "Grade_9",
+  "subject": "mathematics",
+  "description": "Grade_9 Mathematics",
   "units": [
-    "Unit 1_ RELATIONS AND FUNCTIONS",
-    "Unit 2_ POLYNOMIAL FUNCTIONS",
-    "Unit 3_ EXPONENTIAL AND LOGARITHMIC FUNCTIONS",
-    "Unit 4_ TRIGONOMETRIC FUNCTIONS",
-    "Unit 5_ CIRCLES",
-    "Unit 6_ SOLID FIGURES",
-    "Unit 7_ COORDINATE GEOMETRY"
-  ]
+    {
+      "id": "Unit_1__FURTHER_ON_SETS",
+      "title": "Unit 1_ FURTHER ON SETS",
+      "file": "Unit_1__FURTHER_ON_SETS.json"
+    },
+    {
+      "id": "Unit_2__THE_NUMBER_SYSTEM",
+      "title": "Unit 2_ THE NUMBER SYSTEM",
+      "file": "Unit_2__THE_NUMBER_SYSTEM.json"
+    },
+    {
+      "id": "Unit_3__SOLVING_EQUATIONS",
+      "title": "Unit 3_ SOLVING EQUATIONS",
+      "file": "Unit_3__SOLVING_EQUATIONS.json"
+    },
+    {
+      "id": "Unit_4__SOLVING_INEQUALITIES",
+      "title": "Unit 4_ SOLVING INEQUALITIES",
+      "file": "Unit_4__SOLVING_INEQUALITIES.json"
+    },
+    {
+      "id": "Unit_5__INTRODUCTION_TO_TRIGONOMETRY",
+      "title": "Unit 5_ INTRODUCTION TO TRIGONOMETRY",
+      "file": "Unit_5__INTRODUCTION_TO_TRIGONOMETRY.json"
+    },
+    {
+      "id": "Unit_6__REGULAR_POLYGONS",
+      "title": "Unit 6_ REGULAR POLYGONS",
+      "file": "Unit_6__REGULAR_POLYGONS.json"
+    },
+    {
+      "id": "Unit_7__CONGRUENCY_AND_SIMILARITY",
+      "title": "Unit 7_ CONGRUENCY AND SIMILARITY",
+      "file": "Unit_7__CONGRUENCY_AND_SIMILARITY.json"
+    },
+    {
+      "id": "Unit_8__VECTORS_IN_TWO_DIMENSIONS",
+      "title": "Unit 8_ VECTORS IN TWO DIMENSIONS",
+      "file": "Unit_8__VECTORS_IN_TWO_DIMENSIONS.json"
+    },
+    {
+      "id": "Unit_9__STATISTICS_AND_PROBABILITY",
+      "title": "Unit 9_ STATISTICS AND PROBABILITY",
+      "file": "Unit_9__STATISTICS_AND_PROBABILITY.json"
+    }
+  ],
+  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/mathematics/textbook.pdf"
 }
