@@ -6,40 +6,45 @@
   "units": [
     {
       "id": "Unit_1__INTRODUCTION_TO_BIOLOGY",
-      "title": "Unit 1_ INTRODUCTION TO BIOLOGY",
+      "title": "Unit 1: INTRODUCTION TO BIOLOGY",
       "file": "Unit_1__INTRODUCTION_TO_BIOLOGY.json",
+      "folder": "Unit 1_ INTRODUCTION TO BIOLOGY",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     },
     {
       "id": "Unit_2__CHARACTERISTICS_AND_CLASSIFICATION_OF_ORGANISMS",
-      "title": "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
+      "title": "Unit 2: CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
       "file": "Unit_2__CHARACTERISTICS_AND_CLASSIFICATION_OF_ORGANISMS.json",
+      "folder": "Unit 2_ CHARACTERISTICS AND CLASSIFICATION OF ORGANISMS",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     },
     {
       "id": "Unit_3__CELLS",
-      "title": "Unit 3_ CELLS",
+      "title": "Unit 3: CELLS",
       "file": "Unit_3__CELLS.json",
+      "folder": "Unit 3_ CELLS",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     },
     {
       "id": "Unit_4__REPRODUCTION",
-      "title": "Unit 4_ REPRODUCTION",
+      "title": "Unit 4: REPRODUCTION",
       "file": "Unit_4__REPRODUCTION.json",
+      "folder": "Unit 4_ REPRODUCTION",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     },
     {
       "id": "Unit_5__HUMAN_HEALTH_NUTRITION_AND_DISEASE",
-      "title": "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
+      "title": "Unit 5: HUMAN HEALTH, NUTRITION, AND DISEASE",
       "file": "Unit_5__HUMAN_HEALTH_NUTRITION_AND_DISEASE.json",
+      "folder": "Unit 5_ HUMAN HEALTH, NUTRITION, AND DISEASE",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     },
     {
       "id": "Unit_6__ECOLOGY",
-      "title": "Unit 6_ ECOLOGY",
+      "title": "Unit 6: ECOLOGY",
       "file": "Unit_6__ECOLOGY.json",
+      "folder": "Unit 6_ ECOLOGY",
       "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]
     }
-  ],
-  "textbook_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/biology/textbook.pdf"
+  ]
 }
