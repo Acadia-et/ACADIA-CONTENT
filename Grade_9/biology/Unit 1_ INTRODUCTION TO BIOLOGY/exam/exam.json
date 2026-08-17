@@ -1,88 +1,73 @@
 {
-  "id": "grade9_biology_unit1_exam",
-  "content_type": "exam",
-  "title": "Introduction to Biology Unit Test",
-  "subject": "biology",
-  "grade": "Grade_9",
-  "chapter": "Unit 1_ INTRODUCTION TO BIOLOGY",
-  "description": "Sample summative exam for Introduction to Biology.",
-  "time_limit_minutes": 20,
-  "total_questions": 6,
-  "passing_score": 60,
-  "instructions": "Choose the best answer for each question.",
-  "questions": [
+  "items": [
     {
-      "id": "g9_bio_u1_e1",
-      "question": "Which branch of biology studies animals?",
-      "options": {
-        "A": "Botany",
-        "B": "Zoology",
-        "C": "Ecology",
-        "D": "Anatomy"
-      },
-      "correct_answer": "B",
-      "explanation": "Zoology is the branch of biology concerned with animals."
-    },
-    {
-      "id": "g9_bio_u1_e2",
-      "question": "Which sequence best represents a simple scientific method?",
-      "options": {
-        "A": "Conclusion, question, experiment, observation",
-        "B": "Question, hypothesis, experiment, conclusion",
-        "C": "Experiment, conclusion, question, hypothesis",
-        "D": "Hypothesis, conclusion, question, observation"
-      },
-      "correct_answer": "B",
-      "explanation": "Scientific investigation usually begins with a question, followed by a hypothesis, testing, and conclusion."
-    },
-    {
-      "id": "g9_bio_u1_e3",
-      "question": "Which activity is an example of applying biology in agriculture?",
-      "options": {
-        "A": "Selecting disease-resistant crop varieties",
-        "B": "Measuring road length",
-        "C": "Designing a bridge",
-        "D": "Calculating bank interest"
-      },
-      "correct_answer": "A",
-      "explanation": "Biological knowledge helps improve crops, livestock, soil health, and pest control."
-    },
-    {
-      "id": "g9_bio_u1_e4",
-      "question": "What should students do first when an accident occurs in the laboratory?",
-      "options": {
-        "A": "Hide the accident",
-        "B": "Continue working",
-        "C": "Report it to the teacher immediately",
-        "D": "Run out without warning others"
-      },
-      "correct_answer": "C",
-      "explanation": "Laboratory accidents must be reported immediately so the correct safety response can be taken."
-    },
-    {
-      "id": "g9_bio_u1_e5",
-      "question": "Which item protects the eyes during laboratory work?",
-      "options": {
-        "A": "Safety goggles",
-        "B": "Notebook",
-        "C": "Calculator",
-        "D": "Ruler"
-      },
-      "correct_answer": "A",
-      "explanation": "Safety goggles protect the eyes from splashes, fumes, and flying particles."
-    },
-    {
-      "id": "g9_bio_u1_e6",
-      "question": "Which statement about living things is correct?",
-      "options": {
-        "A": "All living things are made of cells",
-        "B": "Living things never need energy",
-        "C": "Living things do not respond to changes",
-        "D": "All living things are non-cellular"
-      },
-      "correct_answer": "A",
-      "explanation": "Cells are the basic structural and functional units of living organisms."
+      "content_type": "exam",
+      "title": "Introduction to Biology Unit Test",
+      "total_questions": 10,
+      "time_limit_minutes": 30,
+      "passing_score": 60,
+      "questions": [
+        {
+          "id": "g9_bio_u1_exam_1",
+          "question": "What is biology?",
+          "options": {
+            "A": "The study of living things",
+            "B": "The study of rocks",
+            "C": "The study of weather",
+            "D": "The study of stars"
+          },
+          "correct_answer": "A",
+          "explanation": "Biology is the science that studies living organisms and life processes."
+        },
+        {
+          "id": "g9_bio_u1_exam_2",
+          "question": "Which of the following is NOT a characteristic of living things?",
+          "options": {
+            "A": "Growth",
+            "B": "Reproduction",
+            "C": "Response to stimuli",
+            "D": "Non-cellular organization"
+          },
+          "correct_answer": "D",
+          "explanation": "Living things are made of cells. Non-cellular organization is not a characteristic of life."
+        },
+        {
+          "id": "g9_bio_u1_exam_3",
+          "question": "What is the scientific study of plants called?",
+          "options": {
+            "A": "Zoology",
+            "B": "Botany",
+            "C": "Ecology",
+            "D": "Genetics"
+          },
+          "correct_answer": "B",
+          "explanation": "Botany is the branch of biology that studies plants."
+        },
+        {
+          "id": "g9_bio_u1_exam_4",
+          "question": "What is a hypothesis?",
+          "options": {
+            "A": "A proven fact",
+            "B": "A testable explanation",
+            "C": "A final conclusion",
+            "D": "An observation"
+          },
+          "correct_answer": "B",
+          "explanation": "A hypothesis is a testable explanation for a scientific question."
+        },
+        {
+          "id": "g9_bio_u1_exam_5",
+          "question": "Which tool is used to observe very small organisms?",
+          "options": {
+            "A": "Telescope",
+            "B": "Microscope",
+            "C": "Thermometer",
+            "D": "Barometer"
+          },
+          "correct_answer": "B",
+          "explanation": "A microscope is used to magnify and observe small organisms."
+        }
+      ]
     }
   ]
 }
-
