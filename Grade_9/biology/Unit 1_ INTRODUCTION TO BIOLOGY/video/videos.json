@@ -15,6 +15,15 @@
       "file_format": "youtube",
       "duration_seconds": 480,
       "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Biology Lab Safety Demo",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/biology/Unit%201_%20INTRODUCTION%20TO%20BIOLOGY/video/test.mp4",
+      "file_format": "mp4",
+      "file_size_mb": 45.2,
+      "duration_seconds": 180,
+      "free_content": false
     }
   ]
 }
