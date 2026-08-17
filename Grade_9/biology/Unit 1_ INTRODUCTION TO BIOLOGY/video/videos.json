@@ -1,29 +1,20 @@
 {
   "items": [
     {
-      "id": "g9_bio_u1_video_1",
       "content_type": "video",
-      "title": "What Is Biology?",
-      "description": "A public YouTube sample video for testing video metadata parsing.",
-      "youtube_id": "dQw4w9WgXcQ",
-      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "duration_seconds": 213,
-      "thumbnail_url": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "title": "Grade 9 Biology Unit 1: 1.2 Why do we study Biology?",
+      "download_url": "https://youtu.be/1bX6UEK1aJU",
       "file_format": "youtube",
+      "duration_seconds": 600,
       "free_content": false
     },
     {
-      "id": "g9_bio_u1_video_2",
       "content_type": "video",
-      "title": "Biology Lab Safety Demo",
-      "description": "Second public YouTube sample video for validating multiple videos in one JSON file.",
-      "youtube_id": "aqz-KE-bpKQ",
-      "youtube_url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-      "duration_seconds": 596,
-      "thumbnail_url": "https://img.youtube.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
+      "title": "Grade 9 Biology Unit 1: Introduction to Biology",
+      "download_url": "https://youtu.be/ItVF0B4hO4U",
       "file_format": "youtube",
+      "duration_seconds": 480,
       "free_content": false
     }
   ]
 }
-
