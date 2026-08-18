@@ -66,6 +66,66 @@
           },
           "correct_answer": "B",
           "explanation": "A microscope is used to magnify and observe small organisms."
+        },
+        {
+          "id": "g9_bio_u1_exam_6",
+          "question": "What is the basic unit of life?",
+          "options": {
+            "A": "Atom",
+            "B": "Molecule",
+            "C": "Cell",
+            "D": "Tissue"
+          },
+          "correct_answer": "C",
+          "explanation": "The cell is the basic structural and functional unit of all living organisms."
+        },
+        {
+          "id": "g9_bio_u1_exam_7",
+          "question": "Who is known as the father of modern taxonomy?",
+          "options": {
+            "A": "Darwin",
+            "B": "Linnaeus",
+            "C": "Mendel",
+            "D": "Watson"
+          },
+          "correct_answer": "B",
+          "explanation": "Carl Linnaeus developed the system of binomial nomenclature and modern taxonomy."
+        },
+        {
+          "id": "g9_bio_u1_exam_8",
+          "question": "What is homeostasis?",
+          "options": {
+            "A": "Maintaining stable internal conditions",
+            "B": "The study of cells",
+            "C": "Energy production",
+            "D": "Reproduction"
+          },
+          "correct_answer": "A",
+          "explanation": "Homeostasis is the ability of an organism to maintain a stable internal environment."
+        },
+        {
+          "id": "g9_bio_u1_exam_9",
+          "question": "Which of the following is NOT a branch of biology?",
+          "options": {
+            "A": "Botany",
+            "B": "Zoology",
+            "C": "Geology",
+            "D": "Ecology"
+          },
+          "correct_answer": "C",
+          "explanation": "Geology is the study of the Earth's physical structure, not a branch of biology."
+        },
+        {
+          "id": "g9_bio_u1_exam_10",
+          "question": "What is the scientific method used for?",
+          "options": {
+            "A": "To prove theories",
+            "B": "To investigate natural phenomena",
+            "C": "To memorize facts",
+            "D": "To ignore evidence"
+          },
+          "correct_answer": "B",
+          "explanation": "The scientific method is used to investigate natural phenomena through observation, hypothesis, and experimentation."
         }
       ]
     }
