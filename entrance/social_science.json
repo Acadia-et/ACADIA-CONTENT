@@ -1,34 +1,72 @@
-﻿{
-    "pastPapers":  {
-                       "path":  "Social_Science/past_papers",
-                       "years":  [
-                                     2010,
-                                     2011,
-                                     2012,
-                                     2013,
-                                     2014,
-                                     2015,
-                                     2016,
-                                     2017,
-                                     2018
-                                 ],
-                       "subjects":  [
-                                        "Aptitude",
-                                        "Economics",
-                                        "English",
-                                        "Geography",
-                                        "History",
-                                        "Mathematics"
-                                    ]
-                   },
-    "path":  "Social_Science",
-    "name":  "Social Science",
-    "subjects":  [
-                     "Aptitude",
-                     "Economics",
-                     "Geography",
-                     "History",
-                     "English",
-                     "Mathematics"
-                 ]
+{
+  "name": "Social Science",
+  "path": "Social_Science",
+  "pastPapers": {
+    "path": "Social_Science/past_papers",
+    "years": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018],
+    "subjects": ["Aptitude", "Economics", "Geography", "History", "Mathematics", "English"]
+  },
+  "subjects": ["Aptitude", "Economics", "Geography", "History", "Mathematics", "English"],
+  "items": [
+    {
+      "id": "entrance_social_aptitude_2010",
+      "subject": "Aptitude",
+      "title": "Aptitude - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/Aptitude.json"
+    },
+    {
+      "id": "entrance_social_economics_2010",
+      "subject": "Economics",
+      "title": "Economics - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/Economics.json"
+    },
+    {
+      "id": "entrance_social_geography_2010",
+      "subject": "Geography",
+      "title": "Geography - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/Geography.json"
+    },
+    {
+      "id": "entrance_social_history_2010",
+      "subject": "History",
+      "title": "History - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/History.json"
+    },
+    {
+      "id": "entrance_social_mathematics_2010",
+      "subject": "Mathematics",
+      "title": "Mathematics - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/Mathematics.json"
+    },
+    {
+      "id": "entrance_social_english_2010",
+      "subject": "English",
+      "title": "English - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Social_Science/2010/English.json"
+    }
+  ]
 }
