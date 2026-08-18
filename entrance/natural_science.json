@@ -1,34 +1,72 @@
-﻿{
-    "pastPapers":  {
-                       "path":  "Natural_Science/past_papers",
-                       "years":  [
-                                     2010,
-                                     2011,
-                                     2012,
-                                     2013,
-                                     2014,
-                                     2015,
-                                     2016,
-                                     2017,
-                                     2018
-                                 ],
-                       "subjects":  [
-                                        "Aptitude",
-                                        "Biology",
-                                        "Chemistry",
-                                        "English",
-                                        "Mathematics",
-                                        "Physics"
-                                    ]
-                   },
-    "path":  "Natural_Science",
-    "name":  "Natural Science",
-    "subjects":  [
-                     "Aptitude",
-                     "Biology",
-                     "Chemistry",
-                     "Physics",
-                     "Mathematics",
-                     "English"
-                 ]
+{
+  "name": "Natural Science",
+  "path": "Natural_Science",
+  "pastPapers": {
+    "path": "Natural_Science/past_papers",
+    "years": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018],
+    "subjects": ["Aptitude", "Biology", "Chemistry", "English", "Mathematics", "Physics"]
+  },
+  "subjects": ["Aptitude", "Biology", "Chemistry", "Physics", "Mathematics", "English"],
+  "items": [
+    {
+      "id": "entrance_natural_aptitude_2010",
+      "subject": "Aptitude",
+      "title": "Aptitude - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/Aptitude.json"
+    },
+    {
+      "id": "entrance_natural_biology_2010",
+      "subject": "Biology",
+      "title": "Biology - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/Biology.json"
+    },
+    {
+      "id": "entrance_natural_chemistry_2010",
+      "subject": "Chemistry",
+      "title": "Chemistry - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/Chemistry.json"
+    },
+    {
+      "id": "entrance_natural_physics_2010",
+      "subject": "Physics",
+      "title": "Physics - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/Physics.json"
+    },
+    {
+      "id": "entrance_natural_mathematics_2010",
+      "subject": "Mathematics",
+      "title": "Mathematics - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/Mathematics.json"
+    },
+    {
+      "id": "entrance_natural_english_2010",
+      "subject": "English",
+      "title": "English - 2010",
+      "year": 2010,
+      "content_type": "past_paper",
+      "total_questions": 40,
+      "time_limit_minutes": 60,
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/entrance/past_papers/Natural_Science/2010/English.json"
+    }
+  ]
 }
