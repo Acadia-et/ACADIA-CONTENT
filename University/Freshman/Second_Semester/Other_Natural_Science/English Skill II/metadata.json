@@ -1,0 +1,11 @@
+﻿{
+  "id": "English Skill II_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "English Skill II",
+  "stream": "Other_Natural_Science",
+  "description": "Freshman English Skill II - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__Life_Skills_Unit_2__Speculations_about_the_future_of_Science_Unit_3__Environmental_Protection_Unit_4__Indigenous_Knowledge_Unit_5__Cultural_Heritage", "title": "1 : Life Skills Unit 2_ Speculations about the future of Science Unit 3_ Environmental Protection Unit 4_ Indigenous Knowledge Unit 5_ Cultural Heritage", "file": "Chapter_1__Life_Skills_Unit_2__Speculations_about_the_future_of_Science_Unit_3__Environmental_Protection_Unit_4__Indigenous_Knowledge_Unit_5__Cultural_Heritage.json", "folder": "Unit 1_ Life Skills Unit 2_ Speculations about the future of Science Unit 3_ Environmental Protection Unit 4_ Indigenous Knowledge Unit 5_ Cultural Heritage", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

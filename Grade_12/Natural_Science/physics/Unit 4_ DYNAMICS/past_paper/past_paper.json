@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 physics 4 : DYNAMICS Sample Past Paper",
+      "year": 2025,
+      "time_limit_minutes": 15,
+      "total_questions": 2,
+      "questions": [
+        {
+          "id": "physics_Grade_12_u4_pp1",
+          "question": "What is the main topic?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "Explanation."
+        }
+      ]
+    }
+  ]
+}

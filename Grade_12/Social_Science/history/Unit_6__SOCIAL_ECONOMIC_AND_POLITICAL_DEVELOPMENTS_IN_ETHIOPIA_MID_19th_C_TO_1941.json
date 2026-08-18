@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA, MID 19th C TO 1941 Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+SOCIAL%2c+ECONOMIC+AND+POLITICAL+DEVELOPMENTS+IN+ETHIOPIA%2c+MID+19th+C+TO+1941/short_note/unit6_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA, MID 19th C TO 1941 Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+SOCIAL%2c+ECONOMIC+AND+POLITICAL+DEVELOPMENTS+IN+ETHIOPIA%2c+MID+19th+C+TO+1941/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA, MID 19th C TO 1941 Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+SOCIAL%2c+ECONOMIC+AND+POLITICAL+DEVELOPMENTS+IN+ETHIOPIA%2c+MID+19th+C+TO+1941/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA, MID 19th C TO 1941 Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+SOCIAL%2c+ECONOMIC+AND+POLITICAL+DEVELOPMENTS+IN+ETHIOPIA%2c+MID+19th+C+TO+1941/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA, MID 19th C TO 1941 Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+SOCIAL%2c+ECONOMIC+AND+POLITICAL+DEVELOPMENTS+IN+ETHIOPIA%2c+MID+19th+C+TO+1941/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

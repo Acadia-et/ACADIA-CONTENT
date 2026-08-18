@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Basics of C++ (Comments, Case Sensitivity, Statements) Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/C++ Programming/Chapter+2_+Basics+of+C%2b%2b+(Comments%2c+Case+Sensitivity%2c+Statements)/short_note/chapter2_C++ Programming_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "Basics of C++ (Comments, Case Sensitivity, Statements) Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/C++ Programming/Chapter+2_+Basics+of+C%2b%2b+(Comments%2c+Case+Sensitivity%2c+Statements)/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "Basics of C++ (Comments, Case Sensitivity, Statements) Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/C++ Programming/Chapter+2_+Basics+of+C%2b%2b+(Comments%2c+Case+Sensitivity%2c+Statements)/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Basics of C++ (Comments, Case Sensitivity, Statements) Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/C++ Programming/Chapter+2_+Basics+of+C%2b%2b+(Comments%2c+Case+Sensitivity%2c+Statements)/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman C++ Programming Basics of C++ (Comments, Case Sensitivity, Statements) Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/C++ Programming/Chapter+2_+Basics+of+C%2b%2b+(Comments%2c+Case+Sensitivity%2c+Statements)/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

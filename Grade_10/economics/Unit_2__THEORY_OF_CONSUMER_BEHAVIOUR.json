@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "THEORY OF CONSUMER BEHAVIOUR Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOUR/short_note/unit2_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "THEORY OF CONSUMER BEHAVIOUR Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOUR/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "THEORY OF CONSUMER BEHAVIOUR Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOUR/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "THEORY OF CONSUMER BEHAVIOUR Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOUR/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 economics THEORY OF CONSUMER BEHAVIOUR Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOUR/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

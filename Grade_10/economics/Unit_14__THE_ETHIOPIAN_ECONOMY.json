@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "THE ETHIOPIAN ECONOMY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+7_+THE+ETHIOPIAN+ECONOMY/short_note/unit14_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "THE ETHIOPIAN ECONOMY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+7_+THE+ETHIOPIAN+ECONOMY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "THE ETHIOPIAN ECONOMY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+7_+THE+ETHIOPIAN+ECONOMY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "THE ETHIOPIAN ECONOMY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+7_+THE+ETHIOPIAN+ECONOMY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 economics THE ETHIOPIAN ECONOMY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+7_+THE+ETHIOPIAN+ECONOMY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

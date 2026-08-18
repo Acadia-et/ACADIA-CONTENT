@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Other Emerging Technologies Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Emerging Technologies/Chapter+7_+Other+Emerging+Technologies/short_note/chapter7_Emerging Technologies_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "Other Emerging Technologies Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Emerging Technologies/Chapter+7_+Other+Emerging+Technologies/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "Other Emerging Technologies Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Emerging Technologies/Chapter+7_+Other+Emerging+Technologies/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Other Emerging Technologies Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Emerging Technologies/Chapter+7_+Other+Emerging+Technologies/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman Emerging Technologies Other Emerging Technologies Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Emerging Technologies/Chapter+7_+Other+Emerging+Technologies/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

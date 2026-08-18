@@ -1,0 +1,17 @@
+﻿{
+  "items": [
+    {
+      "content_type": "flashcard",
+      "title": "3 : biological molecules Flashcards",
+      "total_cards": 4,
+      "cards": [
+        {
+          "id": "fc_1",
+          "front": "What is the main concept?",
+          "back": "The main concept is the core idea.",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}

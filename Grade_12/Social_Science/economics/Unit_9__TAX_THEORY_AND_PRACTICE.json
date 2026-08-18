@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "TAX THEORY AND PRACTICE Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+5_+TAX+THEORY+AND+PRACTICE/short_note/unit9_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "TAX THEORY AND PRACTICE Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+5_+TAX+THEORY+AND+PRACTICE/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "TAX THEORY AND PRACTICE Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+5_+TAX+THEORY+AND+PRACTICE/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "TAX THEORY AND PRACTICE Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+5_+TAX+THEORY+AND+PRACTICE/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 economics TAX THEORY AND PRACTICE Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+5_+TAX+THEORY+AND+PRACTICE/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

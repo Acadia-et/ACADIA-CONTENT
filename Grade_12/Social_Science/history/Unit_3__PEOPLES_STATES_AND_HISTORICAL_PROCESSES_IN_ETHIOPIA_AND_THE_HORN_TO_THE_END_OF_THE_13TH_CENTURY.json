@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+PEOPLES%2c+STATES+AND+HISTORICAL+PROCESSES+IN+ETHIOPIA+AND+THE+HORN+TO+THE+END+OF+THE+13TH+CENTURY/short_note/unit3_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+PEOPLES%2c+STATES+AND+HISTORICAL+PROCESSES+IN+ETHIOPIA+AND+THE+HORN+TO+THE+END+OF+THE+13TH+CENTURY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+PEOPLES%2c+STATES+AND+HISTORICAL+PROCESSES+IN+ETHIOPIA+AND+THE+HORN+TO+THE+END+OF+THE+13TH+CENTURY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+PEOPLES%2c+STATES+AND+HISTORICAL+PROCESSES+IN+ETHIOPIA+AND+THE+HORN+TO+THE+END+OF+THE+13TH+CENTURY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+3_+PEOPLES%2c+STATES+AND+HISTORICAL+PROCESSES+IN+ETHIOPIA+AND+THE+HORN+TO+THE+END+OF+THE+13TH+CENTURY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

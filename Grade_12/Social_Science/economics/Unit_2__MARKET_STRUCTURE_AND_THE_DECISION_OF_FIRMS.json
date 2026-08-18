@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "MARKET STRUCTURE AND THE DECISION OF FIRMS Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+2_+MARKET+STRUCTURE+AND+THE+DECISION+OF+FIRMS/short_note/unit2_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "MARKET STRUCTURE AND THE DECISION OF FIRMS Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+2_+MARKET+STRUCTURE+AND+THE+DECISION+OF+FIRMS/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "MARKET STRUCTURE AND THE DECISION OF FIRMS Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+2_+MARKET+STRUCTURE+AND+THE+DECISION+OF+FIRMS/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "MARKET STRUCTURE AND THE DECISION OF FIRMS Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+2_+MARKET+STRUCTURE+AND+THE+DECISION+OF+FIRMS/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 economics MARKET STRUCTURE AND THE DECISION OF FIRMS Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+2_+MARKET+STRUCTURE+AND+THE+DECISION+OF+FIRMS/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "NATURAL RESOURCE MANAGEMENT Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/english/Unit+4_+NATURAL+RESOURCE+MANAGEMENT/short_note/unit5_english_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "NATURAL RESOURCE MANAGEMENT Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/english/Unit+4_+NATURAL+RESOURCE+MANAGEMENT/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "NATURAL RESOURCE MANAGEMENT Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/english/Unit+4_+NATURAL+RESOURCE+MANAGEMENT/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "NATURAL RESOURCE MANAGEMENT Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/english/Unit+4_+NATURAL+RESOURCE+MANAGEMENT/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 english NATURAL RESOURCE MANAGEMENT Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/english/Unit+4_+NATURAL+RESOURCE+MANAGEMENT/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

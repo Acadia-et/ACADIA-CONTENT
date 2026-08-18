@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Integration Techniques Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Applied Mathematics/Chapter+7_+Integration+Techniques/short_note/chapter10_Applied Mathematics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "Integration Techniques Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Applied Mathematics/Chapter+7_+Integration+Techniques/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "Integration Techniques Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Applied Mathematics/Chapter+7_+Integration+Techniques/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Integration Techniques Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Applied Mathematics/Chapter+7_+Integration+Techniques/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman Applied Mathematics Integration Techniques Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Applied Mathematics/Chapter+7_+Integration+Techniques/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+3_+ELASTICITY+AND+STATIC+EQUILIBRIUM+OF+RIGID+BODY/short_note/unit5_physics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+3_+ELASTICITY+AND+STATIC+EQUILIBRIUM+OF+RIGID+BODY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+3_+ELASTICITY+AND+STATIC+EQUILIBRIUM+OF+RIGID+BODY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+3_+ELASTICITY+AND+STATIC+EQUILIBRIUM+OF+RIGID+BODY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 physics ELASTICITY AND STATIC EQUILIBRIUM OF RIGID BODY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+3_+ELASTICITY+AND+STATIC+EQUILIBRIUM+OF+RIGID+BODY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

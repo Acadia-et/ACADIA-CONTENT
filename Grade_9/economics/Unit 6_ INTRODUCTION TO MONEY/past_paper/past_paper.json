@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "past_paper",
+      "title": "Grade_9 economics 6 : INTRODUCTION TO MONEY Sample Past Paper",
+      "year": 2025,
+      "time_limit_minutes": 15,
+      "total_questions": 2,
+      "questions": [
+        {
+          "id": "economics_Grade_9_u6_pp1",
+          "question": "What is the main topic?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "Explanation."
+        }
+      ]
+    }
+  ]
+}

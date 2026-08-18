@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "cellular metabolism and metabolic disorder Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Biology/Chapter+4_+cellular+metabolism+and+metabolic+disorder/short_note/chapter5_Biology_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "cellular metabolism and metabolic disorder Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Biology/Chapter+4_+cellular+metabolism+and+metabolic+disorder/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "cellular metabolism and metabolic disorder Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Biology/Chapter+4_+cellular+metabolism+and+metabolic+disorder/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "cellular metabolism and metabolic disorder Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Biology/Chapter+4_+cellular+metabolism+and+metabolic+disorder/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman Biology cellular metabolism and metabolic disorder Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Biology/Chapter+4_+cellular+metabolism+and+metabolic+disorder/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

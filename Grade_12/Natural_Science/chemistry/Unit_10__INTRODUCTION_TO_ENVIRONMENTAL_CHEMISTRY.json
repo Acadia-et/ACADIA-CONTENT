@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "INTRODUCTION TO ENVIRONMENTAL CHEMISTRY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/chemistry/Unit+5_+INTRODUCTION+TO+ENVIRONMENTAL+CHEMISTRY/short_note/unit10_chemistry_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "INTRODUCTION TO ENVIRONMENTAL CHEMISTRY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/chemistry/Unit+5_+INTRODUCTION+TO+ENVIRONMENTAL+CHEMISTRY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "INTRODUCTION TO ENVIRONMENTAL CHEMISTRY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/chemistry/Unit+5_+INTRODUCTION+TO+ENVIRONMENTAL+CHEMISTRY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "INTRODUCTION TO ENVIRONMENTAL CHEMISTRY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/chemistry/Unit+5_+INTRODUCTION+TO+ENVIRONMENTAL+CHEMISTRY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 chemistry INTRODUCTION TO ENVIRONMENTAL CHEMISTRY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/chemistry/Unit+5_+INTRODUCTION+TO+ENVIRONMENTAL+CHEMISTRY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

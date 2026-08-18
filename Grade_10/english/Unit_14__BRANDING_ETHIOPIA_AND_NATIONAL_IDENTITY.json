@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "BRANDING ETHIOPIA AND NATIONAL IDENTITY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/Unit+7_+BRANDING+ETHIOPIA+AND+NATIONAL+IDENTITY/short_note/unit14_english_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "BRANDING ETHIOPIA AND NATIONAL IDENTITY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/Unit+7_+BRANDING+ETHIOPIA+AND+NATIONAL+IDENTITY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "BRANDING ETHIOPIA AND NATIONAL IDENTITY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/Unit+7_+BRANDING+ETHIOPIA+AND+NATIONAL+IDENTITY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "BRANDING ETHIOPIA AND NATIONAL IDENTITY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/Unit+7_+BRANDING+ETHIOPIA+AND+NATIONAL+IDENTITY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 english BRANDING ETHIOPIA AND NATIONAL IDENTITY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/english/Unit+7_+BRANDING+ETHIOPIA+AND+NATIONAL+IDENTITY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

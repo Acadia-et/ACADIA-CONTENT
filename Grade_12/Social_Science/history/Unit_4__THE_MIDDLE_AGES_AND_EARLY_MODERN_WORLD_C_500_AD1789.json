@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+4_+THE+MIDDLE+AGES+AND+EARLY+MODERN+WORLD%2c+C.+500+AD-1789/short_note/unit4_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+4_+THE+MIDDLE+AGES+AND+EARLY+MODERN+WORLD%2c+C.+500+AD-1789/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+4_+THE+MIDDLE+AGES+AND+EARLY+MODERN+WORLD%2c+C.+500+AD-1789/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+4_+THE+MIDDLE+AGES+AND+EARLY+MODERN+WORLD%2c+C.+500+AD-1789/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789 Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+4_+THE+MIDDLE+AGES+AND+EARLY+MODERN+WORLD%2c+C.+500+AD-1789/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

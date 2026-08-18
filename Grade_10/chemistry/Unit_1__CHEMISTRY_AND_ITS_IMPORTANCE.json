@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "CHEMISTRY AND ITS IMPORTANCE Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+1_+CHEMISTRY+AND+ITS+IMPORTANCE/short_note/unit1_chemistry_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "CHEMISTRY AND ITS IMPORTANCE Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+1_+CHEMISTRY+AND+ITS+IMPORTANCE/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "CHEMISTRY AND ITS IMPORTANCE Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+1_+CHEMISTRY+AND+ITS+IMPORTANCE/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "CHEMISTRY AND ITS IMPORTANCE Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+1_+CHEMISTRY+AND+ITS+IMPORTANCE/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 chemistry CHEMISTRY AND ITS IMPORTANCE Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+1_+CHEMISTRY+AND+ITS+IMPORTANCE/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "items": [
+    {
+      "content_type": "video",
+      "title": "Grade_11 agriculture Unit 1_ INTRODUCTION TO CROP PRODUCTION - Video 1",
+      "download_url": "https://youtu.be/VIDEO_ID_1",
+      "file_format": "youtube",
+      "duration_seconds": 600,
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Grade_11 agriculture Unit 1_ INTRODUCTION TO CROP PRODUCTION - Video 2",
+      "download_url": "https://youtu.be/VIDEO_ID_2",
+      "file_format": "youtube",
+      "duration_seconds": 480,
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Grade_11 agriculture Unit 1_ INTRODUCTION TO CROP PRODUCTION - Lab/Test Video",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+1_+INTRODUCTION+TO+CROP+PRODUCTION/video/test.mp4",
+      "file_format": "mp4",
+      "file_size_mb": 45.2,
+      "duration_seconds": 180,
+      "free_content": false
+    }
+  ]
+}

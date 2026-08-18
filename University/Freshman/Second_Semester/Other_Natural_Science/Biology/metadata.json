@@ -1,0 +1,11 @@
+﻿{
+  "id": "Biology_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Biology",
+  "stream": "Other_Natural_Science",
+  "description": "Freshman Biology - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__introduction_Chapter_2__biological_molecules_Chapter_3__the_cellular_basics_of_life_Chapter_4__cellular_metabolism_and_metabolic_disorder_Chapter_5__genetics_and_evolution_Chapter_6__infectious_diseases_and_immunity_Chapter_7__taxonomy_of_organism_Chapter_8__ecology_and_conservation_of_natural_resources_Chapter_9__introduction_to_botany_and_zoology_Chapter_10__application_of_biological_science", "title": "1 : introduction Chapter 2_ biological molecules Chapter 3_ the cellular basics of life Chapter 4_ cellular metabolism and metabolic disorder Chapter 5_ genetics and evolution Chapter 6_ infectious diseases and immunity Chapter 7_ taxonomy of organism Chapter 8_ ecology and conservation of natural resources Chapter 9_ introduction to botany and zoology Chapter 10_ application of biological science", "file": "Chapter_1__introduction_Chapter_2__biological_molecules_Chapter_3__the_cellular_basics_of_life_Chapter_4__cellular_metabolism_and_metabolic_disorder_Chapter_5__genetics_and_evolution_Chapter_6__infectious_diseases_and_immunity_Chapter_7__taxonomy_of_organism_Chapter_8__ecology_and_conservation_of_natural_resources_Chapter_9__introduction_to_botany_and_zoology_Chapter_10__application_of_biological_science.json", "folder": "Chapter 1_ introduction Chapter 2_ biological molecules Chapter 3_ the cellular basics of life Chapter 4_ cellular metabolism and metabolic disorder Chapter 5_ genetics and evolution Chapter 6_ infectious diseases and immunity Chapter 7_ taxonomy of organism Chapter 8_ ecology and conservation of natural resources Chapter 9_ introduction to botany and zoology Chapter 10_ application of biological science", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

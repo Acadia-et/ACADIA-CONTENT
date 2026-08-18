@@ -1,0 +1,11 @@
+﻿{
+  "id": "geography_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "geography",
+  "stream": "Social_Science",
+  "description": "Freshman geography - First_Semester",
+  "units": [
+    {"id": "Chapter_1__introduction_Chapter_2__the_geology_of_Ethiopia_and_the_horn_Chapter_3__the_topography_of_Ethiopia_and_the_horn_Chapter_4__drainage_system_and_water_resource_of_Ethiopia_and_the_horn_Chapter_5__the_climate_of_Ethiopia_and_the_horn_Chapter_6__soils_natural_vegetation_and_wildlife_resource_Chapter_7__population_of_ethiopia_and_the_horn_Chapter_8__economic_activitie_in_Ethiopia", "title": "1 : introduction Chapter 2_ the geology of Ethiopia and the horn Chapter 3_ the topography of Ethiopia and the horn Chapter 4_ drainage system and water resource of Ethiopia and the horn Chapter 5_ the climate of Ethiopia and the horn Chapter 6_ soils, natural vegetation and wildlife resource Chapter 7_ population of ethiopia and the horn Chapter 8_ economic activitie in Ethiopia", "file": "Chapter_1__introduction_Chapter_2__the_geology_of_Ethiopia_and_the_horn_Chapter_3__the_topography_of_Ethiopia_and_the_horn_Chapter_4__drainage_system_and_water_resource_of_Ethiopia_and_the_horn_Chapter_5__the_climate_of_Ethiopia_and_the_horn_Chapter_6__soils_natural_vegetation_and_wildlife_resource_Chapter_7__population_of_ethiopia_and_the_horn_Chapter_8__economic_activitie_in_Ethiopia.json", "folder": "Chapter 1_ introduction Chapter 2_ the geology of Ethiopia and the horn Chapter 3_ the topography of Ethiopia and the horn Chapter 4_ drainage system and water resource of Ethiopia and the horn Chapter 5_ the climate of Ethiopia and the horn Chapter 6_ soils, natural vegetation and wildlife resource Chapter 7_ population of ethiopia and the horn Chapter 8_ economic activitie in Ethiopia", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "items": [
+    {
+      "content_type": "video",
+      "title": "Freshman English Skill 2 Second_Semester/Pre_Engineering_Courses/English Skill 2/Unit 1_ Life Skills Unit 2_ Speculations about the future of Science Unit 3_ Environmental Protection Unit 4_ Indigenous Knowledge Unit 5_ Cultural Heritage - Video 1",
+      "download_url": "https://youtu.be/VIDEO_ID_1",
+      "file_format": "youtube",
+      "duration_seconds": 600,
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Freshman English Skill 2 Second_Semester/Pre_Engineering_Courses/English Skill 2/Unit 1_ Life Skills Unit 2_ Speculations about the future of Science Unit 3_ Environmental Protection Unit 4_ Indigenous Knowledge Unit 5_ Cultural Heritage - Video 2",
+      "download_url": "https://youtu.be/VIDEO_ID_2",
+      "file_format": "youtube",
+      "duration_seconds": 480,
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Freshman English Skill 2 Second_Semester/Pre_Engineering_Courses/English Skill 2/Unit 1_ Life Skills Unit 2_ Speculations about the future of Science Unit 3_ Environmental Protection Unit 4_ Indigenous Knowledge Unit 5_ Cultural Heritage - Lab/Test Video",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Freshman/English Skill 2/Second_Semester%2fPre_Engineering_Courses%2fEnglish+Skill+2%2fUnit+1_+Life+Skills+Unit+2_+Speculations+about+the+future+of+Science+Unit+3_+Environmental+Protection+Unit+4_+Indigenous+Knowledge+Unit+5_+Cultural+Heritage/video/test.mp4",
+      "file_format": "mp4",
+      "file_size_mb": 45.2,
+      "duration_seconds": 180,
+      "free_content": false
+    }
+  ]
+}

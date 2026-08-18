@@ -1,0 +1,11 @@
+﻿{
+  "id": "Moral and Citizenship Education_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Moral and Citizenship Education",
+  "stream": "Other_Natural_Science",
+  "description": "Freshman Moral and Citizenship Education - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__Understanding_Civics_and_Ethics_Chapter_2__Approaches_to_Ethics_Chapter_3__Ethical_Decision_Making_and_Moral_Judgments_Chapter_4__State_Government_and_Citizenship_Chapter_5__Constitution_Democracy_and_Human_Rights", "title": "1 : Understanding Civics and Ethics Chapter 2_ Approaches to Ethics Chapter 3_ Ethical Decision Making and Moral Judgments Chapter 4_ State, Government and Citizenship Chapter 5_ Constitution, Democracy and Human Rights", "file": "Chapter_1__Understanding_Civics_and_Ethics_Chapter_2__Approaches_to_Ethics_Chapter_3__Ethical_Decision_Making_and_Moral_Judgments_Chapter_4__State_Government_and_Citizenship_Chapter_5__Constitution_Democracy_and_Human_Rights.json", "folder": "Chapter 1_ Understanding Civics and Ethics Chapter 2_ Approaches to Ethics Chapter 3_ Ethical Decision Making and Moral Judgments Chapter 4_ State, Government and Citizenship Chapter 5_ Constitution, Democracy and Human Rights", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

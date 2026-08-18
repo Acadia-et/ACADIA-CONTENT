@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "INDIGENOUS CONFLICT RESOLUTION Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+9_+INDIGENOUS+CONFLICT+RESOLUTION/short_note/unit10_english_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "INDIGENOUS CONFLICT RESOLUTION Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+9_+INDIGENOUS+CONFLICT+RESOLUTION/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "INDIGENOUS CONFLICT RESOLUTION Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+9_+INDIGENOUS+CONFLICT+RESOLUTION/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "INDIGENOUS CONFLICT RESOLUTION Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+9_+INDIGENOUS+CONFLICT+RESOLUTION/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_11 english INDIGENOUS CONFLICT RESOLUTION Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+9_+INDIGENOUS+CONFLICT+RESOLUTION/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

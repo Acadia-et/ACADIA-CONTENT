@@ -1,0 +1,11 @@
+﻿{
+  "id": "Economics_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Economics",
+  "stream": "Other_Natural_Science",
+  "description": "Freshman Economics - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__basics_of_economics_Chapter_2__theory_of_demand_and_supply_Chapter_3__theory_of_customer_behaviour_Chapter_4__the_theory_of_production_and_cost_Chapter_5__market_structure_Chapter_6__fundamental_concepts_of_macroeconomics", "title": "1 : basics of economics Chapter 2_ theory of demand and supply Chapter 3_ theory of customer behaviour Chapter 4_ the theory of production and cost Chapter 5_ market structure Chapter 6_ fundamental concepts of macroeconomics", "file": "Chapter_1__basics_of_economics_Chapter_2__theory_of_demand_and_supply_Chapter_3__theory_of_customer_behaviour_Chapter_4__the_theory_of_production_and_cost_Chapter_5__market_structure_Chapter_6__fundamental_concepts_of_macroeconomics.json", "folder": "Chapter 1_ basics of economics Chapter 2_ theory of demand and supply Chapter 3_ theory of customer behaviour Chapter 4_ the theory of production and cost Chapter 5_ market structure Chapter 6_ fundamental concepts of macroeconomics", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

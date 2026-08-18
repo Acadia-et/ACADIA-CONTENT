@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Human Culture and Ties that Connect Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Anthropology/Unit+2_+Human+Culture+and+Ties+that+Connect/short_note/chapter2_Anthropology_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "Human Culture and Ties that Connect Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Anthropology/Unit+2_+Human+Culture+and+Ties+that+Connect/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "Human Culture and Ties that Connect Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Anthropology/Unit+2_+Human+Culture+and+Ties+that+Connect/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Human Culture and Ties that Connect Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Anthropology/Unit+2_+Human+Culture+and+Ties+that+Connect/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman Anthropology Human Culture and Ties that Connect Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/Anthropology/Unit+2_+Human+Culture+and+Ties+that+Connect/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

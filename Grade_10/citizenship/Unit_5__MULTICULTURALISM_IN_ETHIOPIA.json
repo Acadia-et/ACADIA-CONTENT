@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "MULTICULTURALISM IN ETHIOPIA Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+5_+MULTICULTURALISM+IN+ETHIOPIA/short_note/unit5_citizenship_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "MULTICULTURALISM IN ETHIOPIA Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+5_+MULTICULTURALISM+IN+ETHIOPIA/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "MULTICULTURALISM IN ETHIOPIA Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+5_+MULTICULTURALISM+IN+ETHIOPIA/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "MULTICULTURALISM IN ETHIOPIA Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+5_+MULTICULTURALISM+IN+ETHIOPIA/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 citizenship MULTICULTURALISM IN ETHIOPIA Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+5_+MULTICULTURALISM+IN+ETHIOPIA/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

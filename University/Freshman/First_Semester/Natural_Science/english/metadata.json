@@ -1,0 +1,11 @@
+﻿{
+  "id": "english_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "english",
+  "stream": "Natural_Science",
+  "description": "Freshman english - First_Semester",
+  "units": [
+    {"id": "Chapter_1__study_skills_Chapter_2__health_and_fitness_Chapter_3__cultural_values_Chapter_4__wild_life_Chapter_5__population", "title": "1 : study skills Chapter 2_ health and fitness Chapter 3_ cultural values Chapter 4_ wild life Chapter 5_ population", "file": "Chapter_1__study_skills_Chapter_2__health_and_fitness_Chapter_3__cultural_values_Chapter_4__wild_life_Chapter_5__population.json", "folder": "Chapter 1_ study skills Chapter 2_ health and fitness Chapter 3_ cultural values Chapter 4_ wild life Chapter 5_ population", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

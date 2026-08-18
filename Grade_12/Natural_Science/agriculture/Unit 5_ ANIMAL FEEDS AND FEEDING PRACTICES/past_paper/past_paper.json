@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 agriculture 5 : ANIMAL FEEDS AND FEEDING PRACTICES Sample Past Paper",
+      "year": 2025,
+      "time_limit_minutes": 15,
+      "total_questions": 2,
+      "questions": [
+        {
+          "id": "agriculture_Grade_12_u5_pp1",
+          "question": "What is the main topic?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "Explanation."
+        }
+      ]
+    }
+  ]
+}

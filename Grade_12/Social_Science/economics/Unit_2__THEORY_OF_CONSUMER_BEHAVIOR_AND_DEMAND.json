@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "THEORY OF CONSUMER BEHAVIOR AND DEMAND Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOR+AND+DEMAND/short_note/unit2_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "THEORY OF CONSUMER BEHAVIOR AND DEMAND Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOR+AND+DEMAND/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "THEORY OF CONSUMER BEHAVIOR AND DEMAND Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOR+AND+DEMAND/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "THEORY OF CONSUMER BEHAVIOR AND DEMAND Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOR+AND+DEMAND/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 economics THEORY OF CONSUMER BEHAVIOR AND DEMAND Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+1_+THEORY+OF+CONSUMER+BEHAVIOR+AND+DEMAND/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

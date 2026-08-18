@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "CONSUMPTION, SAVING AND INVESTMENT Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+4_+CONSUMPTION%2c+SAVING+AND+INVESTMENT/short_note/unit7_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "CONSUMPTION, SAVING AND INVESTMENT Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+4_+CONSUMPTION%2c+SAVING+AND+INVESTMENT/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "CONSUMPTION, SAVING AND INVESTMENT Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+4_+CONSUMPTION%2c+SAVING+AND+INVESTMENT/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "CONSUMPTION, SAVING AND INVESTMENT Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+4_+CONSUMPTION%2c+SAVING+AND+INVESTMENT/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 economics CONSUMPTION, SAVING AND INVESTMENT Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+4_+CONSUMPTION%2c+SAVING+AND+INVESTMENT/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

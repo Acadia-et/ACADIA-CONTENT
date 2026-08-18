@@ -1,0 +1,11 @@
+﻿{
+  "id": "C++ Programming_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "C++ Programming",
+  "stream": "Pre_Engineering_Courses",
+  "description": "Freshman C++ Programming - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__Introduction_to_C_Programming_Chapter_2__Basics_of_C_Comments_Case_Sensitivity_Statements_Chapter_3__Primitive_Data_Types_Chapter_4__flow_of_controls_Chapter_5__arrays_and_strings_Chapter_6__functions_Chapter_7__structures_and_unions_Chapter_8__pointers", "title": "1 : Introduction to C++ Programming Chapter 2_ Basics of C++ (Comments, Case Sensitivity, Statements) Chapter 3_ Primitive Data Types Chapter 4_ flow of controls Chapter 5_ arrays and strings Chapter 6_ functions Chapter 7_ structures and unions Chapter 8_ pointers", "file": "Chapter_1__Introduction_to_C_Programming_Chapter_2__Basics_of_C_Comments_Case_Sensitivity_Statements_Chapter_3__Primitive_Data_Types_Chapter_4__flow_of_controls_Chapter_5__arrays_and_strings_Chapter_6__functions_Chapter_7__structures_and_unions_Chapter_8__pointers.json", "folder": "Chapter 1_ Introduction to C++ Programming Chapter 2_ Basics of C++ (Comments, Case Sensitivity, Statements) Chapter 3_ Primitive Data Types Chapter 4_ flow of controls Chapter 5_ arrays and strings Chapter 6_ functions Chapter 7_ structures and unions Chapter 8_ pointers", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

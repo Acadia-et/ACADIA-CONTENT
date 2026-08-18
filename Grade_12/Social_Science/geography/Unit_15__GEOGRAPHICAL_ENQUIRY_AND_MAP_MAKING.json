@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "GEOGRAPHICAL ENQUIRY AND MAP MAKING Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEOGRAPHICAL+ENQUIRY+AND+MAP+MAKING/short_note/unit15_geography_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "GEOGRAPHICAL ENQUIRY AND MAP MAKING Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEOGRAPHICAL+ENQUIRY+AND+MAP+MAKING/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "GEOGRAPHICAL ENQUIRY AND MAP MAKING Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEOGRAPHICAL+ENQUIRY+AND+MAP+MAKING/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "GEOGRAPHICAL ENQUIRY AND MAP MAKING Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEOGRAPHICAL+ENQUIRY+AND+MAP+MAKING/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 geography GEOGRAPHICAL ENQUIRY AND MAP MAKING Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEOGRAPHICAL+ENQUIRY+AND+MAP+MAKING/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "politics, economy and socio cultural processes in Ethiopia from late 13th to 16th century Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+4_+politics%2c+economy+and+socio+cultural+processes+in+Ethiopia+from+late+13th+to+16th+century/short_note/chapter4_History_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "politics, economy and socio cultural processes in Ethiopia from late 13th to 16th century Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+4_+politics%2c+economy+and+socio+cultural+processes+in+Ethiopia+from+late+13th+to+16th+century/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "politics, economy and socio cultural processes in Ethiopia from late 13th to 16th century Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+4_+politics%2c+economy+and+socio+cultural+processes+in+Ethiopia+from+late+13th+to+16th+century/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "politics, economy and socio cultural processes in Ethiopia from late 13th to 16th century Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+4_+politics%2c+economy+and+socio+cultural+processes+in+Ethiopia+from+late+13th+to+16th+century/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman History politics, economy and socio cultural processes in Ethiopia from late 13th to 16th century Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+4_+politics%2c+economy+and+socio+cultural+processes+in+Ethiopia+from+late+13th+to+16th+century/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

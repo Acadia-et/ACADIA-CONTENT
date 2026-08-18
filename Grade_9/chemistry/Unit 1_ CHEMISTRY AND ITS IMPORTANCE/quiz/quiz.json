@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "quiz",
+      "title": "1 : CHEMISTRY AND ITS IMPORTANCE Quick Check",
+      "total_questions": 2,
+      "time_limit_minutes": 10,
+      "passing_score": 60,
+      "questions": [
+        {
+          "id": "chemistry_Grade_9_u1_q1",
+          "question": "What is the main topic?",
+          "options": {
+            "A": "Option A - Correct",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "Explanation."
+        }
+      ]
+    }
+  ]
+}

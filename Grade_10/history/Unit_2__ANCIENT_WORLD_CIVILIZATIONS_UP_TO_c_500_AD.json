@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+2_+ANCIENT+WORLD+CIVILIZATIONS+UP+TO+c.+500+AD/short_note/unit2_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+2_+ANCIENT+WORLD+CIVILIZATIONS+UP+TO+c.+500+AD/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+2_+ANCIENT+WORLD+CIVILIZATIONS+UP+TO+c.+500+AD/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+2_+ANCIENT+WORLD+CIVILIZATIONS+UP+TO+c.+500+AD/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 history ANCIENT WORLD CIVILIZATIONS UP TO c. 500 AD Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+2_+ANCIENT+WORLD+CIVILIZATIONS+UP+TO+c.+500+AD/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

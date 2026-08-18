@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+1_+HISTORY%2c+HISTORIOGRAPHY%2c+AND+HUMAN+EVOLUTION/short_note/unit2_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+1_+HISTORY%2c+HISTORIOGRAPHY%2c+AND+HUMAN+EVOLUTION/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+1_+HISTORY%2c+HISTORIOGRAPHY%2c+AND+HUMAN+EVOLUTION/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+1_+HISTORY%2c+HISTORIOGRAPHY%2c+AND+HUMAN+EVOLUTION/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+1_+HISTORY%2c+HISTORIOGRAPHY%2c+AND+HUMAN+EVOLUTION/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

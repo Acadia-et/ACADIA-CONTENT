@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+7_+MAIN+SECTORS%2c+SECTORIAL+POLICIES+AND+STRATEGIES+OF+ETHIOPIA/short_note/unit14_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+7_+MAIN+SECTORS%2c+SECTORIAL+POLICIES+AND+STRATEGIES+OF+ETHIOPIA/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+7_+MAIN+SECTORS%2c+SECTORIAL+POLICIES+AND+STRATEGIES+OF+ETHIOPIA/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+7_+MAIN+SECTORS%2c+SECTORIAL+POLICIES+AND+STRATEGIES+OF+ETHIOPIA/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 economics MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/economics/Unit+7_+MAIN+SECTORS%2c+SECTORIAL+POLICIES+AND+STRATEGIES+OF+ETHIOPIA/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

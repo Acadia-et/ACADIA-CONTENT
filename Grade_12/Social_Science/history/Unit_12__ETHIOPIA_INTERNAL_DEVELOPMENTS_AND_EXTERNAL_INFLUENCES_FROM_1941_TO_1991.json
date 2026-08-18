@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ETHIOPIA INTERNAL DEVELOPMENTS AND EXTERNAL INFLUENCES FROM 1941 TO 1991 Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+6_+ETHIOPIA+INTERNAL+DEVELOPMENTS+AND+EXTERNAL+INFLUENCES+FROM+1941+TO+1991/short_note/unit12_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ETHIOPIA INTERNAL DEVELOPMENTS AND EXTERNAL INFLUENCES FROM 1941 TO 1991 Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+6_+ETHIOPIA+INTERNAL+DEVELOPMENTS+AND+EXTERNAL+INFLUENCES+FROM+1941+TO+1991/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ETHIOPIA INTERNAL DEVELOPMENTS AND EXTERNAL INFLUENCES FROM 1941 TO 1991 Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+6_+ETHIOPIA+INTERNAL+DEVELOPMENTS+AND+EXTERNAL+INFLUENCES+FROM+1941+TO+1991/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ETHIOPIA INTERNAL DEVELOPMENTS AND EXTERNAL INFLUENCES FROM 1941 TO 1991 Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+6_+ETHIOPIA+INTERNAL+DEVELOPMENTS+AND+EXTERNAL+INFLUENCES+FROM+1941+TO+1991/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history ETHIOPIA INTERNAL DEVELOPMENTS AND EXTERNAL INFLUENCES FROM 1941 TO 1991 Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+6_+ETHIOPIA+INTERNAL+DEVELOPMENTS+AND+EXTERNAL+INFLUENCES+FROM+1941+TO+1991/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

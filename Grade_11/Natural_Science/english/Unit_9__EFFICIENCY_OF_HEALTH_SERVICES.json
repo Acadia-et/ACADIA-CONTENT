@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "EFFICIENCY OF HEALTH SERVICES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+8_+EFFICIENCY+OF+HEALTH+SERVICES/short_note/unit9_english_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "EFFICIENCY OF HEALTH SERVICES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+8_+EFFICIENCY+OF+HEALTH+SERVICES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "EFFICIENCY OF HEALTH SERVICES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+8_+EFFICIENCY+OF+HEALTH+SERVICES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "EFFICIENCY OF HEALTH SERVICES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+8_+EFFICIENCY+OF+HEALTH+SERVICES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_11 english EFFICIENCY OF HEALTH SERVICES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/english/Unit+8_+EFFICIENCY+OF+HEALTH+SERVICES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

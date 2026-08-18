@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ANIMAL GENETICS AND BREEDING PRACTICES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+6_+ANIMAL+GENETICS+AND+BREEDING+PRACTICES/short_note/unit12_agriculture_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ANIMAL GENETICS AND BREEDING PRACTICES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+6_+ANIMAL+GENETICS+AND+BREEDING+PRACTICES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ANIMAL GENETICS AND BREEDING PRACTICES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+6_+ANIMAL+GENETICS+AND+BREEDING+PRACTICES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ANIMAL GENETICS AND BREEDING PRACTICES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+6_+ANIMAL+GENETICS+AND+BREEDING+PRACTICES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_11 agriculture ANIMAL GENETICS AND BREEDING PRACTICES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+6_+ANIMAL+GENETICS+AND+BREEDING+PRACTICES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

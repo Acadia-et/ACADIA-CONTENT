@@ -1,0 +1,11 @@
+﻿{
+  "id": "psychology_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "psychology",
+  "stream": "Natural_Science",
+  "description": "Freshman psychology - First_Semester",
+  "units": [
+    {"id": "Chapter_1__essence_of_psychology_Chapter_2__sensation_and_perception_Chapter_3__leaning_and_theories_of_learning_Chapter_4__memory_and_forgetting_Chapter_5__motivation_and_emotion_Chapter_6__personality_Chapter_7__psychological_disorder_and_treatment_techniques_Chapter_8__intro_to_life_skills_Chapter_9__intapersonal_and_interpersonal_skills_Chapter_10__academic_skills_Chapter_11__social_skills", "title": "1 : essence of psychology Chapter 2_ sensation and perception Chapter 3_ leaning and theories of learning Chapter 4_ memory and forgetting Chapter 5_ motivation and emotion Chapter 6_ personality Chapter 7_ psychological disorder and treatment techniques Chapter 8_ intro to life skills Chapter 9_ inta-personal and interpersonal skills Chapter 10_ academic skills Chapter 11_ social skills", "file": "Chapter_1__essence_of_psychology_Chapter_2__sensation_and_perception_Chapter_3__leaning_and_theories_of_learning_Chapter_4__memory_and_forgetting_Chapter_5__motivation_and_emotion_Chapter_6__personality_Chapter_7__psychological_disorder_and_treatment_techniques_Chapter_8__intro_to_life_skills_Chapter_9__intapersonal_and_interpersonal_skills_Chapter_10__academic_skills_Chapter_11__social_skills.json", "folder": "Chapter 1_ essence of psychology Chapter 2_ sensation and perception Chapter 3_ leaning and theories of learning Chapter 4_ memory and forgetting Chapter 5_ motivation and emotion Chapter 6_ personality Chapter 7_ psychological disorder and treatment techniques Chapter 8_ intro to life skills Chapter 9_ inta-personal and interpersonal skills Chapter 10_ academic skills Chapter 11_ social skills", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

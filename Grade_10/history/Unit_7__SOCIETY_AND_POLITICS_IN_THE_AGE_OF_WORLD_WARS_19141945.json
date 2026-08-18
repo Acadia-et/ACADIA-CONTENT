@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945 Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+4_+SOCIETY+AND+POLITICS+IN+THE+AGE+OF+WORLD+WARS+1914-1945/short_note/unit7_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945 Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+4_+SOCIETY+AND+POLITICS+IN+THE+AGE+OF+WORLD+WARS+1914-1945/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945 Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+4_+SOCIETY+AND+POLITICS+IN+THE+AGE+OF+WORLD+WARS+1914-1945/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945 Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+4_+SOCIETY+AND+POLITICS+IN+THE+AGE+OF+WORLD+WARS+1914-1945/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 history SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945 Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+4_+SOCIETY+AND+POLITICS+IN+THE+AGE+OF+WORLD+WARS+1914-1945/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

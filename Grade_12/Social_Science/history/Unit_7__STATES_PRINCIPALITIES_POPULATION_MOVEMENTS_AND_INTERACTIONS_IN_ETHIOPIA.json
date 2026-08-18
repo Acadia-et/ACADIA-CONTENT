@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+AND+INTERACTIONS+IN+ETHIOPIA/short_note/unit7_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+AND+INTERACTIONS+IN+ETHIOPIA/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+AND+INTERACTIONS+IN+ETHIOPIA/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+AND+INTERACTIONS+IN+ETHIOPIA/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 history STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+AND+INTERACTIONS+IN+ETHIOPIA/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

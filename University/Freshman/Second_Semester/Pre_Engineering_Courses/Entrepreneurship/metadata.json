@@ -1,0 +1,11 @@
+﻿{
+  "id": "Entrepreneurship_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Entrepreneurship",
+  "stream": "Pre_Engineering_Courses",
+  "description": "Freshman Entrepreneurship - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__The_Nature_of_Entrepreneurship_Chapter_2__Business_Planning_Chapter_3__Business_Formation_Chapter_4__ProductService_Development_Chapter_5__Marketing_Chapter_6__Business_Financing_Chapter_7__Managing_Growth_and_Transition", "title": "1 : The Nature of Entrepreneurship Chapter 2_ Business Planning Chapter 3_ Business Formation Chapter 4_ Product-Service Development Chapter 5_ Marketing Chapter 6_ Business Financing Chapter 7_ Managing Growth and Transition", "file": "Chapter_1__The_Nature_of_Entrepreneurship_Chapter_2__Business_Planning_Chapter_3__Business_Formation_Chapter_4__ProductService_Development_Chapter_5__Marketing_Chapter_6__Business_Financing_Chapter_7__Managing_Growth_and_Transition.json", "folder": "Chapter 1_ The Nature of Entrepreneurship Chapter 2_ Business Planning Chapter 3_ Business Formation Chapter 4_ Product-Service Development Chapter 5_ Marketing Chapter 6_ Business Financing Chapter 7_ Managing Growth and Transition", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

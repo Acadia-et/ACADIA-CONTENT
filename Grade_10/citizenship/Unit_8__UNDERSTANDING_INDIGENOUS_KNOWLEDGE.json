@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "UNDERSTANDING INDIGENOUS KNOWLEDGE Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+4_+UNDERSTANDING+INDIGENOUS+KNOWLEDGE/short_note/unit8_citizenship_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "UNDERSTANDING INDIGENOUS KNOWLEDGE Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+4_+UNDERSTANDING+INDIGENOUS+KNOWLEDGE/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "UNDERSTANDING INDIGENOUS KNOWLEDGE Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+4_+UNDERSTANDING+INDIGENOUS+KNOWLEDGE/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "UNDERSTANDING INDIGENOUS KNOWLEDGE Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+4_+UNDERSTANDING+INDIGENOUS+KNOWLEDGE/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 citizenship UNDERSTANDING INDIGENOUS KNOWLEDGE Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+4_+UNDERSTANDING+INDIGENOUS+KNOWLEDGE/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ISSUES IN SUSTAINABLE DEVELOPMENT II POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+4_+ISSUES+IN+SUSTAINABLE+DEVELOPMENT+II+POPULATION+POLICIES%2c+PROGRAMS+AND+THE+ENVIRONMENT/short_note/unit8_geography_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ISSUES IN SUSTAINABLE DEVELOPMENT II POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+4_+ISSUES+IN+SUSTAINABLE+DEVELOPMENT+II+POPULATION+POLICIES%2c+PROGRAMS+AND+THE+ENVIRONMENT/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ISSUES IN SUSTAINABLE DEVELOPMENT II POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+4_+ISSUES+IN+SUSTAINABLE+DEVELOPMENT+II+POPULATION+POLICIES%2c+PROGRAMS+AND+THE+ENVIRONMENT/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ISSUES IN SUSTAINABLE DEVELOPMENT II POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+4_+ISSUES+IN+SUSTAINABLE+DEVELOPMENT+II+POPULATION+POLICIES%2c+PROGRAMS+AND+THE+ENVIRONMENT/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 geography ISSUES IN SUSTAINABLE DEVELOPMENT II POPULATION POLICIES, PROGRAMS AND THE ENVIRONMENT Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+4_+ISSUES+IN+SUSTAINABLE+DEVELOPMENT+II+POPULATION+POLICIES%2c+PROGRAMS+AND+THE+ENVIRONMENT/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

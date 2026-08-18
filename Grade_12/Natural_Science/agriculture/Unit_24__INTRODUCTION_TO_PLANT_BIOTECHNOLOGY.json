@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "INTRODUCTION TO PLANT BIOTECHNOLOGY Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+5_+INTRODUCTION+TO+PLANT+BIOTECHNOLOGY/short_note/unit24_agriculture_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "INTRODUCTION TO PLANT BIOTECHNOLOGY Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+5_+INTRODUCTION+TO+PLANT+BIOTECHNOLOGY/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "INTRODUCTION TO PLANT BIOTECHNOLOGY Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+5_+INTRODUCTION+TO+PLANT+BIOTECHNOLOGY/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "INTRODUCTION TO PLANT BIOTECHNOLOGY Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+5_+INTRODUCTION+TO+PLANT+BIOTECHNOLOGY/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 agriculture INTRODUCTION TO PLANT BIOTECHNOLOGY Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+5_+INTRODUCTION+TO+PLANT+BIOTECHNOLOGY/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

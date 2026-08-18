@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+%26+INTERACTIONS+IN+ETHIOPIA+13th+TO+MID-16th+C/short_note/unit7_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+%26+INTERACTIONS+IN+ETHIOPIA+13th+TO+MID-16th+C/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+%26+INTERACTIONS+IN+ETHIOPIA+13th+TO+MID-16th+C/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+%26+INTERACTIONS+IN+ETHIOPIA+13th+TO+MID-16th+C/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 history STATES, PRINCIPALITIES, POPULATION MOVEMENTS & INTERACTIONS IN ETHIOPIA 13th TO MID-16th C Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+7_+STATES%2c+PRINCIPALITIES%2c+POPULATION+MOVEMENTS+%26+INTERACTIONS+IN+ETHIOPIA+13th+TO+MID-16th+C/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "id": "Unit_1__BIOLOGY_AND_TECHNOLOGY",
+  "title": "1 : BIOLOGY AND TECHNOLOGY",
+  "description": "Description for 1 : BIOLOGY AND TECHNOLOGY",
+  "version": 1,
+  "difficulty": "Medium",
+  "estimatedTime": "45 minutes",
+  "objectives": [
+    "Objective 1 for this unit",
+    "Objective 2 for this unit"
+  ],
+  "quizzes": [],
+  "flashcards": [],
+  "pdfs": [],
+  "videos": [],
+  "practiceExams": [],
+  "pastPapers": []
+}

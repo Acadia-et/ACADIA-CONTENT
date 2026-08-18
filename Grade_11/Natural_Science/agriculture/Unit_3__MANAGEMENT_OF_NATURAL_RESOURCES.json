@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "MANAGEMENT OF NATURAL RESOURCES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+11_+MANAGEMENT+OF+NATURAL+RESOURCES/short_note/unit3_agriculture_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "MANAGEMENT OF NATURAL RESOURCES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+11_+MANAGEMENT+OF+NATURAL+RESOURCES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "MANAGEMENT OF NATURAL RESOURCES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+11_+MANAGEMENT+OF+NATURAL+RESOURCES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "MANAGEMENT OF NATURAL RESOURCES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+11_+MANAGEMENT+OF+NATURAL+RESOURCES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_11 agriculture MANAGEMENT OF NATURAL RESOURCES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_11/agriculture/Unit+11_+MANAGEMENT+OF+NATURAL+RESOURCES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

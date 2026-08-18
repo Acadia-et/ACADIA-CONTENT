@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "exam",
+      "title": "4 : THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 TO 1750s Unit Test",
+      "total_questions": 10,
+      "time_limit_minutes": 30,
+      "passing_score": 60,
+      "questions": [
+        {
+          "id": "history_Grade_9_u4_exam_1",
+          "question": "What is the main topic of this unit?",
+          "options": {
+            "A": "Option A - Correct Answer",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "This is the correct answer."
+        }
+      ]
+    }
+  ]
+}

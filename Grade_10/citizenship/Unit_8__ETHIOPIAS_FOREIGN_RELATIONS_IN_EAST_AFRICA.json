@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+ETHIOPIA%27S+FOREIGN+RELATIONS+IN+EAST+AFRICA/short_note/unit8_citizenship_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+ETHIOPIA%27S+FOREIGN+RELATIONS+IN+EAST+AFRICA/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+ETHIOPIA%27S+FOREIGN+RELATIONS+IN+EAST+AFRICA/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+ETHIOPIA%27S+FOREIGN+RELATIONS+IN+EAST+AFRICA/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 citizenship ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+ETHIOPIA%27S+FOREIGN+RELATIONS+IN+EAST+AFRICA/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

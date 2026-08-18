@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "HYDROCARBONS AND THEIR NATURAL SOURCES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+6_+HYDROCARBONS+AND+THEIR+NATURAL+SOURCES/short_note/unit11_chemistry_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "HYDROCARBONS AND THEIR NATURAL SOURCES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+6_+HYDROCARBONS+AND+THEIR+NATURAL+SOURCES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "HYDROCARBONS AND THEIR NATURAL SOURCES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+6_+HYDROCARBONS+AND+THEIR+NATURAL+SOURCES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "HYDROCARBONS AND THEIR NATURAL SOURCES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+6_+HYDROCARBONS+AND+THEIR+NATURAL+SOURCES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 chemistry HYDROCARBONS AND THEIR NATURAL SOURCES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/chemistry/Unit+6_+HYDROCARBONS+AND+THEIR+NATURAL+SOURCES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

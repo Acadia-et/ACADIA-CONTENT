@@ -1,0 +1,20 @@
+﻿
+# University - ignore problematic combined folders
+University/freshman/First_Semester/Natural_Science/logic/Chapter * Chapter */
+University/freshman/First_Semester/Natural_Science/mathematics/Chapter * Chapter */
+University/freshman/First_Semester/Social_Science/economics/Chapter * Chapter */
+University/freshman/First_Semester/Social_Science/english/Chapter * Chapter */
+University/freshman/First_Semester/Social_Science/logic/Chapter * Chapter */
+
+# Ignore temporary files
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Ignore backup files
+**/*_backup/
+**/*.bak
+
+# Ignore large video files (keep locally)
+**/test.mp4

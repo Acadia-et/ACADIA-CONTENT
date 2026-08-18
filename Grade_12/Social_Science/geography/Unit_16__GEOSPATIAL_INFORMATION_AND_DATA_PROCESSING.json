@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEO-SPATIAL+INFORMATION+AND+DATA+PROCESSING/short_note/unit16_geography_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEO-SPATIAL+INFORMATION+AND+DATA+PROCESSING/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEO-SPATIAL+INFORMATION+AND+DATA+PROCESSING/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEO-SPATIAL+INFORMATION+AND+DATA+PROCESSING/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 geography GEO-SPATIAL INFORMATION AND DATA PROCESSING Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/geography/Unit+8_+GEO-SPATIAL+INFORMATION+AND+DATA+PROCESSING/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

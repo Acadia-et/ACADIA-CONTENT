@@ -1,0 +1,11 @@
+﻿{
+  "id": "logic_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "logic",
+  "stream": "Social_Science",
+  "description": "Freshman logic - First_Semester",
+  "units": [
+    {"id": "Chapter_1__introduction_to_philosophy_Chapter_2__basic_concept_of_logic_Chapter_3__logic_and_language_Chapter_4__basic_concepts_of_critical_thinking_Chapter_5__informal_fallacies_Chapter_6__categorical_propositions", "title": "1 : introduction to philosophy Chapter 2_ basic concept of logic Chapter 3_ logic and language Chapter 4_ basic concepts of critical thinking Chapter 5_ informal fallacies Chapter 6_ categorical propositions", "file": "Chapter_1__introduction_to_philosophy_Chapter_2__basic_concept_of_logic_Chapter_3__logic_and_language_Chapter_4__basic_concepts_of_critical_thinking_Chapter_5__informal_fallacies_Chapter_6__categorical_propositions.json", "folder": "Chapter 1_ introduction to philosophy Chapter 2_ basic concept of logic Chapter 3_ logic and language Chapter 4_ basic concepts of critical thinking Chapter 5_ informal fallacies Chapter 6_ categorical propositions", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

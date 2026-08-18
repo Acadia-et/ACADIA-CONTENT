@@ -1,0 +1,11 @@
+﻿{
+  "id": "physics_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "physics",
+  "stream": "Natural_Science",
+  "description": "Freshman physics - First_Semester",
+  "units": [
+    {"id": "Chapter_1__preliminaries_Chapter_2__kinematic_and_dynamic_of_particles_Chapter_3__fluid_dynamics_Chapter_4__heat_and_thermodynamics_Chapter_5__oscillation_waves_and_optics_Chapter_6__electromagnetism_and_electronics_Chapter_7__cross_cutting_application_of_physics", "title": "1 : preliminaries Chapter 2_ kinematic and dynamic of particles Chapter 3_ fluid dynamics Chapter 4_ heat and thermodynamics Chapter 5_ oscillation, waves and optics Chapter 6_ electromagnetism and electronics Chapter 7_ cross cutting application of physics", "file": "Chapter_1__preliminaries_Chapter_2__kinematic_and_dynamic_of_particles_Chapter_3__fluid_dynamics_Chapter_4__heat_and_thermodynamics_Chapter_5__oscillation_waves_and_optics_Chapter_6__electromagnetism_and_electronics_Chapter_7__cross_cutting_application_of_physics.json", "folder": "Chapter 1_ preliminaries Chapter 2_ kinematic and dynamic of particles Chapter 3_ fluid dynamics Chapter 4_ heat and thermodynamics Chapter 5_ oscillation, waves and optics Chapter 6_ electromagnetism and electronics Chapter 7_ cross cutting application of physics", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

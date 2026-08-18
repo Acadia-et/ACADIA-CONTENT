@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "FORCE, WORK, ENERGY AND POWER Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+4_+FORCE%2c+WORK%2c+ENERGY+AND+POWER/short_note/unit4_physics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "FORCE, WORK, ENERGY AND POWER Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+4_+FORCE%2c+WORK%2c+ENERGY+AND+POWER/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "FORCE, WORK, ENERGY AND POWER Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+4_+FORCE%2c+WORK%2c+ENERGY+AND+POWER/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "FORCE, WORK, ENERGY AND POWER Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+4_+FORCE%2c+WORK%2c+ENERGY+AND+POWER/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 physics FORCE, WORK, ENERGY AND POWER Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+4_+FORCE%2c+WORK%2c+ENERGY+AND+POWER/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "Indigenous Knowledge Systems (IKS) and Practices Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Anthropology/Unit+7_+Indigenous+Knowledge+Systems+(IKS)+and+Practices/short_note/chapter7_Anthropology_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "Indigenous Knowledge Systems (IKS) and Practices Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Anthropology/Unit+7_+Indigenous+Knowledge+Systems+(IKS)+and+Practices/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "Indigenous Knowledge Systems (IKS) and Practices Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Anthropology/Unit+7_+Indigenous+Knowledge+Systems+(IKS)+and+Practices/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "Indigenous Knowledge Systems (IKS) and Practices Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Anthropology/Unit+7_+Indigenous+Knowledge+Systems+(IKS)+and+Practices/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman Anthropology Indigenous Knowledge Systems (IKS) and Practices Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Pre_Engineering_Courses/Anthropology/Unit+7_+Indigenous+Knowledge+Systems+(IKS)+and+Practices/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

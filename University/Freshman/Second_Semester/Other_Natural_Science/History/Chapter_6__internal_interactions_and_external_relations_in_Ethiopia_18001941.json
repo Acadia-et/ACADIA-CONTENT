@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "internal interactions and external relations in Ethiopia 1800-1941 Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+6_+internal+interactions+and+external+relations+in+Ethiopia+1800-1941/short_note/chapter6_History_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "internal interactions and external relations in Ethiopia 1800-1941 Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+6_+internal+interactions+and+external+relations+in+Ethiopia+1800-1941/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "internal interactions and external relations in Ethiopia 1800-1941 Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+6_+internal+interactions+and+external+relations+in+Ethiopia+1800-1941/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "internal interactions and external relations in Ethiopia 1800-1941 Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+6_+internal+interactions+and+external+relations+in+Ethiopia+1800-1941/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Freshman History internal interactions and external relations in Ethiopia 1800-1941 Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/University/freshman/Second_Semester/Other_Natural_Science/History/Chapter+6_+internal+interactions+and+external+relations+in+Ethiopia+1800-1941/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "exam",
+      "title": "2 : PHYSICAL QUANTITIES Unit Test",
+      "total_questions": 10,
+      "time_limit_minutes": 30,
+      "passing_score": 60,
+      "questions": [
+        {
+          "id": "physics_Grade_10_u2_exam_1",
+          "question": "What is the main topic of this unit?",
+          "options": {
+            "A": "Option A - Correct Answer",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "This is the correct answer."
+        }
+      ]
+    }
+  ]
+}

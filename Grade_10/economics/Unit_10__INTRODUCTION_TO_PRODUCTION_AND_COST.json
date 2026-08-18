@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "INTRODUCTION TO PRODUCTION AND COST Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+5_+INTRODUCTION+TO+PRODUCTION+AND+COST/short_note/unit10_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "INTRODUCTION TO PRODUCTION AND COST Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+5_+INTRODUCTION+TO+PRODUCTION+AND+COST/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "INTRODUCTION TO PRODUCTION AND COST Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+5_+INTRODUCTION+TO+PRODUCTION+AND+COST/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "INTRODUCTION TO PRODUCTION AND COST Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+5_+INTRODUCTION+TO+PRODUCTION+AND+COST/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 economics INTRODUCTION TO PRODUCTION AND COST Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+5_+INTRODUCTION+TO+PRODUCTION+AND+COST/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

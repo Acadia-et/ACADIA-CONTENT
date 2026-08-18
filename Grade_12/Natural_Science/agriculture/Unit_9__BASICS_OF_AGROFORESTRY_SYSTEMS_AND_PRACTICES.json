@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+13_+BASICS+OF+AGRO-FORESTRY+SYSTEMS+AND+PRACTICES/short_note/unit9_agriculture_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+13_+BASICS+OF+AGRO-FORESTRY+SYSTEMS+AND+PRACTICES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+13_+BASICS+OF+AGRO-FORESTRY+SYSTEMS+AND+PRACTICES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+13_+BASICS+OF+AGRO-FORESTRY+SYSTEMS+AND+PRACTICES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 agriculture BASICS OF AGRO-FORESTRY SYSTEMS AND PRACTICES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+13_+BASICS+OF+AGRO-FORESTRY+SYSTEMS+AND+PRACTICES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

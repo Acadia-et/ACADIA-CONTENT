@@ -1,0 +1,11 @@
+﻿{
+  "id": "Applied Mathematics_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Applied Mathematics",
+  "stream": "Pre_Engineering_Courses",
+  "description": "Freshman Applied Mathematics - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__Vectors_and_Vector_Spaces_Chapter_2__Matrices_and_Determinants_Chapter_3__Limit_and_Continuity_Chapter_4__Derivatives_Chapter_5__Application_of_Derivative_Chapter_6__Integration_Chapter_7__Integration_Techniques_Chapter_8__Improper_Integrals_Chapter_9__Application_of_Integration_Area_Chapter_10__Volume_of_Solids_of_Revolution_Chapter_11__Arc_Length_Chapter_12__Surface_Area", "title": "1 : Vectors and Vector Spaces Chapter 2_ Matrices and Determinants Chapter 3_ Limit and Continuity Chapter 4_ Derivatives Chapter 5_ Application of Derivative Chapter 6_ Integration Chapter 7_ Integration Techniques Chapter 8_ Improper Integrals Chapter 9_ Application of Integration (Area) Chapter 10_ Volume of Solids of Revolution Chapter 11_ Arc Length Chapter 12_ Surface Area", "file": "Chapter_1__Vectors_and_Vector_Spaces_Chapter_2__Matrices_and_Determinants_Chapter_3__Limit_and_Continuity_Chapter_4__Derivatives_Chapter_5__Application_of_Derivative_Chapter_6__Integration_Chapter_7__Integration_Techniques_Chapter_8__Improper_Integrals_Chapter_9__Application_of_Integration_Area_Chapter_10__Volume_of_Solids_of_Revolution_Chapter_11__Arc_Length_Chapter_12__Surface_Area.json", "folder": "Chapter 1_ Vectors and Vector Spaces Chapter 2_ Matrices and Determinants Chapter 3_ Limit and Continuity Chapter 4_ Derivatives Chapter 5_ Application of Derivative Chapter 6_ Integration Chapter 7_ Integration Techniques Chapter 8_ Improper Integrals Chapter 9_ Application of Integration (Area) Chapter 10_ Volume of Solids of Revolution Chapter 11_ Arc Length Chapter 12_ Surface Area", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

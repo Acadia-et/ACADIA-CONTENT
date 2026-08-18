@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+2_+THE+BASIC+ECONOMIC+PROBLEMS+AND+ECONOMIC+SYSTEMS/short_note/unit3_economics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+2_+THE+BASIC+ECONOMIC+PROBLEMS+AND+ECONOMIC+SYSTEMS/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+2_+THE+BASIC+ECONOMIC+PROBLEMS+AND+ECONOMIC+SYSTEMS/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+2_+THE+BASIC+ECONOMIC+PROBLEMS+AND+ECONOMIC+SYSTEMS/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 economics THE BASIC ECONOMIC PROBLEMS AND ECONOMIC SYSTEMS Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/economics/Unit+2_+THE+BASIC+ECONOMIC+PROBLEMS+AND+ECONOMIC+SYSTEMS/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

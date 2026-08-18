@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "CAMEL PRODUCTION AND MANAGEMENT Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+8_+CAMEL+PRODUCTION+AND+MANAGEMENT/short_note/unit30_agriculture_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "CAMEL PRODUCTION AND MANAGEMENT Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+8_+CAMEL+PRODUCTION+AND+MANAGEMENT/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "CAMEL PRODUCTION AND MANAGEMENT Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+8_+CAMEL+PRODUCTION+AND+MANAGEMENT/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "CAMEL PRODUCTION AND MANAGEMENT Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+8_+CAMEL+PRODUCTION+AND+MANAGEMENT/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_12 agriculture CAMEL PRODUCTION AND MANAGEMENT Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_12/agriculture/Unit+8_+CAMEL+PRODUCTION+AND+MANAGEMENT/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

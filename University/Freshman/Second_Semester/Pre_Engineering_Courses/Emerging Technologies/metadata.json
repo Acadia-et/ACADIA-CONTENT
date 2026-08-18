@@ -1,0 +1,11 @@
+﻿{
+  "id": "Emerging Technologies_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Emerging Technologies",
+  "stream": "Pre_Engineering_Courses",
+  "description": "Freshman Emerging Technologies - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__Introduction_to_Emerging_Technologies_Chapter_2__Overview_for_Data_Science_Chapter_3__Introduction_to_Artificial_Intelligence_AI_Chapter_4__Internet_of_Things_IoT_Chapter_5__Augmented_Reality_Chapter_6__Ethics_and_Professionalism_of_Emerging_Technologies_Chapter_7__Other_Emerging_Technologies", "title": "1 : Introduction to Emerging Technologies Chapter 2_ Overview for Data Science Chapter 3_ Introduction to Artificial Intelligence (AI) Chapter 4_ Internet of Things (IoT) Chapter 5_ Augmented Reality Chapter 6_ Ethics and Professionalism of Emerging Technologies Chapter 7_ Other Emerging Technologies", "file": "Chapter_1__Introduction_to_Emerging_Technologies_Chapter_2__Overview_for_Data_Science_Chapter_3__Introduction_to_Artificial_Intelligence_AI_Chapter_4__Internet_of_Things_IoT_Chapter_5__Augmented_Reality_Chapter_6__Ethics_and_Professionalism_of_Emerging_Technologies_Chapter_7__Other_Emerging_Technologies.json", "folder": "Chapter 1_ Introduction to Emerging Technologies Chapter 2_ Overview for Data Science Chapter 3_ Introduction to Artificial Intelligence (AI) Chapter 4_ Internet of Things (IoT) Chapter 5_ Augmented Reality Chapter 6_ Ethics and Professionalism of Emerging Technologies Chapter 7_ Other Emerging Technologies", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

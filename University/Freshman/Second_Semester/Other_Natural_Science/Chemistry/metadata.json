@@ -1,0 +1,11 @@
+﻿{
+  "id": "Chemistry_Freshman_Second_Semester",
+  "grade": "Freshman",
+  "semester": "Second_Semester",
+  "subject": "Chemistry",
+  "stream": "Other_Natural_Science",
+  "description": "Freshman Chemistry - Second_Semester",
+  "units": [
+    {"id": "Chapter_1__essential_ideas_in_chemistry_Chapter_2__atoms_molecules_and_ions_Chapter_3__mass_and_mole_concept_Chapter_4__stoichiometry_of_chemical_reaction_Chapter_5__electronic_structure_and_periodic_properties_of_elements_Chapter_6__chemical_bonding_and_molecular_geometry_Chapter_7__equilibrium_concepts_and_acid_base_equilibrium_Chapter_8__organic_chemistry", "title": "1 : essential ideas in chemistry Chapter 2_ atoms, molecules and ions Chapter 3_ mass and mole concept Chapter 4_ stoichiometry of chemical reaction Chapter 5_ electronic structure and periodic properties of elements Chapter 6_ chemical bonding and molecular geometry Chapter 7_ equilibrium concepts and acid base equilibrium Chapter 8_ organic chemistry", "file": "Chapter_1__essential_ideas_in_chemistry_Chapter_2__atoms_molecules_and_ions_Chapter_3__mass_and_mole_concept_Chapter_4__stoichiometry_of_chemical_reaction_Chapter_5__electronic_structure_and_periodic_properties_of_elements_Chapter_6__chemical_bonding_and_molecular_geometry_Chapter_7__equilibrium_concepts_and_acid_base_equilibrium_Chapter_8__organic_chemistry.json", "folder": "Chapter 1_ essential ideas in chemistry Chapter 2_ atoms, molecules and ions Chapter 3_ mass and mole concept Chapter 4_ stoichiometry of chemical reaction Chapter 5_ electronic structure and periodic properties of elements Chapter 6_ chemical bonding and molecular geometry Chapter 7_ equilibrium concepts and acid base equilibrium Chapter 8_ organic chemistry", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}

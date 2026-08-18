@@ -1,0 +1,25 @@
+﻿{
+  "items": [
+    {
+      "content_type": "past_paper",
+      "title": "Grade_11 chemistry 1 : ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS Sample Past Paper",
+      "year": 2025,
+      "time_limit_minutes": 15,
+      "total_questions": 2,
+      "questions": [
+        {
+          "id": "chemistry_Grade_11_u1_pp1",
+          "question": "What is the main topic?",
+          "options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+          },
+          "correct_answer": "A",
+          "explanation": "Explanation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+6_+ELECTROMAGNETIC+WAVES+AND+GEOMETRICAL+OPTICS/short_note/unit11_physics_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+6_+ELECTROMAGNETIC+WAVES+AND+GEOMETRICAL+OPTICS/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+6_+ELECTROMAGNETIC+WAVES+AND+GEOMETRICAL+OPTICS/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+6_+ELECTROMAGNETIC+WAVES+AND+GEOMETRICAL+OPTICS/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 physics ELECTROMAGNETIC WAVES AND GEOMETRICAL OPTICS Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/physics/Unit+6_+ELECTROMAGNETIC+WAVES+AND+GEOMETRICAL+OPTICS/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

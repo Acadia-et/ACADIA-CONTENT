@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "AFRICA AND THE OUTSIDE WORLD 1500-1880s Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+6_+AFRICA+AND+THE+OUTSIDE+WORLD+1500-1880s/short_note/unit6_history_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "AFRICA AND THE OUTSIDE WORLD 1500-1880s Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+6_+AFRICA+AND+THE+OUTSIDE+WORLD+1500-1880s/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "AFRICA AND THE OUTSIDE WORLD 1500-1880s Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+6_+AFRICA+AND+THE+OUTSIDE+WORLD+1500-1880s/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "AFRICA AND THE OUTSIDE WORLD 1500-1880s Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+6_+AFRICA+AND+THE+OUTSIDE+WORLD+1500-1880s/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 history AFRICA AND THE OUTSIDE WORLD 1500-1880s Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/history/Unit+6_+AFRICA+AND+THE+OUTSIDE+WORLD+1500-1880s/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

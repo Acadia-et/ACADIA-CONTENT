@@ -1,0 +1,40 @@
+﻿{
+  "items": [
+    {
+      "content_type": "short_note",
+      "title": "GLOBALIZATION AND GLOBAL ISSUES Notes",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+GLOBALIZATION+AND+GLOBAL+ISSUES/short_note/unit16_citizenship_notes.pdf",
+      "file_format": "pdf",
+      "file_size_mb": 0.18,
+      "free_content": false
+    },
+    {
+      "content_type": "quiz",
+      "title": "GLOBALIZATION AND GLOBAL ISSUES Quick Check",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+GLOBALIZATION+AND+GLOBAL+ISSUES/quiz/quiz.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "exam",
+      "title": "GLOBALIZATION AND GLOBAL ISSUES Unit Test",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+GLOBALIZATION+AND+GLOBAL+ISSUES/exam/exam.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "video",
+      "title": "GLOBALIZATION AND GLOBAL ISSUES Videos",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+GLOBALIZATION+AND+GLOBAL+ISSUES/video/videos.json",
+      "file_format": "json",
+      "free_content": false
+    },
+    {
+      "content_type": "past_paper",
+      "title": "Grade_10 citizenship GLOBALIZATION AND GLOBAL ISSUES Sample Past Paper",
+      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_10/citizenship/Unit+8_+GLOBALIZATION+AND+GLOBAL+ISSUES/past_paper/past_paper.json",
+      "file_format": "json",
+      "free_content": false
+    }
+  ]
+}

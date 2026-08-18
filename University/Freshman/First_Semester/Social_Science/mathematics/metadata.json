@@ -1,0 +1,11 @@
+﻿{
+  "id": "mathematics_Freshman_First_Semester",
+  "grade": "Freshman",
+  "semester": "First_Semester",
+  "subject": "mathematics",
+  "stream": "Social_Science",
+  "description": "Freshman mathematics - First_Semester",
+  "units": [
+    {"id": "Chapter_1__propositional_logic_and_set_theory_Chapter_2__the_real_and_complex_number_system_Chapter_3__function_Chapter_4__analytic_geometry", "title": "1 : propositional logic and set theory Chapter 2_ the real and complex number system Chapter 3_ function Chapter 4_ analytic geometry", "file": "Chapter_1__propositional_logic_and_set_theory_Chapter_2__the_real_and_complex_number_system_Chapter_3__function_Chapter_4__analytic_geometry.json", "folder": "Chapter 1_ propositional logic and set theory Chapter 2_ the real and complex number system Chapter 3_ function Chapter 4_ analytic geometry", "content_types": ["short_note", "video", "quiz", "exam", "past_paper", "flashcard"]}
+  ]
+}
