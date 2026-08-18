@@ -23,13 +23,6 @@
       "free_content": false
     },
     {
-      "content_type": "flashcard",
-      "title": "Introduction to Biology Flashcards",
-      "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/biology/Unit%201_%20INTRODUCTION%20TO%20BIOLOGY/flashcard/flashcards.json",
-      "file_format": "json",
-      "free_content": false
-    },
-    {
       "content_type": "video",
       "title": "Introduction to Biology Videos",
       "download_url": "https://raw.githubusercontent.com/Acadia-et/ACADIA-CONTENT/main/Grade_9/biology/Unit%201_%20INTRODUCTION%20TO%20BIOLOGY/video/videos.json",
