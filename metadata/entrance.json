@@ -2,26 +2,32 @@
   "version": "1.0.0",
   "streams": {
     "natural_science": {
+      "name": "Natural Science",
       "metadata_file": "entrance/natural_science.json",
       "subjects": [
-        "Mathematics",
-        "English",
-        "Physics",
-        "Chemistry",
+        "Aptitude",
         "Biology",
-        "Aptitude"
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "English"
       ]
     },
     "social_science": {
+      "name": "Social Science",
       "metadata_file": "entrance/social_science.json",
       "subjects": [
-        "Mathematics",
-        "English",
+        "Aptitude",
+        "Economics",
         "Geography",
         "History",
-        "Economics",
-        "Aptitude"
+        "Mathematics",
+        "English"
       ]
     }
+  },
+  "years": {
+    "start": 2010,
+    "end": 2018
   }
 }
