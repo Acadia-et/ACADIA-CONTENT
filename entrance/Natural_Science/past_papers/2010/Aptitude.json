@@ -1,10 +1,24 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Aptitude",
-    "year":  2010,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_natural_aptitude_2010",
+  "content_type": "past_paper",
+  "title": "Aptitude - 2010",
+  "year": 2010,
+  "subject": "Aptitude",
+  "stream": "natural_science",
+  "total_questions": 40,
+  "time_limit_minutes": 60,
+  "questions": [
+    {
+      "id": "apt_2010_q1",
+      "question": "Sample aptitude question 1?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correct_answer": "A",
+      "explanation": "Explanation for the correct answer."
+    }
+  ]
 }
