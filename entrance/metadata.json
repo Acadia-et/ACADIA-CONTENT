@@ -1,10 +1,67 @@
-{
-  "stream_id": "natural_science",
-  "stream_name": "Natural Science",
-  "academic_path": "high-school",
-  "grades": ["9", "10", "11", "12"],
-  "subjects": ["Mathematics", "English", "Physics", "Chemistry", "Biology", "Aptitude"],
-  "years": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
-  "content_type": "entrance_exam",
-  "description": "Ethiopian university entrance exam preparation materials for Natural Science stream"
+﻿{
+    "version":  "1.0",
+    "name":  "Entrance Exam",
+    "description":  "Entrance exam content for Grade 9-12",
+    "created":  "2026-08-18 15:01:12",
+    "pastPapers":  {
+                       "socialScience":  {
+                                             "path":  "Social_Science/past_papers",
+                                             "subjects":  [
+                                                              "Aptitude",
+                                                              "Economics",
+                                                              "English",
+                                                              "Geography",
+                                                              "History",
+                                                              "Mathematics"
+                                                          ]
+                                         },
+                       "years":  [
+                                     2010,
+                                     2011,
+                                     2012,
+                                     2013,
+                                     2014,
+                                     2015,
+                                     2016,
+                                     2017,
+                                     2018
+                                 ],
+                       "naturalScience":  {
+                                              "path":  "Natural_Science/past_papers",
+                                              "subjects":  [
+                                                               "Aptitude",
+                                                               "Biology",
+                                                               "Chemistry",
+                                                               "English",
+                                                               "Mathematics",
+                                                               "Physics"
+                                                           ]
+                                          }
+                   },
+    "streams":  [
+                    {
+                        "path":  "Natural_Science",
+                        "name":  "Natural Science",
+                        "subjects":  [
+                                         "Aptitude",
+                                         "Biology",
+                                         "Chemistry",
+                                         "Physics",
+                                         "Mathematics",
+                                         "English"
+                                     ]
+                    },
+                    {
+                        "path":  "Social_Science",
+                        "name":  "Social Science",
+                        "subjects":  [
+                                         "Aptitude",
+                                         "Economics",
+                                         "Geography",
+                                         "History",
+                                         "English",
+                                         "Mathematics"
+                                     ]
+                    }
+                ]
 }
