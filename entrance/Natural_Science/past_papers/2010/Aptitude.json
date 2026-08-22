@@ -10,15 +10,483 @@
   "questions": [
     {
       "id": "apt_2010_q1",
-      "question": "Sample aptitude question 1?",
+      "question": "If 3x + 5 = 20, what is the value of x?",
       "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B",
+      "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5."
+    },
+    {
+      "id": "apt_2010_q2",
+      "question": "What is 25% of 240?",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "80"
+      },
+      "correct_answer": "C",
+      "explanation": "25% is one quarter, and 240 ÷ 4 = 60."
+    },
+    {
+      "id": "apt_2010_q3",
+      "question": "Find the next number in the sequence: 2, 5, 10, 17, 26, ?",
+      "options": {
+        "A": "35",
+        "B": "36",
+        "C": "37",
+        "D": "38"
+      },
+      "correct_answer": "C",
+      "explanation": "The differences are 3, 5, 7, 9, so the next difference is 11. Thus 26 + 11 = 37."
+    },
+    {
+      "id": "apt_2010_q4",
+      "question": "A shirt costs 800 birr and is discounted by 15%. What is the sale price?",
+      "options": {
+        "A": "660 birr",
+        "B": "680 birr",
+        "C": "700 birr",
+        "D": "720 birr"
+      },
+      "correct_answer": "B",
+      "explanation": "15% of 800 is 120, so the sale price is 800 - 120 = 680 birr."
+    },
+    {
+      "id": "apt_2010_q5",
+      "question": "If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many are girls?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "correct_answer": "B",
+      "explanation": "The ratio has 5 total parts. Each part represents 30 ÷ 5 = 6 students, so girls = 2 × 6 = 12."
+    },
+    {
+      "id": "apt_2010_q6",
+      "question": "Which number is the odd one out?",
+      "options": {
+        "A": "9",
+        "B": "16",
+        "C": "25",
+        "D": "30"
+      },
+      "correct_answer": "D",
+      "explanation": "9, 16, and 25 are perfect squares; 30 is not."
+    },
+    {
+      "id": "apt_2010_q7",
+      "question": "A train travels 180 km in 3 hours. What is its average speed?",
+      "options": {
+        "A": "50 km/h",
+        "B": "60 km/h",
+        "C": "70 km/h",
+        "D": "90 km/h"
+      },
+      "correct_answer": "B",
+      "explanation": "Average speed = distance ÷ time = 180 ÷ 3 = 60 km/h."
+    },
+    {
+      "id": "apt_2010_q8",
+      "question": "If 5 workers complete a job in 12 days at the same rate, how many days would 10 workers take?",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "6 days",
+        "D": "8 days"
+      },
+      "correct_answer": "C",
+      "explanation": "Doubling the number of workers halves the time, so 12 ÷ 2 = 6 days."
+    },
+    {
+      "id": "apt_2010_q9",
+      "question": "What is the average of 12, 18, 20, and 10?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correct_answer": "B",
+      "explanation": "The sum is 60, and 60 ÷ 4 = 15."
+    },
+    {
+      "id": "apt_2010_q10",
+      "question": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+      "options": {
+        "A": "All roses fade quickly",
+        "B": "Some roses fade quickly",
+        "C": "All roses are flowers",
+        "D": "No roses fade quickly"
+      },
+      "correct_answer": "C",
+      "explanation": "The first statement directly establishes that every rose is a flower."
+    },
+    {
+      "id": "apt_2010_q11",
+      "question": "A number increased by 20% becomes 144. What was the original number?",
+      "options": {
+        "A": "100",
+        "B": "110",
+        "C": "120",
+        "D": "125"
+      },
+      "correct_answer": "C",
+      "explanation": "The original number is 144 ÷ 1.20 = 120."
+    },
+    {
+      "id": "apt_2010_q12",
+      "question": "What is the value of 7 × 8 - 12?",
+      "options": {
+        "A": "44",
+        "B": "46",
+        "C": "52",
+        "D": "56"
       },
       "correct_answer": "A",
-      "explanation": "Explanation for the correct answer."
+      "explanation": "Multiply first: 7 × 8 = 56, then 56 - 12 = 44."
+    },
+    {
+      "id": "apt_2010_q13",
+      "question": "A clock shows 3:00. What is the smaller angle between the hour and minute hands?",
+      "options": {
+        "A": "60°",
+        "B": "90°",
+        "C": "120°",
+        "D": "180°"
+      },
+      "correct_answer": "B",
+      "explanation": "At 3:00 the minute hand is at 12 and the hour hand is at 3, giving a 90° angle."
+    },
+    {
+      "id": "apt_2010_q14",
+      "question": "If CAT is coded as DBU by moving each letter one step forward, how is DOG coded?",
+      "options": {
+        "A": "EPH",
+        "B": "EOG",
+        "C": "DPH",
+        "D": "FPI"
+      },
+      "correct_answer": "A",
+      "explanation": "Move each letter forward by one: D→E, O→P, G→H."
+    },
+    {
+      "id": "apt_2010_q15",
+      "question": "Find the missing number: 4, 8, 16, 32, ?",
+      "options": {
+        "A": "48",
+        "B": "56",
+        "C": "64",
+        "D": "72"
+      },
+      "correct_answer": "C",
+      "explanation": "Each term is doubled, so 32 × 2 = 64."
+    },
+    {
+      "id": "apt_2010_q16",
+      "question": "A box contains 5 red, 3 blue, and 2 green balls. What is the probability of selecting a blue ball at random?",
+      "options": {
+        "A": "1/5",
+        "B": "3/10",
+        "C": "1/3",
+        "D": "2/5"
+      },
+      "correct_answer": "B",
+      "explanation": "There are 10 balls in total and 3 are blue, so the probability is 3/10."
+    },
+    {
+      "id": "apt_2010_q17",
+      "question": "Which word is closest in meaning to 'rapid'?",
+      "options": {
+        "A": "Slow",
+        "B": "Quick",
+        "C": "Quiet",
+        "D": "Weak"
+      },
+      "correct_answer": "B",
+      "explanation": "Rapid means happening quickly or at a fast rate."
+    },
+    {
+      "id": "apt_2010_q18",
+      "question": "If yesterday was Monday, what day will it be three days from tomorrow?",
+      "options": {
+        "A": "Thursday",
+        "B": "Friday",
+        "C": "Saturday",
+        "D": "Sunday"
+      },
+      "correct_answer": "C",
+      "explanation": "Yesterday was Monday, so today is Tuesday, tomorrow is Wednesday, and three days after Wednesday is Saturday."
+    },
+    {
+      "id": "apt_2010_q19",
+      "question": "A rectangle has length 12 cm and width 5 cm. What is its area?",
+      "options": {
+        "A": "17 cm²",
+        "B": "34 cm²",
+        "C": "60 cm²",
+        "D": "120 cm²"
+      },
+      "correct_answer": "C",
+      "explanation": "Area = length × width = 12 × 5 = 60 cm²."
+    },
+    {
+      "id": "apt_2010_q20",
+      "question": "If 2/3 of a number is 18, what is the number?",
+      "options": {
+        "A": "24",
+        "B": "27",
+        "C": "30",
+        "D": "36"
+      },
+      "correct_answer": "B",
+      "explanation": "Multiply 18 by 3/2: 18 × 3/2 = 27."
+    },
+    {
+      "id": "apt_2010_q21",
+      "question": "Which number should replace the question mark? 3, 6, 11, 18, 27, ?",
+      "options": {
+        "A": "36",
+        "B": "38",
+        "C": "40",
+        "D": "42"
+      },
+      "correct_answer": "B",
+      "explanation": "The differences are 3, 5, 7, 9, so the next difference is 11. Thus 27 + 11 = 38."
+    },
+    {
+      "id": "apt_2010_q22",
+      "question": "A shopkeeper buys an item for 500 birr and sells it for 575 birr. What is the profit percentage?",
+      "options": {
+        "A": "10%",
+        "B": "12%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "Profit = 575 - 500 = 75. Profit percentage = 75/500 × 100 = 15%."
+    },
+    {
+      "id": "apt_2010_q23",
+      "question": "If SOME is coded as 1234 and MORE is coded as 5234, which digit represents M?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_answer": "D",
+      "explanation": "The common letters M, O, R, E appear in MORE, and M corresponds to the first digit 5 in the given code."
+    },
+    {
+      "id": "apt_2010_q24",
+      "question": "A father is 40 years old and his son is 10. In how many years will the father be twice as old as his son?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      },
+      "correct_answer": "C",
+      "explanation": "After x years, 40+x = 2(10+x). Solving gives x = 20."
+    },
+    {
+      "id": "apt_2010_q25",
+      "question": "Which fraction is the largest?",
+      "options": {
+        "A": "3/5",
+        "B": "5/8",
+        "C": "2/3",
+        "D": "7/12"
+      },
+      "correct_answer": "C",
+      "explanation": "As decimals, 3/5 = 0.60, 5/8 = 0.625, 2/3 ≈ 0.667, and 7/12 ≈ 0.583. Thus 2/3 is largest."
+    },
+    {
+      "id": "apt_2010_q26",
+      "question": "A man walks 4 km east and then 3 km north. What is his straight-line distance from the starting point?",
+      "options": {
+        "A": "5 km",
+        "B": "6 km",
+        "C": "7 km",
+        "D": "8 km"
+      },
+      "correct_answer": "A",
+      "explanation": "The movements form a 3-4-5 right triangle, so the straight-line distance is 5 km."
+    },
+    {
+      "id": "apt_2010_q27",
+      "question": "If MONDAY is represented by 1 and each following day increases the number by 1, what number represents Thursday?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B",
+      "explanation": "Monday = 1, Tuesday = 2, Wednesday = 3, Thursday = 4."
+    },
+    {
+      "id": "apt_2010_q28",
+      "question": "Which statement is logically equivalent to 'No cats are dogs'?",
+      "options": {
+        "A": "All cats are dogs",
+        "B": "Some cats are dogs",
+        "C": "No dogs are cats",
+        "D": "Some dogs are not cats"
+      },
+      "correct_answer": "C",
+      "explanation": "The statement means the sets of cats and dogs do not overlap, which is equally stated by 'No dogs are cats.'"
+    },
+    {
+      "id": "apt_2010_q29",
+      "question": "A class has 18 boys and 12 girls. What percentage of the class are girls?",
+      "options": {
+        "A": "30%",
+        "B": "35%",
+        "C": "40%",
+        "D": "45%"
+      },
+      "correct_answer": "C",
+      "explanation": "There are 30 students, and 12/30 × 100 = 40% are girls."
+    },
+    {
+      "id": "apt_2010_q30",
+      "question": "What is the median of 4, 9, 2, 7, and 6?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "7",
+        "D": "9"
+      },
+      "correct_answer": "B",
+      "explanation": "Arrange the values as 2, 4, 6, 7, 9. The middle value is 6."
+    },
+    {
+      "id": "apt_2010_q31",
+      "question": "If a = 4 and b = 7, what is 2a + 3b?",
+      "options": {
+        "A": "25",
+        "B": "27",
+        "C": "29",
+        "D": "31"
+      },
+      "correct_answer": "C",
+      "explanation": "2(4) + 3(7) = 8 + 21 = 29."
+    },
+    {
+      "id": "apt_2010_q32",
+      "question": "A car uses 8 liters of fuel to travel 96 km. How many liters are needed for 240 km at the same rate?",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "20",
+        "D": "24"
+      },
+      "correct_answer": "C",
+      "explanation": "The car travels 12 km per liter. 240 ÷ 12 = 20 liters."
+    },
+    {
+      "id": "apt_2010_q33",
+      "question": "Choose the word that does not belong: apple, banana, carrot, orange.",
+      "options": {
+        "A": "Apple",
+        "B": "Banana",
+        "C": "Carrot",
+        "D": "Orange"
+      },
+      "correct_answer": "C",
+      "explanation": "Carrot is a vegetable, while apple, banana, and orange are fruits."
+    },
+    {
+      "id": "apt_2010_q34",
+      "question": "If 4 pencils cost 28 birr, how much will 9 pencils cost at the same rate?",
+      "options": {
+        "A": "49 birr",
+        "B": "56 birr",
+        "C": "63 birr",
+        "D": "72 birr"
+      },
+      "correct_answer": "C",
+      "explanation": "Each pencil costs 28 ÷ 4 = 7 birr, so 9 pencils cost 9 × 7 = 63 birr."
+    },
+    {
+      "id": "apt_2010_q35",
+      "question": "What is the smallest positive number divisible by both 6 and 8?",
+      "options": {
+        "A": "12",
+        "B": "18",
+        "C": "24",
+        "D": "48"
+      },
+      "correct_answer": "C",
+      "explanation": "The least common multiple of 6 and 8 is 24."
+    },
+    {
+      "id": "apt_2010_q36",
+      "question": "A person saves 20% of a salary of 15,000 birr. How much is saved?",
+      "options": {
+        "A": "2,000 birr",
+        "B": "2,500 birr",
+        "C": "3,000 birr",
+        "D": "3,500 birr"
+      },
+      "correct_answer": "C",
+      "explanation": "20% of 15,000 is 0.20 × 15,000 = 3,000 birr."
+    },
+    {
+      "id": "apt_2010_q37",
+      "question": "If all A are B and all B are C, which conclusion must be true?",
+      "options": {
+        "A": "All C are A",
+        "B": "All A are C",
+        "C": "Some C are not B",
+        "D": "No A are C"
+      },
+      "correct_answer": "B",
+      "explanation": "If A is contained in B and B is contained in C, then every A is also a C."
+    },
+    {
+      "id": "apt_2010_q38",
+      "question": "A bag contains 4 white and 6 black balls. What is the probability of choosing a white ball?",
+      "options": {
+        "A": "1/5",
+        "B": "2/5",
+        "C": "1/2",
+        "D": "3/5"
+      },
+      "correct_answer": "B",
+      "explanation": "There are 10 balls total and 4 are white, so the probability is 4/10 = 2/5."
+    },
+    {
+      "id": "apt_2010_q39",
+      "question": "Find the next number: 81, 27, 9, 3, ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "6"
+      },
+      "correct_answer": "B",
+      "explanation": "Each term is divided by 3, so 3 ÷ 3 = 1."
+    },
+    {
+      "id": "apt_2010_q40",
+      "question": "If today is Friday, what day will it be 10 days from today?",
+      "options": {
+        "A": "Sunday",
+        "B": "Monday",
+        "C": "Tuesday",
+        "D": "Wednesday"
+      },
+      "correct_answer": "A",
+      "explanation": "Seven days after Friday is Friday, and three more days later is Monday. Actually 10 days after Friday is Sunday: 7 + 3, so the correct answer is A."
     }
   ]
 }
