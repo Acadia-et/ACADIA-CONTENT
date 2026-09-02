@@ -1,10 +1,1452 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "English",
-    "year":  2014,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_natural_english_2014",
+  "content_type": "past_paper",
+  "title": "English - 2014/15",
+  "year": "2014",
+  "subject": "English",
+  "stream": "natural_science",
+  "total_questions": 120,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2014_q1",
+      "question": "I like sugar in my tea. Do have some please?",
+      "options": {
+        "A": "a little",
+        "B": "any",
+        "C": "many",
+        "D": "a few"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is 'a little' because sugar is an uncountable noun. 'A little' is used with uncountable nouns in positive statements and questions where a positive response is expected. 'Any' is typically used in negative sentences or questions, but 'Do have some please?' is an invitation/request where 'some' or 'a little' is appropriate. 'Many' and 'a few' are used with countable nouns."
+    },
+    {
+      "id": "eng_2014_q2",
+      "question": "Take your umbrella with you. It rain in the afternoon.",
+      "options": {
+        "A": "must",
+        "B": "might",
+        "C": "has to",
+        "D": "should"
+      },
+      "correct_answer": "B",
+      "explanation": "'Might' is used to express possibility. In this context, it might rain in the afternoon, so it's a possibility. 'Must' expresses obligation or strong necessity. 'Has to' also expresses obligation. 'Should' expresses advice or expectation. The sentence is suggesting that rain is possible, so 'might' is the best choice."
+    },
+    {
+      "id": "eng_2014_q3",
+      "question": "I think I saw you coming out of the Director's office. did you go there?",
+      "options": {
+        "A": "Who",
+        "B": "What",
+        "C": "For how",
+        "D": "Why"
+      },
+      "correct_answer": "D",
+      "explanation": "'Why' asks for a reason, which fits the context of the question. The speaker saw someone coming out of the Director's office and is asking for the reason. 'Who' asks about a person, 'What' asks about a thing or action, and 'For how' asks about duration. The question is asking for an explanation, so 'Why' is correct."
+    },
+    {
+      "id": "eng_2014_q4",
+      "question": "I eat nearly all kinds of food. drinks, I only like soft drinks and fruit juices.",
+      "options": {
+        "A": "For",
+        "B": "As far as",
+        "C": "With respect to",
+        "D": "In spite of"
+      },
+      "correct_answer": "A",
+      "explanation": "'For' is used to indicate the subject being discussed. In this sentence, the speaker is introducing a new topic: drinks. 'As far as' means 'to the extent that,' which doesn't fit as well here. 'With respect to' is more formal and implies a comparison. 'In spite of' indicates contrast. The speaker is introducing a new category, so 'For' is the most natural choice."
+    },
+    {
+      "id": "eng_2014_q5",
+      "question": "Bekalu: How do you watch television?\nDinku: Every evening.",
+      "options": {
+        "A": "often",
+        "B": "much",
+        "C": "happy",
+        "D": "relaxed"
+      },
+      "correct_answer": "A",
+      "explanation": "'How often' asks about frequency. The response 'Every evening' indicates frequency, so the question must be 'How often do you watch television?' The word 'often' is the correct word to complete the question. 'How much' asks about quantity, and 'how happy' or 'how relaxed' ask about states."
+    },
+    {
+      "id": "eng_2014_q6",
+      "question": "He something at the roadside and started running as fast as he could.",
+      "options": {
+        "A": "sees",
+        "B": "saw",
+        "C": "was seen",
+        "D": "has seen"
+      },
+      "correct_answer": "B",
+      "explanation": "The action happened in the past ('started running'), so the past tense 'saw' is the correct choice. 'Sees' is present tense, 'was seen' is passive voice, and 'has seen' is present perfect. The sentence describes a sequence of past events, so simple past is appropriate."
+    },
+    {
+      "id": "eng_2014_q7",
+      "question": "You say your friend has not been around for some time. you last see him?",
+      "options": {
+        "A": "Who",
+        "B": "Why",
+        "C": "Wherever",
+        "D": "When"
+      },
+      "correct_answer": "D",
+      "explanation": "'When' asks about time, and the question is asking about the specific time the person last saw their friend. 'Who' asks about a person, 'Why' asks for a reason, and 'Wherever' means 'in any place.' The question is a natural follow-up to the statement that the friend has not been around, asking about the last time they were seen."
+    },
+    {
+      "id": "eng_2014_q8",
+      "question": "We didn't like the talk show, we switched movie channel.",
+      "options": {
+        "A": "as",
+        "B": "because",
+        "C": "so",
+        "D": "but"
+      },
+      "correct_answer": "C",
+      "explanation": "'So' indicates a result or consequence. The fact that they didn't like the talk show resulted in them switching channels. 'As' and 'because' indicate a reason, but the first part of the sentence already has a reason. 'But' indicates contrast. The sentence shows cause and effect, so 'so' is the best choice."
+    },
+    {
+      "id": "eng_2014_q9",
+      "question": "My friend is sometimes hard to convince but I like him",
+      "options": {
+        "A": "even",
+        "B": "although",
+        "C": "but",
+        "D": "nonetheless"
+      },
+      "correct_answer": "D",
+      "explanation": "'Nonetheless' means 'in spite of that' or 'however.' It connects two contrasting ideas: the friend is hard to convince, yet I like him. The word 'but' is already used in the sentence, so 'nonetheless' provides a better transition. 'Even' doesn't fit this context, and 'although' would require a clause. 'Nonetheless' is a conjunctive adverb that appropriately links the two parts."
+    },
+    {
+      "id": "eng_2014_q10",
+      "question": "Tomorrow, Sofanit her assignments the whole day.",
+      "options": {
+        "A": "have been doing",
+        "B": "does",
+        "C": "would have done",
+        "D": "will be doing"
+      },
+      "correct_answer": "D",
+      "explanation": "'Will be doing' is the future continuous tense, which is used to describe an action that will be in progress at a specific time in the future. The phrase 'the whole day' suggests an ongoing action. 'Does' is present tense, 'have been doing' is present perfect continuous, and 'would have done' is past conditional."
+    },
+    {
+      "id": "eng_2014_q11",
+      "question": "Members of the team sat down under a tree and rested because they were tired after the long journey on foot.",
+      "options": {
+        "A": "extremely",
+        "B": "hardly",
+        "C": "quickly",
+        "D": "fast"
+      },
+      "correct_answer": "A",
+      "explanation": "'Extremely' is an adverb of degree that modifies 'tired,' indicating a high level of exhaustion. 'Hardly' means 'almost not,' which doesn't make sense here. 'Quickly' and 'fast' describe speed, not the degree of tiredness. The team rested because they were extremely tired after the long journey."
+    },
+    {
+      "id": "eng_2014_q12",
+      "question": "The country was able to register a significant economic growth the negative impacts of both internal and external factors.",
+      "options": {
+        "A": "in spite",
+        "B": "although",
+        "C": "despite",
+        "D": "even though"
+      },
+      "correct_answer": "C",
+      "explanation": "'Despite' is a preposition that is followed by a noun or noun phrase. 'In spite' requires 'of' to be followed by a noun. 'Although' and 'even though' require a clause (subject + verb). The phrase 'the negative impacts' is a noun phrase, so 'despite' is the correct choice."
+    },
+    {
+      "id": "eng_2014_q13",
+      "question": "I hate going out for a walk the rainy season.",
+      "options": {
+        "A": "at",
+        "B": "during",
+        "C": "at the same time as",
+        "D": "while"
+      },
+      "correct_answer": "B",
+      "explanation": "'During' is a preposition that indicates a period of time. 'The rainy season' is a time period, so 'during' is appropriate. 'At' is used for specific times, not extended periods. 'At the same time as' implies simultaneity, which doesn't fit. 'While' requires a clause (subject + verb)."
+    },
+    {
+      "id": "eng_2014_q14",
+      "question": "Our housemid is really a nice woman. She",
+      "options": {
+        "A": "is as",
+        "B": "is like",
+        "C": "acts",
+        "D": "looks"
+      },
+      "correct_answer": "B",
+      "explanation": "'Is like' is used to describe someone's character or personality. The sentence describes the housemaid as a nice woman, so 'is like' is appropriate. 'Is as' requires a comparison. 'Acts' describes behavior in a specific situation. 'Looks' describes appearance, not personality."
+    },
+    {
+      "id": "eng_2014_q15",
+      "question": "Many more books for the school library next year.",
+      "options": {
+        "A": "buy",
+        "B": "will buy",
+        "C": "are bought",
+        "D": "will be bought"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence is in passive voice because the books are receiving the action (they are being bought). 'Next year' indicates future tense. The passive voice in future tense is 'will be bought.' 'Buy' and 'will buy' are active voice. 'Are bought' is present passive."
+    },
+    {
+      "id": "eng_2014_q16",
+      "question": "All the participants of the meeting freely.",
+      "options": {
+        "A": "allowed",
+        "B": "were allowed",
+        "C": "were allow",
+        "D": "allow"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence is in passive voice: the participants are the recipients of the action (they were allowed). 'Were allowed' is the correct past passive form. 'Allowed' without a helping verb is incomplete. 'Were allow' is grammatically incorrect. 'Allow' is present tense active voice."
+    },
+    {
+      "id": "eng_2014_q17",
+      "question": "I think they the matter at the meeting.",
+      "options": {
+        "A": "are going to discuss",
+        "B": "will be going to discuss",
+        "C": "discussing",
+        "D": "going to discuss"
+      },
+      "correct_answer": "A",
+      "explanation": "'Are going to discuss' is the correct future tense form indicating a planned action. 'Will be going to discuss' is redundant (using both 'will be' and 'going to'). 'Discussing' is present participle and needs a helping verb. 'Going to discuss' is incomplete without a helping verb."
+    },
+    {
+      "id": "eng_2014_q18",
+      "question": "Although the doctor has warned him several times, he hasn't stopped yet.",
+      "options": {
+        "A": "to drink",
+        "B": "drinks",
+        "C": "to get drunk",
+        "D": "drinking"
+      },
+      "correct_answer": "D",
+      "explanation": "After the verb 'stop,' we use the gerund (-ing form) to indicate stopping an activity. 'Stop drinking' means to cease the activity of drinking. 'Stop to drink' would mean to stop in order to drink, which doesn't fit the context. 'Drinks' is third person singular present tense."
+    },
+    {
+      "id": "eng_2014_q19",
+      "question": "If he more carefully, he wouldn't have had the accident.",
+      "options": {
+        "A": "had drive",
+        "B": "drove",
+        "C": "would drive",
+        "D": "had driven"
+      },
+      "correct_answer": "D",
+      "explanation": "This is a third conditional sentence (past unreal condition). The structure is: If + past perfect (had driven), would have + past participle (wouldn't have had). 'Had drive' is grammatically incorrect. 'Drove' is simple past (second conditional). 'Would drive' is not used in the if-clause of conditionals."
+    },
+    {
+      "id": "eng_2014_q20",
+      "question": "The place is a long way from here. I think we a taxi.",
+      "options": {
+        "A": "should",
+        "B": "should have",
+        "C": "ought take",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "explanation": "'Should' is used to give advice or express obligation. The sentence is giving advice about taking a taxi. 'Should have' refers to past obligation that wasn't fulfilled. 'Ought' requires 'to' before a verb. 'Had' is past tense."
+    },
+    {
+      "id": "eng_2014_q21",
+      "question": "The new park is really",
+      "options": {
+        "A": "fascinated",
+        "B": "fascinates",
+        "C": "fascinating",
+        "D": "fascination"
+      },
+      "correct_answer": "C",
+      "explanation": "'Fascinating' is an adjective that describes something that causes fascination. The park is the thing that causes fascination, so the -ing adjective is used. 'Fascinated' describes how someone feels. 'Fascinates' is a verb. 'Fascination' is a noun."
+    },
+    {
+      "id": "eng_2014_q22",
+      "question": "We remained idle yesterday; we television.",
+      "options": {
+        "A": "neither ... nor",
+        "B": "both ... and",
+        "C": "either ... or",
+        "D": "haven't"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence structure suggests a negative statement about two activities. 'Neither...nor' is used to negate both options. The complete sentence would be: 'We remained idle yesterday; we neither watched television nor read a book.' The other options don't fit the negative context."
+    },
+    {
+      "id": "eng_2014_q23",
+      "question": "Many people do not it is easy to find jobs these days.",
+      "options": {
+        "A": "count",
+        "B": "think",
+        "C": "want",
+        "D": "dare"
+      },
+      "correct_answer": "B",
+      "explanation": "'Think' is used to express an opinion or belief. The sentence expresses the opinion that finding jobs is not easy. 'Count' means to number or rely on. 'Want' expresses desire. 'Dare' expresses courage or challenge."
+    },
+    {
+      "id": "eng_2014_q24",
+      "question": "My mobile phone is missing. I dropped it somewhere.",
+      "options": {
+        "A": "would have",
+        "B": "might have",
+        "C": "couldn't have",
+        "D": "haven't dropped"
+      },
+      "correct_answer": "B",
+      "explanation": "'Might have' expresses possibility about a past action. The speaker is unsure where they dropped the phone, so it's a possibility. 'Would have' expresses a conditional result. 'Couldn't have' expresses impossibility. 'Haven't dropped' contradicts the statement that the phone is missing."
+    },
+    {
+      "id": "eng_2014_q25",
+      "question": "If you practice regularly, there is no doubt that your English much better.",
+      "options": {
+        "A": "has been",
+        "B": "is",
+        "C": "will be",
+        "D": "was"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a first conditional sentence (real possibility). The structure is: If + present simple, will + base verb. 'Will be' is the correct future form. 'Has been' is present perfect, 'is' is present, and 'was' is past."
+    },
+    {
+      "id": "eng_2014_q26",
+      "question": "Next time you come to class don't forget your textbook.",
+      "options": {
+        "A": "to bring",
+        "B": "bringing",
+        "C": "having brought",
+        "D": "bring"
+      },
+      "correct_answer": "A",
+      "explanation": "After 'forget,' we use the infinitive (to bring) to mean 'not remember to do something.' 'Forget to bring' means you didn't bring it because you forgot. 'Forget bringing' would mean you forgot about the action of bringing. 'Having brought' is perfect gerund."
+    },
+    {
+      "id": "eng_2014_q27",
+      "question": "There is a lot of dissatisfaction present, but that things will improve in the coming years.",
+      "options": {
+        "A": "I'm looking",
+        "B": "I'm not sure",
+        "C": "I'm certain",
+        "D": "I'm worried"
+      },
+      "correct_answer": "C",
+      "explanation": "The conjunction 'but' connects two contrasting ideas. The first part mentions dissatisfaction, and the second part expresses optimism. 'I'm certain' shows confidence about improvement. 'I'm looking' is incomplete. 'I'm not sure' and 'I'm worried' would not create a logical contrast."
+    },
+    {
+      "id": "eng_2014_q28",
+      "question": "Gium: Let's go to the theatre this afternoon. There is a new play at the National Theatre.\nMihrett: I wish I the time. I have a lot of work to do today.",
+      "options": {
+        "A": "had",
+        "B": "have",
+        "C": "have had",
+        "D": "will have"
+      },
+      "correct_answer": "A",
+      "explanation": "'I wish' expresses a wish about a present situation that is not true. The subjunctive mood is used: 'I wish I had...' (not 'have'). This expresses the desire to have time now. 'Have' is present indicative, 'have had' is present perfect, and 'will have' is future."
+    },
+    {
+      "id": "eng_2014_q29",
+      "question": "You have to do at home this afternoon, so you can't go out.",
+      "options": {
+        "A": "nothing",
+        "B": "anything",
+        "C": "not",
+        "D": "something"
+      },
+      "correct_answer": "D",
+      "explanation": "'Something' is used in positive statements and in this context indicates there are tasks to complete. The sentence explains why the person can't go out: there is 'something' to do. 'Nothing' would contradict the reason for staying home. 'Anything' is used in negatives or questions. 'Not' is a negative adverb."
+    },
+    {
+      "id": "eng_2014_q30",
+      "question": "Have all the committee members arrived? the meeting.",
+      "options": {
+        "A": "They have started",
+        "B": "It is not possible to conduct",
+        "C": "It is about time we started",
+        "D": "It is the chairman who called"
+      },
+      "correct_answer": "C",
+      "explanation": "The response to 'Have all the committee members arrived?' should address the timing of the meeting. 'It is about time we started' suggests that everyone is here and the meeting should begin. Option A would be the response if the meeting has already started. Option B suggests the meeting can't happen. Option D is about who called the meeting."
+    },
+    {
+      "id": "eng_2014_q31",
+      "question": "My younger brother is very much interested studying robotics.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "for",
+        "D": "at"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct preposition after 'interested' is 'in.' 'Interested in' indicates the subject of interest. 'On' is used with topics in a general sense (a book on robotics). 'For' indicates purpose. 'At' is used with skills (good at)."
+    },
+    {
+      "id": "eng_2014_q32",
+      "question": "Muktar went to Jimma see his old friends.",
+      "options": {
+        "A": "for",
+        "B": "because",
+        "C": "as to",
+        "D": "in order to"
+      },
+      "correct_answer": "D",
+      "explanation": "'In order to' expresses purpose and is followed by the base form of the verb. 'For' is followed by a noun. 'Because' is followed by a clause (subject + verb). 'As to' is not a standard expression for purpose."
+    },
+    {
+      "id": "eng_2014_q33",
+      "question": "I wish I a pilot so that I can travel to different parts of the world.",
+      "options": {
+        "A": "have been",
+        "B": "am",
+        "C": "were",
+        "D": "can be"
+      },
+      "correct_answer": "C",
+      "explanation": "'I wish' followed by a clause uses the subjunctive mood. For the verb 'to be,' the subjunctive form for all persons is 'were.' This expresses a wish about a present situation that is not true. 'Have been' is perfect, 'am' is indicative, 'can be' is modal."
+    },
+    {
+      "id": "eng_2014_q34",
+      "question": "If you don't want to be broke, you your money wisely.",
+      "options": {
+        "A": "ought to do",
+        "B": "has used",
+        "C": "ought to use",
+        "D": "ought have used"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ought to use' expresses advice or recommendation about what someone should do. The structure is 'ought to' + base verb. 'Ought to do' is grammatically correct but 'do your money' doesn't make sense. 'Has used' is present perfect. 'Ought have used' is grammatically incorrect."
+    },
+    {
+      "id": "eng_2014_q35",
+      "question": "Students who came late this morning to report to the Unit Leader's office.",
+      "options": {
+        "A": "have told",
+        "B": "told",
+        "C": "would tell",
+        "D": "were told"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence is in passive voice: the students are receiving the instruction. 'Were told' is past passive. 'Have told' is active present perfect. 'Told' is active simple past. 'Would tell' is conditional."
+    },
+    {
+      "id": "eng_2014_q36",
+      "question": "The girl is take care of herself.",
+      "options": {
+        "A": "young",
+        "B": "enough old",
+        "C": "old enough",
+        "D": "old"
+      },
+      "correct_answer": "C",
+      "explanation": "'Old enough' means having reached the required age. The structure is adjective + enough + infinitive. 'Old enough to take care of herself' means she has reached the age where she can care for herself. 'Young' would suggest she cannot. 'Enough old' is grammatically incorrect."
+    },
+    {
+      "id": "eng_2014_q37",
+      "question": "They are working very hard on the project, and they will complete in time.",
+      "options": {
+        "A": "convinced",
+        "B": "I am sure that",
+        "C": "hesitate",
+        "D": "I have no point"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence needs a clause expressing confidence about completion. 'I am sure that' introduces a statement of certainty. 'Convinced' needs to be followed by 'that' or used with a subject. 'Hesitate' would suggest uncertainty. 'I have no point' is ungrammatical."
+    },
+    {
+      "id": "eng_2014_q38",
+      "question": "My friend says that she all her assignments already.",
+      "options": {
+        "A": "has done",
+        "B": "will be doing",
+        "C": "will be done",
+        "D": "will do"
+      },
+      "correct_answer": "A",
+      "explanation": "'Already' indicates a completed action in the past with present relevance, so present perfect tense 'has done' is correct. 'Will be doing' is future continuous. 'Will be done' is future passive. 'Will do' is simple future."
+    },
+    {
+      "id": "eng_2014_q39",
+      "question": "Rapid population growth is likely to lead to high cost of living.",
+      "options": {
+        "A": "It is important to control population growth.",
+        "B": "Rapid population growth is a threat to our survival.",
+        "C": "It is important to control cost of living.",
+        "D": "High cost of living may result from rapid population growth."
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence means that rapid population growth causes high cost of living. Option D restates this using 'may result from,' which is closest in meaning. Option A suggests a solution (not stated). Option B is too extreme (threat to survival). Option C suggests controlling cost of living (not stated)."
+    },
+    {
+      "id": "eng_2014_q40",
+      "question": "I wish I had talked to him when I saw him yesterday.",
+      "options": {
+        "A": "When I saw him yesterday I should have talked to him.",
+        "B": "I talked to him when I saw him yesterday.",
+        "C": "I saw him yesterday and I avoided speaking to him.",
+        "D": "I saw him yesterday and was not interested to talk to him."
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence expresses regret about not talking to someone. 'I wish I had talked' means I didn't talk to him, and I regret it. Option A expresses the same idea: I should have talked to him (but I didn't). Option B contradicts the sentence (I did talk). Option C says I avoided speaking (implies deliberate avoidance). Option D says I wasn't interested (different meaning)."
+    },
+    {
+      "id": "eng_2014_q41",
+      "question": "The fact that the composition of air is constant all over the world is an indicator of how",
+      "options": {
+        "A": "nature is uniform.",
+        "B": "nature works.",
+        "C": "we should change the nature.",
+        "D": "nature is stagnant."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage discusses how air pollution affects us and how nature works to maintain composition. The constancy of air composition shows how nature works (through cycles and processes). 'Uniform' might be too extreme. 'Stagnant' implies no change, which is incorrect."
+    },
+    {
+      "id": "eng_2014_q42",
+      "question": "Air pollutant is said to be present when",
+      "options": {
+        "A": "We release carbon dioxide",
+        "B": "There is excess nitrogen",
+        "C": "There is excess oxygen",
+        "D": "We feel suffocated during breathing"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the passage, an air pollutant is present when a substance is present in an amount exceeding normal concentrations. Excess nitrogen would be an example of this. Carbon dioxide is a normal component of air. Feeling suffocated could be a symptom of pollution but is not a definition."
+    },
+    {
+      "id": "eng_2014_q43",
+      "question": "The writer of the passage thinks that",
+      "options": {
+        "A": "we can fully control air pollution.",
+        "B": "the scale of pollution is too wide to handle in our present capacity.",
+        "C": "our understanding of air pollution is low.",
+        "D": "individuals can contribute to handling indoor air pollution."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage states that 'Indoor pollution may be handled relatively easily by an individual.' This supports option D. The passage does not suggest we can fully control pollution, nor that the scale is too wide (though it is wide), nor that understanding is low."
+    },
+    {
+      "id": "eng_2014_q44",
+      "question": "A feeling of suffocation",
+      "options": {
+        "A": "has nothing to do with pollution.",
+        "B": "is a human nature.",
+        "C": "is indication of pollution.",
+        "D": "is a rare occurrence."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage connects suffocation to accumulation of carbon dioxide in airtight rooms, which is a form of indoor pollution. Therefore, suffocation can be an indication of pollution. It is not unrelated (A), not human nature (B), and not necessarily rare (D)."
+    },
+    {
+      "id": "eng_2014_q45",
+      "question": "It is NOT stated in the passage that",
+      "options": {
+        "A": "choosing what we eat or drink can give us life comfort.",
+        "B": "we have no role in the air we breathe.",
+        "C": "air pollution affects us all in different ways.",
+        "D": "we can choose or reject a food, a drink or a life comfort when we have the chance."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that we can choose food and drink (A and D) and that we have little choice in the air we breathe (B). It does NOT state that air pollution affects us all in different ways; it says air pollution concerns us all alike. So option C is not stated in the passage."
+    },
+    {
+      "id": "eng_2014_q46",
+      "question": "The accumulation of carbon dioxide exhaled from lungs",
+      "options": {
+        "A": "is the same in all places.",
+        "B": "could result in serious illness and death.",
+        "C": "increases in an airtight room and could cause suffocation.",
+        "D": "is smaller and temporary in airtight rooms."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage specifically mentions that in airtight rooms, the accumulation of CO₂ from breathing can cause suffocation. This is a direct statement from the text. Options A and D contradict the passage. Option B is not specifically stated."
+    },
+    {
+      "id": "eng_2014_q47",
+      "question": "An appropriate title for the passage could be",
+      "options": {
+        "A": "Human contribution to air pollution",
+        "B": "How to tackle air pollution",
+        "C": "Causes and effects of air pollution",
+        "D": "Types of pollution"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage discusses both causes (sources of pollution) and effects (health impacts like suffocation, sick building syndrome). It does not focus specifically on human contribution, nor on how to tackle pollution, nor on types of pollution beyond air pollution."
+    },
+    {
+      "id": "eng_2014_q48",
+      "question": "Which one of the following is NOT true according to the passage?",
+      "options": {
+        "A": "Our indoor activities contribute to air pollution.",
+        "B": "Industrial and vehicular exhausts are the main sources of indoor air pollution.",
+        "C": "Indoor pollution relatively less than outdoor pollution",
+        "D": "Human beings cannot manage air pollution."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that industrial and vehicular exhausts are sources of outdoor, not indoor, pollution. Indoor pollution comes from sources like paints, cosmetics, and poor ventilation. So option B is NOT true. The other options are true or implied in the passage."
+    },
+    {
+      "id": "eng_2014_q49",
+      "question": "Which one of the following is mentioned as a source of indoor pollutants?",
+      "options": {
+        "A": "Industrial exhausts",
+        "B": "Particulate matters",
+        "C": "Car exhausts",
+        "D": "Cosmetics"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage mentions cosmetics as a source of indoor pollutants. Industrial exhausts and car exhausts are sources of outdoor pollution. Particulate matters are a type of pollutant, not a source."
+    },
+    {
+      "id": "eng_2014_q50",
+      "question": "Which one of the following is NOT characteristic of the sick building syndrome?",
+      "options": {
+        "A": "It is the result of the combined effect of various diseases.",
+        "B": "It commonly occurs in homes with little or no ventilation.",
+        "C": "It is an indistinct collection of symptoms.",
+        "D": "It is becoming more common in big cities with small but over-furnished houses."
+      },
+      "correct_answer": "A",
+      "explanation": "Sick building syndrome is not the result of various diseases; it is a collection of symptoms caused by poor indoor air quality. The passage mentions it occurs in poorly ventilated homes, is indistinct in symptoms, and is common in big cities with over-furnished houses. Option A is NOT characteristic of sick building syndrome."
+    },
+    {
+      "id": "eng_2014_q51",
+      "question": "As discussed in the passage, spirituality is about",
+      "options": {
+        "A": "how devotion to religion is the source of happiness.",
+        "B": "how we can lead our life properly.",
+        "C": "Getting happiness by understanding the beauty of nature.",
+        "D": "recognizing and knowing more about the environment in which we live."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage states that spirituality is 'a way of recognizing and trying to understand the wonder and beauty of existence.' This involves recognizing and knowing more about the environment in which we live. It is not specifically about religion, though that is one way people practice it."
+    },
+    {
+      "id": "eng_2014_q52",
+      "question": "The writer believes that",
+      "options": {
+        "A": "people always look for happiness in the wrong places.",
+        "B": "wealth, fame, and power are some of the factors that make us happy.",
+        "C": "wealth, fame, and power are not necessarily the right sources of happiness.",
+        "D": "the sources of happiness do not vary according to individuals."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'If you've been chasing wealth, fame, good looks, material things, and power, you may be looking for happiness in all the wrong places.' This implies that these things are not necessarily the right sources of happiness. It doesn't say always wrong places (A), nor that they make us happy (B), nor that sources don't vary (D)."
+    },
+    {
+      "id": "eng_2014_q53",
+      "question": "Which one of the following is NOT an aspect of thinking positively?",
+      "options": {
+        "A": "Being concerned about your position",
+        "B": "Being thankful",
+        "C": "Enjoying the present experience",
+        "D": "Expecting good in the future"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage mentions that positive thinking involves being grateful (thankful), mindful (enjoying present experience), and optimistic (expecting good in the future). Being concerned about your position is not mentioned as an aspect of positive thinking."
+    },
+    {
+      "id": "eng_2014_q54",
+      "question": "According to the passage:",
+      "options": {
+        "A": "The choices we make are partly responsible for our level of happiness.",
+        "B": "Our genes do not influence our level of happiness.",
+        "C": "We have no control over the things that make us happy.",
+        "D": "We have control over the things that make us happy."
+      },
+      "correct_answer": "A",
+      "explanation": "The passage states that happiness depends partly on factors we cannot control (genes and life circumstances) and partly on the choices we make. Therefore, our choices are partly responsible for our happiness. Option B is incorrect because genes do influence happiness. Option C is incorrect because we do have some control. Option D is too absolute."
+    },
+    {
+      "id": "eng_2014_q55",
+      "question": "Which of the following is NOT the writer's purpose in this passage?",
+      "options": {
+        "A": "advise people that they need to form close relationships in order to be happy.",
+        "B": "explain why people should be happy in life.",
+        "C": "tell people that they have full control over their happiness.",
+        "D": "inform people about the choices they have to make themselves happy."
+      },
+      "correct_answer": "C",
+      "explanation": "The writer does not claim that people have full control over their happiness. In fact, the passage states that happiness depends partly on factors we cannot control. Options A, B, and D are all purposes evident in the passage: advising about relationships, explaining happiness, and informing about choices."
+    },
+    {
+      "id": "eng_2014_q56",
+      "question": "The writer of the passage believes that in order to be happy one",
+      "options": {
+        "A": "should have as many friends as possible.",
+        "B": "should have deeper understanding of friends' feelings.",
+        "C": "should be able to make others accept his/her thoughts.",
+        "D": "should give priority to the benefits of others."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states: 'The number of friends we have is not important. What matters is the quality of our relationships.' Quality involves sharing feelings, mutual respect, acceptance, trust, fun, and empathy. This suggests understanding friends' feelings is important, not having many friends or making others accept your thoughts."
+    },
+    {
+      "id": "eng_2014_q57",
+      "question": "Which one of the following is NOT mentioned as a source of happiness?",
+      "options": {
+        "A": "Mutual respect",
+        "B": "Material things",
+        "C": "Helping others",
+        "D": "Sharing of feelings"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage mentions relationships (mutual respect, sharing feelings), caring for others (helping others), and spirituality as sources of happiness. Material things are explicitly mentioned as something people chase but which may not bring happiness. So material things are NOT mentioned as a source of happiness."
+    },
+    {
+      "id": "eng_2014_q58",
+      "question": "Based on the passage, which one of the following is NOT a way of practicing spirituality?",
+      "options": {
+        "A": "Engaging in meditation",
+        "B": "Love to a partner",
+        "C": "Political leadership",
+        "D": "Appreciating nature"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage mentions practicing spirituality by going to a place of worship, praying, practicing yoga, meditation, and appreciating nature (long walks in nature). Political leadership is not mentioned as a way of practicing spirituality."
+    },
+    {
+      "id": "eng_2014_q59",
+      "question": "People who do NOT have close relationships are",
+      "options": {
+        "A": "not concerned about happiness in life.",
+        "B": "happier than those who have.",
+        "C": "not as happy as those who have.",
+        "D": "care more about happiness in life."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states: 'people who form close relationships tend to be happier than those who do not.' Therefore, people who do not have close relationships are not as happy as those who do. The other options are not supported by the passage."
+    },
+    {
+      "id": "eng_2014_q60",
+      "question": "The passage is mainly about",
+      "options": {
+        "A": "the importance of relationships.",
+        "B": "factors that make people happier.",
+        "C": "the benefits of spirituality.",
+        "D": "the power of positive thinking."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage discusses several factors that contribute to happiness: relationships, spirituality, and positive thinking. The main topic is factors that make people happier. While relationships, spirituality, and positive thinking are all mentioned, they are sub-topics under the main theme."
+    },
+    {
+      "id": "eng_2014_q61",
+      "question": "We need additional fuel to keep the machine in motion, and will stop suddenly.",
+      "options": {
+        "A": "effect",
+        "B": "control",
+        "C": "movement",
+        "D": "travel"
+      },
+      "correct_answer": "C",
+      "explanation": "'Motion' means the action or process of moving. 'Movement' is the closest synonym. 'Effect' is a result. 'Control' is power to direct. 'Travel' is journeying. The sentence means the machine will stop moving if it doesn't get fuel."
+    },
+    {
+      "id": "eng_2014_q62",
+      "question": "The police are still looking for the murderer who fatally shot three people and disappeared.",
+      "options": {
+        "A": "contender",
+        "B": "killer",
+        "C": "burglar",
+        "D": "loser"
+      },
+      "correct_answer": "B",
+      "explanation": "'Murderer' means someone who kills another person. 'Killer' is the closest synonym. 'Contender' is a competitor. 'Burglar' is a robber. 'Loser' is someone who fails. The context is about someone who shot people fatally, so 'killer' is correct."
+    },
+    {
+      "id": "eng_2014_q63",
+      "question": "His job is to guide invited guests to their seats in the hall.",
+      "options": {
+        "A": "attention",
+        "B": "responsibility",
+        "C": "focus",
+        "D": "position"
+      },
+      "correct_answer": "B",
+      "explanation": "'Job' in this context refers to a duty or responsibility. 'Responsibility' is the closest synonym. 'Attention' is concentration. 'Focus' is a point of concentration. 'Position' is a place or ranking. The sentence describes what his duty is."
+    },
+    {
+      "id": "eng_2014_q64",
+      "question": "The patient who was in an accident remained immobile on the stretcher for about two hours.",
+      "options": {
+        "A": "helpless",
+        "B": "restless",
+        "C": "motionless",
+        "D": "hopeless"
+      },
+      "correct_answer": "C",
+      "explanation": "'Immobile' means unable to move or motionless. 'Motionless' is the closest synonym. 'Helpless' means unable to help oneself. 'Restless' means unable to stay still. 'Hopeless' means without hope. The patient was on a stretcher and couldn't move, so 'motionless' is correct."
+    },
+    {
+      "id": "eng_2014_q65",
+      "question": "A father, a mother and children who live together make up a family.",
+      "options": {
+        "A": "form",
+        "B": "start",
+        "C": "conserve",
+        "D": "join"
+      },
+      "correct_answer": "A",
+      "explanation": "'Make up' in this context means to constitute or form. 'Form' is the closest synonym. 'Start' means to begin. 'Conserve' means to preserve. 'Join' means to connect. The family members form a family."
+    },
+    {
+      "id": "eng_2014_q66",
+      "question": "They wasted some time at the beginning and now they are under pressure to complete the work in the time given.",
+      "options": {
+        "A": "tension",
+        "B": "struggle",
+        "C": "fever",
+        "D": "strength"
+      },
+      "correct_answer": "A",
+      "explanation": "'Pressure' in this context means stress or tension. 'Tension' is the closest synonym. 'Struggle' is a fight or effort. 'Fever' is a high temperature. 'Strength' is power. The workers are feeling stressed because of the time constraint."
+    },
+    {
+      "id": "eng_2014_q67",
+      "question": "The man says that he can beat anybody in a fight, but actually he is a cowardly bully.",
+      "options": {
+        "A": "brave",
+        "B": "confident",
+        "C": "dishonest",
+        "D": "timid"
+      },
+      "correct_answer": "D",
+      "explanation": "'Cowardly' means lacking courage, timid. 'Timid' is the closest synonym. 'Brave' is the opposite. 'Confident' means sure of oneself (which the bully claims to be). 'Dishonest' means not truthful. The bully is actually timid despite his claims."
+    },
+    {
+      "id": "eng_2014_q68",
+      "question": "The police should heighten the awareness of the community in order to put the rising criminal acts under control.",
+      "options": {
+        "A": "legalize",
+        "B": "realize",
+        "C": "materialize",
+        "D": "raise"
+      },
+      "correct_answer": "D",
+      "explanation": "'Heighten' means to increase or raise. 'Raise' is the closest synonym. 'Legalize' means to make legal. 'Realize' means to become aware. 'Materialize' means to become real. The police should increase community awareness."
+    },
+    {
+      "id": "eng_2014_q69",
+      "question": "At the meeting, the Chairman allowed of opinions for participation.",
+      "options": {
+        "A": "description",
+        "B": "perception",
+        "C": "instability",
+        "D": "diversity"
+      },
+      "correct_answer": "D",
+      "explanation": "'Diversity of opinions' means a variety of different opinions. The Chairman allowed this for participation. 'Description' is a detailed account. 'Perception' is awareness. 'Instability' is lack of stability. 'Diversity' fits the context of allowing different viewpoints."
+    },
+    {
+      "id": "eng_2014_q70",
+      "question": "The government a new program which will help to solve the problem of over flooding during the rainy season.",
+      "options": {
+        "A": "reflected",
+        "B": "advanced",
+        "C": "launched",
+        "D": "admitted"
+      },
+      "correct_answer": "C",
+      "explanation": "'Launched' means started or initiated. A government starts or launches a new program. 'Reflected' means thought about. 'Advanced' means moved forward. 'Admitted' means acknowledged. Starting a program to solve a problem is best described as 'launching' it."
+    },
+    {
+      "id": "eng_2014_q71",
+      "question": "My friend took out a from a bank to buy a house, but he couldn't pay it back.",
+      "options": {
+        "A": "profit",
+        "B": "saving",
+        "C": "payment",
+        "D": "loan"
+      },
+      "correct_answer": "D",
+      "explanation": "A 'loan' is money borrowed from a bank. You take out a loan to buy something expensive like a house. 'Profit' is earnings. 'Saving' is money kept aside. 'Payment' is money paid. A loan must be paid back, which fits the second part of the sentence."
+    },
+    {
+      "id": "eng_2014_q72",
+      "question": "The newly married couple has just gone to Hawassa for the",
+      "options": {
+        "A": "honeymoon",
+        "B": "tour",
+        "C": "visit",
+        "D": "lifestyle"
+      },
+      "correct_answer": "A",
+      "explanation": "A 'honeymoon' is a holiday taken by a newly married couple. This fits the context perfectly. 'Tour' is a journey for pleasure. 'Visit' is going to see someone/something. 'Lifestyle' is a way of living. Newly married couples typically go on a honeymoon."
+    },
+    {
+      "id": "eng_2014_q73",
+      "question": "Although we are facing many problems at present, we should not be because I am sure that things will become better in the future.",
+      "options": {
+        "A": "pessimistic",
+        "B": "hopeful",
+        "C": "optimistic",
+        "D": "ridiculous"
+      },
+      "correct_answer": "A",
+      "explanation": "'Pessimistic' means expecting the worst. The sentence contrasts this with being sure things will become better. You shouldn't be pessimistic; you should be hopeful. 'Hopeful' and 'optimistic' are positive and would not fit with 'not be.' 'Ridiculous' means absurd."
+    },
+    {
+      "id": "eng_2014_q74",
+      "question": "The leader of the party will soon that his party has won the recent national election.",
+      "options": {
+        "A": "boast",
+        "B": "lead",
+        "C": "declare",
+        "D": "advance"
+      },
+      "correct_answer": "C",
+      "explanation": "'Declare' means to announce officially. A party leader would officially announce that their party won the election. 'Boast' means to brag. 'Lead' means to guide. 'Advance' means to move forward. 'Declare' is the most appropriate verb for this context."
+    },
+    {
+      "id": "eng_2014_q75",
+      "question": "The scene of the plane crash where all the passengers on board the plane lost their lives was really",
+      "options": {
+        "A": "gigantic",
+        "B": "terrifying",
+        "C": "boring",
+        "D": "exhausting"
+      },
+      "correct_answer": "B",
+      "explanation": "'Terrifying' means causing great fear or terror. A plane crash scene where all passengers died would be terrifying. 'Gigantic' means very large. 'Boring' means dull. 'Exhausting' means tiring. The emotional impact of such a scene would be terrifying."
+    },
+    {
+      "id": "eng_2014_q76",
+      "question": "I do not need to the mobile numbers of my contacts because I have them all on my mobile phone.",
+      "options": {
+        "A": "embrace",
+        "B": "memorise",
+        "C": "illicit",
+        "D": "familiarise"
+      },
+      "correct_answer": "B",
+      "explanation": "'Memorise' means to learn by heart. Since the numbers are saved on the phone, the person doesn't need to memorize them. 'Embrace' means to hug or accept. 'Illicit' is an adjective meaning illegal. 'Familiarise' means to make known."
+    },
+    {
+      "id": "eng_2014_q77",
+      "question": "read/notes/you/to/the/must/your/has/do",
+      "options": {
+        "A": "You must read your notes to do the test.",
+        "B": "You must do read the test.",
+        "C": "The test notes to read you must your do.",
+        "D": "Read notes must to your do the test you."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct sentence order is: Subject (You) + auxiliary (must) + main verb (read) + object (your notes) + purpose (to do the test). This is the only grammatically correct and meaningful arrangement of the words. Option B omits 'notes' and changes the meaning. Options C and D are scrambled."
+    },
+    {
+      "id": "eng_2014_q78",
+      "question": "they/home/are/today/early/coming",
+      "options": {
+        "A": "Coming are they early today home?",
+        "B": "Are coming early home today they?",
+        "C": "Are they coming home early today?",
+        "D": "They are coming early home today?"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct order for a question is: Auxiliary verb (Are) + subject (they) + main verb (coming) + object/complement (home) + adverb (early) + time (today). Option C is the only grammatically correct interrogative sentence. Option D is a statement, not a question."
+    },
+    {
+      "id": "eng_2014_q79",
+      "question": "if they/have/us/phone/d/we/joined/them/had/would",
+      "options": {
+        "A": "We have if would them us had they joined phone.",
+        "B": "They would joined them have phoned if had we us.",
+        "C": "If phoned them would they joined us have we had.",
+        "D": "They would have joined us if we had phoned them."
+      },
+      "correct_answer": "D",
+      "explanation": "The correct sentence is a third conditional: 'They would have joined us if we had phoned them.' The structure is: Subject + would have + past participle + if + subject + had + past participle. Option D is the only grammatically correct arrangement."
+    },
+    {
+      "id": "eng_2014_q80",
+      "question": "Choose the word with the correct spelling.",
+      "options": {
+        "A": "playright",
+        "B": "courageous",
+        "C": "approach",
+        "D": "immature"
+      },
+      "correct_answer": "B",
+      "explanation": "'Courageous' is spelled correctly. 'Playright' should be 'playwright' (a person who writes plays). 'Approach' is spelled correctly too, but 'courageous' is the only one with correct spelling among the options. Actually, both 'courageous' and 'approach' are correctly spelled. However, the question asks for the word with correct spelling. Looking at the options more carefully, 'approach' is also correctly spelled. But the exam likely expects 'courageous' as the correct answer based on the answer key."
+    },
+    {
+      "id": "eng_2014_q81",
+      "question": "Choose the word with the correct spelling.",
+      "options": {
+        "A": "license",
+        "B": "accomodate",
+        "C": "simultaneously",
+        "D": "forcast"
+      },
+      "correct_answer": "A",
+      "explanation": "'License' is spelled correctly. 'Accomodate' should be 'accommodate' (double 'c' and double 'm'). 'Simultaneously' is spelled correctly too. 'Forcast' should be 'forecast' (with an 'e'). The answer is likely 'license' based on the exam key."
+    },
+    {
+      "id": "eng_2014_q82",
+      "question": "Choose the best alternative which is written with correct punctuation and capitalization.",
+      "options": {
+        "A": "We are going to guba to see the great renaissance Dam In September.",
+        "B": "We are going to guba to see the Great Renaissance Dam in september.",
+        "C": "We are going to Guba to see the Great Renaissance Dam in September.",
+        "D": "We are going to Guba to see the great renaissance Dam in september."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C has correct capitalization: 'Guba' (place name), 'Great Renaissance Dam' (proper noun), and 'September' (month). Option A has 'guba' and 'great' incorrectly lowercased and 'In' capitalized. Option B has 'guba' and 'september' incorrectly lowercased. Option D has 'great renaissance Dam' incorrectly lowercased."
+    },
+    {
+      "id": "eng_2014_q83",
+      "question": "Choose the best alternative which is written with correct punctuation and capitalization.",
+      "options": {
+        "A": "The teacher said, Answer the questions in complete sentences.",
+        "B": "The teacher said, Answer the questions in complete sentences.",
+        "C": "The teacher said answer the questions in complete sentences.",
+        "D": "The teacher said, \"answer the questions in complete sentences.\""
+      },
+      "correct_answer": "A",
+      "explanation": "Option A has the correct punctuation: a comma after 'said' and a capital letter starting the quoted speech. Option B is identical to A (likely a typo in the PDF). Option C is missing punctuation. Option D incorrectly has 'answer' lowercased (should be capitalized as it's the beginning of the quote)."
+    },
+    {
+      "id": "eng_2014_q84",
+      "question": "Choose the best alternative which is written with correct punctuation and capitalization.",
+      "options": {
+        "A": "He wanted to find out how the accident occurred?",
+        "B": "He wanted to find out how the accident occurred.",
+        "C": "He wanted to find out how the accident occurred.",
+        "D": "He wanted to find out how the accident occurred."
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence is a statement, not a question, so it should end with a period, not a question mark. Option B (and C and D which appear identical) use a period correctly. Option A incorrectly uses a question mark."
+    },
+    {
+      "id": "eng_2014_q85",
+      "question": "Choose the best alternative which is written with correct punctuation and capitalization.",
+      "options": {
+        "A": "She went to the shop and bought, a kilo of sugar, a litre of milk, a kilo of bananas and some vegetables.",
+        "B": "She went to the shop and bought, a kilo of sugar a litre of milk a kilo of bananas and some vegetables.",
+        "C": "She went to the shop and bought a kilo of sugar a litre of milk a kilo of bananas and some vegetables.",
+        "D": "She went to the shop and bought a kilo of sugar, a litre of milk, a kilo of bananas and some vegetables."
+      },
+      "correct_answer": "D",
+      "explanation": "Option D correctly uses commas to separate items in a list: 'a kilo of sugar, a litre of milk, a kilo of bananas and some vegetables.' Option A has an unnecessary comma after 'bought.' Option B has commas incorrectly placed and missing after items. Option C has no punctuation separating items."
+    },
+    {
+      "id": "eng_2014_q86",
+      "question": "Choose the correct topic sentence of the paragraph given.\nThere are several reasons why my father is in excellent health condition. First, he is very healthy because he has stopped smoking cigarettes. He quit smoking because whenever he climbed stairs, he would stop several times on his way and cough loudly. He also has good health as a result of stopping eating the wrong kinds of food. Third, he is in good physical shape for his old age. He swims three times a week at the local gym. In short, my father is in a better shape than some of his children.",
+      "options": {
+        "A": "In short, my father is in a better shape than some of his children.",
+        "B": "First, he is very healthy because he has stopped smoking cigarettes.",
+        "C": "There are several reasons why my father is in excellent health condition.",
+        "D": "He quit smoking because whenever he climbed stairs, he would stop several times on his way and cough loudly."
+      },
+      "correct_answer": "C",
+      "explanation": "The topic sentence introduces the main idea of the paragraph. 'There are several reasons why my father is in excellent health condition' introduces the topic and previews the reasons that follow. Option A is the conclusion. Option B is a supporting detail. Option D is also a supporting detail."
+    },
+    {
+      "id": "eng_2014_q87",
+      "question": "Choose the correct topic sentence of the paragraph given.\nElectric cars are the future in the automobile industry. As climate change gets worse, governments are going to start limiting the number of gasoline cars being produced. The cost of gas will continue to rise, which will make it harder for people to afford to run gas powered cars. As battery technology improves, electric cars will be able to travel longer distances and cost less to buy. Eventually most gas powered cars will be replaced by electric cars.",
+      "options": {
+        "A": "Electric cars are the future in the automobile industry.",
+        "B": "As climate change gets worse, governments are going to start limiting the number of gasoline cars being produced.",
+        "C": "Eventually most gas powered cars will be replaced by electric cars.",
+        "D": "The cost of gas will continue to rise, which will make it harder for people to afford to run gas powered cars."
+      },
+      "correct_answer": "A",
+      "explanation": "The topic sentence introduces the main idea that electric cars are the future. The rest of the paragraph provides supporting reasons: climate change, rising gas costs, and improving battery technology. Option A is the topic sentence. Option B and D are supporting details. Option C is a concluding statement."
+    },
+    {
+      "id": "eng_2014_q88",
+      "question": "Which of the following is an appropriate opening salutation in an informal letter?",
+      "options": {
+        "A": "Dear Dr. Jemal",
+        "B": "Dear Mr. Samuel",
+        "C": "Dear Mrs. Tefera",
+        "D": "Dear Sarah"
+      },
+      "correct_answer": "D",
+      "explanation": "In an informal letter, it's appropriate to use the first name without a title. 'Dear Sarah' is informal. Options A, B, and C use formal titles (Dr., Mr., Mrs.) which are used in formal letters."
+    },
+    {
+      "id": "eng_2014_q89",
+      "question": "The sentence, 'I'm extremely delighted to hear that you are going to join the University next year' is possibly taken from",
+      "options": {
+        "A": "the body of a formal letter",
+        "B": "the end of a formal letter",
+        "C": "the beginning of an informal letter",
+        "D": "the closing remarks of an informal letter"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence expresses personal emotion ('I'm extremely delighted') and is informal in tone ('I'm' instead of 'I am'). This is typical of the beginning of an informal letter, where the writer expresses personal feelings about news they've received. It would not be in the closing remarks or in a formal letter."
+    },
+    {
+      "id": "eng_2014_q90",
+      "question": "The sender's address in an informal letter appears",
+      "options": {
+        "A": "near the right margin",
+        "B": "near the left margin",
+        "C": "below the closing salutation",
+        "D": "below the date"
+      },
+      "correct_answer": "A",
+      "explanation": "In informal letters, the sender's address typically appears near the right margin (top right) of the page. The date is usually below the address. The closing salutation is at the end. The sender's address is placed above the date, not below it."
+    },
+    {
+      "id": "eng_2014_q91",
+      "question": "One problem in relation to city buses is that a bus that should arrive at 7:30 in the morning may not arrive until 8:00 or later.\nUnfortunately, many people are often late for work or miss important appointments.\nPoor public transportation system is a big problem in our city.\nMoreover, bus drivers often pass up groups of people waiting for the bus at the bus stops.",
+      "options": {
+        "A": "a b c d",
+        "B": "c a d b",
+        "C": "b c d a",
+        "D": "a c d b"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order is: c (topic sentence introducing the problem), a (specific example of the problem), d (another example), b (consequence). Option B (c a d b) creates a coherent paragraph that flows logically from general statement to specific examples and their consequences."
+    },
+    {
+      "id": "eng_2014_q92",
+      "question": "a. At the beginning, my elder sister used to go to gymnastics lessons showed me how to do some gymnastics when she practiced at home.\nb. Now, I take part in gymnastics practice every Saturday.\nc. Thus, gymnastics is very special to me, especially because it is something I share with my sister.\nd. I started gymnastics when I was six years old and has been my favourite hobby since then.",
+      "options": {
+        "A": "b a c d",
+        "B": "d a b c",
+        "C": "a b c d",
+        "D": "b c d a"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order is: d (introduction of the hobby), a (how it started), b (current situation), c (conclusion about its significance). Option B (d a b c) creates a logical chronological sequence from the past to the present, ending with a concluding statement about why it's special."
+    },
+    {
+      "id": "eng_2014_q93",
+      "question": "a. Similarly, smoking is linked to other lung diseases such as bronchitis.\nb. The link between smoking and cancer is well known.\nc. Furthermore, there is substantial research evidence that even passive smoking can have long effects on health.\nd. In addition to lung diseases, smokers have a greater risk of heart disease later in life.",
+      "options": {
+        "A": "a c b d",
+        "B": "b d a c",
+        "C": "b a d c",
+        "D": "c a b d"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct order is: b (main idea about smoking and cancer), a (adds another lung disease), d (expands to heart disease), c (adds evidence about passive smoking). Option C (b a d c) creates a logical progression from the main point to additional supporting points."
+    },
+    {
+      "id": "eng_2014_q94",
+      "question": "a. Some people move to find better jobs.\nb. Others want to move to a place with a lower cost of living.\nc. There are many reasons why people go to other places to live.\nd. Still others want to move to a place with less crime.",
+      "options": {
+        "A": "a b d c",
+        "B": "c a b d",
+        "C": "d a b c",
+        "D": "a b c d"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order is: c (topic sentence introducing the topic), a (first reason), b (second reason), d (third reason). Option B (c a b d) creates a clear paragraph structure with a topic sentence followed by supporting details. The use of 'some,' 'others,' and 'still others' provides a natural sequence."
+    },
+    {
+      "id": "eng_2014_q95",
+      "question": "Miriam: What sort of films do you like to watch during your free time?\nSara:",
+      "options": {
+        "A": "I sometimes watch science fiction but I love romantic films.",
+        "B": "Films are a good pass-time entertainment.",
+        "C": "My favourite actress is Mulualem.",
+        "D": "I haven't watched any films for a couple of weeks."
+      },
+      "correct_answer": "A",
+      "explanation": "Sara's response should answer the question about what sort of films she likes. Option A directly answers this by mentioning science fiction and romantic films. Option B gives a general opinion about films. Option C talks about an actress, not film types. Option D talks about how often she watches films, not what type she likes."
+    },
+    {
+      "id": "eng_2014_q96",
+      "question": "Student: Earthquake is one type of natural disaster.\nFriend:",
+      "options": {
+        "A": "Where do natural disasters occur?",
+        "B": "What do you mean by natural disaster?",
+        "C": "Give an example of natural disaster.",
+        "D": "When do natural disasters occur in Ethiopia?"
+      },
+      "correct_answer": "C",
+      "explanation": "The student states that earthquake is one type of natural disaster. The friend could ask for another example. Option C ('Give an example of natural disaster') is a natural follow-up. Option A asks about location, B asks for definition, D asks about timing."
+    },
+    {
+      "id": "eng_2014_q97",
+      "question": "Tariku:\nBarnabas: I think that is what we need in order to get rid of poverty.",
+      "options": {
+        "A": "There are a lot of challenges that our country is facing.",
+        "B": "We must prevent conflicts and live together peacefully.",
+        "C": "We do not understand why some people like to cause trouble to others.",
+        "D": "Many young people are in need of jobs."
+      },
+      "correct_answer": "B",
+      "explanation": "Barnabas's response says 'that is what we need' to get rid of poverty. Option B ('We must prevent conflicts and live together peacefully') is a specific action that could be what is needed to fight poverty. Option A is a general statement. Option C expresses confusion. Option D identifies a problem but not a solution."
+    },
+    {
+      "id": "eng_2014_q98",
+      "question": "Seifu: Surely, the internet is not a perfect invention.\nBiruk: What do you mean?\nSeifu:",
+      "options": {
+        "A": "To put it another way, it has many shortcomings.",
+        "B": "Using the internet speeds up our work.",
+        "C": "If you want, I can show you how to use it.",
+        "D": "The internet is the art of the technology."
+      },
+      "correct_answer": "A",
+      "explanation": "Biruk asks for clarification ('What do you mean?'). Seifu should explain his statement. Option A ('To put it another way, it has many shortcomings') elaborates on why the internet is not perfect. Option B contradicts the first statement. Option C offers to teach. Option D is a vague statement."
+    },
+    {
+      "id": "eng_2014_q99",
+      "question": "Father: Please let me know that you have arrived there safely.\nDaughter:",
+      "options": {
+        "A": "I will call you as soon as I reach there.",
+        "B": "I'm sure I will enjoy my flight.",
+        "C": "I am sure we will be there by this time tomorrow.",
+        "D": "It is going to be a long journey."
+      },
+      "correct_answer": "A",
+      "explanation": "The father asks to be informed when the daughter arrives safely. The daughter's response should be a commitment to do so. Option A ('I will call you as soon as I reach there') directly addresses the father's request. Options B, C, and D do not confirm that she will inform him."
+    },
+    {
+      "id": "eng_2014_q100",
+      "question": "Daughter: Are you ready, Mum?\nMother:",
+      "options": {
+        "A": "Yes, we will ready to buy a lot of things.",
+        "B": "No, there is no one else coming.",
+        "C": "Yes, I am coming.",
+        "D": "What are you doing there?"
+      },
+      "correct_answer": "C",
+      "explanation": "The daughter asks if the mother is ready. The mother's response should answer the question directly. Option C ('Yes, I am coming') directly confirms she is ready and indicates she is on her way. Option A is grammatically incorrect. Option B answers a different question. Option D asks a question instead of answering."
+    },
+    {
+      "id": "eng_2014_q101",
+      "question": "Gadissa: I'm very much in need of money but I don't know who I can ask.\nFriend:",
+      "options": {
+        "A": "I asked my elder brother for some money but he refused.",
+        "B": "Why do you need the money?",
+        "C": "Our father might give you some if you ask him.",
+        "D": "I think we need to save some of the money that we earn every month."
+      },
+      "correct_answer": "C",
+      "explanation": "Gadissa needs money and doesn't know who to ask. The friend should offer a suggestion. Option C offers a specific suggestion: asking their father. Option A is not a suggestion to Gadissa. Option B asks a question. Option D gives general advice about saving."
+    },
+    {
+      "id": "eng_2014_q102",
+      "question": "Journalist: Do you think there is enough fish for you to catch every day in this lake?\nFisherman:",
+      "options": {
+        "A": "The fish is home to different kinds of fish and other aquatic animals.",
+        "B": "My life is good depends on fishing, and I love fishing more than anything else.",
+        "C": "Most of us who live around here do fishing both for food and sport.",
+        "D": "There are more fishermen nowadays and there aren't enough for everyone."
+      },
+      "correct_answer": "D",
+      "explanation": "The journalist asks if there is enough fish to catch every day. The fisherman's response should address the quantity of fish. Option D directly answers that there are more fishermen and not enough fish for everyone. Option A describes the lake. Option B talks about personal feelings. Option C describes fishing practices."
+    },
+    {
+      "id": "eng_2014_q103",
+      "question": "Aman: Talking on the mobile phone is not free from problems.\nAbdul: How?\nAman:",
+      "options": {
+        "A": "There may be sudden connection problem.",
+        "B": "Smart phones are expensive for many people.",
+        "C": "Everybody has a mobile phone these days.",
+        "D": "I don't pick up the phone if I don't want to."
+      },
+      "correct_answer": "A",
+      "explanation": "Aman claims mobile phones have problems. Abdul asks 'How?' (meaning in what way). Aman should explain the problems. Option A gives a specific problem: sudden connection problems. Option B is about cost, which is another problem but not about talking on the phone specifically. Option C is a general statement. Option D is a personal choice."
+    },
+    {
+      "id": "eng_2014_q104",
+      "question": "Dinku: Traffic accidents continue to be real problems in this city.\nFikru:",
+      "options": {
+        "A": "The new roads that are being built in different parts of the city are very wide.",
+        "B": "Many people use buses because they are cheaper.",
+        "C": "The population of the city is growing fast and the city is expanding in all directions.",
+        "D": "Both drivers and pedestrians must be much more careful on the road."
+      },
+      "correct_answer": "D",
+      "explanation": "Dinku identifies traffic accidents as a problem. Fikru should respond appropriately. Option D offers a solution: both drivers and pedestrians must be more careful. Option A talks about road width. Option B is about bus use. Option C is about population growth, which might contribute to accidents but doesn't directly address the problem."
+    },
+    {
+      "id": "eng_2014_q105",
+      "question": "Farmer 1: Why are we not able to get enough crops from the land recently?\nFarmer 2: It is because we have been farming the land for many years without making any changes on it.\nFarmer 3:",
+      "options": {
+        "A": "We should continue to work as hard as we used to.",
+        "B": "We always work very hard but we do not produce enough.",
+        "C": "We may not even feed our families.",
+        "D": "Plus the fact that we have never used fertilizers is another cause."
+      },
+      "correct_answer": "D",
+      "explanation": "Farmer 3 should add to Farmer 2's explanation. Option D adds another cause: never using fertilizers. Option A suggests continuing the same approach. Option B repeats the problem. Option C is a consequence, not a cause."
+    },
+    {
+      "id": "eng_2014_q106",
+      "question": "Mubarak:\nSemir: In my case, there were more primary school teachers than in the secondary school.",
+      "options": {
+        "A": "The teachers in my primary school were more helpful than those in my secondary school.",
+        "B": "The number of teachers in my secondary school was greater than those in my primary school.",
+        "C": "There are many differences between primary and secondary school teachers.",
+        "D": "There were many more female teachers than male teachers in my primary school."
+      },
+      "correct_answer": "C",
+      "explanation": "Semir's response is about the number of teachers (more in primary). This suggests Mubarak asked about differences between primary and secondary teachers. Option C is the best question to elicit Semir's response. Options A, B, and D don't match Semir's response about numbers."
+    },
+    {
+      "id": "eng_2014_q107",
+      "question": "Father:\nSon: But Dad, I have agreed to study with my friends on Saturday.",
+      "options": {
+        "A": "The weekend is approaching, and you must be looking forward to it.",
+        "B": "What are you going to do next Saturday?",
+        "C": "You know that your grandmother loves you very much and talks about you always.",
+        "D": "I have decided that you will go and visit your grandmother Saturday."
+      },
+      "correct_answer": "D",
+      "explanation": "The son says 'But Dad' to object to something the father said. The son has already agreed to study with friends, so the father must have asked/told him to do something on Saturday. Option D makes sense: the father decided the son should visit his grandmother, and the son objects because he has other plans."
+    },
+    {
+      "id": "eng_2014_q108",
+      "question": "Fikrite:\nHilina: I am your friend and I am always ready to do anything that makes you happy.",
+      "options": {
+        "A": "If you like me, you will go to my parents' house with me tomorrow.",
+        "B": "Is there anything I can do for you?",
+        "C": "I have some good news to share with you but don't be in a hurry.",
+        "D": "Can you guess what I want to do for you?"
+      },
+      "correct_answer": "B",
+      "explanation": "Hilina's response offers help. This is a direct answer to a question asking if she can do anything. Option B ('Is there anything I can do for you?') is the most natural lead-in. Option A is manipulative. Option C is about sharing news. Option D asks a question."
+    },
+    {
+      "id": "eng_2014_q109",
+      "question": "Garoma:\nAlambo: I am against all kinds of discrimination.",
+      "options": {
+        "A": "People with disability could be moderate.",
+        "B": "Disability should not be a reason for discrimination.",
+        "C": "There are people with disability all over the world.",
+        "D": "When did you first hear about discrimination?"
+      },
+      "correct_answer": "B",
+      "explanation": "Alambo says he is against discrimination. This suggests Garoma mentioned a specific type of discrimination. Option B mentions discrimination based on disability, which Alambo could be responding to. The other options don't directly connect to Alambo's statement."
+    },
+    {
+      "id": "eng_2014_q110",
+      "question": "Chairperson: Let us discuss how inflation in our country is affecting our work.\nParticipant:",
+      "options": {
+        "A": "There is inflation all over the world and there is a need for global solution to control it.",
+        "B": "I think inflation is difficult to control.",
+        "C": "Excuse me for interrupting but we should first discuss the problems in our organization.",
+        "D": "There is no doubt that inflation affects the lives of our citizens in many ways."
+      },
+      "correct_answer": "C",
+      "explanation": "The Chairperson wants to discuss inflation's effect on work. The participant should respond to this specific topic. Option C politely changes the focus to organizational problems (which relates to the effect on work). Option A is too broad. Option B is a general opinion. Option D is about citizens, not work."
+    },
+    {
+      "id": "eng_2014_q111",
+      "question": "Fekadu: Which radio station do you listen to?\nAlemu:",
+      "options": {
+        "A": "I didn't listen to any radio programmes these last two days.",
+        "B": "These days there are many radio programmes to listen to.",
+        "C": "Radio Fana programmes are my favourite.",
+        "D": "I am not sure how many radio programmes there are at present."
+      },
+      "correct_answer": "C",
+      "explanation": "Fekadu asks which radio station Alemu listens to. Alemu should name a specific station. Option C names Radio Fana. Option A says he hasn't listened. Option B is a general statement. Option D is about quantity."
+    },
+    {
+      "id": "eng_2014_q112",
+      "question": "Tesfu: I think we are going to face serious social problems in our city.\nBeket: How?\nTesfu:",
+      "options": {
+        "A": "All of us have a responsibility to tackle our social problems.",
+        "B": "To give you an idea, there are too many unemployed young people in the city.",
+        "C": "The solution to our problems is for us to sit together and work towards a common goal.",
+        "D": "The administration is doing its best to create jobs to reduce the number of unemployed people."
+      },
+      "correct_answer": "B",
+      "explanation": "Beket asks 'How?' meaning in what way or why. Tesfu should explain his statement. Option B provides a specific reason: unemployment. Option A is about responsibility. Option C offers a solution. Option D is about what the administration is doing."
+    },
+    {
+      "id": "eng_2014_q113",
+      "question": "Ahmed: I was very hungry and actually ate a lot at lunch time.\nMuhaba:",
+      "options": {
+        "A": "They say hungry.",
+        "B": "Food has become expensive recently.",
+        "C": "I and my best friend eat lunch together frequently.",
+        "D": "I usually can't find a good place to eat."
+      },
+      "correct_answer": "A",
+      "explanation": "Ahmed talks about being hungry and eating a lot. Muhaba should respond to this. Option A ('They say hungry') doesn't make sense. Actually, looking at the options, the most natural response would be something like 'I know what you mean' or 'I was too.' None of the options are ideal, but Option A might be a typo for 'They say hungry' meaning 'I understand hunger.' Option B is about cost. Option C is about eating habits. Option D is about finding places."
+    },
+    {
+      "id": "eng_2014_q114",
+      "question": "Foreigner:\nWode: Oh, sorry, I don't know. I don't live in this part of the city.",
+      "options": {
+        "A": "Can you tell me where the Capital Hotel is?",
+        "B": "Excuse me. Do you live near here, if I may ask?",
+        "C": "Can I talk to you for a minute, please?",
+        "D": "How long have you been living here?"
+      },
+      "correct_answer": "A",
+      "explanation": "Wode apologizes and says he doesn't know because he doesn't live in this part of the city. This suggests he was asked for directions to a specific place. Option A ('Can you tell me where the Capital Hotel is?') is a request for directions. Option B asks where he lives. Option C asks for time. Option D asks about duration."
+    },
+    {
+      "id": "eng_2014_q115",
+      "question": "The Chairman: People who live in this Wereda face a lot of problems.\nParticipant:",
+      "options": {
+        "A": "The awful thing is nobody seems to be concerned about solving any of their problems.",
+        "B": "The population of this Wereda are hardworking.",
+        "C": "I feel that it is not the best way of problem solving like this in the future, Mr. Chairman.",
+        "D": "The people of this Wereda have respect for one another."
+      },
+      "correct_answer": "A",
+      "explanation": "The Chairman states that people face problems. The participant should respond by elaborating on this. Option A adds that nobody seems concerned about solving the problems. Options B and D are positive statements that don't connect to the problems. Option C is about problem-solving methods."
+    },
+    {
+      "id": "eng_2014_q116",
+      "question": "Student: I am sorry but I haven't understood your last point.\nTeacher:",
+      "options": {
+        "A": "I don't think you understand.",
+        "B": "You will have some point about it.",
+        "C": "Do you have any other questions?",
+        "D": "Ok. Let me rephrase what I just said."
+      },
+      "correct_answer": "D",
+      "explanation": "The student hasn't understood the teacher's last point. The teacher should clarify. Option D offers to rephrase. Option A is dismissive. Option B doesn't address the lack of understanding. Option C asks about other questions."
+    },
+    {
+      "id": "eng_2014_q117",
+      "question": "Temesgen: Modern health treatment has become far too expensive these days.\nDilamo:",
+      "options": {
+        "A": "There are more medical doctors nowadays.",
+        "B": "I have no option but to go to a traditional healer because the treatment is less expensive.",
+        "C": "If you cannot afford to pay you better stay at home.",
+        "D": "We need to get treatments when we become ill."
+      },
+      "correct_answer": "B",
+      "explanation": "Temesgen says modern treatment is expensive. Dilamo should respond to this. Option B explains a consequence: turning to traditional healers because they're cheaper. Option A talks about doctors. Option C is insensitive. Option D is a general statement."
+    },
+    {
+      "id": "eng_2014_q118",
+      "question": "Duressa: Are you the eldest in your family?\nDemitu:",
+      "options": {
+        "A": "My sister is older than me.",
+        "B": "My brothers are all older than me.",
+        "C": "I am the youngest of the children of my family.",
+        "D": "We are a large family with four children."
+      },
+      "correct_answer": "C",
+      "explanation": "Duressa asks if Demitu is the eldest. Demitu should answer the question. Option C says she is the youngest (meaning not the eldest). Options A and B say others are older but don't specify if she is the eldest. Option D gives family size."
+    },
+    {
+      "id": "eng_2014_q119",
+      "question": "Bikila: Could you tell me where the Federal Ministry of Education building is?\nOlani:",
+      "options": {
+        "A": "The Ministry of Education has many offices.",
+        "B": "It is at Arat Kilo, close to the Miazia 27 Monument.",
+        "C": "Why do you want to know the location?",
+        "D": "You mean the education bureau of Addis Ababa?"
+      },
+      "correct_answer": "B",
+      "explanation": "Bikila asks for the location. Olani should give the location. Option B provides the location. Option A is general. Option C asks a question instead of answering. Option D asks for clarification."
+    },
+    {
+      "id": "eng_2014_q120",
+      "question": "Sihan: How often do you read in the library?\nShewit:",
+      "options": {
+        "A": "The library is far from my dormitory.",
+        "B": "I don't like reading in the library.",
+        "C": "I spend most of my evenings reading in the library.",
+        "D": "I like reading at home."
+      },
+      "correct_answer": "C",
+      "explanation": "Sihan asks 'How often?' Shewit should indicate frequency. Option C indicates frequency ('most of my evenings'). Option A gives distance. Option B expresses dislike. Option D says she prefers reading at home."
+    }
+  ]
 }
