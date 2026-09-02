@@ -1,10 +1,132 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Biology",
-    "year":  2010,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_natural_biology_2014",
+  "content_type": "past_paper",
+  "title": "Biology - 2014/15",
+  "year": "2014",
+  "subject": "Biology",
+  "stream": "natural_science",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "bio_2014_q1",
+      "question": "Bacterial cell wall is unique due to its",
+      "options": {
+        "A": "chemical composition.",
+        "B": "freely permeability.",
+        "C": "selective permeability.",
+        "D": "mechanical support."
+      },
+      "correct_answer": "A",
+      "explanation": "Bacterial cell walls are unique primarily because of their chemical composition, specifically the presence of peptidoglycan (murein), which is not found in the cell walls of archaea or eukaryotes. While bacterial cell walls do provide mechanical support and have selective permeability, these are functions shared with other cell walls; the uniqueness lies in the chemical makeup of the structural components. The term 'freely permeability' is inaccurate as cell walls are not freely permeable to all substances."
+    },
+    {
+      "id": "bio_2014_q2",
+      "question": "Which genus of bacteria oxidize hydrogen sulphide to sulphate and make sulphate ions available to be taken by plant roots from the soil?",
+      "options": {
+        "A": "Klebsiella",
+        "B": "Desulphovibrio",
+        "C": "Azotobacter",
+        "D": "Thiobacillus"
+      },
+      "correct_answer": "D",
+      "explanation": "Thiobacillus species are chemoautotrophic bacteria that oxidize inorganic sulfur compounds like hydrogen sulfide (H₂S) to sulfate (SO₄²⁻). This process makes sulfate available as an essential nutrient for plants. Desulphovibrio does the opposite (reduces sulfate to sulfide), while Klebsiella and Azotobacter are nitrogen-fixing bacteria."
+    },
+    {
+      "id": "bio_2014_q3",
+      "question": "Which one of the following diseases is caused by food poisoning bacteria?",
+      "options": {
+        "A": "Candidiasis",
+        "B": "Salmonellaosis",
+        "C": "Tuberculosis",
+        "D": "Pneumonia"
+      },
+      "correct_answer": "B",
+      "explanation": "Salmonellaosis is a type of food poisoning caused by the bacteria Salmonella, which is commonly contracted by consuming contaminated food (e.g., undercooked poultry, eggs). Candidiasis is a fungal infection, Tuberculosis is caused by Mycobacterium tuberculosis (usually respiratory), and Pneumonia is an infection of the lungs that can be caused by various pathogens."
+    },
+    {
+      "id": "bio_2014_q4",
+      "question": "Which one of the following is correct concerning the reproductive cycles of viruses?",
+      "options": {
+        "A": "Both lytic and lysogenic life cycles release new viruses without the genetic alteration of the host cell.",
+        "B": "In lysogenic life cycle the DNA of the virus integrates with the host cell's DNA.",
+        "C": "Both lytic and lysogenic life cycles undergo the same life cycle but ending with different results.",
+        "D": "In lytic life cycle, viruses are released without killing the host cell."
+      },
+      "correct_answer": "B",
+      "explanation": "In the lysogenic cycle, the viral DNA integrates into the host cell's chromosome (becoming a prophage), where it can remain dormant and be replicated along with the host DNA. Option A is incorrect because the lysogenic cycle does not immediately release new viruses, and the integration changes the host's genetic material. Option C is false as the lytic and lysogenic cycles are distinct. Option D is incorrect because the lytic cycle results in the lysis (bursting) and death of the host cell."
+    },
+    {
+      "id": "bio_2014_q5",
+      "question": "Unlike free living cells, viruses are completely",
+      "options": {
+        "A": "pathogenic to a living cell.",
+        "B": "mutual to a living cell.",
+        "C": "parasitic to a living cell.",
+        "D": "harmful to a living cell."
+      },
+      "correct_answer": "C",
+      "explanation": "Viruses are obligate intracellular parasites because they cannot reproduce or carry out metabolic processes outside a host cell. They rely entirely on the host cell's machinery for replication. While often pathogenic and harmful, these are consequences of their parasitic nature; the defining characteristic is their absolute dependence on a host cell for survival and reproduction. 'Mutual' implies a beneficial relationship, which is not the case."
+    },
+    {
+      "id": "bio_2014_q6",
+      "question": "Why are vaccines important? Because they help to",
+      "options": {
+        "A": "trigger the immune system.",
+        "B": "kill pathogens.",
+        "C": "prevent functional diseases.",
+        "D": "heal wounds."
+      },
+      "correct_answer": "A",
+      "explanation": "Vaccines work by triggering the immune system to produce a response (antibodies and memory cells) against a specific pathogen without causing the disease. This prepares the body to fight the pathogen quickly and effectively if encountered later. Vaccines do not directly kill pathogens, heal wounds, or 'prevent functional diseases' in a specific sense; their mechanism is immune system activation."
+    },
+    {
+      "id": "bio_2014_q7",
+      "question": "Assume you wanted to demonstrate compatibility of blood groups. You took four test tubes labeled O, A, B, and AB based on the blood group that each test tube contains. Then you added unknown blood sample into each test tube and no agglutination was observed in each test tube. From this, you can conclude that the unknown blood sample was",
+      "options": {
+        "A": "blood group B.",
+        "B": "blood group O.",
+        "C": "blood group A.",
+        "D": "blood group AB."
+      },
+      "correct_answer": "B",
+      "explanation": "Blood group O individuals have no A or B antigens on their red blood cells, but they have both anti-A and anti-B antibodies in their plasma. The unknown sample has no antigens (A or B) on its cells, meaning agglutination (clumping) would not occur when mixed with anti-A or anti-B sera. Only O-type blood lacks both A and B antigens. Therefore, if no agglutination occurs in any test tube, it indicates the unknown blood is type O."
+    },
+    {
+      "id": "bio_2014_q8",
+      "question": "Which one of the following diseases increases the likelihood of contracting HIV?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Chancroid",
+        "C": "Tuberculosis",
+        "D": "Gonorrhoea"
+      },
+      "correct_answer": "B",
+      "explanation": "Chancroid is a sexually transmitted disease that causes genital ulcers and breaks in the skin, creating an entry point for HIV, thereby significantly increasing the risk of HIV transmission. Syphilis can also cause sores, but chancroid is specifically known for its association with increased HIV acquisition due to the painful open sores it creates. Tuberculosis is often an opportunistic infection in people with HIV, not an increasing factor. Gonorrhoea causes inflammation but not necessarily open sores."
+    },
+    {
+      "id": "bio_2014_q9",
+      "question": "Even though pasteurization is a technique used to heat milk, beer and other foods, it cannot preserve food unspoiled for years because it",
+      "options": {
+        "A": "cannot kill pathogenic microorganisms.",
+        "B": "reduces the nutritional content of the food.",
+        "C": "is conducted in containers that are not properly sealed.",
+        "D": "uses mild temperature that kills most but not all bacteria."
+      },
+      "correct_answer": "D",
+      "explanation": "Pasteurization uses a mild heat treatment (e.g., 72°C for 15 seconds for milk) to kill most, but not all, pathogenic and spoilage microorganisms. The survivors, while not causing disease, can still multiply over time, leading to spoilage. This is why pasteurized foods require refrigeration and have a limited shelf life. Sterilization, which uses much higher temperatures, kills all microorganisms and allows for longer shelf life."
+    },
+    {
+      "id": "bio_2014_q10",
+      "question": "Which one of the following statements is correct about the binomial nomenclature?",
+      "options": {
+        "A": "The genus name is written in full while the species name is abbreviated.",
+        "B": "Both genus and species names are capitalized and italicized when printed.",
+        "C": "The first letter of genus name is capitalized while the species name is written in small letters.",
+        "D": "The genus name is written in English while the species name is written in Latin."
+      },
+      "correct_answer": "C",
+      "explanation": "In binomial nomenclature, the scientific name of an organism consists of two parts: the genus (capitalized) and the species epithet (lowercase). Both are italicized or underlined when printed (e.g., *Homo sapiens*). The genus is not abbreviated in the full name, though it can be abbreviated (e.g., *H. sapiens*). The names are not English but derived from Latin or Greek."
+    }
+  ]
 }
