@@ -1,10 +1,1006 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Biology",
-    "year":  2014,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_natural_biology_2014",
+  "content_type": "past_paper",
+  "title": "Biology - 2014/15",
+  "year": "2014",
+  "subject": "Biology",
+  "stream": "natural_science",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "bio_2014_q1",
+      "question": "Bacterial cell wall is unique due to its",
+      "options": {
+        "A": "chemical composition.",
+        "B": "freely permeability.",
+        "C": "selective permeability.",
+        "D": "mechanical support."
+      },
+      "correct_answer": "A",
+      "explanation": "Bacterial cell walls are unique primarily because of their chemical composition, specifically the presence of peptidoglycan (murein), which is not found in the cell walls of archaea or eukaryotes. While bacterial cell walls do provide mechanical support and have selective permeability, these are functions shared with other cell walls; the uniqueness lies in the chemical makeup of the structural components."
+    },
+    {
+      "id": "bio_2014_q2",
+      "question": "Which genus of bacteria oxidize hydrogen sulphide to sulphate and make sulphate ions available to be taken by plant roots from the soil?",
+      "options": {
+        "A": "Klebsiella",
+        "B": "Desulphovibrio",
+        "C": "Azotobacter",
+        "D": "Thiobacillus"
+      },
+      "correct_answer": "D",
+      "explanation": "Thiobacillus species are chemoautotrophic bacteria that oxidize inorganic sulfur compounds like hydrogen sulfide (H₂S) to sulfate (SO₄²⁻). This process makes sulfate available as an essential nutrient for plants. Desulphovibrio does the opposite (reduces sulfate to sulfide), while Klebsiella and Azotobacter are nitrogen-fixing bacteria."
+    },
+    {
+      "id": "bio_2014_q3",
+      "question": "Which one of the following diseases is caused by food poisoning bacteria?",
+      "options": {
+        "A": "Candidiasis",
+        "B": "Salmonellaosis",
+        "C": "Tuberculosis",
+        "D": "Pneumonia"
+      },
+      "correct_answer": "B",
+      "explanation": "Salmonellaosis is a type of food poisoning caused by the bacteria Salmonella, which is commonly contracted by consuming contaminated food (e.g., undercooked poultry, eggs). Candidiasis is a fungal infection, Tuberculosis is caused by Mycobacterium tuberculosis (usually respiratory), and Pneumonia is an infection of the lungs that can be caused by various pathogens."
+    },
+    {
+      "id": "bio_2014_q4",
+      "question": "Which one of the following is correct concerning the reproductive cycles of viruses?",
+      "options": {
+        "A": "Both lytic and lysogenic life cycles release new viruses without the genetic alteration of the host cell.",
+        "B": "In lysogenic life cycle the DNA of the virus integrates with the host cell's DNA.",
+        "C": "Both lytic and lysogenic life cycles undergo the same life cycle but ending with different results.",
+        "D": "In lytic life cycle, viruses are released without killing the host cell."
+      },
+      "correct_answer": "B",
+      "explanation": "In the lysogenic cycle, the viral DNA integrates into the host cell's chromosome (becoming a prophage), where it can remain dormant and be replicated along with the host DNA. Option A is incorrect because the lysogenic cycle does not immediately release new viruses, and the integration changes the host's genetic material. Option C is false as the lytic and lysogenic cycles are distinct. Option D is incorrect because the lytic cycle results in the lysis (bursting) and death of the host cell."
+    },
+    {
+      "id": "bio_2014_q5",
+      "question": "Unlike free living cells, viruses are completely",
+      "options": {
+        "A": "pathogenic to a living cell.",
+        "B": "mutual to a living cell.",
+        "C": "parasitic to a living cell.",
+        "D": "harmful to a living cell."
+      },
+      "correct_answer": "C",
+      "explanation": "Viruses are obligate intracellular parasites because they cannot reproduce or carry out metabolic processes outside a host cell. They rely entirely on the host cell's machinery for replication. While often pathogenic and harmful, these are consequences of their parasitic nature; the defining characteristic is their absolute dependence on a host cell for survival and reproduction. 'Mutual' implies a beneficial relationship, which is not the case."
+    },
+    {
+      "id": "bio_2014_q6",
+      "question": "Why are vaccines important? Because they help to",
+      "options": {
+        "A": "trigger the immune system.",
+        "B": "kill pathogens.",
+        "C": "prevent functional diseases.",
+        "D": "heal wounds."
+      },
+      "correct_answer": "A",
+      "explanation": "Vaccines work by triggering the immune system to produce a response (antibodies and memory cells) against a specific pathogen without causing the disease. This prepares the body to fight the pathogen quickly and effectively if encountered later. Vaccines do not directly kill pathogens, heal wounds, or 'prevent functional diseases' in a specific sense; their mechanism is immune system activation."
+    },
+    {
+      "id": "bio_2014_q7",
+      "question": "Assume you wanted to demonstrate compatibility of blood groups. You took four test tubes labeled O, A, B, and AB based on the blood group that each test tube contains. Then you added unknown blood sample into each test tube and no agglutination was observed in each test tube. From this, you can conclude that the unknown blood sample was",
+      "options": {
+        "A": "blood group B.",
+        "B": "blood group O.",
+        "C": "blood group A.",
+        "D": "blood group AB."
+      },
+      "correct_answer": "B",
+      "explanation": "Blood group O individuals have no A or B antigens on their red blood cells, but they have both anti-A and anti-B antibodies in their plasma. The unknown sample has no antigens (A or B) on its cells, meaning agglutination (clumping) would not occur when mixed with anti-A or anti-B sera. Only O-type blood lacks both A and B antigens. Therefore, if no agglutination occurs in any test tube, it indicates the unknown blood is type O."
+    },
+    {
+      "id": "bio_2014_q8",
+      "question": "Which one of the following diseases increases the likelihood of contracting HIV?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Chancroid",
+        "C": "Tuberculosis",
+        "D": "Gonorrhoea"
+      },
+      "correct_answer": "B",
+      "explanation": "Chancroid is a sexually transmitted disease that causes genital ulcers and breaks in the skin, creating an entry point for HIV, thereby significantly increasing the risk of HIV transmission. Syphilis can also cause sores, but chancroid is specifically known for its association with increased HIV acquisition due to the painful open sores it creates. Tuberculosis is often an opportunistic infection in people with HIV, not an increasing factor. Gonorrhoea causes inflammation but not necessarily open sores."
+    },
+    {
+      "id": "bio_2014_q9",
+      "question": "Even though pasteurization is a technique used to heat milk, beer and other foods, it cannot preserve food unspoiled for years because it",
+      "options": {
+        "A": "cannot kill pathogenic microorganisms.",
+        "B": "reduces the nutritional content of the food.",
+        "C": "is conducted in containers that are not properly sealed.",
+        "D": "uses mild temperature that kills most but not all bacteria."
+      },
+      "correct_answer": "D",
+      "explanation": "Pasteurization uses a mild heat treatment (e.g., 72°C for 15 seconds for milk) to kill most, but not all, pathogenic and spoilage microorganisms. The survivors, while not causing disease, can still multiply over time, leading to spoilage. This is why pasteurized foods require refrigeration and have a limited shelf life. Sterilization, which uses much higher temperatures, kills all microorganisms and allows for longer shelf life."
+    },
+    {
+      "id": "bio_2014_q10",
+      "question": "Which one of the following statements is correct about the binomial nomenclature?",
+      "options": {
+        "A": "The genus name is written in full while the species name is abbreviated.",
+        "B": "Both genus and species names are capitalized and italicized when printed.",
+        "C": "The first letter of genus name is capitalized while the species name is written in small letters.",
+        "D": "The genus name is written in English while the species name is written in Latin."
+      },
+      "correct_answer": "C",
+      "explanation": "In binomial nomenclature, the scientific name of an organism consists of two parts: the genus (capitalized) and the species epithet (lowercase). Both are italicized or underlined when printed (e.g., *Homo sapiens*). The genus is not abbreviated in the full name, though it can be abbreviated (e.g., *H. sapiens*). The names are not English but derived from Latin or Greek."
+    },
+    {
+      "id": "bio_2014_q11",
+      "question": "During gas exchange between the alveoli and blood capillaries, oxygen is absorbed by the blood while carbon dioxide is removed. This opposite direction of gas exchange occurs due to",
+      "options": {
+        "A": "difference in the concentration gradient of oxygen and carbon dioxide.",
+        "B": "difference in the molecular size of oxygen and carbon dioxide.",
+        "C": "thicker layer of the capillaries.",
+        "D": "the small surface area of the alveoli."
+      },
+      "correct_answer": "A",
+      "explanation": "Gas exchange in the alveoli occurs by simple diffusion down concentration gradients. Oxygen moves from the alveoli (where its concentration is high) to the blood (where its concentration is low) to be transported to tissues. Conversely, carbon dioxide moves from the blood (where its concentration is high) to the alveoli (where its concentration is low) to be exhaled. The direction of movement is entirely due to these opposite concentration gradients."
+    },
+    {
+      "id": "bio_2014_q12",
+      "question": "Identify the correct statement about the effect of exercise on breathing rate.",
+      "options": {
+        "A": "The vital capacity of the lungs decrease during heavy exercise.",
+        "B": "The tidal volume of air at rest is greater than the tidal volume of air during exercise.",
+        "C": "Fast and deep breathing are the result of demanding less oxygen.",
+        "D": "Exercise and getting fit makes the lungs efficient."
+      },
+      "correct_answer": "D",
+      "explanation": "Regular exercise strengthens the respiratory muscles (especially the diaphragm and intercostals) and improves the overall efficiency of the lungs and cardiovascular system. This leads to increased vital capacity and more efficient gas exchange. Vital capacity generally increases or stays the same with exercise; it does not decrease. Tidal volume increases during exercise to meet the higher oxygen demand. Fast and deep breathing is a result of demanding more oxygen, not less."
+    },
+    {
+      "id": "bio_2014_q13",
+      "question": "The following is a list of functions of the components of blood.\n1. Transport of oxygen\n2. Fight against diseases\n3. Cause blood clotting\nWhich one of the following is a correct order of blood components responsible for the above functions respectively?",
+      "options": {
+        "A": "White blood cells, platelets, red blood cells",
+        "B": "Platelets, white blood cells, red blood cells",
+        "C": "Red blood cells, white blood cells, platelets",
+        "D": "Red blood cells, platelets, white blood cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Red blood cells (erythrocytes) contain hemoglobin and are responsible for transporting oxygen. White blood cells (leukocytes) are key components of the immune system and fight against diseases. Platelets (thrombocytes) are cell fragments that are crucial for blood clotting (hemostasis)."
+    },
+    {
+      "id": "bio_2014_q14",
+      "question": "What is the cause of the back flow of blood into the atria from the ventricles? It could be damage of the",
+      "options": {
+        "A": "aorta.",
+        "B": "pulmonary artery.",
+        "C": "pulmonary vein.",
+        "D": "valves."
+      },
+      "correct_answer": "D",
+      "explanation": "The heart has atrioventricular valves (tricuspid and mitral) that prevent blood from flowing back from the ventricles to the atria during ventricular contraction (systole). Damage to these valves (e.g., due to rheumatic fever) can cause them to leak, leading to regurgitation (backflow). Damage to arteries or veins would not directly cause this specific backflow between the atria and ventricles."
+    },
+    {
+      "id": "bio_2014_q15",
+      "question": "The capillaries are blood vessels that have thin wall and large surface area since their function is",
+      "options": {
+        "A": "transport of oxygenated blood.",
+        "B": "exchange of substances.",
+        "C": "to return blood to the heart.",
+        "D": "transport of deoxygenated blood."
+      },
+      "correct_answer": "B",
+      "explanation": "The primary function of capillaries is the exchange of gases, nutrients, and waste products between the blood and the surrounding tissues. Their structure is perfectly adapted for this: the walls are only one cell thick (endothelium), which provides a very short diffusion distance, and they form extensive networks, providing a large surface area for exchange."
+    },
+    {
+      "id": "bio_2014_q16",
+      "question": "During image formation, light is refracted twice before it is focused on the retina. This phenomenon happens at the",
+      "options": {
+        "A": "aqueous humour and lens.",
+        "B": "iris and lens.",
+        "C": "lens and vitrous humour.",
+        "D": "cornea and lens."
+      },
+      "correct_answer": "D",
+      "explanation": "Light entering the eye is refracted (bent) at two main points: the cornea and the lens. The cornea, because of its curved surface, provides the majority of the eye's refractive power. The lens then provides the remaining refractive power and performs fine focusing (accommodation) to project a clear image onto the retina."
+    },
+    {
+      "id": "bio_2014_q17",
+      "question": "Three students designed the following experimental settings to understand the actual taste of a food.\nStudent 1: Blind folded two students, one of them tightly holding the nose while the other without holding the nose and tasting the food.\nStudent 2: Blind folded one student and the other left with open eyes, both holding their nose tightly while tasting the food.\nStudent 3: None of the participants blind folded and only one of them holding her nose tightly while tasting the food.\nStudent 4: None of the participants blind folded and both of them taste the food without holding the nose.\nWhich student designed the most appropriate experiment?",
+      "options": {
+        "A": "Student 1",
+        "B": "Student 2",
+        "C": "Student 4",
+        "D": "Student 3"
+      },
+      "correct_answer": "A",
+      "explanation": "The most appropriate experiment to understand taste (and the role of smell) should have a control group and an experimental group that differ only by one variable. Student 1 sets up a valid experiment where both participants are blindfolded (to remove visual cues about the food), and one has their nose held (blocking smell) while the other does not. This allows for a direct comparison of taste perception with and without the sense of smell."
+    },
+    {
+      "id": "bio_2014_q18",
+      "question": "Short sightedness is corrected by a concave lens because the problem arises due to a",
+      "options": {
+        "A": "weak eye lens that converges light slightly.",
+        "B": "powerful eye lens that diverges light.",
+        "C": "weak eye lens that diverges light.",
+        "D": "strong eye lens that converges light too soon."
+      },
+      "correct_answer": "D",
+      "explanation": "Short-sightedness (myopia) occurs when the eyeball is too long or the lens/cornea is too curved, causing light rays to focus in front of the retina. A concave (diverging) lens is used to spread the light rays out slightly before they enter the eye, so that by the time they reach the eye's lens, they focus correctly on the retina. This effectively corrects the 'too strong' focusing power of the eye."
+    },
+    {
+      "id": "bio_2014_q19",
+      "question": "A patient exhibited symptoms of weight loss, sweating, and irritability and the doctor suspected an endocrine malfunction that can be related to the",
+      "options": {
+        "A": "pancreas.",
+        "B": "adrenal gland.",
+        "C": "thyroid gland.",
+        "D": "gonads."
+      },
+      "correct_answer": "C",
+      "explanation": "These symptoms (weight loss, excessive sweating, irritability) are classic signs of hyperthyroidism, a condition where the thyroid gland produces too much thyroxine. An overactive thyroid increases the metabolic rate, leading to weight loss despite increased appetite, heat intolerance (sweating), and nervousness/irritability."
+    },
+    {
+      "id": "bio_2014_q20",
+      "question": "Secretions of endocrine glands require receptors on cell membrane to be picked by their targets while exocrine secretions do not. This is because",
+      "options": {
+        "A": "exocrine glands secrete hormone directly to the blood stream.",
+        "B": "endocrine glands are ductless.",
+        "C": "exocrine glands are controlled by the nervous system.",
+        "D": "endocrine glands produce protein-based hormones."
+      },
+      "correct_answer": "B",
+      "explanation": "Endocrine glands are ductless; they secrete their hormones directly into the bloodstream. These hormones travel through the blood to target cells, which must have specific receptors to recognize and respond to the hormone. Exocrine glands have ducts that transport their secretions (e.g., enzymes, sweat) directly to a specific site or surface, so their targets are local and don't require receptors for transport."
+    },
+    {
+      "id": "bio_2014_q21",
+      "question": "Which of the following diseases is caused by a DNA virus?",
+      "options": {
+        "A": "Cold sore",
+        "B": "AIDS",
+        "C": "Swine flu",
+        "D": "Corona"
+      },
+      "correct_answer": "A",
+      "explanation": "Cold sores (herpes labialis) are caused by the Herpes Simplex Virus type 1 (HSV-1), which is a DNA virus. AIDS is caused by Human Immunodeficiency Virus (HIV), an RNA retrovirus. Swine flu is caused by an influenza A virus, which has an RNA genome. COVID-19 is caused by the coronavirus SARS-CoV-2, which is an RNA virus."
+    },
+    {
+      "id": "bio_2014_q22",
+      "question": "Currently, natural resources are being depleted at increasing rate and waste materials are accumulated and discharged freely into water bodies. What is the best strategy to overcome these problems?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Succession",
+        "C": "Fossilization",
+        "D": "Recycling"
+      },
+      "correct_answer": "D",
+      "explanation": "Recycling is the most direct and effective strategy to address both resource depletion and waste accumulation. By reusing materials (e.g., metals, plastics, paper), we reduce the demand for new raw materials, decreasing the rate of resource depletion. It also reduces the amount of waste sent to landfills or discharged into the environment."
+    },
+    {
+      "id": "bio_2014_q23",
+      "question": "Which stage of the nitrogen cycle needs the role of Rhizobium?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Denitrification",
+        "C": "Nitrogen fixation",
+        "D": "Nitrification"
+      },
+      "correct_answer": "C",
+      "explanation": "Rhizobium is a genus of bacteria that forms symbiotic relationships with leguminous plants (e.g., beans, peas, clover). These bacteria are critical for nitrogen fixation, the process of converting atmospheric nitrogen (N₂) into ammonia (NH₃), a form plants can use. This is in contrast to denitrification, nitrification, and decomposition, which are carried out by different types of bacteria."
+    },
+    {
+      "id": "bio_2014_q24",
+      "question": "A key aspect in the process of recovery of an ecosystem through succession is that",
+      "options": {
+        "A": "pioneer species always make the environment better.",
+        "B": "higher organisms colonize the environment first.",
+        "C": "a climax community of lichens and mosses is established at the end.",
+        "D": "pioneer species always tend to be lower animals."
+      },
+      "correct_answer": "A",
+      "explanation": "In ecological succession, pioneer species are the first to colonize a barren or disturbed environment. Their presence and activities (e.g., breaking down rock, adding organic matter) make the environment more habitable for subsequent species, facilitating the process of succession. While they may not 'always' make the environment better in every single aspect, this is the fundamental role they play in ecosystem development."
+    },
+    {
+      "id": "bio_2014_q25",
+      "question": "What are the common plants of the boreal forest?",
+      "options": {
+        "A": "Deciduous trees",
+        "B": "Conifers",
+        "C": "Mosses",
+        "D": "Epiphytes"
+      },
+      "correct_answer": "B",
+      "explanation": "Boreal forests (taiga) are characterized by cold climates and dominated by coniferous trees like pines, spruces, and firs. These trees have needle-like leaves and are well-adapted to the harsh conditions. Deciduous trees (e.g., oaks, maples) are common in temperate forests. Mosses are found in many biomes but aren't the defining plant type. Epiphytes are more common in tropical rainforests."
+    },
+    {
+      "id": "bio_2014_q26",
+      "question": "Which one of the following may NOT be regulated by a plant hormone?",
+      "options": {
+        "A": "Seed dispersal",
+        "B": "Cell division",
+        "C": "Cell elongation",
+        "D": "Fruit ripening"
+      },
+      "correct_answer": "A",
+      "explanation": "Plant hormones (phytohormones) regulate many physiological processes including cell division (cytokinins), cell elongation (auxins, gibberellins), and fruit ripening (ethylene). Seed dispersal, however, is primarily driven by external agents like wind, water, and animals, and is a physical/ecological process rather than a physiological one directly regulated by plant hormones."
+    },
+    {
+      "id": "bio_2014_q27",
+      "question": "Bushing of a plant results from",
+      "options": {
+        "A": "cancellation of the positive effect of apical dominance.",
+        "B": "removal of the inhibitory effect of auxin.",
+        "C": "decreased production of auxin by side shoots.",
+        "D": "increased production of auxin by the main shoot."
+      },
+      "correct_answer": "B",
+      "explanation": "Apical dominance is the phenomenon where the main (apical) shoot inhibits the growth of lateral (axillary) buds, leading to a tall, unbranched form. This inhibition is caused by auxin produced by the apical bud. When the apical bud is removed (e.g., by pruning or pinching), the auxin source is eliminated, and the lateral buds are released from inhibition. This allows them to grow, resulting in a bushier plant."
+    },
+    {
+      "id": "bio_2014_q28",
+      "question": "Actions such as protection of individual species, reduction of pollution, and reduction of deforestation can collectively be taken as methods of",
+      "options": {
+        "A": "agricultural expansion.",
+        "B": "biodiversity conservation.",
+        "C": "fighting global warming.",
+        "D": "fighting soil erosion."
+      },
+      "correct_answer": "B",
+      "explanation": "Protecting individual species directly prevents extinction, reducing pollution helps maintain healthy habitats, and reducing deforestation preserves ecosystems. All these actions directly contribute to the conservation of biodiversity (the variety of life on Earth). While they also have positive effects on fighting global warming and soil erosion, these are specific co-benefits; the collective goal and the most encompassing term for these actions is biodiversity conservation."
+    },
+    {
+      "id": "bio_2014_q29",
+      "question": "Which one of the following plants is NOT endemic to Ethiopia?",
+      "options": {
+        "A": "Mango",
+        "B": "Zigba",
+        "C": "Nong",
+        "D": "Enset"
+      },
+      "correct_answer": "A",
+      "explanation": "The mango is not native to Ethiopia; it originated in South Asia (India and Myanmar) and was introduced to many tropical regions. Enset (*Ensete ventricosum*), Zigba, and Nong are considered endemic or near-endemic to Ethiopia. Enset, in particular, is a staple crop in the Ethiopian highlands."
+    },
+    {
+      "id": "bio_2014_q30",
+      "question": "Which one of the following national parks is characterized by the presence of wildlife such as elephant, lion, cheetah and giraffe?",
+      "options": {
+        "A": "Bale mountains national park",
+        "B": "Awash national park",
+        "C": "Mago national park",
+        "D": "Simien mountains national park"
+      },
+      "correct_answer": "B",
+      "explanation": "Awash National Park is known for its diverse savanna wildlife, including elephants, lions, cheetahs, and giraffes. Bale Mountains National Park is famous for its highland endemic species like the Ethiopian wolf and mountain nyala. Mago National Park is known for large herds of elephants and buffaloes but is more famous for its birdlife and Omo valley tribes. Simien Mountains National Park is known for its dramatic landscapes and endemic species like the gelada baboon and walia ibex."
+    },
+    {
+      "id": "bio_2014_q31",
+      "question": "In kingdom animalia, which phylum poisons its prey by tentacles that contain stinging cells?",
+      "options": {
+        "A": "Nematoda",
+        "B": "Coelenterata",
+        "C": "Annelida",
+        "D": "Porifera"
+      },
+      "correct_answer": "B",
+      "explanation": "Phylum Coelenterata (also known as Cnidaria) includes organisms like jellyfish, hydras, and sea anemones. They are characterized by the presence of cnidocytes (stinging cells) on their tentacles. These cells contain nematocysts, which are capsules that can eject a stinging thread to paralyze prey. Nematoda are roundworms, Annelida are segmented worms, and Porifera are sponges."
+    },
+    {
+      "id": "bio_2014_q32",
+      "question": "Mosses are grouped under division bryophyta because they",
+      "options": {
+        "A": "lack true root system and vascular tissue.",
+        "B": "have true leaves, stems and roots.",
+        "C": "have flat and broad leaves.",
+        "D": "are evergreen and photosynthesize all year round."
+      },
+      "correct_answer": "A",
+      "explanation": "Bryophytes (mosses, liverworts, hornworts) are characterized by the absence of true vascular tissue (xylem and phloem) and true roots. Instead, they have rhizoids for anchorage. They do have leaf-like structures, but these are not considered true leaves because they lack vascular tissue. The lack of vascular tissue limits their size and requires them to live in moist environments."
+    },
+    {
+      "id": "bio_2014_q33",
+      "question": "If you are asked to draw a pyramid of biomass of an aquatic habitat that contains zooplankton, herrings, sea lions and phytoplankton, which organisms should be placed at the top of the pyramid?",
+      "options": {
+        "A": "Phytoplankton",
+        "B": "Zooplankton",
+        "C": "Herrings",
+        "D": "Sea lions"
+      },
+      "correct_answer": "D",
+      "explanation": "A pyramid of biomass represents the total mass of organisms at each trophic level. The base (bottom) is the primary producers (phytoplankton). The next level is primary consumers (zooplankton), followed by secondary consumers (herrings), and the top is tertiary consumers (sea lions). In this aquatic food chain, energy flows from phytoplankton → zooplankton → herrings → sea lions."
+    },
+    {
+      "id": "bio_2014_q34",
+      "question": "Which one of the following is an adaptation to reduce water loss in plants? Having",
+      "options": {
+        "A": "a single layered epidermis in leaves",
+        "B": "thin broad leaves",
+        "C": "large and wide stomata",
+        "D": "leaves covered with waxy cuticle"
+      },
+      "correct_answer": "D",
+      "explanation": "A waxy cuticle is a waterproof layer covering the epidermis of leaves and stems. It is a key adaptation to reduce water loss by transpiration, especially in plants living in dry environments. Option A is the typical structure for gas exchange and doesn't reduce loss. Option B (thin, broad leaves) increases surface area and water loss. Option C (large stomata) increases transpiration rate."
+    },
+    {
+      "id": "bio_2014_q35",
+      "question": "Why are arctic animals such as seals, walruses and whales large in body size? To",
+      "options": {
+        "A": "reduce heat loss",
+        "B": "move in the water bodies easily",
+        "C": "capture their prey without challenges",
+        "D": "increase their surface area"
+      },
+      "correct_answer": "A",
+      "explanation": "Large body size in arctic animals is an adaptation to reduce heat loss. This is based on Bergmann's rule, which states that animals in colder climates tend to have larger body sizes because a larger volume-to-surface-area ratio reduces heat loss. A smaller surface area relative to volume means less heat is lost to the environment."
+    },
+    {
+      "id": "bio_2014_q36",
+      "question": "The institute of biodiversity conservation is one of the biological research institutes of Ethiopia attempting to conserve the genetic resources of the country. As such, the institute's major research efforts focus on all of the following EXCEPT",
+      "options": {
+        "A": "microorganism conservation.",
+        "B": "animal conservation.",
+        "C": "soil conservation.",
+        "D": "plant conservation."
+      },
+      "correct_answer": "C",
+      "explanation": "The primary focus of the Institute of Biodiversity Conservation (IBC) in Ethiopia is on the conservation of genetic resources, which includes plants, animals, and microorganisms. Soil conservation is a different field, typically managed by agricultural or environmental agencies (e.g., the Ministry of Agriculture)."
+    },
+    {
+      "id": "bio_2014_q37",
+      "question": "The importance of stains in microscopic investigations is explained by their effect in",
+      "options": {
+        "A": "increasing resolution.",
+        "B": "creating contrast.",
+        "C": "increasing magnification.",
+        "D": "decreasing air bubbles."
+      },
+      "correct_answer": "B",
+      "explanation": "Stains are used in microscopy to create contrast. Many biological specimens are transparent or have low contrast, making details difficult to see. Staining uses colored dyes that bind to specific structures (e.g., nuclei, cell walls), making them stand out against the background and from each other. Resolution is determined by the microscope's optics and wavelength, and magnification is a property of the lenses."
+    },
+    {
+      "id": "bio_2014_q38",
+      "question": "One of the following problems can occur if the liver does NOT properly carry out its digestive functions.",
+      "options": {
+        "A": "Increased alkalinity of the intestine",
+        "B": "Incomplete digestion of polysaccharides",
+        "C": "Partial absorption of digested foods",
+        "D": "Partial digestion of fats"
+      },
+      "correct_answer": "D",
+      "explanation": "The liver's main digestive function is the production of bile, which is stored in the gall bladder and released into the small intestine. Bile emulsifies fats, breaking them down into smaller droplets to increase the surface area for lipase enzymes to act on. If the liver fails to produce or release bile properly, fat digestion would be incomplete ('partial digestion of fats')."
+    },
+    {
+      "id": "bio_2014_q39",
+      "question": "Which of the following is the correct order of food substance, enzyme, and breakdown product of the digestive process in the stomach respectively?",
+      "options": {
+        "A": "Starch, lipase, glucose",
+        "B": "Fat, trypsin, glycerol",
+        "C": "Protein, pepsin, amino acid",
+        "D": "Lipid, amylase, fatty acid"
+      },
+      "correct_answer": "C",
+      "explanation": "In the stomach, the main digestive process involves the enzyme pepsin, which breaks down proteins into smaller peptides (and eventually amino acids). Gastric juices also contain hydrochloric acid, which creates the acidic environment for pepsin to work. Trypsin is a protein-digesting enzyme in the small intestine, and lipase and amylase are not active in the stomach."
+    },
+    {
+      "id": "bio_2014_q40",
+      "question": "Assume you are trying to demonstrate breathing movements using artificial lung and you pulled down the rubber sheet. This action of pulling represents which step of the actual breathing process?",
+      "options": {
+        "A": "Exhalation and contraction of the diaphragm",
+        "B": "Inhalation and relaxation of the diaphragm",
+        "C": "Inhalation and contraction of the diaphragm",
+        "D": "Exhalation and relaxation of the diaphragm"
+      },
+      "correct_answer": "C",
+      "explanation": "When the rubber sheet (representing the diaphragm) is pulled down, the volume of the artificial thoracic cavity increases, creating negative pressure. This causes air to flow into the lungs (inhalation). In actual breathing, this corresponds to the diaphragm contracting (flattening downward) during inhalation. Exhalation occurs when the diaphragm relaxes and moves upward."
+    },
+    {
+      "id": "bio_2014_q41",
+      "question": "When three fatty acid molecules and a molecular undergo condensation reaction, they form",
+      "options": {
+        "A": "peptide bond and protein.",
+        "B": "ester bond and triglyceride.",
+        "C": "glycosidic bond and phosphate.",
+        "D": "phosphate bond and phospholipid."
+      },
+      "correct_answer": "B",
+      "explanation": "Three fatty acid molecules react with one glycerol molecule (the 'molecular' in the question refers to glycerol) in a condensation reaction to form a triglyceride (triacylglycerol). The bonds formed are ester bonds. Peptide bonds form between amino acids to make proteins. Glycosidic bonds form between monosaccharides. Phospholipids contain phosphate groups."
+    },
+    {
+      "id": "bio_2014_q42",
+      "question": "In water, phospholipids become organized into a bilayer. In this configuration, which part of the bilayer faces towards the water?",
+      "options": {
+        "A": "Hydrocarbon tail",
+        "B": "Fatty acid tail",
+        "C": "Phosphate head",
+        "D": "Glycerol head"
+      },
+      "correct_answer": "C",
+      "explanation": "Phospholipids have a hydrophilic (water-loving) phosphate 'head' and hydrophobic (water-fearing) fatty acid 'tails.' In an aqueous environment, they spontaneously form a bilayer with the hydrophilic heads facing outward toward the water and the hydrophobic tails facing inward, away from water. This is the basic structure of cell membranes."
+    },
+    {
+      "id": "bio_2014_q43",
+      "question": "Four students wanted to conduct chemical tests on unknown food particles and used the following chemicals and materials.\nStudent A: Test tubes and biuret solution\nStudent B: Test tubes, ethanol, water, filter paper\nStudent C: Test tubes, benedict's solution, water bath\nStudent D: Test tubes and iodine solution\nWhich of the above students planed a test for lipids?",
+      "options": {
+        "A": "Student B",
+        "B": "Student D",
+        "C": "Student C",
+        "D": "Student A"
+      },
+      "correct_answer": "A",
+      "explanation": "Student B planned a test for lipids (fats) using the emulsion test: ethanol is added to the food sample, shaken, then water is added. A cloudy white emulsion indicates the presence of lipids. Student A planned a test for proteins (biuret test). Student C planned a test for reducing sugars (Benedict's test). Student D planned a test for starch (iodine test)."
+    },
+    {
+      "id": "bio_2014_q44",
+      "question": "Niacin is used to make the coenzyme",
+      "options": {
+        "A": "FAD.",
+        "B": "ADP.",
+        "C": "NAD.",
+        "D": "AMP."
+      },
+      "correct_answer": "C",
+      "explanation": "Niacin (vitamin B3) is a precursor for the coenzyme NAD (Nicotinamide Adenine Dinucleotide). NAD is a crucial coenzyme in redox reactions, particularly in cellular respiration. FAD (Flavin Adenine Dinucleotide) is derived from riboflavin (vitamin B2). ADP and AMP are nucleotides involved in energy transfer."
+    },
+    {
+      "id": "bio_2014_q45",
+      "question": "The following are reaction types catalyzed by different classes of enzymes.\n1. Transferring hydrogen and oxygen atoms\n2. Changing of the molecular form of the substrate\n3. Joining of two molecules by the formation of new bonds\nWhich classes of enzymes catalyze the above reactions according to their consecutive order?",
+      "options": {
+        "A": "Transferases, hydrolases, lyases",
+        "B": "Oxidoreductases, isomerases, ligases",
+        "C": "Oxidoreductases, hydrolases, lyases",
+        "D": "Transferases, isomerases, ligases"
+      },
+      "correct_answer": "B",
+      "explanation": "Oxidoreductases catalyze oxidation-reduction reactions (transferring H and O atoms). Isomerases catalyze the rearrangement of atoms within a molecule (changing molecular form). Ligases catalyze the joining of two molecules with the formation of new bonds (often requiring ATP). Hydrolases use water to break bonds, and lyases remove groups without hydrolysis."
+    },
+    {
+      "id": "bio_2014_q46",
+      "question": "The hydrogen ions that used to turn the rotor of ATP synthase come from",
+      "options": {
+        "A": "phosphorylation of ADP.",
+        "B": "oxidation of NADH and FADH₂.",
+        "C": "hydrolysis of ATP.",
+        "D": "reduction of NADH and FADH₂."
+      },
+      "correct_answer": "B",
+      "explanation": "In oxidative phosphorylation, the hydrogen ions (protons) that flow through ATP synthase come from the oxidation of NADH and FADH₂. As these electron carriers are oxidized in the electron transport chain, they release protons (H⁺) that are pumped across the inner mitochondrial membrane, creating a proton gradient. The flow of these protons back through ATP synthase drives ATP production."
+    },
+    {
+      "id": "bio_2014_q47",
+      "question": "What triggers fermentation during exercise?",
+      "options": {
+        "A": "Shortage of oxygen",
+        "B": "Over activity of respiratory enzymes",
+        "C": "Production of ATP beyond the cells demand",
+        "D": "Presence of excess glucose"
+      },
+      "correct_answer": "A",
+      "explanation": "Fermentation is triggered by a shortage of oxygen (anaerobic conditions) during intense exercise. When oxygen supply cannot meet the demand for ATP production, the cell switches from aerobic respiration to fermentation to regenerate NAD⁺ from NADH, allowing glycolysis to continue producing ATP. Overactivity of respiratory enzymes doesn't trigger fermentation; it's the lack of oxygen that does."
+    },
+    {
+      "id": "bio_2014_q48",
+      "question": "Which of the following processes explains lactate production during anaerobic respiration in animal cells?",
+      "options": {
+        "A": "Oxidation of pyruvate",
+        "B": "Decarboxylation of pyruvate",
+        "C": "Phosphorylation of pyruvate",
+        "D": "Reduction of pyruvate"
+      },
+      "correct_answer": "D",
+      "explanation": "During anaerobic respiration in animal cells, lactate is produced by the reduction of pyruvate. Pyruvate (from glycolysis) accepts electrons from NADH, becoming reduced to lactate. This process regenerates NAD⁺, allowing glycolysis to continue. This is the key reaction in lactic acid fermentation, which occurs in muscles during intense exercise."
+    },
+    {
+      "id": "bio_2014_q49",
+      "question": "Which one of the following descriptions holds true for the link reaction of respiration?",
+      "options": {
+        "A": "Pyruvate reacts with coenzyme A to form acetyl coenzyme A.",
+        "B": "Glucose is converted to pyruvate through a chain of reactions.",
+        "C": "Hydrogen ion and ATP are synthesized.",
+        "D": "Reduced NAD and reduced FAD are produced."
+      },
+      "correct_answer": "A",
+      "explanation": "The link reaction (also called the transition reaction) connects glycolysis to the Krebs cycle. In this reaction, pyruvate (3-carbon) is converted to acetyl CoA (2-carbon) with the release of CO₂ and the reduction of NAD⁺ to NADH. The reaction is catalyzed by pyruvate dehydrogenase. Option B describes glycolysis, option C and D describe other stages of respiration."
+    },
+    {
+      "id": "bio_2014_q50",
+      "question": "Which one of the following is the neo-Darwinian idea of evolution? Evolutionary changes occur due to",
+      "options": {
+        "A": "inheritance of acquired characteristics.",
+        "B": "natural selection through genetics and behavior.",
+        "C": "use and disuse of anatomical structures.",
+        "D": "competitions between living organisms."
+      },
+      "correct_answer": "B",
+      "explanation": "Neo-Darwinism (the modern synthesis) combines Darwin's theory of natural selection with Mendelian genetics. It emphasizes that evolutionary changes occur through natural selection acting on genetic variation. Options A and C are Lamarckian ideas (inheritance of acquired characteristics, use and disuse). Option D is too simplistic and doesn't capture the genetic basis of neo-Darwinism."
+    },
+    {
+      "id": "bio_2014_q51",
+      "question": "What is the significance of Australopithecus afarensis in the study of human evolution? To confirm",
+      "options": {
+        "A": "evolution of bipedalism before large brains",
+        "B": "divergent evolution of Homo erectus from Homo habilis",
+        "C": "true common ancestor of chimpanzees and humans",
+        "D": "convergent evolution of Homo neanderthalensis and Homo erectus"
+      },
+      "correct_answer": "A",
+      "explanation": "Australopithecus afarensis (including the famous fossil 'Lucy') is significant because it provides evidence that bipedalism evolved before large brains. The skeletal structure shows adaptations for bipedal walking, but the brain size was similar to that of modern apes. This confirms that bipedalism was an early evolutionary development in the hominin lineage, preceding the increase in brain size."
+    },
+    {
+      "id": "bio_2014_q52",
+      "question": "Instinctive behavior",
+      "options": {
+        "A": "is common to all members of a species.",
+        "B": "varies from individual to individual.",
+        "C": "may be modified by new experiences.",
+        "D": "develops through trial and error."
+      },
+      "correct_answer": "A",
+      "explanation": "Instinctive (innate) behaviors are genetically programmed and are common to all members of a species. They are performed in the same way by all individuals and do not require learning. Options B, C, and D describe learned behaviors (variation between individuals, modification by experience, development through trial and error)."
+    },
+    {
+      "id": "bio_2014_q53",
+      "question": "Which one of the following statements is an example of latent learning?",
+      "options": {
+        "A": "The random movement of woodlice in response to changes in light intensity and humidity.",
+        "B": "Knowledge of a mice about the immediate environment of its burrow may help it escape from predator.",
+        "C": "Foraging bees returning from successful trip dance on the honey comb to recruit others to harvest a new.",
+        "D": "Female baboon turns its buttock toward the dominant male to signify readiness to mate."
+      },
+      "correct_answer": "B",
+      "explanation": "Latent learning is a form of learning that is not immediately expressed in behavior but is stored and may be used when needed. A mouse exploring its environment gains knowledge (learning) that is not immediately shown but later helps it escape predators. Option A is kinesis, C is communication (dance language), and D is a mating behavior."
+    },
+    {
+      "id": "bio_2014_q54",
+      "question": "Which one of the following is correct about the action of apoenzymes and coenzymes?",
+      "options": {
+        "A": "Coenzymes bind with cofactors to form an active enzyme.",
+        "B": "Apoenzymes bind with enzymes to give catalytic activity.",
+        "C": "Both apoenzymes and coenzymes combine with cofactors to form a non-active enzyme.",
+        "D": "Coenzymes bind with enzymes to give catalytic activity."
+      },
+      "correct_answer": "D",
+      "explanation": "Coenzymes are non-protein organic molecules that bind to apoenzymes (the protein portion of an enzyme) to form a functional holoenzyme (active enzyme). The coenzyme provides additional chemical groups or assists in the catalytic activity. Option A is incorrect because coenzymes bind with apoenzymes, not cofactors (which are inorganic ions)."
+    },
+    {
+      "id": "bio_2014_q55",
+      "question": "Consider the following statements.\nI. Genetically determined and common to all members of a species.\nII. The behavior may be modified by new experiences.\nIII. Behavior is fully functional at the first attempt.\nIV. Generally there is no modification of the behavior.\nWhich numbers describe innate and learned behaviors?",
+      "options": {
+        "A": "Innate: III, IV and Learned: I, II",
+        "B": "Innate: I, II and learned: III, IV",
+        "C": "Innate: II, III, IV and Learned: I",
+        "D": "Innate: I, III, IV and Learned: II"
+      },
+      "correct_answer": "D",
+      "explanation": "Innate behaviors are: genetically determined (I), common to all members of a species, fully functional at first attempt (III), and generally not modified by experience (IV). Learned behaviors: may be modified by new experiences (II). Therefore, Innate: I, III, IV and Learned: II."
+    },
+    {
+      "id": "bio_2014_q56",
+      "question": "Which one of the following is an example of social behavior?",
+      "options": {
+        "A": "Exaggeration of size by fluffing up of feathers",
+        "B": "Singing of frogs on spring nights",
+        "C": "Marking a territory with urine",
+        "D": "Caring for offspring that are not one's own"
+      },
+      "correct_answer": "D",
+      "explanation": "Social behavior involves interactions between members of the same species. Caring for offspring that are not one's own (alloparenting) is a form of social behavior found in some species. Options A (display behavior), B (mating behavior), and C (territorial behavior) involve interactions but are not primarily social behaviors in the sense of cooperative care."
+    },
+    {
+      "id": "bio_2014_q57",
+      "question": "Consider the following reaction.\nReactant A + Reactant B + Enzyme → Intermediate → Product AB + Enzyme\nAt which point are the chemical bonds weakened? At the",
+      "options": {
+        "A": "intermediate",
+        "B": "reactant A",
+        "C": "reactant B",
+        "D": "product AB"
+      },
+      "correct_answer": "A",
+      "explanation": "When an enzyme catalyzes a reaction, the reactants bind to the enzyme's active site, forming an enzyme-substrate complex. This is often referred to as the 'intermediate' or transition state. In this state, the chemical bonds of the reactants are weakened, making them more susceptible to reaction and lowering the activation energy. Once the transition state is reached, product formation occurs."
+    },
+    {
+      "id": "bio_2014_q58",
+      "question": "How do enzymes bind and act on their substrates? By using the",
+      "options": {
+        "A": "lock-and-key model and reducing energy of the substrate",
+        "B": "induced-fit model and providing extra energy for the substrate",
+        "C": "lock-and-key model and changing themselves into products",
+        "D": "induced-fit model and putting the substrates under tension"
+      },
+      "correct_answer": "D",
+      "explanation": "The induced-fit model describes how enzymes bind substrates: the enzyme's active site changes shape (undergoes conformational change) to accommodate the substrate. Enzymes act on substrates by putting them under tension (straining bonds) or by bringing substrates into close proximity, lowering the activation energy. They do not provide extra energy; they lower the energy barrier."
+    },
+    {
+      "id": "bio_2014_q59",
+      "question": "Which of the following external factors influence the turnover rate of enzymes by completely damaging their tertiary structure?",
+      "options": {
+        "A": "Competitive inhibitors",
+        "B": "Substrate concentration",
+        "C": "Reversible inhibitors",
+        "D": "Temperature and pH"
+      },
+      "correct_answer": "D",
+      "explanation": "Extreme temperature and pH can denature enzymes by breaking the weak bonds (hydrogen bonds, ionic bonds, disulfide bridges) that maintain the tertiary (3D) structure. This causes the enzyme to lose its specific shape and become non-functional. Competitive inhibitors and reversible inhibitors do not cause permanent damage; they temporarily bind to the enzyme."
+    },
+    {
+      "id": "bio_2014_q60",
+      "question": "During baking of injera, the CO₂ produced by yeast is used to",
+      "options": {
+        "A": "kill contaminants that spoil injera.",
+        "B": "give injera its typical texture.",
+        "C": "bake injera with low temperature.",
+        "D": "increase the shelf life of injera."
+      },
+      "correct_answer": "B",
+      "explanation": "During the fermentation of dough for injera, yeast produces CO₂ gas. This gas gets trapped in the dough, creating bubbles that give the injera its characteristic spongy texture and porous structure. The CO₂ is not used to kill contaminants (though fermentation may help preserve food), nor to bake at low temperature, nor to increase shelf life directly."
+    },
+    {
+      "id": "bio_2014_q61",
+      "question": "The nerve impulse is transmitted from one neuron to another by a neurotransmitter at the",
+      "options": {
+        "A": "axon.",
+        "B": "cell body.",
+        "C": "synapse.",
+        "D": "myelin sheath."
+      },
+      "correct_answer": "C",
+      "explanation": "The synapse is the junction between two neurons where communication occurs. Neurotransmitters are chemical messengers released from the presynaptic neuron into the synaptic cleft, where they bind to receptors on the postsynaptic neuron, transmitting the impulse. The axon carries impulses away from the cell body, and the myelin sheath insulates the axon."
+    },
+    {
+      "id": "bio_2014_q62",
+      "question": "What happens if the axon is stimulated? Formation of",
+      "options": {
+        "A": "negative charge in both sides of the axon",
+        "B": "negative charge inside the axon",
+        "C": "positive charge inside the axon",
+        "D": "positive charge outside of the axon"
+      },
+      "correct_answer": "C",
+      "explanation": "When an axon is stimulated, an action potential is generated. This involves a rapid reversal of the membrane potential: the inside of the axon becomes positively charged (depolarization) relative to the outside due to the influx of Na⁺ ions. Normally, the inside is negatively charged (resting potential). So stimulation results in positive charge inside the axon."
+    },
+    {
+      "id": "bio_2014_q63",
+      "question": "Assume you wanted to demonstrate a simple reflex action using the knee jerk reflex. You asked a friend to sit with one leg crossed over the other. Which one of the following indicates the correct demonstration?",
+      "options": {
+        "A": "Pulling down your friend's leg that is followed by downward movement",
+        "B": "Hitting your friend on the toes followed by sudden upward movement of the leg",
+        "C": "Bending up your friend's leg followed by downward movement of the leg",
+        "D": "Hitting your friend below the knee cap followed by a sudden upward movement"
+      },
+      "correct_answer": "D",
+      "explanation": "The knee-jerk reflex (patellar reflex) is demonstrated by tapping the patellar tendon just below the kneecap. This stimulates stretch receptors in the quadriceps muscle, causing a reflex contraction of the quadriceps that results in a sudden upward movement of the leg (extension at the knee). This is a classic monosynaptic reflex arc."
+    },
+    {
+      "id": "bio_2014_q64",
+      "question": "A finch with an average length beak was not able to obtain insects out of the cracks in the bark of trees as well as one with a longer beak. It was also not able to crush seeds as well as one with a shorter beak. Over time, those with the longer beaks and those with the shorter beaks increased in numbers, while those with average length beaks decreased in number. Which type of selection has been operated in this scenario?",
+      "options": {
+        "A": "Disruptive",
+        "B": "Directional",
+        "C": "Behavioral",
+        "D": "Stabilising"
+      },
+      "correct_answer": "A",
+      "explanation": "Disruptive selection occurs when extreme phenotypes are favored over the intermediate phenotype. In this scenario, finches with long beaks and short beaks are favored (they can access different food sources), while those with average beaks are at a disadvantage. This leads to the population becoming bimodal, which can eventually lead to speciation."
+    },
+    {
+      "id": "bio_2014_q65",
+      "question": "This item is based on the following diagram of the human ear.\n[Diagram of human ear with letter F indicating a structure]\nWhat is the name of the human ear part represented by letter 'F' in the above diagram?",
+      "options": {
+        "A": "Semicircular canal",
+        "B": "Sacculus",
+        "C": "Utriculus",
+        "D": "Cochlea"
+      },
+      "correct_answer": "D",
+      "explanation": "In the diagram of the human ear, the structure labeled 'F' is the cochlea. The cochlea is a spiral-shaped, fluid-filled structure in the inner ear that contains the organ of Corti, which is responsible for converting sound vibrations into nerve impulses. The semicircular canals, utricle, and saccule are parts of the vestibular system responsible for balance."
+    },
+    {
+      "id": "bio_2014_q66",
+      "question": "The cell theory states that cells",
+      "options": {
+        "A": "contain different organelles with no specialization.",
+        "B": "have basically different composition.",
+        "C": "come from pre-existing cells by division.",
+        "D": "come from non-living objects."
+      },
+      "correct_answer": "C",
+      "explanation": "One of the fundamental tenets of cell theory is that all cells arise from pre-existing cells through cell division. This was a key contribution of Rudolf Virchow. The theory also states that cells are the basic unit of life and that all living organisms are composed of cells. Cells can be specialized and have similar chemical compositions."
+    },
+    {
+      "id": "bio_2014_q67",
+      "question": "Which type of chromosome mutation causes leukemia?",
+      "options": {
+        "A": "Duplication",
+        "B": "Insertion",
+        "C": "Inversion",
+        "D": "Deletion"
+      },
+      "correct_answer": "D",
+      "explanation": "Deletion of specific chromosome regions, such as chromosome 5q deletion, is associated with certain types of leukemia. Deletions can remove tumor suppressor genes, leading to uncontrolled cell growth. While other types of mutations (duplication, insertion, inversion) can also be involved in cancer, deletion is specifically associated with leukemia."
+    },
+    {
+      "id": "bio_2014_q68",
+      "question": "Which theory of the origin of life states that life has no beginning or ending?",
+      "options": {
+        "A": "Cosmozoan theory",
+        "B": "Special creationism",
+        "C": "Eternity theory",
+        "D": "Biochemical theory"
+      },
+      "correct_answer": "C",
+      "explanation": "The eternity theory (also known as the theory of spontaneous generation or the eternity of life) proposes that life has always existed and will always exist, with no beginning or end. Cosmozoan theory suggests life came from outer space. Special creationism proposes divine creation. Biochemical theory suggests life evolved through chemical processes on Earth."
+    },
+    {
+      "id": "bio_2014_q69",
+      "question": "Which one of the following is paleontological evidence of evolution?",
+      "options": {
+        "A": "The presence of homologous structures in living organisms",
+        "B": "Traces of organisms from the remote past",
+        "C": "Similarities in the DNA base sequences of different organisms",
+        "D": "Similarities in the development of embryos in different organisms"
+      },
+      "correct_answer": "B",
+      "explanation": "Paleontology is the study of fossils and ancient life. Paleontological evidence includes fossils and traces of organisms from the remote past. Option A is anatomical evidence (comparative anatomy), option C is molecular evidence (comparative biochemistry), and option D is embryological evidence (comparative embryology)."
+    },
+    {
+      "id": "bio_2014_q70",
+      "question": "This item is based on the diagram of a chloroplast given below.\n[Diagram of chloroplast with numbered structures]\nIn the above diagram of the chloroplast, what are the sites of the light-dependent and light-independent reactions of photosynthesis respectively?",
+      "options": {
+        "A": "3 and 4",
+        "B": "1 and 2",
+        "C": "2 and 1",
+        "D": "4 and 3"
+      },
+      "correct_answer": "B",
+      "explanation": "In a chloroplast, the light-dependent reactions occur in the thylakoid membranes (grana), where photosystems capture light energy. The light-independent reactions (Calvin cycle) occur in the stroma. Without the specific diagram, if structure 1 represents the thylakoid/grana and structure 2 represents the stroma, then light-dependent reactions occur at 1 and light-independent reactions occur at 2."
+    },
+    {
+      "id": "bio_2014_q71",
+      "question": "A colour blind daughter can be born when the",
+      "options": {
+        "A": "mother is colour blind and the father is normal.",
+        "B": "father is colour blind and the mother is normal.",
+        "C": "mother is carrier and the father is colour blind.",
+        "D": "father is normal and the mother is carrier."
+      },
+      "correct_answer": "C",
+      "explanation": "Color blindness is X-linked recessive. A daughter (XX) must receive affected X chromosomes from both parents to be color blind. If the mother is a carrier (XᶜX) and the father is color blind (XᶜY), there is a 50% chance a daughter will be color blind (XᶜXᶜ). If the mother is color blind (XᶜXᶜ) and father is normal (XY), all daughters will be carriers but not color blind."
+    },
+    {
+      "id": "bio_2014_q72",
+      "question": "A farmer cut off several regions of a stem near to the buds of a plant. He removed some of the leaves and dipped the cuts end in some hormones rooting powder and planted the cuttings in a compost. He kept the cuttings well watered and within a few weeks they developed their own root system and became new independent plants. Which one of the following is correct about this experiment? The new plants are most probably",
+      "options": {
+        "A": "phenotypically and genotypically different from the parent plant and from each other",
+        "B": "genetically and phenotypically identical to the parent plant and to each other",
+        "C": "genotypically identical but phenotypically different from the parent",
+        "D": "phenotypically identical but genetically different from each other."
+      },
+      "correct_answer": "B",
+      "explanation": "This experiment describes vegetative propagation (asexual reproduction) by stem cuttings. The new plants are clones of the parent plant - they are genetically identical to the parent and to each other (barring mutations). Since they are genetically identical, they should also be phenotypically identical (assuming no environmental differences). This is the principle of cloning in plants."
+    },
+    {
+      "id": "bio_2014_q73",
+      "question": "During DNA replication",
+      "options": {
+        "A": "DNA helicase transports nucleotides that are used to build the new DNA.",
+        "B": "the base sequence in the new DNA will be slightly changed from the parent DNA.",
+        "C": "DNA polymerase assembles new nucleotides into a new strand.",
+        "D": "the parent DNA will become different from the daughter DNA."
+      },
+      "correct_answer": "C",
+      "explanation": "DNA polymerase is the enzyme responsible for assembling new nucleotides into a new DNA strand during replication. It adds nucleotides complementary to the template strand. DNA helicase unwinds the DNA but does not transport nucleotides. DNA replication is semi-conservative and highly accurate, so the new DNA sequence is typically identical to the parent DNA."
+    },
+    {
+      "id": "bio_2014_q74",
+      "question": "With four different bases to work with, there are 64 possible triplet codes, but only 20 amino acids are used to make all the different proteins. This is because the DNA code is",
+      "options": {
+        "A": "degenerate code.",
+        "B": "non-overlapping code.",
+        "C": "semi conservative code.",
+        "D": "universal code."
+      },
+      "correct_answer": "A",
+      "explanation": "The genetic code is degenerate (redundant), meaning that multiple codons can code for the same amino acid. For example, leucine has 6 different codons. This is why there are 64 codons but only 20 amino acids. The degeneracy provides a buffer against mutations. The code is also non-overlapping, universal, and semi-conservative refers to DNA replication."
+    },
+    {
+      "id": "bio_2014_q75",
+      "question": "If mRNA brings the code 'UGA' into the ribosome",
+      "options": {
+        "A": "translation ceases and protein synthesis terminates.",
+        "B": "tRNA will bring the amino acid methionine.",
+        "C": "ribosome will initiate protein synthesis.",
+        "D": "tRNA will bring 'UGA' anticodon."
+      },
+      "correct_answer": "A",
+      "explanation": "UGA is one of the three stop codons (along with UAA and UAG). These codons do not code for any amino acid and signal the termination of translation. When a stop codon reaches the A site of the ribosome, release factors bind and cause the polypeptide chain to be released, terminating protein synthesis. Methionine is coded by AUG (start codon)."
+    },
+    {
+      "id": "bio_2014_q76",
+      "question": "Breakdown of the thick spongy wall of the uterus at the end of the menstrual cycle is associated with the",
+      "options": {
+        "A": "formation of the corpus luteum.",
+        "B": "maturation of the follicle.",
+        "C": "decrease in progesterone and estrogen concentration.",
+        "D": "increase in oestrogen and progesterone concentration."
+      },
+      "correct_answer": "C",
+      "explanation": "At the end of the menstrual cycle, if fertilization does not occur, the corpus luteum degenerates, leading to a sharp decrease in progesterone and estrogen levels. This drop in hormones causes the endometrium (thick spongy wall of the uterus) to break down, leading to menstruation. The formation of the corpus luteum and follicle maturation occur during the proliferative phase."
+    },
+    {
+      "id": "bio_2014_q77",
+      "question": "The first incubation period of HIV is characterized by a duration of",
+      "options": {
+        "A": "20 years before all the symptoms appear in well-nourished people.",
+        "B": "2 weeks to produce enough antibodies.",
+        "C": "3-12 weeks when mild symptoms are manifested",
+        "D": "2-3 years for the progress of infection to AIDS"
+      },
+      "correct_answer": "C",
+      "explanation": "The first incubation period (acute HIV infection) typically lasts 3-12 weeks after exposure. During this time, individuals may experience mild flu-like symptoms (fever, fatigue, swollen lymph nodes). This is also when seroconversion occurs and antibodies become detectable. The full progression to AIDS can take years, and the window period for antibody production is about 2-4 weeks."
+    },
+    {
+      "id": "bio_2014_q78",
+      "question": "Which one of the following is a behavioral method of temperature regulation in homoiotherms?",
+      "options": {
+        "A": "Pilorection",
+        "B": "Licking"
+      },
+      "correct_answer": "B",
+      "explanation": "Licking is a behavioral method of temperature regulation. For example, dogs and other animals lick themselves to cool down through evaporative cooling. Pilorection (hair standing up) is a physiological response controlled by the autonomic nervous system, not a behavioral one. Behavioral methods involve conscious actions taken by the organism."
+    },
+    {
+      "id": "bio_2014_q79",
+      "question": "What will happen if the water content of the blood is too high?",
+      "options": {
+        "A": "The second coiled tubule of the kidney becomes more permeable.",
+        "B": "Antidiuretic hormone secretion decreases.",
+        "C": "Osmoreceptors stimulate pituitary gland to release ADH.",
+        "D": "The kidney reabsorbs more water back into the blood."
+      },
+      "correct_answer": "B",
+      "explanation": "When blood water content is too high (hypotonic, low blood osmolality), osmoreceptors in the hypothalamus detect this and inhibit the release of ADH (antidiuretic hormone) from the posterior pituitary. Without ADH, the collecting ducts in the kidney become less permeable to water, resulting in more water being excreted in urine. This reduces blood water content to normal levels."
+    },
+    {
+      "id": "bio_2014_q80",
+      "question": "The movement of water from the roots up to the top leaves of tall trees is carried out by",
+      "options": {
+        "A": "loss of water by transpiration and its replacement by osmosis.",
+        "B": "active transport in the roots and osmosis in the leaves.",
+        "C": "the low cohesive and adhesive forces of water in the xylem.",
+        "D": "active transport in both the roots and leaves."
+      },
+      "correct_answer": "A",
+      "explanation": "The upward movement of water in tall trees is explained by the cohesion-tension theory. Transpiration from leaves creates a negative pressure (tension) that pulls water up through the xylem. Water loss by transpiration is replaced by water entering the roots through osmosis. The cohesive and adhesive properties of water (strong forces, not low) are essential for this process."
+    },
+    {
+      "id": "bio_2014_q81",
+      "question": "From the following options, which one contains the steps of writing a scientific report in the correct order?",
+      "options": {
+        "A": "Title → Prediction → Hypothesis → Procedure → Evaluation → Conclusion → Results → Acknowledgement",
+        "B": "Title → Hypothesis → Prediction → Procedure → Results → Conclusion → Evaluation → Acknowledgement",
+        "C": "Title → Hypothesis → Prediction → Evaluation → Results → Procedure → Conclusion → Acknowledgement",
+        "D": "Title → Hypothesis → Procedure → Prediction → Results → Conclusion → Evaluation → Acknowledgement"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order for a scientific report is: Title, Hypothesis, Prediction, Procedure (Method), Results, Conclusion, Evaluation, and Acknowledgement. The hypothesis is stated first, followed by predictions derived from it, then the procedure is described, results are presented, conclusions are drawn, evaluation discusses limitations/improvements, and acknowledgements thank contributors."
+    },
+    {
+      "id": "bio_2014_q82",
+      "question": "What type of force is responsible if a stool solution is placed in a centrifuge, spins the tube at high speed and the solid particles are forced to settle down at the bottom?",
+      "options": {
+        "A": "Cohesive force",
+        "B": "Adhesive force",
+        "C": "Centripetal force",
+        "D": "Gravitational force"
+      },
+      "correct_answer": "C",
+      "explanation": "In a centrifuge, the spinning creates a centripetal force that accelerates particles outward. This is effectively a centrifugal force from the perspective of the sample. The denser particles move outward (downward in the tube) and settle at the bottom due to this force. It is essentially an enhanced gravitational force that accelerates sedimentation."
+    },
+    {
+      "id": "bio_2014_q83",
+      "question": "Ten percent of attendants of a wedding ceremony were sick just after having lunch at the ceremony. What should a student do first to prove scientifically that the sickness was actually linked to the food eaten at the ceremony? She should",
+      "options": {
+        "A": "give drugs to the sick individuals before they contaminate others.",
+        "B": "take food sample to a laboratory and analyze the presence of toxin.",
+        "C": "ask herself why ten percent of the attendants were sicked.",
+        "D": "take stool sample of the sick individuals and analyze the presence of toxins."
+      },
+      "correct_answer": "B",
+      "explanation": "To scientifically prove the sickness was linked to food, the first step is to test the food for contaminants. Taking a food sample to the laboratory for analysis would provide direct evidence of food contamination. Asking why is not a scientific investigation step. Giving drugs is treatment, not investigation. Taking stool samples might help but food samples are more direct."
+    }
+  ]
 }
