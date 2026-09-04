@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "English",
-    "year":  2018,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_english_2018_first_round",
+  "content_type": "past_paper",
+  "title": "English - 2018 (First Round)",
+  "year": 2018,
+  "subject": "English",
+  "stream": "Natural",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2018_fr_q1",
+      "question": "Aster: Do you prefer reading books or watching movies?\nBinen: ______",
+      "options": {
+        "A": "I prefer read books.",
+        "B": "I'd rather watching movies.",
+        "C": "I prefer reading books to watching movies.",
+        "D": "I like better movies than books."
+      },
+      "correct_answer": "C",
+      "explanation": "The correct structure for expressing a preference between two activities is 'prefer [gerund] to [gerund]'."
+    },
+    {
+      "id": "eng_2018_fr_q2",
+      "question": "Teacher: Global warming is the most serious current issue we face today.\nStudent: The climate changes are visible everywhere. ______",
+      "options": {
+        "A": "I totally agree with you",
+        "B": "I don't think so",
+        "C": "That makes no sense",
+        "D": "I completely disagree"
+      },
+      "correct_answer": "A",
+      "explanation": "The student's statement provides evidence for the teacher's claim, indicating agreement."
+    },
+    {
+      "id": "eng_2018_fr_q3",
+      "question": "Friend: I finally got the scholarship to study abroad!\nYou: ______",
+      "options": {
+        "A": "Oh no, I am so sorry for your grief.",
+        "B": "That's wonderful! I am so happy for you!",
+        "C": "Why did you do that?",
+        "D": "I disagree with your choice."
+      },
+      "correct_answer": "B",
+      "explanation": "Receiving a scholarship is positive news, so the appropriate response is to express congratulations and happiness."
+    },
+    {
+      "id": "eng_2018_fr_q4",
+      "question": "Sister: My pet dog just passed away last night.\nBrother: ______",
+      "options": {
+        "A": "Congratulations!",
+        "B": "I prefer cats anyway.",
+        "C": "Oh, I am so sorry to hear that. My deepest condolences.",
+        "D": "That's a great current issue."
+      },
+      "correct_answer": "C",
+      "explanation": "The sister is sharing sad news about the loss of a pet. The appropriate response is to show sympathy and offer condolences."
+    },
+    {
+      "id": "eng_2018_fr_q5",
+      "question": "John: I believe social media does more harm than good to teenagers.\nSara: It helps them connect with peers globally. ______",
+      "options": {
+        "A": "I couldn't agree more",
+        "B": "I completely disagree",
+        "C": "You are absolutely right",
+        "D": "No doubt about it"
+      },
+      "correct_answer": "B",
+      "explanation": "Sara's statement offers a counter-argument (the benefits of social media), indicating she disagrees with John's negative assessment."
+    },
+    {
+      "id": "eng_2018_fr_q6",
+      "question": "Waiter: Are you ready to order, sir?\nCustomer: ______",
+      "options": {
+        "A": "Yes, I will have the roasted chicken, please.",
+        "B": "Yes, the kitchen is big.",
+        "C": "No, I prefer eating out.",
+        "D": "I bought this shirt yesterday."
+      },
+      "correct_answer": "A",
+      "explanation": "The waiter is asking for the customer's food order. Option A provides a specific food order."
+    },
+    {
+      "id": "eng_2018_fr_q7",
+      "question": "Receptionist: Good morning, how can I help you?\nGuest: ______",
+      "options": {
+        "A": "I'd like to book a room for two nights.",
+        "B": "Yes, you can help me tomorrow.",
+        "C": "I don't know your name.",
+        "D": "The weather is nice."
+      },
+      "correct_answer": "A",
+      "explanation": "The receptionist is offering assistance. The guest's request to book a room is a logical and appropriate response."
+    },
+    {
+      "id": "eng_2018_fr_q8",
+      "question": "Stranger: Excuse me, could you tell me where the nearest bank is?\nYou: ______",
+      "options": {
+        "A": "Yes, I need some money.",
+        "B": "Go straight and turn left at the corner.",
+        "C": "The bank is closed yesterday.",
+        "D": "I agree with you."
+      },
+      "correct_answer": "B",
+      "explanation": "The stranger is asking for directions. Option B provides clear directions to the bank."
+    },
+    {
+      "id": "eng_2018_fr_q9",
+      "question": "Manager: Why were you late for the meeting?\nEmployee: ______",
+      "options": {
+        "A": "Because I prefer meetings in the morning.",
+        "B": "I'm sorry, my car broke down on the way.",
+        "C": "Yes, the meeting was very productive.",
+        "D": "I am happy you asked."
+      },
+      "correct_answer": "B",
+      "explanation": "The manager is asking for a reason for the employee's lateness. Option B provides a legitimate explanation."
+    },
+    {
+      "id": "eng_2018_fr_q10",
+      "question": "Ali: Would you mind opening the window?\nBeti: ______",
+      "options": {
+        "A": "Yes, please open it.",
+        "B": "No, not at all. I'll open it right away.",
+        "C": "I agree with you completely.",
+        "D": "Yes, I mind opening the door."
+      },
+      "correct_answer": "B",
+      "explanation": "'Would you mind...?' is a polite request. To agree to it, one says 'No, not at all' (meaning 'I don't mind'). To refuse, one would say 'Yes, I do mind'."
+    },
+    {
+      "id": "eng_2018_fr_q11",
+      "question": "Mother: Don't forget to wash your hands before dinner.\nSon: ______",
+      "options": {
+        "A": "I already did, mom.",
+        "B": "I don't like dinner.",
+        "C": "My hands are not in the kitchen.",
+        "D": "I prefer breakfast."
+      },
+      "correct_answer": "A",
+      "explanation": "The mother is giving a reminder. The son confirms he has already performed the action."
+    },
+    {
+      "id": "eng_2018_fr_q12",
+      "question": "Shopkeeper: ______\nCustomer: I am just browsing, thank you.",
+      "options": {
+        "A": "Can I help you find something?",
+        "B": "Do you want to leave?",
+        "C": "Are you buying or not?",
+        "D": "What is your name?"
+      },
+      "correct_answer": "A",
+      "explanation": "The customer says they are 'just browsing', which is a standard response to a shopkeeper asking if they need help."
+    },
+    {
+      "id": "eng_2018_fr_q13",
+      "question": "Patient: Doctor, I have been suffering from a severe headache for two days.\nDoctor: ______",
+      "options": {
+        "A": "I prefer headaches to stomachaches.",
+        "B": "Take this medicine and get some rest.",
+        "C": "Yes, headaches are common.",
+        "D": "I am a doctor."
+      },
+      "correct_answer": "B",
+      "explanation": "The doctor's response should offer medical advice or a prescription."
+    },
+    {
+      "id": "eng_2018_fr_q14",
+      "question": "Passenger: How long does the flight to Nairobi take?\nFlight Attendant: ______",
+      "options": {
+        "A": "It takes about two hours.",
+        "B": "Nairobi is a beautiful city.",
+        "C": "I am flying there too.",
+        "D": "The flight is delayed."
+      },
+      "correct_answer": "A",
+      "explanation": "The passenger is asking about the duration of the flight. Option A provides the flight time."
+    },
+    {
+      "id": "eng_2018_fr_q15",
+      "question": "Interviewer: What do you consider to be your greatest strength?\nCandidate: ______",
+      "options": {
+        "A": "I am very bad at teamwork.",
+        "B": "I consider myself a very dedicated and hard-working person.",
+        "C": "I don't know anything about this job.",
+        "D": "My strength is not important."
+      },
+      "correct_answer": "B",
+      "explanation": "The interviewer is asking about the candidate's strengths. Option B provides a positive and relevant response."
+    },
+    {
+      "id": "eng_2018_fr_q16",
+      "question": "Choose the letter that represents the best arrangement of the sentences to get a coherent paragraph.\na. Art is a universal expression of human emotion and creativity.\nb. Furthermore, it connects people across different cultures and eras.\nc. It takes many forms, such as painting, music, and literature.\nd. For instance, a simple painting can evoke deep feelings in a viewer.",
+      "options": {
+        "A": "a c d b",
+        "B": "a d c b",
+        "C": "c a b d",
+        "D": "b c d a"
+      },
+      "correct_answer": "A",
+      "explanation": "The logical order is: a (General statement about art), c (Examples of forms of art), d (A specific example), b (Further connection)."
+    },
+    {
+      "id": "eng_2018_fr_q17",
+      "question": "Choose the letter that represents the best arrangement of the sentences to get a coherent paragraph.\na. However, luck and timing also play a significant role.\nb. Success is generally believed to require immense hard work.\nc. Ultimately, it is the combination of preparation and opportunity.\nd. Many highly successful individuals emphasize their early morning routines.",
+      "options": {
+        "A": "b d a c",
+        "B": "b a d c",
+        "C": "d a c b",
+        "D": "a d c b"
+      },
+      "correct_answer": "A",
+      "explanation": "The logical order is: b (General belief about success), d (Example supporting the belief), a (Contrasting viewpoint), c (Concluding synthesis)."
+    },
+    {
+      "id": "eng_2018_fr_q18",
+      "question": "Choose the letter that represents the best arrangement of the sentences to get a coherent paragraph.\na. Next, you must draft your ideas into full paragraphs.\nb. Finally, proofreading ensures your work is free of errors.\nc. Writing a good essay involves several key steps.\nd. First, you should outline your main points clearly.",
+      "options": {
+        "A": "c d a b",
+        "B": "c a d b",
+        "C": "d a b c",
+        "D": "c d b a"
+      },
+      "correct_answer": "A",
+      "explanation": "The logical order is: c (Introduction), d (First step), a (Next step), b (Final step)."
+    },
+    {
+      "id": "eng_2018_fr_q19",
+      "question": "Put the following words in the correct order to make a proper sentence: time / will / get / unless / note / doctor's / you / a / off / not",
+      "options": {
+        "A": "Unless you get a doctor's note time off you will not.",
+        "B": "You will not get time off unless you have a doctor's note.",
+        "C": "A doctor's note you will not get unless time off.",
+        "D": "You will not get a doctor's note unless time off you have."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct sentence structure is: Main clause + 'unless' + conditional clause. 'You will not get time off unless you have a doctor's note.'"
+    },
+    {
+      "id": "eng_2018_fr_q20",
+      "question": "Put the following words in the correct order to make a proper sentence: friends / prefer / surrounded / some / people / being / their / by",
+      "options": {
+        "A": "Some people prefer being surrounded by their friends.",
+        "B": "Being surrounded by their friends prefer some people.",
+        "C": "Some friends prefer being surrounded by their people.",
+        "D": "People prefer being some friends surrounded by their."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct sentence is: 'Some people prefer being surrounded by their friends.' Subject (Some people) + Verb (prefer) + Object (being surrounded by their friends)."
+    },
+    {
+      "id": "eng_2018_fr_q21",
+      "question": "Put the following words in the correct order to make a proper sentence: summer / away / moved / family / in / his / he / from",
+      "options": {
+        "A": "In his family he moved away from summer.",
+        "B": "He moved away from his family in summer.",
+        "C": "From his family in summer he moved away.",
+        "D": "He in summer away from his family moved."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct sentence is: 'He moved away from his family in summer.' Subject (He) + Verb (moved) + Prepositional phrase (away from his family) + Time phrase (in summer)."
+    },
+    {
+      "id": "eng_2018_fr_q22",
+      "question": "In a formal or semi-formal letter, the phrase 'Best regards,' is used as the:",
+      "options": {
+        "A": "Salutation",
+        "B": "Body",
+        "C": "Complimentary close",
+        "D": "Subject line"
+      },
+      "correct_answer": "C",
+      "explanation": "'Best regards' is a complimentary close, used at the end of a letter before the sender's signature."
+    },
+    {
+      "id": "eng_2018_fr_q23",
+      "question": "The address of the person to whom we are writing the letter is known as the:",
+      "options": {
+        "A": "Sender's address",
+        "B": "Receiver's address",
+        "C": "Salutation",
+        "D": "Reference line"
+      },
+      "correct_answer": "B",
+      "explanation": "The receiver's address is the address of the person receiving the letter."
+    },
+    {
+      "id": "eng_2018_fr_q24",
+      "question": "'The young man glanced behind him, his heart pounding in his chest as he sprinted into the dark alley, desperately trying to run away from the police.' This type of writing is most likely:",
+      "options": {
+        "A": "Descriptive",
+        "B": "Argumentative",
+        "C": "Narrative",
+        "D": "Expository"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage tells a story with action and suspense, which is characteristic of narrative writing."
+    },
+    {
+      "id": "eng_2018_fr_q25",
+      "question": "Which one of the following sentences is correctly punctuated?",
+      "options": {
+        "A": "\"I cannot believe it!\" she shouted.",
+        "B": "\"I cannot believe it\" she shouted!",
+        "C": "\"I cannot believe it,\" she shouted!",
+        "D": "\"I cannot believe it!\" she shouted."
+      },
+      "correct_answer": "A",
+      "explanation": "The exclamation mark is correctly placed inside the quotation marks (as part of the quoted material). The reporting clause 'she shouted' ends with a period."
+    },
+    {
+      "id": "eng_2018_fr_q26",
+      "question": "Which one of the following has correct capitalization?",
+      "options": {
+        "A": "My uncle speaks English, french, and Amharic.",
+        "B": "My uncle speaks english, French, and Amharic.",
+        "C": "My uncle speaks English, French, and Amharic.",
+        "D": "my uncle speaks English, French, and amharic."
+      },
+      "correct_answer": "C",
+      "explanation": "Language names (English, French, Amharic) and the first letter of the sentence must be capitalized."
+    },
+    {
+      "id": "eng_2018_fr_q27",
+      "question": "Which sentence is correctly punctuated?",
+      "options": {
+        "A": "My favorite subjects are math, science, and history.",
+        "B": "My favorite subjects are, math science and history.",
+        "C": "My favorite subjects are math science and, history.",
+        "D": "My favorite subjects are math, science and, history."
+      },
+      "correct_answer": "A",
+      "explanation": "Items in a simple list are separated by commas. The Oxford comma (the comma before 'and') is optional but commonly used."
+    },
+    {
+      "id": "eng_2018_fr_q28",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": {
+        "A": "We need to buy: milk, bread and sugar.",
+        "B": "We need to buy milk, bread, and sugar.",
+        "C": "We need to buy; milk, bread and sugar.",
+        "D": "We need to buy milk bread and, sugar."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B correctly uses commas to separate the items in a simple list without unnecessary colons or semicolons."
+    },
+    {
+      "id": "eng_2018_fr_q29",
+      "question": "Choose the word which is written in correct spelling.",
+      "options": {
+        "A": "spectacular",
+        "B": "spectacular",
+        "C": "procrastinate",
+        "D": "procrastinate"
+      },
+      "correct_answer": "A",
+      "explanation": "'Spectacular' is the correct spelling."
+    },
+    {
+      "id": "eng_2018_fr_q30",
+      "question": "Which of the following groups of words is spelled entirely correctly?",
+      "options": {
+        "A": "economy, nominet, substantive",
+        "B": "economy, nominate, substantiv",
+        "C": "economy, nominate, substantive",
+        "D": "economy, nominate, substantive"
+      },
+      "correct_answer": "C",
+      "explanation": "All three words: 'economy', 'nominate', and 'substantive' are spelled correctly in option C."
+    },
+    {
+      "id": "eng_2018_fr_q31",
+      "question": "'She was a tall, blonde girl with careless hair that blew wildly in the wind, and her bright blue eyes sparkled under the afternoon sun.' What kind of paragraph is this?",
+      "options": {
+        "A": "Narrative",
+        "B": "Descriptive",
+        "C": "Argumentative",
+        "D": "Expository"
+      },
+      "correct_answer": "B",
+      "explanation": "The paragraph focuses on describing the physical appearance of a person using vivid sensory details."
+    },
+    {
+      "id": "eng_2018_fr_q32",
+      "question": "'Teachers should take more responsibility for shaping the moral character of their students, as they spend a majority of their waking hours in the classroom.' This sentence is most likely taken from an ______ essay.",
+      "options": {
+        "A": "Argumentative",
+        "B": "Descriptive",
+        "C": "Narrative",
+        "D": "Instructional"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence presents a debatable claim ('should take more responsibility') that is supported by a reason, which is typical of an argumentative essay."
+    },
+    {
+      "id": "eng_2018_fr_q33",
+      "question": "After the accident, he suffered severe back pain ______ months.",
+      "options": {
+        "A": "with",
+        "B": "from",
+        "C": "of",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "explanation": "The phrase 'suffer from' is used to indicate the cause of a pain or illness."
+    },
+    {
+      "id": "eng_2018_fr_q34",
+      "question": "In summer, she usually moves away ______ her family to attend a special camp.",
+      "options": {
+        "A": "from",
+        "B": "of",
+        "C": "in",
+        "D": "at"
+      },
+      "correct_answer": "A",
+      "explanation": "'Moves away from' is the correct phrasal verb to indicate separating or moving at a distance from someone."
+    },
+    {
+      "id": "eng_2018_fr_q35",
+      "question": "Extroverts typically prefer being surrounded ______ their friends.",
+      "options": {
+        "A": "with",
+        "B": "by",
+        "C": "around",
+        "D": "among"
+      },
+      "correct_answer": "B",
+      "explanation": "'Surrounded by' is the correct prepositional phrase to indicate being enclosed or hemmed in on all sides by something."
+    },
+    {
+      "id": "eng_2018_fr_q36",
+      "question": "The committee ______ seven experienced members.",
+      "options": {
+        "A": "consists in",
+        "B": "consists of",
+        "C": "consists with",
+        "D": "consists from"
+      },
+      "correct_answer": "B",
+      "explanation": "'Consists of' is the correct idiom to describe the components of a whole."
+    },
+    {
+      "id": "eng_2018_fr_q37",
+      "question": "If she had studied harder, she ______ the exam.",
+      "options": {
+        "A": "would pass",
+        "B": "will pass",
+        "C": "would have passed",
+        "D": "passed"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a third conditional sentence (past unreal condition). The main clause uses 'would have + past participle'."
+    },
+    {
+      "id": "eng_2018_fr_q38",
+      "question": "If you mix red and yellow, you ______ orange. (Zero Conditional)",
+      "options": {
+        "A": "will get",
+        "B": "would get",
+        "C": "get",
+        "D": "got"
+      },
+      "correct_answer": "C",
+      "explanation": "Zero conditional (facts/general truths) uses simple present in both the if-clause and the main clause."
+    },
+    {
+      "id": "eng_2018_fr_q39",
+      "question": "If it rains tomorrow, we ______ the picnic.",
+      "options": {
+        "A": "would cancel",
+        "B": "will cancel",
+        "C": "canceled",
+        "D": "cancel"
+      },
+      "correct_answer": "B",
+      "explanation": "This is a first conditional (future real possibility) using 'will' in the main clause."
+    },
+    {
+      "id": "eng_2018_fr_q40",
+      "question": "\"Do you clean your room?\" my mother asked.\nMy mother asked me if I ______ my room.",
+      "options": {
+        "A": "clean",
+        "B": "cleaned",
+        "C": "was cleaning",
+        "D": "had cleaned"
+      },
+      "correct_answer": "B",
+      "explanation": "In reported speech, the present simple tense changes to past simple. 'Do you clean' becomes 'if I cleaned'."
+    },
+    {
+      "id": "eng_2018_fr_q41",
+      "question": "\"I will call you later,\" he said.\nHe said that he ______ call me later.",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "can",
+        "D": "shall"
+      },
+      "correct_answer": "B",
+      "explanation": "In reported speech, 'will' changes to 'would'."
+    },
+    {
+      "id": "eng_2018_fr_q42",
+      "question": "I am so short. I wish I ______ taller.",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "had been"
+      },
+      "correct_answer": "C",
+      "explanation": "For present unreal wishes, 'were' is used for all persons (I wish I were...)."
+    },
+    {
+      "id": "eng_2018_fr_q43",
+      "question": "The manager decided to delay the new software until next month.",
+      "options": {
+        "A": "releasing",
+        "B": "to releasing",
+        "C": "to release",
+        "D": "release"
+      },
+      "correct_answer": "C",
+      "explanation": "The verb 'decide' is followed by an infinitive ('to release')."
+    },
+    {
+      "id": "eng_2018_fr_q44",
+      "question": "Despite the challenges, she really wants ______ her degree this year.",
+      "options": {
+        "A": "finish",
+        "B": "finishing",
+        "C": "to finish",
+        "D": "finished"
+      },
+      "correct_answer": "C",
+      "explanation": "The verb 'want' is followed by an infinitive ('to finish')."
+    },
+    {
+      "id": "eng_2018_fr_q45",
+      "question": "The manager, along with his assistants, ______ attending the conference right now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'along with his assistants' is parenthetical. The subject is 'The manager', which is singular, so the verb must be singular ('is')."
+    },
+    {
+      "id": "eng_2018_fr_q46",
+      "question": "We need to buy more fruits, ______ some vegetables for the salad.",
+      "options": {
+        "A": "as well as",
+        "B": "also",
+        "C": "in addition",
+        "D": "beside"
+      },
+      "correct_answer": "A",
+      "explanation": "'As well as' is a conjunction that can link two noun phrases ('fruits' and 'some vegetables'). 'Also' and 'in addition' are adverbs that would not fit the grammatical structure."
+    },
+    {
+      "id": "eng_2018_fr_q47",
+      "question": "Due to the economic crisis, the company had to lay ______ fifty workers.",
+      "options": {
+        "A": "out",
+        "B": "down",
+        "C": "off",
+        "D": "over"
+      },
+      "correct_answer": "C",
+      "explanation": "'Lay off' is the phrasal verb meaning to dismiss employees from their jobs."
+    },
+    {
+      "id": "eng_2018_fr_q48",
+      "question": "Neither the students nor the teacher ______ aware of the sudden schedule change.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "correct_answer": "A",
+      "explanation": "With 'neither...nor', the verb agrees with the subject closest to it. 'The teacher' is singular, so the verb is 'was'."
+    },
+    {
+      "id": "eng_2018_fr_q49",
+      "question": "By the time the police arrived, the thief ______ away.",
+      "options": {
+        "A": "ran",
+        "B": "has run",
+        "C": "had run",
+        "D": "was running"
+      },
+      "correct_answer": "C",
+      "explanation": "By the time the police arrived' is a past event that follows a previous action. The action that happened earlier is 'had run' (past perfect)."
+    },
+    {
+      "id": "eng_2018_fr_q50",
+      "question": "The book ______ I borrowed from the library is very interesting.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "explanation": "'Which' is the relative pronoun used for things (the book). 'Who' and 'whom' are for people, and 'whose' is possessive."
+    },
+    {
+      "id": "eng_2018_fr_q51",
+      "question": "I am looking forward ______ you soon.",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "see"
+      },
+      "correct_answer": "C",
+      "explanation": "The phrasal verb 'look forward to' is followed by a gerund (verb + -ing)."
+    },
+    {
+      "id": "eng_2018_fr_q52",
+      "question": "They are used to ______ up early in the morning.",
+      "options": {
+        "A": "wake",
+        "B": "waking",
+        "C": "woke",
+        "D": "waken"
+      },
+      "correct_answer": "B",
+      "explanation": "'Be used to' is followed by a gerund (verb + -ing)."
+    },
+    {
+      "id": "eng_2018_fr_q53",
+      "question": "______ he was tired, he finished his assignment.",
+      "options": {
+        "A": "Because",
+        "B": "Although",
+        "C": "However",
+        "D": "Since"
+      },
+      "correct_answer": "B",
+      "explanation": "'Although' is used to introduce a contrasting idea. The sentence says he was tired but still finished the assignment."
+    },
+    {
+      "id": "eng_2018_fr_q54",
+      "question": "I would rather you ______ home now; it is getting dark.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "explanation": "'Would rather' is followed by a clause in the past tense for a present or future preference."
+    },
+    {
+      "id": "eng_2018_fr_q55",
+      "question": "Selam is ______ intelligent that she easily solved the puzzle.",
+      "options": {
+        "A": "so",
+        "B": "such",
+        "C": "such a",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "explanation": "'So...that' is the correct structure to show cause and effect with an adjective ('so intelligent that')."
+    },
+    {
+      "id": "eng_2018_fr_q56",
+      "question": "He asked me where ______ going.",
+      "options": {
+        "A": "was I",
+        "B": "I was",
+        "C": "am I",
+        "D": "I am"
+      },
+      "correct_answer": "B",
+      "explanation": "In reported speech, the word order in the embedded clause is statement order (subject + verb), not question order. Also, the tense backshifts: 'are' to 'was'."
+    },
+    {
+      "id": "eng_2018_fr_q57",
+      "question": "The house ______ last year by a famous architect.",
+      "options": {
+        "A": "builds",
+        "B": "built",
+        "C": "was built",
+        "D": "has built"
+      },
+      "correct_answer": "C",
+      "explanation": "The house is the receiver of the action, so the passive voice is required. The time frame is 'last year', so past simple passive is used ('was built')."
+    },
+    {
+      "id": "eng_2018_fr_q58",
+      "question": "You had better ______ an umbrella. It looks like it will rain.",
+      "options": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking",
+        "D": "took"
+      },
+      "correct_answer": "A",
+      "explanation": "'Had better' is followed by the base form of the verb (without 'to')."
+    },
+    {
+      "id": "eng_2018_fr_q59",
+      "question": "______ of the heavy rain, the football match was postponed.",
+      "options": {
+        "A": "Because",
+        "B": "In spite",
+        "C": "Due to the fact",
+        "D": "Because of"
+      },
+      "correct_answer": "D",
+      "explanation": "'Because of' is a prepositional phrase followed by a noun phrase ('the heavy rain'). 'Because' is a conjunction requiring a clause. 'Due to the fact that' would be the full form, but 'Because of' is the correct prepositional phrase."
+    },
+    {
+      "id": "eng_2018_fr_q60",
+      "question": "Scarcely had she finished the exam ______ the bell rang.",
+      "options": {
+        "A": "than",
+        "B": "when",
+        "C": "then",
+        "D": "while"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct structure is 'Scarcely had she done something when another thing happened' or 'No sooner had she done something than...'. Therefore, 'when' is the correct word."
+    },
+    {
+      "id": "eng_2018_fr_q61",
+      "question": "She has been living in Addis Ababa ______ 2015.",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "at",
+        "D": "in"
+      },
+      "correct_answer": "B",
+      "explanation": "'Since' is used with a point in time (2015). 'For' is used with a duration of time."
+    },
+    {
+      "id": "eng_2018_fr_q62",
+      "question": "I didn't mean to offend you; I just wanted to point ______ the error.",
+      "options": {
+        "A": "in",
+        "B": "up",
+        "C": "out",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "explanation": "'Point out' is the phrasal verb meaning to draw attention to something."
+    },
+    {
+      "id": "eng_2018_fr_q63",
+      "question": "Could you please turn ______ the lights before leaving the room?",
+      "options": {
+        "A": "off",
+        "B": "out",
+        "C": "down",
+        "D": "up"
+      },
+      "correct_answer": "A",
+      "explanation": "'Turn off' is the phrasal verb meaning to stop the operation of an electronic device (like lights)."
+    },
+    {
+      "id": "eng_2018_fr_q64",
+      "question": "The teacher made the students ______ the exercise again.",
+      "options": {
+        "A": "to do",
+        "B": "doing",
+        "C": "do",
+        "D": "did"
+      },
+      "correct_answer": "C",
+      "explanation": "The verb 'make' is followed by the base form of the verb (without 'to') when used in the active voice."
+    },
+    {
+      "id": "eng_2018_fr_q65",
+      "question": "If he ______ the truth, I wouldn't be angry now. (Mixed conditional context)",
+      "options": {
+        "A": "tells",
+        "B": "told",
+        "C": "has told",
+        "D": "had told"
+      },
+      "correct_answer": "D",
+      "explanation": "This is a mixed conditional. The 'if' clause refers to the past (past perfect: had told), and the main clause refers to the present (wouldn't be angry now)."
+    },
+    {
+      "id": "eng_2018_fr_q66",
+      "question": "Choose the sentence with the closest meaning to the head sentence: 'You will not receive your pension unless you give a written notice prior to your retirement.'",
+      "options": {
+        "A": "A written notice is mandatory before retiring in order to get your pension.",
+        "B": "You can get your pension without a written notice if you retire early.",
+        "C": "You must give written notice after retiring to receive your pension.",
+        "D": "Written notice is optional for receiving your pension."
+      },
+      "correct_answer": "A",
+      "explanation": "'Unless' means 'if not'. The sentence means you must give a written notice to get your pension. It is a required condition."
+    },
+    {
+      "id": "eng_2018_fr_q67",
+      "question": "Choose the sentence with the closest meaning to the head sentence: 'When I was younger, I should not have taken my education for granted.'",
+      "options": {
+        "A": "I am proud of how I handled my education when I was young.",
+        "B": "I regret that I did not value my education properly in my youth.",
+        "C": "My education was granted to me when I was young.",
+        "D": "I did not have any education when I was younger."
+      },
+      "correct_answer": "B",
+      "explanation": "'Should not have taken for granted' expresses regret about a past action (not valuing his education)."
+    },
+    {
+      "id": "eng_2018_fr_q68",
+      "question": "Choose the sentence with the closest meaning to the head sentence: 'You will not get time off work unless you present a valid doctor's note.'",
+      "options": {
+        "A": "A doctor's note guarantees you will be fired from work.",
+        "B": "You can take time off without seeing a doctor.",
+        "C": "Presenting a doctor's note is a necessary condition for getting time off.",
+        "D": "Doctors are not allowed to give notes for time off work."
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence means you must present a doctor's note to get time off. It is a necessary condition."
+    },
+    {
+      "id": "eng_2018_fr_q69",
+      "question": "What is the central theme of Passage 1? (The Importance of Mental Health)",
+      "options": {
+        "A": "The benefits of social media on relationships.",
+        "B": "The physical health challenges of the modern world.",
+        "C": "The importance of recognizing and addressing mental health.",
+        "D": "How to become a professional therapist."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage discusses the importance of mental health, the challenges associated with it, and ways to address it."
+    },
+    {
+      "id": "eng_2018_fr_q70",
+      "question": "According to paragraph 1, why do many individuals hide their mental health struggles? (Passage 1)",
+      "options": {
+        "A": "They enjoy suffering in silence.",
+        "B": "They believe physical health is less important.",
+        "C": "They fear the societal stigma and being seen as weak.",
+        "D": "They cannot afford medical treatment."
+      },
+      "correct_answer": "C",
+      "explanation": "The text states that 'mental health struggles often remain hidden due to societal stigma' and 'believing that acknowledging their emotional or psychological pain is a sign of weakness'."
+    },
+    {
+      "id": "eng_2018_fr_q71",
+      "question": "In paragraph 2, the word 'aggravate' most likely means: (Passage 1)",
+      "options": {
+        "A": "To improve or heal.",
+        "B": "To make a problem worse or more severe.",
+        "C": "To completely ignore.",
+        "D": "To diagnose quickly."
+      },
+      "correct_answer": "B",
+      "explanation": "In the context, factors like chronic stress 'aggravate' mental health conditions, meaning they make them worse or more severe."
+    },
+    {
+      "id": "eng_2018_fr_q72",
+      "question": "In paragraph 2, the pronoun 'they' refers to: (Passage 1)",
+      "options": {
+        "A": "Social media platforms.",
+        "B": "Individuals.",
+        "C": "These issues (factors affecting mental health).",
+        "D": "Childhood traumas."
+      },
+      "correct_answer": "C",
+      "explanation": "'When these issues are left unaddressed, they can escalate into...' Here, 'they' refers to the issues mentioned."
+    },
+    {
+      "id": "eng_2018_fr_q73",
+      "question": "According to the passage, what effect does excessive social media use have on individuals? (Passage 1)",
+      "options": {
+        "A": "It builds strong emotional resilience.",
+        "B": "It leads to feelings of isolation and inadequacy.",
+        "C": "It helps cure clinical depression.",
+        "D": "It replaces the need for professional therapy."
+      },
+      "correct_answer": "B",
+      "explanation": "The text says 'excessive use of social media often leads to feelings of inadequacy and isolation'."
+    },
+    {
+      "id": "eng_2018_fr_q74",
+      "question": "What can be inferred from the passage about the relationship between physical and mental health? (Passage 1)",
+      "options": {
+        "A": "Physical health is much easier to diagnose and treat than mental health.",
+        "B": "Mental health is dependent solely on physical exercises.",
+        "C": "Physical health is entirely unrelated to emotional well-being.",
+        "D": "Mental health is more important than physical health."
+      },
+      "correct_answer": "A",
+      "explanation": "The text says 'physical health issues are easily identified and treated, mental health struggles often remain hidden'. This implies physical health is easier to address."
+    },
+    {
+      "id": "eng_2018_fr_q75",
+      "question": "In paragraph 3, the word 'Ultimately' most closely means: (Passage 1)",
+      "options": {
+        "A": "In the beginning.",
+        "B": "Partially.",
+        "C": "In the end; fundamentally.",
+        "D": "Rarely."
+      },
+      "correct_answer": "C",
+      "explanation": "'Ultimately' is a transition word that means 'in the end' or 'finally'."
+    },
+    {
+      "id": "eng_2018_fr_q76",
+      "question": "According to paragraph 3, what is suggested when self-care methods are not enough? (Passage 1)",
+      "options": {
+        "A": "To sleep more often.",
+        "B": "To quit one's job to avoid stress.",
+        "C": "To seek professional support from therapists.",
+        "D": "To delete all social media accounts immediately."
+      },
+      "correct_answer": "C",
+      "explanation": "The text suggests seeking professional help 'if these strategies are not enough'."
+    },
+    {
+      "id": "eng_2018_fr_q77",
+      "question": "Which of the following is NOT mentioned as a foundational practice for emotional resilience? (Passage 1)",
+      "options": {
+        "A": "Regular exercise",
+        "B": "Sufficient sleep",
+        "C": "Taking strong medication",
+        "D": "A balanced diet"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage mentions regular exercise, a balanced diet, and sufficient sleep. It does not mention taking strong medication."
+    },
+    {
+      "id": "eng_2018_fr_q78",
+      "question": "What is the main purpose of Passage 2? (The Value of Soft Skills)",
+      "options": {
+        "A": "To explain why hard skills are completely obsolete.",
+        "B": "To compare hard skills and soft skills, highlighting the growing importance of soft skills.",
+        "C": "To teach readers how to write a computer program.",
+        "D": "To argue that artificial intelligence will replace all human workers."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage contrasts hard skills (technical) with soft skills (interpersonal) and argues that soft skills are becoming more valuable in the modern workforce."
+    },
+    {
+      "id": "eng_2018_fr_q79",
+      "question": "Which of the following is an example of a hard skill according to the passage? (Passage 2)",
+      "options": {
+        "A": "Teamwork",
+        "B": "Emotional intelligence",
+        "C": "Accounting",
+        "D": "Adaptability"
+      },
+      "correct_answer": "C",
+      "explanation": "Hard skills are specific, teachable technical abilities like 'programming, accounting, and fluency in a foreign language'."
+    },
+    {
+      "id": "eng_2018_fr_q80",
+      "question": "In paragraph 2, the pronoun 'it' refers to: (Passage 2)",
+      "options": {
+        "A": "The hard skill of coding.",
+        "B": "A software engineer.",
+        "C": "Their soft skills.",
+        "D": "A particular profession."
+      },
+      "correct_answer": "C",
+      "explanation": "The text says 'it is their soft skills that determine their future success'. So 'it' refers to soft skills."
+    },
+    {
+      "id": "eng_2018_fr_q81",
+      "question": "Why do human resource experts consider soft skills more valuable for long-term growth? (Passage 2)",
+      "options": {
+        "A": "Soft skills are much cheaper to learn than hard skills.",
+        "B": "Soft skills are harder to teach to an employee than technical skills.",
+        "C": "Artificial intelligence possesses high soft skills.",
+        "D": "Hard skills cannot be transferred to different industries."
+      },
+      "correct_answer": "B",
+      "explanation": "The text states 'It is much more difficult to teach an arrogant employee how to be empathetic or how to collaborate effectively' compared to teaching a technical skill."
+    },
+    {
+      "id": "eng_2018_fr_q82",
+      "question": "Based on the passage, what is the impact of artificial intelligence on the workforce? (Passage 2)",
+      "options": {
+        "A": "It makes human-centric soft skills more highly valued.",
+        "B": "It performs all the interpersonal communication for employees.",
+        "C": "It eliminates the need for problem-solving skills.",
+        "D": "It teaches hard skills to stubborn workers."
+      },
+      "correct_answer": "A",
+      "explanation": "The text says 'As artificial intelligence continues to automate routine tasks, the human-centric soft skills will increasingly separate great employees from average ones'. This makes soft skills more valued."
+    },
+    {
+      "id": "eng_2018_fr_q83",
+      "question": "Which word in paragraph 2 means 'capable of being moved from one place/job to another'? (Passage 2)",
+      "options": {
+        "A": "Interpersonal",
+        "B": "Transferable",
+        "C": "Collaborative",
+        "D": "Specific"
+      },
+      "correct_answer": "B",
+      "explanation": "Transferable skills are skills that can be applied to different jobs or industries. The text refers to 'transferable skills like leadership'."
+    },
+    {
+      "id": "eng_2018_fr_q84",
+      "question": "What can be inferred about an employee with excellent hard skills but poor soft skills? (Passage 2)",
+      "options": {
+        "A": "They will easily become the CEO of the company.",
+        "B": "They might struggle to work effectively in a team environment.",
+        "C": "They will definitely be replaced by artificial intelligence tomorrow.",
+        "D": "They are highly adaptable to sudden project changes."
+      },
+      "correct_answer": "B",
+      "explanation": "Poor soft skills would hinder teamwork, empathy, and collaboration, even if the person has high technical skills."
+    },
+    {
+      "id": "eng_2018_fr_q85",
+      "question": "How do hard skills differ from soft skills based on paragraph 2? (Passage 2)",
+      "options": {
+        "A": "Hard skills dictate how we interact with others, while soft skills do not.",
+        "B": "Hard skills are generally specific to a profession, while soft skills apply across industries.",
+        "C": "Hard skills involve emotional intelligence, whereas soft skills involve coding.",
+        "D": "There is no actual difference between the two in the modern workforce."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage defines hard skills as specific to a job (e.g., programming) and soft skills as 'transferable skills' that are useful across all professions."
+    },
+    {
+      "id": "eng_2018_fr_q86",
+      "question": "Because of the sharp drop in sales, the factory had to ______ a large number of employees.",
+      "options": {
+        "A": "lay off",
+        "B": "put off",
+        "C": "take over",
+        "D": "bring up"
+      },
+      "correct_answer": "A",
+      "explanation": "'Lay off' means to dismiss employees. This is consistent with a factory facing a drop in sales."
+    },
+    {
+      "id": "eng_2018_fr_q87",
+      "question": "The new diet plan mostly ______ of fresh vegetables, lean proteins, and whole grains.",
+      "options": {
+        "A": "consists",
+        "B": "contains",
+        "C": "involves",
+        "D": "comprises"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'consists of' is used to describe the components that make up a whole."
+    },
+    {
+      "id": "eng_2018_fr_q88",
+      "question": "The university offers scholarships for mathematics ______ physics students.",
+      "options": {
+        "A": "as well as",
+        "B": "also",
+        "C": "in addition",
+        "D": "beside"
+      },
+      "correct_answer": "A",
+      "explanation": "'As well as' is a conjunction that correctly links 'mathematics' and 'physics students'. 'Also' and 'in addition' are adverbs and would be grammatically incorrect here."
+    },
+    {
+      "id": "eng_2018_fr_q89",
+      "question": "He is regarded as ______ expert in economy.",
+      "options": {
+        "A": "the",
+        "B": "a",
+        "C": "an",
+        "D": "no article"
+      },
+      "correct_answer": "C",
+      "explanation": "The word 'expert' begins with a vowel sound, so the indefinite article 'an' is required: 'an expert'."
+    },
+    {
+      "id": "eng_2018_fr_q90",
+      "question": "The committee decided to ______ her for the prestigious award because of her excellent performance.",
+      "options": {
+        "A": "terminate",
+        "B": "nominate",
+        "C": "procrastinate",
+        "D": "aggravate"
+      },
+      "correct_answer": "B",
+      "explanation": "'Nominate' means to formally propose someone for an award or position. This fits the context of a committee and a prestigious award."
+    },
+    {
+      "id": "eng_2018_fr_q91",
+      "question": "Instead of starting his assignment, he continued to ______ until the night before the deadline.",
+      "options": {
+        "A": "procrastinate",
+        "B": "fascinate",
+        "C": "accelerate",
+        "D": "nominate"
+      },
+      "correct_answer": "A",
+      "explanation": "'Procrastinate' means to delay or postpone tasks, which fits the context of leaving the assignment until the last minute."
+    },
+    {
+      "id": "eng_2018_fr_q92",
+      "question": "The view from the top of the mountain at sunrise was absolutely ______.",
+      "options": {
+        "A": "boring",
+        "B": "spectacular",
+        "C": "weak",
+        "D": "irrelevant"
+      },
+      "correct_answer": "B",
+      "explanation": "'Spectacular' means beautiful and impressive, which is a positive word appropriate for a view at sunrise."
+    },
+    {
+      "id": "eng_2018_fr_q93",
+      "question": "The lawyer presented ______ evidence that completely changed the outcome of the trial.",
+      "options": {
+        "A": "trivial",
+        "B": "substantive",
+        "C": "weak",
+        "D": "irrelevant"
+      },
+      "correct_answer": "B",
+      "explanation": "'Substantive' means important or substantial. Evidence that changes the outcome of a trial must be substantive."
+    },
+    {
+      "id": "eng_2018_fr_q94",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'The old building was demolished to make way for a new shopping mall.'",
+      "options": {
+        "A": "repaired",
+        "B": "constructed",
+        "C": "pulled down",
+        "D": "painted"
+      },
+      "correct_answer": "C",
+      "explanation": "'Demolished' means to tear down or destroy a building. 'Pulled down' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q95",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'You should look into the matter before making a final decision.'",
+      "options": {
+        "A": "investigate",
+        "B": "ignore",
+        "C": "forget",
+        "D": "hide"
+      },
+      "correct_answer": "A",
+      "explanation": "'Look into' means to investigate or examine. 'Investigate' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q96",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'Her continuous complaints began to annoy everyone in the office.'",
+      "options": {
+        "A": "please",
+        "B": "irritate",
+        "C": "entertain",
+        "D": "assist"
+      },
+      "correct_answer": "B",
+      "explanation": "'Annoy' means to irritate or make someone feel slightly angry. 'Irritate' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q97",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'The disease is highly contagious, so the patient must be isolated.'",
+      "options": {
+        "A": "curable",
+        "B": "harmless",
+        "C": "infectious",
+        "D": "rare"
+      },
+      "correct_answer": "C",
+      "explanation": "'Contagious' means infectious or transmissible by contact. 'Infectious' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q98",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'The students were asked to hand in their exam papers when the bell rang.'",
+      "options": {
+        "A": "distribute",
+        "B": "submit",
+        "C": "tear up",
+        "D": "hide"
+      },
+      "correct_answer": "B",
+      "explanation": "'Hand in' means to give or submit something (usually paperwork). 'Submit' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q99",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'The government is trying to eradicate poverty in rural areas.'",
+      "options": {
+        "A": "increase",
+        "B": "eliminate",
+        "C": "support",
+        "D": "ignore"
+      },
+      "correct_answer": "B",
+      "explanation": "'Eradicate' means to completely destroy or eliminate something. 'Eliminate' is the closest synonym."
+    },
+    {
+      "id": "eng_2018_fr_q100",
+      "question": "Choose one word or phrase that keeps the meaning of the given sentence if substituted for the underlined word: 'It is vital that you bring your identification card to the exam hall.'",
+      "options": {
+        "A": "optional",
+        "B": "unnecessary",
+        "C": "crucial",
+        "D": "rare"
+      },
+      "correct_answer": "C",
+      "explanation": "'Vital' means essential or absolutely necessary. 'Crucial' is the closest synonym."
+    }
+  ]
 }
