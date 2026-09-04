@@ -1,10 +1,1308 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "English",
-    "year":  2015,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_english_2015_social",
+  "content_type": "past_paper",
+  "title": "English - 2015 (Social)",
+  "year": 2015,
+  "subject": "English",
+  "stream": "Social",
+  "total_questions": 120,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2015_social_q1",
+      "question": "The author's main purpose is to:",
+      "options": {
+        "A": "create awareness on the part of the reader that Africa is a continent with abundant, yet untapped resources.",
+        "B": "ignite a feeling of regret in the reader's mind as to how Africa's resources were looted by the west.",
+        "C": "argue in favor of the idea that the Africa we all dream to see can be materialized through intra-continental integration.",
+        "D": "appreciate the efforts exerted by some regional organizations like COMESA, EAC and SADC in fostering economic integration."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage is centered on the idea that intra-continental trade integration is the key to realizing 'the Africa we want'."
+    },
+    {
+      "id": "eng_2015_social_q2",
+      "question": "Which of the following would be the best replacement for the word 'chewy' in paragraph 2 of this passage? (Passage: Creating The Africa We Want)",
+      "options": {
+        "A": "tough",
+        "B": "boring",
+        "C": "sickening",
+        "D": "inaccessible"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'a chewy route' is used metaphorically to mean a difficult or demanding path. 'Tough' is the correct synonym in this context."
+    },
+    {
+      "id": "eng_2015_social_q3",
+      "question": "In paragraph 1 line 1 the writer says \"Africa could be labeled as the supplier of mostly unprocessed products to the world.\" Which word do you think best describes the where about of Africa in the global economy?",
+      "options": {
+        "A": "naive",
+        "B": "destitute",
+        "C": "traditional",
+        "D": "conservative"
+      },
+      "correct_answer": "B",
+      "explanation": "Being a supplier of unprocessed (raw) materials typically indicates a weaker position in the global economy. 'Destitute' (impoverished) best captures the economic implication."
+    },
+    {
+      "id": "eng_2015_social_q4",
+      "question": "The title 'Creating the Africa We Want' implies:",
+      "options": {
+        "A": "we can take Africa to a better position.",
+        "B": "Africa is in the way we aspire it to be.",
+        "C": "Economic integration endeavors are taken place in Africa.",
+        "D": "If every stake holder works for a better Africa, we can make the Africa we want."
+      },
+      "correct_answer": "D",
+      "explanation": "The title suggests that 'the Africa we want' is something that needs to be actively created by stakeholders, aligning with the conclusion of the passage."
+    },
+    {
+      "id": "eng_2015_social_q5",
+      "question": "The underlined word 'circumvent' in the fourth paragraph most nearly means:",
+      "options": {
+        "A": "beat",
+        "B": "win",
+        "C": "ignore",
+        "D": "abandon"
+      },
+      "correct_answer": "A",
+      "explanation": "To 'circumvent' a challenge means to overcome it or find a way around it. 'Beat' is the closest synonym in this context."
+    },
+    {
+      "id": "eng_2015_social_q6",
+      "question": "In the last paragraph of the passage the writer says, \"to achieve what has been planned and see the 'Africa we want', every stake holder, coupled with the people of Africa, must work for the unified goals.\" Which of the following statements would the above quotation most likely support?",
+      "options": {
+        "A": "Stake holders are working closely with the people of Africa.",
+        "B": "The writer thinks the Africa he wants will materialize sooner than later.",
+        "C": "A concerted effort from all concerned bodies is mandatory if Africa is to develop as desired.",
+        "D": "Africa has embarked in integrated development."
+      },
+      "correct_answer": "C",
+      "explanation": "The quote emphasizes that 'every stakeholder' and 'the people' must work together for unified goals. This supports the idea that a concerted effort is mandatory."
+    },
+    {
+      "id": "eng_2015_social_q7",
+      "question": "In Paragraph 1, line 6, the phrase 'such a move' refers to:",
+      "options": {
+        "A": "the integration of Africa through multi-polar trade with all the continents.",
+        "B": "the materializing of the Africa we want through intra-continental trade integration.",
+        "C": "the fact that Africa still has untapped natural resources and human resources even after the long and bloody experience of civilization.",
+        "D": "the act of labeling Africa as the supplier of mostly unprocessed products to the world."
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence reads: 'The Africa we want can be materialized through intra-continental trade integration. Such a move...' So 'such a move' refers to the materialization through intra-continental trade."
+    },
+    {
+      "id": "eng_2015_social_q8",
+      "question": "In paragraph 4, what expression has the writer used to show that he wants to add a point or information to what he has said in paragraph 3?",
+      "options": {
+        "A": "besides",
+        "B": "furthermore",
+        "C": "in addition",
+        "D": "moreover"
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 4 begins with 'Moreover', which is a transition word used to add more information to the previous paragraph."
+    },
+    {
+      "id": "eng_2015_social_q9",
+      "question": "In paragraph two, the phrase 'These continents' refers to:",
+      "options": {
+        "A": "all continents including Africa",
+        "B": "the northern continents apart from Africa",
+        "C": "all continents excluding Africa",
+        "D": "all continents including those in the northern hemisphere"
+      },
+      "correct_answer": "B",
+      "explanation": "The text says 'continents, apart from Africa... These continents have exerted their efforts...'. So 'these continents' refers to the continents other than Africa, specifically the northern ones mentioned earlier."
+    },
+    {
+      "id": "eng_2015_social_q10",
+      "question": "The term intra-continental trade implies:",
+      "options": {
+        "A": "a trade that should prevail between and among African countries",
+        "B": "a trade that should take place between continents of those in northern hemisphere and Africa",
+        "C": "a trade tie that should take place between Africa and other continents",
+        "D": "a network of trading that should exist between two countries of Africa"
+      },
+      "correct_answer": "A",
+      "explanation": "'Intra-continental' means within a continent. Thus, intra-continental trade refers to trade between countries within the same continent (African countries)."
+    },
+    {
+      "id": "eng_2015_social_q11",
+      "question": "Which of the following statements is False of the city of Boston? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "Life in Boston is so hectic.",
+        "B": "People in Boston value their leisure time.",
+        "C": "Drivers in Boston usually sit in the left side while they are driving.",
+        "D": "In Boston people are usually well scheduled."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that Americans are 'time oriented' and 'value their leisure time' less than Australians. Blackmore says Americans are 'always busy'."
+    },
+    {
+      "id": "eng_2015_social_q12",
+      "question": "Which of the following would be the best title for this passage? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "The amazing side of the city of Boston",
+        "B": "The hectic life of Boston versus the serene nature of Melbourne.",
+        "C": "Culture shock",
+        "D": "Tamara Blackmore"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage describes how Tamara Blackmore experienced 'culture trauma' or 'culture shock' when moving from Australia to the US. 'Culture shock' is the most encompassing title."
+    },
+    {
+      "id": "eng_2015_social_q13",
+      "question": "Which of the following organizational schemes is most prevalent in the passage? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "Chronological order",
+        "B": "Order by topic",
+        "C": "Hierarchical order",
+        "D": "Order of contrast"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage continuously contrasts life in Australia (Melbourne) with life in the US (Boston) - driving, population, pace of life, and time management."
+    },
+    {
+      "id": "eng_2015_social_q14",
+      "question": "Which of the following best expresses the main idea of the passage? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "Living in a community other than where one was brought up could be a fascinating experience.",
+        "B": "Tamara Blackmore is a lucky girl who happened to enjoy life in two cities.",
+        "C": "Culture shock could bias, how traumatizing is as illustrated through a girl called Tamara Blackmore.",
+        "D": "Boston College has gone out of its way to create a memorable experience for Blackmore and its other exchange students."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage illustrates the concept of culture shock through the personal experiences of Tamara Blackmore."
+    },
+    {
+      "id": "eng_2015_social_q15",
+      "question": "In the second paragraph of the passage, which of the following points of differences between the cities of Boston and Melbourne is mainly dealt with? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "Perception concerning space",
+        "B": "The hectic nature of life",
+        "C": "The way time is managed",
+        "D": "Reading about the cities and experiencing them"
+      },
+      "correct_answer": "B",
+      "explanation": "Paragraph 2 focuses on 'Driving in Boston is crazy' and 'a life style far more hectic than the one she left'."
+    },
+    {
+      "id": "eng_2015_social_q16",
+      "question": "What is the closest meaning of the underlined word 'understatement' in the first paragraph? (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "exaggeration",
+        "B": "underrating",
+        "C": "distortion",
+        "D": "hyperbole"
+      },
+      "correct_answer": "B",
+      "explanation": "An 'understatement' means presenting something as being smaller, worse, or less important than it actually is. It is synonymous with 'underrating'."
+    },
+    {
+      "id": "eng_2015_social_q17",
+      "question": "In the first paragraph, the writer has used the expression 'a sea of difference' to: (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "show that the discrepancies in life style between Boston and Melbourne cities are so great.",
+        "B": "show that the gap in life styles between Boston and Melbourne cities is so narrow.",
+        "C": "present to the reader that the America known through reading, and the America known through experience have big differences.",
+        "D": "express vividly how vastly life in Boston is different from that in Melbourne."
+      },
+      "correct_answer": "C",
+      "explanation": "The text says 'Blackmore discovered first hand that there is a sea of difference between reading about and experiencing America first hand.' This refers to the difference between perceptions and reality."
+    },
+    {
+      "id": "eng_2015_social_q18",
+      "question": "The underlined word 'congestion' in paragraph three refers to: (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "freedom.",
+        "B": "overcrowding.",
+        "C": "relationship.",
+        "D": "problems."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage talks about the number of people and space: 'We don't have the kind of congestion you have in Boston.' Congestion refers to overcrowding or excessive traffic."
+    },
+    {
+      "id": "eng_2015_social_q19",
+      "question": "In paragraph four the word 'they' in a heavy print refers to: (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "the Americans.",
+        "B": "the Australians.",
+        "C": "the perpetual-motion machines.",
+        "D": "the Americans' life styles."
+      },
+      "correct_answer": "A",
+      "explanation": "The text says 'Americans are very time oriented... They are always busy...'. So 'they' refers to Americans."
+    },
+    {
+      "id": "eng_2015_social_q20",
+      "question": "Blackmore would probably agree that: (Passage II: Tamara Blackmore)",
+      "options": {
+        "A": "Americans are more sophisticated drivers than their Australian counterparts.",
+        "B": "Americans are more time oriented and they keep themselves busy.",
+        "C": "Americans are more generous than their Australian counterparts.",
+        "D": "Americans are more easygoing and socially active than Australians."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states Blackmore believes 'Americans are very time oriented' and 'They are always busy'."
+    },
+    {
+      "id": "eng_2015_social_q21",
+      "question": "Dr Getachew gave us a good lecture yesterday, and I wish you had been present.",
+      "options": {
+        "A": "The fact that Dr Getachew would give us a good lecture was in my wish and accordingly he gave us lecture which you were able to attend.",
+        "B": "Dr Getachew was able to deliver us a nice lecture yesterday that was indeed as per my dream, and the fact that you attended it was nice of you.",
+        "C": "We were given an interesting lecture yesterday by Dr. Getachew, but unfortunately you missed it.",
+        "D": "It was in my wish that Dr. Getachew could have given us a good lecture and you could have attended it, but neither of you did so."
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence 'I wish you had been present' expresses regret about a past event that did not happen. It implies the listener was not present."
+    },
+    {
+      "id": "eng_2015_social_q22",
+      "question": "All the students, but Shemsu had already finalized the project by the time the instructor asked them to submit it.",
+      "options": {
+        "A": "Except Shemsu who did not complete his project assignment, the rest were ready to submit it when asked to do so by their instructor.",
+        "B": "By the time the instructor asked his students to submit their project work, with the exception of Shemsu, who completed it on time, all the rest were not ready for submission.",
+        "C": "Neither Shemsu nor the rest of his class mates were ready to submit their project by the time their instructor requested them to do so.",
+        "D": "Both Shemsu and his class mates had already finished their assignment and submitted the same following an order from their instructor."
+      },
+      "correct_answer": "A",
+      "explanation": "'All the students, but Shemsu' means all students except Shemsu. So Shemsu did not finish, but the rest did."
+    },
+    {
+      "id": "eng_2015_social_q23",
+      "question": "The president ______ her speech of unity to both houses on the joint meeting of the House of Peoples Representatives and the House of Federation last week.",
+      "options": {
+        "A": "delivered",
+        "B": "inaugurated",
+        "C": "accentuated",
+        "D": "provisioned"
+      },
+      "correct_answer": "A",
+      "explanation": "To deliver a speech is the standard collocation for giving a formal speech."
+    },
+    {
+      "id": "eng_2015_social_q24",
+      "question": "As is documented in historic archives, Ethiopia was at the ______ of its development stage during the Axumite Empire. It is the argument of many quarters at present that the major task of this generation is to take Ethiopia back to its place of hegemony.",
+      "options": {
+        "A": "verge",
+        "B": "normalcy",
+        "C": "pace",
+        "D": "peak"
+      },
+      "correct_answer": "D",
+      "explanation": "The Aksumite Empire is considered the peak of Ethiopia's historical development. The context implies a high point."
+    },
+    {
+      "id": "eng_2015_social_q25",
+      "question": "According to the Ethiopian Metrological Agency's weather ______ Addis Ababa is expected to have a wet and cloudy weather condition in the coming couple of days.",
+      "options": {
+        "A": "prediction",
+        "B": "speculation",
+        "C": "forecast",
+        "D": "condition"
+      },
+      "correct_answer": "C",
+      "explanation": "A 'weather forecast' is the standard term for an agency's prediction of future weather conditions."
+    },
+    {
+      "id": "eng_2015_social_q26",
+      "question": "According to a recent report by the United Nations Development Agency countries are expected to enhance their effort in reducing the gap in gender ______ in all aspects of life.",
+      "options": {
+        "A": "roles",
+        "B": "inequalities",
+        "C": "conflicts",
+        "D": "bias"
+      },
+      "correct_answer": "B",
+      "explanation": "The context is about reducing the gap in gender parity. 'Inequalities' is the correct term for this gap."
+    },
+    {
+      "id": "eng_2015_social_q27",
+      "question": "There happened a terrible accident yesterday after a minibus taxi collided with a 'Sino truck' on the express way from Addis to Adama. In the accident while two of the passengers immediately died, around thirteen travellers were heavily ______.",
+      "options": {
+        "A": "damaged",
+        "B": "bruised",
+        "C": "injured",
+        "D": "wounded"
+      },
+      "correct_answer": "C",
+      "explanation": "People are 'injured' or 'wounded' in an accident. 'Wounded' usually implies a weapon injury. 'Injured' is the best choice for physical harm from an accident."
+    },
+    {
+      "id": "eng_2015_social_q28",
+      "question": "As is argued by many, one does not have to ______ himself/herself with those individuals who do not have any role in adding value to what he/she does.",
+      "options": {
+        "A": "associate",
+        "B": "mix",
+        "C": "live",
+        "D": "bring"
+      },
+      "correct_answer": "A",
+      "explanation": "To 'associate' oneself with people means to spend time with them. The sentence advises against doing so with people who add no value."
+    },
+    {
+      "id": "eng_2015_social_q29",
+      "question": "Ato Kebede, as many friends of him witness, is known for accomplishing any task assigned to him efficiently and timely promise. He is a person whom everybody admires for such quality of him.",
+      "options": {
+        "A": "kind",
+        "B": "confident",
+        "C": "reliable",
+        "D": "promising"
+      },
+      "correct_answer": "C",
+      "explanation": "Someone who efficiently and timely accomplishes tasks is 'reliable'."
+    },
+    {
+      "id": "eng_2015_social_q30",
+      "question": "Kedir, though his friends are criticizing his plan of opening his own business with 10 branches in the coming six months as looks to be very much optimistic about the realization of his dream.",
+      "options": {
+        "A": "fictitious",
+        "B": "suspicious",
+        "C": "frivolous",
+        "D": "ambitious"
+      },
+      "correct_answer": "D",
+      "explanation": "Opening 10 branches in 6 months is a very bold and 'ambitious' plan, which is why his friends are critical."
+    },
+    {
+      "id": "eng_2015_social_q31",
+      "question": "The world economy, according to projections from the World Bank and IMF, might reduce by 0.02% from where it was last year.",
+      "options": {
+        "A": "narrow",
+        "B": "minimize",
+        "C": "belittle",
+        "D": "diminish"
+      },
+      "correct_answer": "D",
+      "explanation": "'Reduce' is synonymous with 'diminish' in this context. The other options have different meanings."
+    },
+    {
+      "id": "eng_2015_social_q32",
+      "question": "Thanks to the tangible measures the Ministry of Health has taken with regard to family health and planning, there has been a sharp decline in maternal and infant mortality.",
+      "options": {
+        "A": "a serious",
+        "B": "a steep",
+        "C": "a steady",
+        "D": "an expensive"
+      },
+      "correct_answer": "B",
+      "explanation": "'Sharp decline' is a common collocation. 'Steep' is a synonym for 'sharp' when describing changes in rates or levels."
+    },
+    {
+      "id": "eng_2015_social_q33",
+      "question": "The moment he entered the compound, the stranger was attacked by the dogs.",
+      "options": {
+        "A": "cornered",
+        "B": "chased",
+        "C": "set on",
+        "D": "dismantled"
+      },
+      "correct_answer": "C",
+      "explanation": "To be 'set on' is a phrasal verb meaning to be attacked. This is the closest match to the context."
+    },
+    {
+      "id": "eng_2015_social_q34",
+      "question": "I found the man's handwriting to be somehow difficult to read. As a result, I had to return the text to him to rewrite it in a readable manner.",
+      "options": {
+        "A": "illegible",
+        "B": "unconvincing",
+        "C": "unclear",
+        "D": "tasking"
+      },
+      "correct_answer": "A",
+      "explanation": "Handwriting that is difficult to read is 'illegible'."
+    },
+    {
+      "id": "eng_2015_social_q35",
+      "question": "As Ethiopians, the fact that we have never been colonized is among the many reasons that would make us feel very much pleased of being Ethiopians.",
+      "options": {
+        "A": "initiated",
+        "B": "motivated",
+        "C": "proud",
+        "D": "encouraged"
+      },
+      "correct_answer": "C",
+      "explanation": "Feeling very much pleased about one's national identity is 'pride'."
+    },
+    {
+      "id": "eng_2015_social_q36",
+      "question": "In any nation building endeavor, being accommodative of the interests of a wide range of people, things, ideas etc., is believed to be the most crucial factor to lasting peace and harmony.",
+      "options": {
+        "A": "tolerant",
+        "B": "mutual",
+        "C": "mandatory",
+        "D": "inclusive"
+      },
+      "correct_answer": "D",
+      "explanation": "'Accommodative of a wide range' is synonymous with 'inclusive'."
+    },
+    {
+      "id": "eng_2015_social_q37",
+      "question": "The man was found guilty and sentenced to a ten year of rigorous imprisonment and denial of his rights of participating in any election as both a voter and a candidate for 5 years after his release from jail.",
+      "options": {
+        "A": "deprivation",
+        "B": "neglectation",
+        "C": "confiscation",
+        "D": "approval"
+      },
+      "correct_answer": "A",
+      "explanation": "The denial of rights is a form of 'deprivation' (the act of depriving someone of something)."
+    },
+    {
+      "id": "eng_2015_social_q38",
+      "question": "It is usually a nonsense gesture by some selfish-individuals to try hard to tarnish the good image of others through false narratives.",
+      "options": {
+        "A": "demonstrate",
+        "B": "demonize",
+        "C": "disregard",
+        "D": "criticize"
+      },
+      "correct_answer": "B",
+      "explanation": "To 'tarnish' an image means to damage or spoil it. 'Demonize' means to portray someone as evil, which damages their image."
+    },
+    {
+      "id": "eng_2015_social_q39",
+      "question": "I have prepared myself for this national exam. Thus, it is in my firm belief that I ______",
+      "options": {
+        "A": "will succeed",
+        "B": "will be succeeding",
+        "C": "am succeeding",
+        "D": "have succeeded"
+      },
+      "correct_answer": "A",
+      "explanation": "The future simple tense 'will succeed' is used to express a prediction or expectation about a future event."
+    },
+    {
+      "id": "eng_2015_social_q40",
+      "question": "______ countries were ranked 1-10 as the most peaceful?",
+      "options": {
+        "A": "In which",
+        "B": "Whose",
+        "C": "What",
+        "D": "Which"
+      },
+      "correct_answer": "D",
+      "explanation": "'Which' is used to ask for a specific item from a known set (the 10 most peaceful countries)."
+    },
+    {
+      "id": "eng_2015_social_q41",
+      "question": "Had I studied very hard, I ______ last year's exam with ease.",
+      "options": {
+        "A": "would pass",
+        "B": "will have passed",
+        "C": "would have passed",
+        "D": "would not have passed"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a third conditional sentence. The 'if' clause is in the past perfect (Had I studied), so the main clause uses 'would have + past participle'."
+    },
+    {
+      "id": "eng_2015_social_q42",
+      "question": "Medkes mostly finds it ______ to wake up early in the morning which leads her into unnecessary conflict with her school teachers.",
+      "options": {
+        "A": "confusing",
+        "B": "demotivating",
+        "C": "tasking",
+        "D": "crying"
+      },
+      "correct_answer": "C",
+      "explanation": "Finding something 'tasking' means finding it challenging or difficult. This is why it causes conflict with teachers (she is late)."
+    },
+    {
+      "id": "eng_2015_social_q43",
+      "question": "By this time next year, we ______ to university should we succeed in this exam.",
+      "options": {
+        "A": "will have been admitted",
+        "B": "will be admitted",
+        "C": "will have admitted",
+        "D": "we will be admitted"
+      },
+      "correct_answer": "A",
+      "explanation": "'By this time next year' indicates a future point by which an action will be completed. The future perfect continuous/passive form is 'will have been admitted'."
+    },
+    {
+      "id": "eng_2015_social_q44",
+      "question": "______ my car had run out of petrol, I had to park it on the side road and go on foot.",
+      "options": {
+        "A": "Even though",
+        "B": "In spite of",
+        "C": "Despite",
+        "D": "Because"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence explains a cause and effect. My car ran out of petrol (cause) is why I had to park and walk (effect). 'Because' introduces a clause of reason."
+    },
+    {
+      "id": "eng_2015_social_q45",
+      "question": "Zebiba has lived in Agaro ______ ten years.",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "before",
+        "D": "in"
+      },
+      "correct_answer": "A",
+      "explanation": "'For' is used to denote a duration of time (ten years). 'Since' is used with a starting point in time."
+    },
+    {
+      "id": "eng_2015_social_q46",
+      "question": "Unless a concerted effort is exerted in the fight against global warming, the need of being a foreteller that the earth ______ the most uncomfortable planet to live on.",
+      "options": {
+        "A": "will have been",
+        "B": "will be",
+        "C": "might be",
+        "D": "could have been"
+      },
+      "correct_answer": "B",
+      "explanation": "The future simple 'will be' is used for a predicted result of a current action. 'Unless' provides the condition."
+    },
+    {
+      "id": "eng_2015_social_q47",
+      "question": "By the time one of the strikers of the Ethiopian national football team scored the last goal in the penalty shootout, the cheers and applauds from the spectators ______ like a thunder.",
+      "options": {
+        "A": "heard",
+        "B": "felt",
+        "C": "were heard",
+        "D": "looked"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence is in the passive voice (the cheers were heard). 'Were heard' is the correct passive past tense form."
+    },
+    {
+      "id": "eng_2015_social_q48",
+      "question": "No one should abuse his/her power ______ corruption.",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "in",
+        "D": "so as to"
+      },
+      "correct_answer": "B",
+      "explanation": "The phrase 'abuse power for corruption' uses 'for' to indicate the purpose."
+    },
+    {
+      "id": "eng_2015_social_q49",
+      "question": "One of my favorite sports is ______.",
+      "options": {
+        "A": "to swim",
+        "B": "swimming",
+        "C": "swim",
+        "D": "for swimming"
+      },
+      "correct_answer": "B",
+      "explanation": "After a preposition or a form of 'be', a gerund (verb + -ing) is used. 'One of my favorite sports is swimming.'"
+    },
+    {
+      "id": "eng_2015_social_q50",
+      "question": "The number of students taking this year's national exam is ______ that of last year. The figure is constantly increasing every year.",
+      "options": {
+        "A": "lesser than",
+        "B": "fewer than",
+        "C": "greater than",
+        "D": "less than"
+      },
+      "correct_answer": "C",
+      "explanation": "The second sentence says the number is increasing, so it is larger than last year. 'Greater than' is used for numbers."
+    },
+    {
+      "id": "eng_2015_social_q51",
+      "question": "______ you stop your being promiscuous, your chance of being affected by sexually transmitted diseases will be so high.",
+      "options": {
+        "A": "If",
+        "B": "Unless",
+        "C": "Should",
+        "D": "Could"
+      },
+      "correct_answer": "B",
+      "explanation": "'Unless' means 'if not'. So the sentence implies: If you don't stop being promiscuous, your risk of disease will be high."
+    },
+    {
+      "id": "eng_2015_social_q52",
+      "question": "The Wall of Harar ______ in the 16th century.",
+      "options": {
+        "A": "has been built",
+        "B": "were built",
+        "C": "was being built",
+        "D": "was built"
+      },
+      "correct_answer": "D",
+      "explanation": "The Wall of Harar is a singular subject. The action happened in the past (16th century). The correct passive form is 'was built'."
+    },
+    {
+      "id": "eng_2015_social_q53",
+      "question": "______ her being late for the exam, the invigilator did not prevent her from taking it.",
+      "options": {
+        "A": "In spite of",
+        "B": "Despite the fact that",
+        "C": "Even though",
+        "D": "Even if"
+      },
+      "correct_answer": "A",
+      "explanation": "'In spite of' is a preposition phrase followed by a noun phrase ('her being late'). 'Even though' and 'Despite the fact that' are followed by clauses."
+    },
+    {
+      "id": "eng_2015_social_q54",
+      "question": "What of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Any animal which lives in a jungle does not have to necessarily be considered as dangerous.",
+        "B": "Mekonnen Bar who is found at pizza in Addis Ababa, is famous for its cake.",
+        "C": "Nairobi whom is the capital of Kenya is the seat for many international organizations.",
+        "D": "AIDS, that is caused by a virus called HIV, has remained to be a fatal disorder for nearly three decades."
+      },
+      "correct_answer": "A",
+      "explanation": "Option A is grammatically correct. In B, 'who' should be 'which' or 'that' for a bar. In C, 'whom' should be 'which' for a city. In D, 'that' should be 'which' for a non-defining relative clause."
+    },
+    {
+      "id": "eng_2015_social_q55",
+      "question": "Scientists are expected to ______ in the times to come of combating fatal diseases.",
+      "options": {
+        "A": "have made",
+        "B": "make",
+        "C": "do",
+        "D": "have done"
+      },
+      "correct_answer": "B",
+      "explanation": "The structure 'expected to + base verb' is used for future expectations. 'Scientists are expected to make...'"
+    },
+    {
+      "id": "eng_2015_social_q56",
+      "question": "Any student ______",
+      "options": {
+        "A": "whom",
+        "B": "who",
+        "C": "who so ever",
+        "D": "which"
+      },
+      "correct_answer": "B",
+      "explanation": "The relative pronoun 'who' is used for the subject of the clause referring to a person (student)."
+    },
+    {
+      "id": "eng_2015_social_q57",
+      "question": "If you have taken, in your previous institution, most of the courses that are given here you ______ be exempted from taking them again though I am not quite sure.",
+      "options": {
+        "A": "must",
+        "B": "should",
+        "C": "had better",
+        "D": "could"
+      },
+      "correct_answer": "D",
+      "explanation": "'Could' is used to express possibility or uncertainty. The speaker is not sure, so 'could' is the best fit."
+    },
+    {
+      "id": "eng_2015_social_q58",
+      "question": "It was ______ marvelous time that we spent with the visiting team last Sunday.",
+      "options": {
+        "A": "such a",
+        "B": "so a",
+        "C": "so",
+        "D": "such"
+      },
+      "correct_answer": "A",
+      "explanation": "'Such a' is used before a singular countable noun (time) with an adjective (marvelous). 'Such a marvelous time'."
+    },
+    {
+      "id": "eng_2015_social_q59",
+      "question": "In his debut appearance to his club last week, Abdulkerim ______ score two goals.",
+      "options": {
+        "A": "might be able",
+        "B": "was able to",
+        "C": "can",
+        "D": "could"
+      },
+      "correct_answer": "B",
+      "explanation": "'Was able to' is the past tense form of 'can'. The action happened in the past (last week)."
+    },
+    {
+      "id": "eng_2015_social_q60",
+      "question": "I have read ______ books on how to make life peaceful with a partner and have found them very useful.",
+      "options": {
+        "A": "some",
+        "B": "any",
+        "C": "no",
+        "D": "much"
+      },
+      "correct_answer": "A",
+      "explanation": "'Some' is used in positive sentences. 'Any' is typically used in negatives or questions. 'No' would contradict the positive ending."
+    },
+    {
+      "id": "eng_2015_social_q61",
+      "question": "Last year at this time I ______ taking right now. (Note: The sentence is incomplete in the PDF).",
+      "options": {
+        "A": "studied",
+        "B": "was studying",
+        "C": "had studied",
+        "D": "have been studying"
+      },
+      "correct_answer": "B",
+      "explanation": "'At this time last year' indicates a specific point in the past. The past continuous 'was studying' is appropriate for an action in progress at that specific time."
+    },
+    {
+      "id": "eng_2015_social_q62",
+      "question": "Oh! The time is now just 3:00 pm and if you go now, you ______ her in her office.",
+      "options": {
+        "A": "would meet",
+        "B": "might meet",
+        "C": "could meet",
+        "D": "can meet"
+      },
+      "correct_answer": "D",
+      "explanation": "'Can' is used to express ability or possibility in the present. It is the most direct and logical choice for this context."
+    },
+    {
+      "id": "eng_2015_social_q63",
+      "question": "I have visited several countries in my twenty years of tenure as a civil servant. Nonetheless, no country have I come across like Ethiopia which has ______ hospitable climate of all.",
+      "options": {
+        "A": "the most",
+        "B": "the best",
+        "C": "a more",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'of all' indicates a superlative. 'The most hospitable' is the correct superlative form."
+    },
+    {
+      "id": "eng_2015_social_q64",
+      "question": "Ms. Adanech strictly warned her students that missing classes without having due reason will be costly. She is of the opinion that everybody ______ attend class regularly.",
+      "options": {
+        "A": "has to",
+        "B": "should",
+        "C": "may",
+        "D": "can"
+      },
+      "correct_answer": "A",
+      "explanation": "'Has to' expresses a strong obligation or necessity. The warning makes it clear that attendance is compulsory."
+    },
+    {
+      "id": "eng_2015_social_q65",
+      "question": "It is now just 4:30 pm. Most likely, by now the exam ______ finalized.",
+      "options": {
+        "A": "has been",
+        "B": "had been",
+        "C": "will have been",
+        "D": "would have been"
+      },
+      "correct_answer": "A",
+      "explanation": "The present perfect 'has been' is used for an action that has a present result. The exam is most likely finalized by now."
+    },
+    {
+      "id": "eng_2015_social_q66",
+      "question": "People who are promiscuous must know that they are in trouble ______ what I want to advise them is that it is high time for them to drop such a bad habit",
+      "options": {
+        "A": "As",
+        "B": "So that",
+        "C": "Because",
+        "D": "In order to"
+      },
+      "correct_answer": "C",
+      "explanation": "'Because' introduces a reason for the warning. 'What I want to advise them' is the explanation."
+    },
+    {
+      "id": "eng_2015_social_q67",
+      "question": "Zeineb had to leave the meeting early. ______ already settled appointment with her physician.",
+      "options": {
+        "A": "despite",
+        "B": "as",
+        "C": "in fact",
+        "D": "so long as"
+      },
+      "correct_answer": "B",
+      "explanation": "'As' is used to explain the reason for leaving. 'As she had an already settled appointment with her physician.'"
+    },
+    {
+      "id": "eng_2015_social_q68",
+      "question": "______ our economy is showing a tremendous progress, the fact that there are millions of citizens whose livelihood is below the oldrums of poverty compels us to accelerate our fight against destitution and wretchedness.",
+      "options": {
+        "A": "However",
+        "B": "Despite of",
+        "C": "In spite of",
+        "D": "Despite"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence introduces a contrast. 'Despite' is followed by a noun phrase ('our economy is showing...'). 'Despite of' is incorrect. 'In spite of' is also correct, but 'Despite' is the better fit for the blank followed by a clause."
+    },
+    {
+      "id": "eng_2015_social_q69",
+      "question": "I remember quite well what the anti-Apartheid icon Nelson Mandela once said \"Africans are sinking, the rest of the world is letting them sink. When someone lets you sink, you must learn how to swim.\"",
+      "options": {
+        "A": "even though",
+        "B": "on the contrary",
+        "C": "while",
+        "D": "where as"
+      },
+      "correct_answer": "C",
+      "explanation": "The quote is a statement of fact, and the sentence introduces it. The conjunction 'while' is used to introduce a statement that is true. 'Even though', 'on the contrary', and 'whereas' are used for contrast."
+    },
+    {
+      "id": "eng_2015_social_q70",
+      "question": "Ms. Letay ______ with the Ministry of Revenue for the last ten years.",
+      "options": {
+        "A": "has been",
+        "B": "had been",
+        "C": "is",
+        "D": "was"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'for the last ten years' indicates an action that started in the past and continues to the present. The present perfect continuous 'has been' is the correct tense."
+    },
+    {
+      "id": "eng_2015_social_q71",
+      "question": "Patient: Hi Madam, I would like to see the physician. Can you help me please?\nReceptionist: ______\nPatient: Yap. I am Terfasa.",
+      "options": {
+        "A": "Whom do you want please?",
+        "B": "Sorry! Can you tell me what his name is please?",
+        "C": "Excuse me, but can I have your name please?",
+        "D": "Sure, but would you sit for a moment please?"
+      },
+      "correct_answer": "C",
+      "explanation": "The patient's response 'Yap. I am Terfasa' indicates that the receptionist asked for the patient's name."
+    },
+    {
+      "id": "eng_2015_social_q72",
+      "question": "Tadelech: Look over there! Is that part of the plane that got crushed at Bishoftu some years back?\nNejat: No, it can't be part of a plane. It ______",
+      "options": {
+        "A": "looks like part of a helicopter",
+        "B": "neither looks part of a plane",
+        "C": "looks like part of a helicopter either",
+        "D": "looks like part of a plane"
+      },
+      "correct_answer": "A",
+      "explanation": "The speaker is providing an alternative to what it is not. 'It looks like part of a helicopter' is the logical and grammatically correct response."
+    },
+    {
+      "id": "eng_2015_social_q73",
+      "question": "Physician: Your Blood Pressure is becoming a bit higher than what is known to be normal.\nPatient: ______",
+      "options": {
+        "A": "Dr. If you like me, I hope you will advise me on what to do and what not to do.",
+        "B": "I hope you will not ask me to stop sipping some alcoholic drinks.",
+        "C": "Some times this happens, and no doubt it will come to its normalcy after a few days.",
+        "D": "Had I known that I could have called and asked you for some piece of advice."
+      },
+      "correct_answer": "A",
+      "explanation": "The patient's response should be a request for medical advice. Option A is a polite and direct request for guidance."
+    },
+    {
+      "id": "eng_2015_social_q74",
+      "question": "Asmerom: I am now just 17, and ready to seat for this forthcoming National Exam.\nFereja: ______",
+      "options": {
+        "A": "By this time next year, you may have joined grade 12.",
+        "B": "By the end of this year, you would have passed the exam and joined freshman.",
+        "C": "By the time you are 21 or so, you will graduate from a university.",
+        "D": "By the time you join university, you will have been only 18."
+      },
+      "correct_answer": "C",
+      "explanation": "The response should provide a realistic future prediction. If he is 17 now and taking the national exam, he will likely graduate from university at around 21-22."
+    },
+    {
+      "id": "eng_2015_social_q75",
+      "question": "Ezra: When are you planning to marry this year or next year?\nSofia: ______",
+      "options": {
+        "A": "I am going to marry, whenever I get enough money.",
+        "B": "I will have got married next year.",
+        "C": "I am going to have my marital ceremony whenever I give birth to my first child.",
+        "D": "I am going to marry unless I turn twenty five."
+      },
+      "correct_answer": "A",
+      "explanation": "The response should answer the question about the timing of the marriage. 'I am going to marry whenever I get enough money' is a logical and appropriate response."
+    },
+    {
+      "id": "eng_2015_social_q76",
+      "question": "Andargachew: You are casually dressed. Your neck tie goes with your shirt. Where is it from?\nDilamo: ______",
+      "options": {
+        "A": "Thanks dear, it is from Turkey.",
+        "B": "Great. It is made from cotton.",
+        "C": "Wow, it is quite medium in size.",
+        "D": "Yes, It is lovely."
+      },
+      "correct_answer": "A",
+      "explanation": "The question 'Where is it from?' is asking about the origin of the tie. The answer 'It is from Turkey' provides this information."
+    },
+    {
+      "id": "eng_2015_social_q77",
+      "question": "Estifanos: Sarah, what are you planning for the coming year?\nSarah: ______",
+      "options": {
+        "A": "Emm. I am starting my own Business.",
+        "B": "I am going to marry.",
+        "C": "I will be having my own small restaurant.",
+        "D": "I will have registered for my second degree."
+      },
+      "correct_answer": "A",
+      "explanation": "The response should describe future plans. 'I am starting my own business' is a specific and clear answer to 'what are you planning?'."
+    },
+    {
+      "id": "eng_2015_social_q78",
+      "question": "Dina: What you told me about the man, saying that 'he spent his life hitchhiking' is not clear.\nMuanech: ______",
+      "options": {
+        "A": "let me rephrase what I just said. He spent his life asking for drivers give him a lift.",
+        "B": "Let me say that again. He spent his life hitchhiking.",
+        "C": "In other words, he has never had even a bicycle. He rather prefers others to give him a ride.",
+        "D": "To make it clear, the man is best known for his being helpless."
+      },
+      "correct_answer": "A",
+      "explanation": "The speaker is asked for clarification. Rephrasing the statement with a clearer explanation ('asking for drivers give him a lift') is the most appropriate response."
+    },
+    {
+      "id": "eng_2015_social_q79",
+      "question": "Interviewer: If in case I am employed, can you tell me about some of the issues which I should know beforehand about my job?\nInterviewer: ______",
+      "options": {
+        "A": "It is totally unnecessary to ask about this issue now.",
+        "B": "The fact that you are raising such an issue is indeed very nice of you.",
+        "C": "Occasionally you would have to stay in office after 5 pm and this would require your commitment.",
+        "D": "What about yourself? Is there anything that you want us to know about you?"
+      },
+      "correct_answer": "C",
+      "explanation": "The candidate is asking about the job expectations. The interviewer's response should provide information about these expectations, such as occasional overtime."
+    },
+    {
+      "id": "eng_2015_social_q80",
+      "question": "Jemal: Where do you think Ethiopia will be within a decade when its giant water reservoir, The Great Renaissance Dam Project, becomes fully operational?\nGebretsadkan: ______",
+      "options": {
+        "A": "Ethiopia will have found itself being the water tower of East Africa.",
+        "B": "I wonder if this iconic project is finalized on time, it will make Ethiopia the economic power house of Africa.",
+        "C": "I am sure that the dam will be completed within a foreseeable future.",
+        "D": "I think Ethiopia will have faster water transport system thanks to this big dam."
+      },
+      "correct_answer": "B",
+      "explanation": "The question asks for a prediction about the future impact of the dam. Option B provides a conditional prediction about Ethiopia's future status."
+    },
+    {
+      "id": "eng_2015_social_q81",
+      "question": "Molla: One of the disadvantages of staying unmarried is losing the love and comfort one may have to get from the marital bond. What else?\nMilkesa: ______",
+      "options": {
+        "A": "On the other hand, being married is believed to have several advantages.",
+        "B": "In addition to providing with love and comfort, marriage helps someone to have peace.",
+        "C": "The other disadvantage of marriage is that it makes the two parties stay in it even after going disenchanted.",
+        "D": "The other disadvantage of staying out of marital wedlock is losing the social harmony that one may have to enjoy."
+      },
+      "correct_answer": "D",
+      "explanation": "The first speaker is listing disadvantages of staying unmarried and asks for more. The response should add another disadvantage of being unmarried."
+    },
+    {
+      "id": "eng_2015_social_q82",
+      "question": "Hailu: Do you know that in the Gikiyo clan, somewhere in the Southern Part of Africa, the female is the figure head of her family?\nAsia: ______",
+      "options": {
+        "A": "Believe it or not, I have never heard the presence of such a clan in Africa.",
+        "B": "Funnily enough there should be so many clans of such a type where female domination is rampant.",
+        "C": "It may sound strange, but no surprise this time that there appear to be many societies which are matriarchal.",
+        "D": "Do you know the Gikiyu? I had once the opportunity of visiting them."
+      },
+      "correct_answer": "C",
+      "explanation": "The response should acknowledge the information and provide a general observation about matriarchal societies, which is a logical reaction to the statement."
+    },
+    {
+      "id": "eng_2015_social_q83",
+      "question": "Tourist: Can you tell me about the Ethiopian traditional costumes?\nLocal Ethiopian-guide: ______",
+      "options": {
+        "A": "Well, the traditional clothes are mostly made of cotton.",
+        "B": "Men and women usually dress in the same way.",
+        "C": "No, modern cloth is worn by the public during holidays.",
+        "D": "No traditional Ethiopian cloth is allowed to be worn by foreigners."
+      },
+      "correct_answer": "A",
+      "explanation": "The tourist is asking for information. The guide's response should provide accurate information about the costumes. 'Traditional clothes are mostly made of cotton' is a true statement."
+    },
+    {
+      "id": "eng_2015_social_q84",
+      "question": "Interviewer: ______\nInterviewee: Given the employment opportunity, I want to be given scholarship opportunity having served for two years.",
+      "options": {
+        "A": "Would you mind telling me your position in your previous company.",
+        "B": "Can you tell me about your interests?",
+        "C": "Where would you like to be after ten years?",
+        "D": "Have you ever been given scholarship opportunities before?"
+      },
+      "correct_answer": "C",
+      "explanation": "The interviewee's response is about future aspirations, which directly answers a question about long-term career goals ('Where would you like to be after ten years?'."
+    },
+    {
+      "id": "eng_2015_social_q85",
+      "question": "Venus: Have you ever been to Gambela, Melat?\nMelat: Not clear. I didn't get you.\nVenus: ______",
+      "options": {
+        "A": "Ok, let me say it louder.",
+        "B": "Is that clear?",
+        "C": "Let me put it another way.",
+        "D": "Please repeat that."
+      },
+      "correct_answer": "C",
+      "explanation": "The listener didn't understand, so the speaker should try a different approach to explaining. 'Let me put it another way' is the appropriate response."
+    },
+    {
+      "id": "eng_2015_social_q86",
+      "question": "Kifom: In terms of size, which one is bigger, the Aswan Dam or the Great Ethiopian Renaissance Dam?\nGach: ______",
+      "options": {
+        "A": "The Aswan Dam is not as big as the Great Ethiopian",
+        "B": "The Great Ethiopian Renaissance Dam is the biggest of all man made dams in Africa.",
+        "C": "The Great Ethiopian Renaissance Dam can consist of 74 billion cubic liters of water.",
+        "D": "The Great Ethiopian Renaissance Dam is as expensive as that of the Aswan Dam."
+      },
+      "correct_answer": "B",
+      "explanation": "The question asks for a comparison in terms of size. Option B provides that comparison."
+    },
+    {
+      "id": "eng_2015_social_q87",
+      "question": "Wario: I wish you could tell me as to what I should do to be a successful entrepreneur.\nUba: ______",
+      "options": {
+        "A": "Is it hard to be an entrepreneur?",
+        "B": "I would say that success cannot be achieved only through dreaming.",
+        "C": "To give you an idea, it is better to take part in life skills trainings.",
+        "D": "I strongly suggest that you become an employee only."
+      },
+      "correct_answer": "C",
+      "explanation": "The question asks for advice. Option C provides constructive, practical advice for becoming an entrepreneur."
+    },
+    {
+      "id": "eng_2015_social_q88",
+      "question": "Zuber: ______\nZebenary: Yes, I do, because that is the only way to pull us out from our deep seated poverty.",
+      "options": {
+        "A": "Do you think modernizing our Agriculture should be our priority in the future?",
+        "B": "Do you think it is possible that self-automated cars will litter the road of Addis Ababa?",
+        "C": "Would it be healthy to think of everything in terms of personal agenda?",
+        "D": "Are you of the opinion that cell phones are improving the lives of Ethiopians?"
+      },
+      "correct_answer": "A",
+      "explanation": "The response talks about pulling out of poverty, which is related to economic development. Modernizing agriculture is a key economic priority."
+    },
+    {
+      "id": "eng_2015_social_q89",
+      "question": "Semira: Do you think technology-led economy will take the upper hand in Ethiopia?\nHurria: ______",
+      "options": {
+        "A": "I wish it had been like that, but the fact was totally different.",
+        "B": "There is a good chance for it to prevail. I think.",
+        "C": "Really? If so, we must be lucky.",
+        "D": "If so, Ethiopia will get the chance to liberalize its economy."
+      },
+      "correct_answer": "B",
+      "explanation": "The question asks for an opinion. Option B expresses a positive opinion about the possibility."
+    },
+    {
+      "id": "eng_2015_social_q90",
+      "question": "Journalist: Can you tell me what happened to your country in recent times?\nAmbassador: Emm, there was coup d'etat and ______",
+      "options": {
+        "A": "the reason why my country was banned from AU's membership.",
+        "B": "the fact that it was banned from its AU membership.",
+        "C": "thanks to that it could have been suspended from its AU membership.",
+        "D": "the cause for my country's suspension from the AU."
+      },
+      "correct_answer": "D",
+      "explanation": "The Ambassador is explaining the consequence of a coup d'etat. The most logical consequence is the suspension from the AU."
+    },
+    {
+      "id": "eng_2015_social_q91",
+      "question": "Student: I was a bit sick. As a result, I missed the final exam.\nTeacher: ______",
+      "options": {
+        "A": "Really? What are you doing now?",
+        "B": "These days, many students are not appearing for an exam.",
+        "C": "Even if that is so, you are expected to produce an evidence for it.",
+        "D": "Whether you like it or not you should have fallen ill."
+      },
+      "correct_answer": "C",
+      "explanation": "The teacher is expected to handle the situation professionally. Requesting evidence for the illness is the most appropriate response."
+    },
+    {
+      "id": "eng_2015_social_q92",
+      "question": "Ethiopia, Nigeria South Africa and Kenya are all members of the AU.",
+      "options": {
+        "A": "Ethiopia, Nigeria South Africa, and Kenya are all members of the AU.",
+        "B": "Ethiopia, Nigeria, South Africa and Kenya are all members of the AU.",
+        "C": "Ethiopia Nigeria South Africa, and Kenya, are all members of the AU.",
+        "D": "Ethiopia Nigeria, South Africa, and Kenya are all members of the AU."
+      },
+      "correct_answer": "A",
+      "explanation": "In a list of three or more items, commas are used to separate the items, and a comma (Oxford comma) is optional before the 'and'. Option A correctly separates the items."
+    },
+    {
+      "id": "eng_2015_social_q93",
+      "question": "My Grandson lives on Derartu Tulu Street.",
+      "options": {
+        "A": "My Grandson lives on Derartu Tulu street.",
+        "B": "My Grandson lives on Derartu Tulu Street.",
+        "C": "My grandson lives on Derartu Tulu Street.",
+        "D": "My grandson lives on Derartu Tulu street."
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence should not capitalize 'grandson' unless it starts the sentence. 'Street' is part of the proper noun, so it should be capitalized."
+    },
+    {
+      "id": "eng_2015_social_q94",
+      "question": "Fozan has left for Jimma; his sister has gone to Jigjiga.",
+      "options": {
+        "A": "Fozan has left for Jimma; his sister has gone to Jigjiga.",
+        "B": "Fozan has left; for Jimma his sister has gone to Jigjiga.",
+        "C": "Fozan has left for Jimma his sister has gone to Jigjiga.",
+        "D": "Fozan has left for Jimma his sister; has gone to Jigjiga."
+      },
+      "correct_answer": "A",
+      "explanation": "A semicolon correctly joins two independent clauses that are closely related in thought."
+    },
+    {
+      "id": "eng_2015_social_q95",
+      "question": "The bridge on the river was constructed by the C.B.R.C.",
+      "options": {
+        "A": "The bridge on the river was constructed by the C.B.R.C.",
+        "B": "The bridge on the river was built by the C.B.R.C.",
+        "C": "The bridge on the river was constructed by the C.B.R.C.",
+        "D": "The bridge on the river was built by the CBRC."
+      },
+      "correct_answer": "C",
+      "explanation": "Abbreviations with periods (C.B.R.C.) are formal. The sentence is already provided with this format. Option C is the closest to the original, but the question might be asking for the best version of a correctly punctuated sentence. The correct answer is C."
+    },
+    {
+      "id": "eng_2015_social_q96",
+      "question": "on have finished assignment your working project you?",
+      "options": {
+        "A": "Have you finished working on your assignment project?",
+        "B": "Have you finished working your assignment on project?",
+        "C": "Have you finished your assignment project on working?",
+        "D": "Have you finished working on your project assignment?"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct word order for a question in the present perfect is: Have + subject + past participle + object."
+    },
+    {
+      "id": "eng_2015_social_q97",
+      "question": "was who a theory scientist Big-Bang Stephen Hawkings the world the introduced prominent",
+      "options": {
+        "A": "The prominent scientist who introduced a world to Big-Bang the was Stephen Hawkings.",
+        "B": "Stephen Hawkings was a prominent scientist who introduced the world to the Big-Bang theory.",
+        "C": "The world scientist who introduced the Big-Bang theory was a prominent Stephen Hawkings.",
+        "D": "Stephen Hawkings introduced the world to a Big Bang theory was a prominent scientist."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct sentence structure is Subject (Stephen Hawking) + Verb (was) + Complement (a prominent scientist) + Relative Clause (who introduced the world to the Big Bang theory)."
+    },
+    {
+      "id": "eng_2015_social_q98",
+      "question": "were the is stage that it high she time on.",
+      "options": {
+        "A": "She is on high time that it were the stage.",
+        "B": "It is the stage that she were on high time.",
+        "C": "She is on high time that were it the stage.",
+        "D": "It is high time that she were on the stage."
+      },
+      "correct_answer": "D",
+      "explanation": "The correct idiom is 'It is high time + subject + past tense verb'. 'It is high time that she were on the stage.'"
+    },
+    {
+      "id": "eng_2015_social_q99",
+      "question": "Mr Solomon is the most dedicated teacher I have ever known for three major reasons. To begin with, he rarely comes to class without a thorough preparation on the day's lesson. Moreover, he is humorous while teaching which, in my view, a quality is that a good teacher is expected to have. The fact that he treats every student equally is the other feature of Mr Solomon that we all admire. (Choose the correct concluding sentence)",
+      "options": {
+        "A": "Clearly speaking, the fact that he is impartial; every one of us like him very much.",
+        "B": "No teacher has the qualities that match Mr Solomon possesses.",
+        "C": "As a result, every one of us in our class wants to emulate him when we become teachers.",
+        "D": "To conclude, Mr Solomon is greatly admired for his being the funniest teacher in class."
+      },
+      "correct_answer": "D",
+      "explanation": "The paragraph details Mr. Solomon's dedication, humor, and equal treatment. A concluding sentence should summarize the main idea. Option D summarizes the admiration for him."
+    },
+    {
+      "id": "eng_2015_social_q100",
+      "question": "Sharing house hold chores between a husband and wife is becoming a necessity, not an option these days. The first and perhaps the most important reason is that it is through such modeling that children in the family would grow taking a good lesson from their parents on the importance of cooperation. The other pressing need is that most women these days, like their male counterparts, have got big responsibilities that stretch from home to office. Thus, sharing the burden on the men's part is quite indispensable. What could be more is, by sharing the burden, the husband and wife would get time to share love and warmth. (Choose the correct concluding sentence)",
+      "options": {
+        "A": "In a nutshell, the present unlike the past, requires men's dedication in easing the burden of their wives.",
+        "B": "Wrapping it up, a husband and wife are responsible for shaping their children's future.",
+        "C": "In conclusion, it can be said that as an apple does not fall far from its tree, so are children.",
+        "D": "As a whole, sharing family burden is the source of warmth and comfort for the children."
+      },
+      "correct_answer": "A",
+      "explanation": "The paragraph's main argument is that sharing chores is a necessity. The conclusion should restate this central argument about the need for men to share the burden."
+    },
+    {
+      "id": "eng_2015_social_q101",
+      "question": "Choose the word which is written in correct spelling.",
+      "options": {
+        "A": "courageous",
+        "B": "opinionated",
+        "C": "decisive",
+        "D": "resilient"
+      },
+      "correct_answer": "A",
+      "explanation": "All the words are spelled correctly. 'Courageous' is the correct spelling."
+    },
+    {
+      "id": "eng_2015_social_q102",
+      "question": "Which one of the following is a word written in correct spelling?",
+      "options": {
+        "A": "Chansmatic",
+        "B": "Agressive",
+        "C": "Participatory",
+        "D": "consultative"
+      },
+      "correct_answer": "C",
+      "explanation": "'Participatory' is the correctly spelled word. 'Charismatic' and 'Aggressive' are misspelled."
+    },
+    {
+      "id": "eng_2015_social_q103",
+      "question": "In a formal letter which of the following could be optional?",
+      "options": {
+        "A": "The recipient's address",
+        "B": "The salutation line",
+        "C": "The date line",
+        "D": "The subject heading"
+      },
+      "correct_answer": "D",
+      "explanation": "A subject heading is a common but optional part of a formal letter. The other elements are standard."
+    },
+    {
+      "id": "eng_2015_social_q104",
+      "question": "If you happen to read a formal letter having a salutation which reads as 'Dear, Mrs. Fetiya,' which one of the following could be the most appropriate closing?",
+      "options": {
+        "A": "Yours Sincerely",
+        "B": "Yours Truly",
+        "C": "Yours Faithfully",
+        "D": "Yours Obediently"
+      },
+      "correct_answer": "C",
+      "explanation": "In formal letters, if the recipient is not addressed by name (e.g., 'Dear Sir/Madam'), the correct closing is 'Yours Faithfully'. If addressed by name, use 'Yours Sincerely'. Here the name is not explicitly used, but 'Dear Mrs. Fetiya' uses a name. Option A is the correct formal close for a named person."
+    },
+    {
+      "id": "eng_2015_social_q105",
+      "question": "In a formal letter the recipient's address will be",
+      "options": {
+        "A": "below the sender's address.",
+        "B": "in the top right hand corner.",
+        "C": "at the bottom of the letter.",
+        "D": "below his or her name."
+      },
+      "correct_answer": "A",
+      "explanation": "In a formal letter, the recipient's address is typically written below the sender's address on the left side."
+    },
+    {
+      "id": "eng_2015_social_q106",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. Schooling requires fulfilling the basic materials for learning. b. There are some reasons for students to drop out of school. c. Sickness could be the other reason for students to take a leave of school. d. One reason can be economic related cause.",
+      "options": {
+        "A": "b d c a",
+        "B": "b a c d",
+        "C": "d a c b",
+        "D": "a d c b"
+      },
+      "correct_answer": "A",
+      "explanation": "b (Introduction: reasons for dropping out), d (Reason 1: economic), c (Reason 2: sickness), a (Conclusion: schooling requires materials)."
+    },
+    {
+      "id": "eng_2015_social_q107",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. As a result, the organization has lost sight of it to think strategically. b. As most member states do not settle their contribution in time, it has also made it difficult to run its day to day activities. c. One of the challenges of the African Union is the different conflicts that are ravaging the continent these days. d. Since its establishment in 2001, the African Union has had to grapple with lots of challenges.",
+      "options": {
+        "A": "d c b a",
+        "B": "c b d a",
+        "C": "d a c b",
+        "D": "b d c a"
+      },
+      "correct_answer": "A",
+      "explanation": "d (Introduction: since 2001, AU has faced challenges), c (Challenge 1: conflicts), b (Challenge 2: financial), a (Result: losing strategic focus)."
+    },
+    {
+      "id": "eng_2015_social_q108",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. Once you feel relevant, gather ample information about the company. b. Looking carefully at the vacancy and deciding whether you could fit in or not is to be your priority. c. This would help you imagine how your expertise can bear fruit to the hiring body. d. If you want to succeed in a job interview, observing the points here after is so much helpful.",
+      "options": {
+        "A": "d b a c",
+        "B": "c d a b",
+        "C": "a d b c",
+        "D": "b d c a"
+      },
+      "correct_answer": "A",
+      "explanation": "d (Introduction: how to succeed), b (First step: look at the vacancy), a (Second step: gather info), c (Result: imagining impact)."
+    }
+  ]
 }
