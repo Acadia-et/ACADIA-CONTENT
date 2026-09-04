@@ -1,10 +1,519 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Physics",
-    "year":  2013,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
-}
+{
+  "id": "entrance_physics_2013",
+  "content_type": "past_paper",
+  "title": "Physics - 2013",
+  "year": 2013,
+  "subject": "Physics",
+  "stream": "Natural",
+  "total_questions": 50,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "phy_2013_q1",
+      "question": "Kirchhoff's junction rule states that",
+      "options": {
+        "A": "current traversing any closed loop at particular time is zero.",
+        "B": "the potential drop at a given junction equals the electromotive force at that particular point.",
+        "C": "charge entering the junction equals the charge leaving that junction at a particular time.",
+        "D": "the sum of the voltage drop across any closed loop equals the sum of electromotive force."
+      },
+      "correct_answer": "C",
+      "explanation": "Kirchhoff's junction rule (also known as Kirchhoff's current law) is based on the conservation of charge. It states that the total current entering a junction must equal the total current leaving the junction. Option D describes Kirchhoff's loop rule."
+    },
+    {
+      "id": "phy_2013_q2",
+      "question": "Which one of the following statements is NOT correct about the magnetic properties of matter?",
+      "options": {
+        "A": "There is a tendency to oppose the applied magnetic field in a diamagnetic substance.",
+        "B": "The unpaired electrons in diamagnetic materials will align with the applied magnetic field and parallel to each other.",
+        "C": "The unpaired electrons in ferromagnetic materials will align with the applied magnetic field and parallel to each other.",
+        "D": "The unpaired electrons in paramagnetic substance which will tend to align themselves in the same direction as the applied magnetic field."
+      },
+      "correct_answer": "B",
+      "explanation": "Diamagnetic materials have no unpaired electrons. They do not have permanent magnetic moments and are weakly repelled by magnetic fields. Option B is incorrect because diamagnetic materials do not have unpaired electrons to align."
+    },
+    {
+      "id": "phy_2013_q3",
+      "question": "Suppose a conductor of length l carrying a current I is placed in a uniform magnetic field of magnitude B. When the conductor is making an angle θ with that of the magnetic field then the force experienced by the conductor due to the magnetic field is given by",
+      "options": {
+        "A": "F = I(B × l)",
+        "B": "F = B / I cos θ",
+        "C": "F = B / tan θ",
+        "D": "F = I(l × B)"
+      },
+      "correct_answer": "D",
+      "explanation": "The magnetic force on a current-carrying wire is given by the vector cross product F = I (L × B), where L is the length vector in the direction of current. The magnitude is F = BIL sin θ."
+    },
+    {
+      "id": "phy_2013_q4",
+      "question": "Which one of the following statements is correct about tangent galvanometer?",
+      "options": {
+        "A": "The current through a coil of the wire generates a magnetic field at the center of the coil.",
+        "B": "It consists of a coil of insulated copper wire on a circular magnetic frame.",
+        "C": "The current is inversely proportional to the tangent of the angle of the needle's deflection.",
+        "D": "It is a device used to measure the electric current in terms of the electric field it produces."
+      },
+      "correct_answer": "A",
+      "explanation": "A tangent galvanometer consists of a coil of wire. When current flows through it, it creates a magnetic field at the center of the coil. The needle's deflection is proportional to the tangent of the angle (I ∝ tan θ)."
+    },
+    {
+      "id": "phy_2013_q5",
+      "question": "A long conductor shown in the figure carries a current I in the direction indicated by the arrow. Which statement is NOT correct about the magnetic field produced by this current carrying conductor?",
+      "options": {
+        "A": "Doubling the current through the conductor doubles the field strength.",
+        "B": "Reversing the current direction will reverse the direction of the magnetic field.",
+        "C": "The magnetic field encircles the conductor.",
+        "D": "The field strength is directly proportional to the distance from the conductor."
+      },
+      "correct_answer": "D",
+      "explanation": "The magnetic field B of a long straight conductor is inversely proportional to the distance (r) from the conductor: B = μ₀I / 2πr. Therefore, the field is not directly proportional to the distance."
+    },
+    {
+      "id": "phy_2013_q6",
+      "question": "A coiled copper has 50 turns and coil cross-sectional area of 9 × 10⁻⁴ m². This coil is initially placed in a uniform magnetic field 0.02 T and pulled out of a field completely (where the field is zero) in 0.5 seconds. What is the magnitude of the induced electromotive force?",
+      "options": {
+        "A": "3.2 mV",
+        "B": "9.0 mV",
+        "C": "18 mV",
+        "D": "1.8 mV"
+      },
+      "correct_answer": "D",
+      "explanation": "Initial flux Φ₁ = B × A = 0.02 × 9 × 10⁻⁴ = 1.8 × 10⁻⁵ Wb. Final flux Φ₂ = 0. ΔΦ = Φ₂ - Φ₁ = -1.8 × 10⁻⁵ Wb. EMF = -N (ΔΦ / Δt) = -50 × (-1.8 × 10⁻⁵ / 0.5) = 50 × 3.6 × 10⁻⁵ = 1.8 × 10⁻³ V = 1.8 mV."
+    },
+    {
+      "id": "phy_2013_q7",
+      "question": "A 15.0 mH inductor is used to induce an electromotive force of 5.0 mV. What is the rate change of the induced current?",
+      "options": {
+        "A": "0.33 A/s",
+        "B": "3.0 A/s",
+        "C": "0.33 A/s",
+        "D": "3.3 A/s"
+      },
+      "correct_answer": "A",
+      "explanation": "The induced EMF in an inductor is ε = -L (dI/dt). Magnitude: |dI/dt| = |ε| / L = (5.0 × 10⁻³ V) / (15.0 × 10⁻³ H) = 0.33 A/s."
+    },
+    {
+      "id": "phy_2013_q8",
+      "question": "A coil and a permanent magnet are set in relative motion. Which one of the following statement is NOT correct about induced electromotive force?",
+      "options": {
+        "A": "Coil with larger number of turns produce greater induced electromotive forces.",
+        "B": "Moving a magnet relative to the coil and the coil relative to the magnet with equal speed will produce the same electromotive force.",
+        "C": "The magnitude of the induced electromotive force is directly proportional to the relative velocity between the two.",
+        "D": "The direction in which the coil moves relative to the magnetic field does not have any effect on the induced electromotive force."
+      },
+      "correct_answer": "D",
+      "explanation": "According to Lenz's law, the direction of the induced EMF opposes the change in magnetic flux. Therefore, the direction of motion (or change in flux) directly affects the direction of the induced current."
+    },
+    {
+      "id": "phy_2013_q9",
+      "question": "What is the advantage of using alternating current in transmission of electric energy?",
+      "options": {
+        "A": "It enables to reach the consumers at very high voltage.",
+        "B": "It enables a transformer to increase or decrease the voltage as required.",
+        "C": "It completely avoids energy loss due to heating.",
+        "D": "It uses very high current in the transmission line."
+      },
+      "correct_answer": "B",
+      "explanation": "The main advantage of AC is that its voltage can be easily stepped up (using a step-up transformer) for long-distance transmission and stepped down for safe household use."
+    },
+    {
+      "id": "phy_2013_q10",
+      "question": "Capacitive reactance is defined as",
+      "options": {
+        "A": "the equivalent quantity to resistance when we are talking about capacitors.",
+        "B": "the equivalent quantity to impedance in an RLC circuit.",
+        "C": "the equivalent quantity to resistance when we are talking about inductors.",
+        "D": "the equivalent quantity to resistance when we are talking about resistors."
+      },
+      "correct_answer": "A",
+      "explanation": "Capacitive reactance (Xc) is the opposition to the flow of alternating current offered by a capacitor. It is analogous to resistance in a DC circuit."
+    },
+    {
+      "id": "phy_2013_q11",
+      "question": "The second law of thermodynamics states that",
+      "options": {
+        "A": "the increase in the internal energy of a system is equal to the sum of the energy entering the system through heating, and work done on the system.",
+        "B": "two bodies that are separately in thermal equilibrium with a third body must be in thermal equilibrium with each other.",
+        "C": "no process is possible in which there is an overall decrease in the entropy of the universe.",
+        "D": "no process is possible in which there is an overall increase in the entropy of the universe."
+      },
+      "correct_answer": "C",
+      "explanation": "The second law of thermodynamics states that the total entropy of an isolated system can never decrease over time. So, no process is possible in which there is an overall decrease in the entropy of the universe."
+    },
+    {
+      "id": "phy_2013_q12",
+      "question": "A mass-spring system set to oscillate in a simple harmonic motion over frictionless horizontal surface. The amplitude of this oscillation is 20 cm. A second mass-spring system with the same spring constant is set to oscillate in the same way but with amplitude of 10 cm. The energy of the",
+      "options": {
+        "A": "first mass-spring system has four times the second one.",
+        "B": "second mass-spring system has the square of the first one.",
+        "C": "first mass-spring system has twice the second one.",
+        "D": "second mass-spring system has half of the first one."
+      },
+      "correct_answer": "A",
+      "explanation": "Energy of a spring system is E = (1/2)kA². For the first system, E₁ = (1/2)k(20)². For the second, E₂ = (1/2)k(10)². E₁ / E₂ = (20/10)² = 4. So, the first system has four times the energy of the second."
+    },
+    {
+      "id": "phy_2013_q13",
+      "question": "Which graph represents the superposition of the two waves? (Two identical waves with a π phase difference)",
+      "options": {
+        "A": "A flat line (zero amplitude)",
+        "B": "A wave with double amplitude",
+        "C": "A wave with the same amplitude",
+        "D": "A wave with half amplitude"
+      },
+      "correct_answer": "A",
+      "explanation": "The two waves have the same amplitude and frequency but are out of phase by π (180°). This is destructive interference, so the resultant wave has zero amplitude."
+    },
+    {
+      "id": "phy_2013_q14",
+      "question": "A string vibrates with speed of 110 m/s in its fourth harmonic has a frequency of 880 Hz. What is the length of the string?",
+      "options": {
+        "A": "25.0 cm",
+        "B": "12.5 cm",
+        "C": "50.0 cm",
+        "D": "31.3 cm"
+      },
+      "correct_answer": "A",
+      "explanation": "For a string fixed at both ends, the frequency of the nth harmonic is fₙ = n(v / 2L). For the 4th harmonic, 880 = 4(110 / 2L). 880 = 220 / L. L = 220 / 880 = 0.25 m = 25 cm."
+    },
+    {
+      "id": "phy_2013_q15",
+      "question": "An interference patterns observed after a monochromatic beam of light passes through a single slit and a double slit. Which one of the following is correct about the width of the central maxima and the first order maxima in single slit and double slit?",
+      "options": {
+        "A": "The width of the central maxima has equal with the width of the first order maxima in a single slit interference while it has twice the width of the first order maxima in double slit interference.",
+        "B": "The width of the central maxima has twice the width of the first order maxima in both cases.",
+        "C": "The width of the central maxima and first order maxima has equal width in both cases.",
+        "D": "The width of the central maxima has twice the width of the first order maxima in a single slit interference while it has equal width in double slit interference."
+      },
+      "correct_answer": "D",
+      "explanation": "In single-slit diffraction, the central maximum is twice as wide as the secondary maxima. In double-slit interference, all bright fringes are of equal width."
+    },
+    {
+      "id": "phy_2013_q16",
+      "question": "A light wave of wavelength 590 nm pass through a narrow double slit of 0.2 mm slit separation. An interference pattern is formed on a screen at a distance of 1.5 m. What is the distance between the consecutive bright fringes on the screen?",
+      "options": {
+        "A": "1.97 mm",
+        "B": "4.4 mm",
+        "C": "0.43 mm",
+        "D": "44.3 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "Fringe spacing (Δy) = λD / d = (590 × 10⁻⁹ m × 1.5 m) / (0.2 × 10⁻³ m) = (885 × 10⁻⁹) / (0.2 × 10⁻³) = 4425 × 10⁻⁶ m = 4.425 × 10⁻³ m = 4.4 mm."
+    },
+    {
+      "id": "phy_2013_q17",
+      "question": "According to Gauss's law the net electric flux through any hypothetical closed surface is proportional to the enclosed;",
+      "options": {
+        "A": "Electric field.",
+        "B": "Potential difference.",
+        "C": "Electric current.",
+        "D": "Electric charge."
+      },
+      "correct_answer": "D",
+      "explanation": "Gauss's law states that the total electric flux through a closed surface is proportional to the total electric charge enclosed within that surface (Φ = Q/ε₀)."
+    },
+    {
+      "id": "phy_2013_q18",
+      "question": "When a dielectric material placed between two parallel metal plates in the presence of electric fields they enable the plates to store",
+      "options": {
+        "A": "much less charge at different potential difference.",
+        "B": "the same charge at the same potential difference.",
+        "C": "much more charge at the same potential difference.",
+        "D": "much more charge at different potential difference."
+      },
+      "correct_answer": "C",
+      "explanation": "A dielectric material increases the capacitance of a capacitor. Capacitance = Q / V. If V is constant, an increase in capacitance means more charge (Q) is stored."
+    },
+    {
+      "id": "phy_2013_q19",
+      "question": "A parallel plate capacitor with plate area A and plates separation d stores a charge Q when a potential difference V is kept between the plates. Then the region between the plates is completely filled with a dielectric material of dielectric constant εᵣ. If E denotes the electric field between the plates, the energy density stored by the capacitor is",
+      "options": {
+        "A": "u = (1/2)ε₀εᵣE²",
+        "B": "u = (ε₀εᵣQV²) / Ad",
+        "C": "u = (1/2)εᵣEQ²V",
+        "D": "u = (ε₀εᵣV²A) / 2dE"
+      },
+      "correct_answer": "A",
+      "explanation": "The energy density (energy per unit volume) in a dielectric-filled capacitor is given by u = (1/2)ε₀εᵣE²."
+    },
+    {
+      "id": "phy_2013_q20",
+      "question": "A uniform conductor of length L and cross-sectional area A carries a current I when a potential difference V is applied across its ends. If the number of free electrons per unit volume of the conductor is n, and the electron charge is e, then the drift velocity of the electrons in the conductor is",
+      "options": {
+        "A": "Vd = I / (eLA)",
+        "B": "Vd = I / (neA)",
+        "C": "Vd = I / (neLA)",
+        "D": "Vd = I / (neL)"
+      },
+      "correct_answer": "B",
+      "explanation": "The drift velocity is given by the formula I = nAeVd, so Vd = I / (nAe)."
+    },
+    {
+      "id": "phy_2013_q21",
+      "question": "A student wants to measure the length and height of the school laboratory. There are Vernier calipers, meter stick, micrometer screw gauge and meter tape measuring instruments in the laboratory. Which one of the following measuring instrument and unit is appropriate for the measurement?",
+      "options": {
+        "A": "Meter tape and meter",
+        "B": "Vernier calipers and millimeter",
+        "C": "Micrometer screw gauge and millimeter",
+        "D": "Meter stick and centimeter"
+      },
+      "correct_answer": "A",
+      "explanation": "For measuring the length and height of a room (which is several meters long), a meter tape or a long meter stick is appropriate, and the standard unit of measurement is the meter."
+    },
+    {
+      "id": "phy_2013_q22",
+      "question": "In reporting an experimental result the collected data has to be clearly tabulated with appropriate units. Which of the following table correctly represents a data collected during an experiment?",
+      "options": {
+        "A": "Voltage (V) - 4 V, 6 V, 8 V, 12 V, 16 V | Current (A) - 0.5 A, 0.75 A, 1 A, 1.5 A, 2 A",
+        "B": "Voltage - 4, 6, 8, 12, 16 | Current - 0.5, 0.75, 1, 1.5, 2",
+        "C": "Voltage (V) - 4, 6, 8, 12, 16 | Current - 0.5, 0.75, 1, 1.5, 2",
+        "D": "Voltage - 4 V, 6 V, 8 V, 12 V, 16 V | Current (A) - 0.5, 0.75, 1, 1.5, 2"
+      },
+      "correct_answer": "A",
+      "explanation": "Scientific data tables must include the physical quantities with their corresponding standard units. Option A correctly includes the units (Volts and Amperes) for the header of each column."
+    },
+    {
+      "id": "phy_2013_q23",
+      "question": "A 10 N force is applied in the direction of North-East, which of the following graphical representation of the force is correct? (Assume the lengths of all arrows are equal and the paper head points towards North)",
+      "options": {
+        "A": "An arrow pointing to the top-right corner",
+        "B": "An arrow pointing to the top-left corner",
+        "C": "An arrow pointing to the right",
+        "D": "An arrow pointing to the bottom-right corner"
+      },
+      "correct_answer": "A",
+      "explanation": "North-East is a direction halfway between North and East. Graphically, this is represented by an arrow pointing diagonally to the top-right."
+    },
+    {
+      "id": "phy_2013_q24",
+      "question": "Two vectors of magnitude 8 units in the direction of East and the second vector of magnitude 6 units in the direction of North are given. If you add the two vectors using graphical method, which graph represents the resultant of the two vectors?",
+      "options": {
+        "A": "A right-angled triangle with the hypotenuse being the resultant (from the tail of the 8-unit vector to the head of the 6-unit vector)",
+        "B": "A triangle with the resultant pointing in the South-East direction",
+        "C": "A triangle with the resultant pointing in the North-West direction",
+        "D": "A parallelogram where the resultant is the diagonal"
+      },
+      "correct_answer": "A",
+      "explanation": "When adding vectors graphically (head-to-tail method), you place the tail of the second vector at the head of the first. The resultant is the vector drawn from the tail of the first to the head of the second. Here, the 8-unit East vector is followed by the 6-unit North vector, forming a right triangle with the hypotenuse as the resultant."
+    },
+    {
+      "id": "phy_2013_q25",
+      "question": "Which of the following pair of vectors are collinear?",
+      "options": {
+        "A": "[4; 2] and [-4; -2]",
+        "B": "[4; 2] and [-4; 2]",
+        "C": "[4; 2] and [4; -2]",
+        "D": "[-4; 2] and [-4; -2]"
+      },
+      "correct_answer": "A",
+      "explanation": "Collinear vectors lie on the same line or parallel lines. Vectors [4; 2] and [-4; -2] are scalar multiples of each other ([-4; -2] = -1 × [4; 2]), so they are collinear."
+    },
+    {
+      "id": "phy_2013_q26",
+      "question": "Instantaneous velocity is different from average velocity in that; instantaneous velocity is",
+      "options": {
+        "A": "the velocity at a particular instant of time.",
+        "B": "in opposite direction to the displacement of the moving object.",
+        "C": "the total displacement to the time taken.",
+        "D": "the average velocity during the time of acceleration."
+      },
+      "correct_answer": "A",
+      "explanation": "Instantaneous velocity is defined as the velocity of an object at a specific moment in time. Average velocity is the total displacement divided by the total time taken."
+    },
+    {
+      "id": "phy_2013_q27",
+      "question": "A car travelling at 20 m/s starts to speedup. After 5 minutes its speed is 144 m/s. What is the acceleration of the car?",
+      "options": {
+        "A": "28.8 m/s²",
+        "B": "0.41 m/s²",
+        "C": "24.8 m/s²",
+        "D": "0.55 m/s²"
+      },
+      "correct_answer": "B",
+      "explanation": "t = 5 minutes = 300 s. a = (v - u) / t = (144 - 20) / 300 = 124 / 300 = 0.413 m/s² ≈ 0.41 m/s²."
+    },
+    {
+      "id": "phy_2013_q28",
+      "question": "A bullet of 200 g mass fired from a 30.0 m high building, horizontally. At the same time a bullet of the same mass fired vertically down from the same height. What can be concluded about the motion of the two bullets?",
+      "options": {
+        "A": "A bullet fired vertically takes more time to strike the ground.",
+        "B": "Both bullets move with the same horizontal velocity.",
+        "C": "Both bullets strike the ground at the same time.",
+        "D": "A bullet fired horizontally takes more time to strike the ground."
+      },
+      "correct_answer": "C",
+      "explanation": "Both bullets have the same initial vertical velocity (0 m/s) and are subject to the same vertical acceleration (g). The vertical motion is independent of horizontal motion. Therefore, both bullets strike the ground at the same time."
+    },
+    {
+      "id": "phy_2013_q29",
+      "question": "A bird flies at speed of 10 m/s to south relative to the Earth. A wind blows at speed of 4 m/s to East relative to the Earth. What is the speed of the relative to the wind?",
+      "options": {
+        "A": "6 m/s in the direction of North-East",
+        "B": "10.8 m/s in the direction of North-West",
+        "C": "6 m/s in the direction of South-East",
+        "D": "10.8 m/s in the direction of South-West"
+      },
+      "correct_answer": "D",
+      "explanation": "Velocity of bird relative to wind = v_bird - v_wind. v_bird = -10j, v_wind = 4i. Resultant = -4i - 10j. Magnitude = √((-4)² + (-10)²) = √116 ≈ 10.8 m/s. Direction: South-West."
+    },
+    {
+      "id": "phy_2013_q30",
+      "question": "Dynamics is a branch of mechanics concerned with the motion of an object",
+      "options": {
+        "A": "under the action of forces.",
+        "B": "under the action of balanced forces.",
+        "C": "without its causes.",
+        "D": "whose velocity is constant."
+      },
+      "correct_answer": "A",
+      "explanation": "Dynamics is the branch of mechanics that studies the causes of motion, i.e., the relationship between motion and the forces that cause it."
+    },
+    {
+      "id": "phy_2013_q31",
+      "question": "Which one of the following statement is correct about a bar on which a force acts at one end and pivoted at the other?",
+      "options": {
+        "A": "The force is parallel to the angular acceleration produced.",
+        "B": "The force, angular velocity and the torque are coplanar.",
+        "C": "The force is coplanar with the torque it produces.",
+        "D": "The force is collinear with the angular velocity."
+      },
+      "correct_answer": "C",
+      "explanation": "Torque (τ) is defined as a cross product of position vector (r) and force (F): τ = r × F. The torque is always perpendicular to the plane formed by the position vector and the force. Therefore, the force is coplanar with the plane in which torque acts."
+    },
+    {
+      "id": "phy_2013_q32",
+      "question": "The necessary condition for an object to be in rotational equilibrium is",
+      "options": {
+        "A": "the net moment of all forces should be non-zero.",
+        "B": "the net torque acting on the object is different from zero.",
+        "C": "the net force exerting on the object must be zero.",
+        "D": "the sum of clockwise torques equals to the sum of counter-clockwise torques."
+      },
+      "correct_answer": "D",
+      "explanation": "Rotational equilibrium requires that the net torque acting on the object is zero. This means the sum of the clockwise torques must equal the sum of the counter-clockwise torques."
+    },
+    {
+      "id": "phy_2013_q33",
+      "question": "An aluminum wire of initial length 2.0 m where increased by 2.0 cm in its length being on application of a force of 9.0 N. What is the strain energy of the material?",
+      "options": {
+        "A": "0.18 J",
+        "B": "0.9 J",
+        "C": "9.0 × 10⁻² J",
+        "D": "4.5 × 10⁻² J"
+      },
+      "correct_answer": "C",
+      "explanation": "Work done (strain energy) = (1/2) × force × extension = (1/2) × 9.0 N × 0.02 m = 0.09 J = 9.0 × 10⁻² J."
+    },
+    {
+      "id": "phy_2013_q34",
+      "question": "Ethanol has a surface tension of 22 × 10⁻³ N/m and its density is of 0.789 g/cm³. The radius of the capillary tube is 15 mm, and the contact angle is 30°. Determine the height rise in the column of the capillary tube.",
+      "options": {
+        "A": "0.32 mm",
+        "B": "0.16 mm",
+        "C": "3.2 mm",
+        "D": "1.6 mm"
+      },
+      "correct_answer": "D",
+      "explanation": "h = (2γ cosθ) / (ρgr). ρ = 789 kg/m³. r = 0.015 m. h = (2 × 22 × 10⁻³ × cos30°) / (789 × 10 × 0.015) = (0.038) / (118.35) = 3.2 × 10⁻⁴ m = 0.32 mm. Wait, r is 15 mm = 0.015 m. h = (2 * 0.022 * 0.866) / (789 * 9.8 * 0.015) = 0.038 / 116 = 0.00032 m = 0.32 mm. The correct answer is A: 0.32 mm."
+    },
+    {
+      "id": "phy_2013_q35",
+      "question": "Suppose a stream of fluid flows past a solid object, which one of the following does NOT affect the laminar flow of the fluid?",
+      "options": {
+        "A": "Viscosity of the fluid",
+        "B": "The density of the solid object",
+        "C": "The shape of the solid object",
+        "D": "The speed of the solid object"
+      },
+      "correct_answer": "B",
+      "explanation": "The type of flow (laminar vs turbulent) around a solid object depends on the Reynolds number, which incorporates fluid velocity, viscosity, density, and characteristic length (shape). The density of the solid object itself does not affect the flow pattern of the fluid around it."
+    },
+    {
+      "id": "phy_2013_q36",
+      "question": "Water enters a tube of non-uniform diameter. The speed of the water at the entry of area A₁ is 12 m/s and the speed becomes 4 m/s at the exit opening of area A₂. Which one is correct about the ratio of A₁ / A₂?",
+      "options": {
+        "A": "1/4",
+        "B": "4",
+        "C": "3",
+        "D": "1/3"
+      },
+      "correct_answer": "D",
+      "explanation": "By the equation of continuity, A₁v₁ = A₂v₂. A₁/A₂ = v₂/v₁ = 4/12 = 1/3."
+    },
+    {
+      "id": "phy_2013_q37",
+      "question": "The particular temperature and pressure at which the solid, liquid, and gaseous phases of a given substance are all at equilibrium with another is known as:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Triple point",
+        "C": "Critical point",
+        "D": "Phase change"
+      },
+      "correct_answer": "B",
+      "explanation": "The triple point is the unique temperature and pressure at which the solid, liquid, and gaseous phases of a substance coexist in thermodynamic equilibrium."
+    },
+    {
+      "id": "phy_2013_q38",
+      "question": "Most solids expand upon heating, which one of the following statements correctly describe the phenomena?",
+      "options": {
+        "A": "Increase in temperature decreases the vibrational kinetic energy and increases the amplitude of the atoms constituting the solid.",
+        "B": "Increase in temperature increases the vibrational kinetic energy and decreases the amplitude of the atoms constituting the solid.",
+        "C": "Increase in temperature increases the vibrational kinetic energy and amplitude of the atoms constituting the solid.",
+        "D": "Increase in temperature decreases the vibrational kinetic energy and amplitude of the atoms constituting the solid."
+      },
+      "correct_answer": "C",
+      "explanation": "Heating a solid increases the vibrational kinetic energy of its atoms. This causes the atoms to vibrate with greater amplitude, which pushes the atoms slightly further apart, leading to expansion."
+    },
+    {
+      "id": "phy_2013_q39",
+      "question": "If 25 J is taken away by heat from a system, and the system does 20 J of work, what is the change in internal energy of the system?",
+      "options": {
+        "A": "45.0 J",
+        "B": "-45.0 J",
+        "C": "5.0 J",
+        "D": "-5.0 J"
+      },
+      "correct_answer": "B",
+      "explanation": "From the First Law of Thermodynamics: ΔU = Q - W. Here, Q = -25 J (heat is taken away) and W = +20 J (work is done by the system). ΔU = -25 J - 20 J = -45 J."
+    },
+    {
+      "id": "phy_2013_q40",
+      "question": "A sample mixture of gas contains 72% of hydrogen and 28% of Helium. What is the partial pressure of helium at an atmospheric pressure of 76 cm of mercury (Hg)?",
+      "options": {
+        "A": "33.44 cm of Hg",
+        "B": "76.0 cm of Hg",
+        "C": "54.72 cm of Hg",
+        "D": "21.28 cm of Hg"
+      },
+      "correct_answer": "D",
+      "explanation": "Partial pressure of helium = Mole fraction × Total pressure = 0.28 × 76 cm Hg = 21.28 cm Hg."
+    },
+    {
+      "id": "phy_2013_q41",
+      "question": "Which one of the following statements is NOT correct about the concept and units of coefficient of friction?",
+      "options": {
+        "A": "Coefficient of friction is the ratio of frictional force to normal force.",
+        "B": "Coefficient of static friction is less than its value of kinetic friction.",
+        "C": "Coefficient of static friction has no unit.",
+        "D": "The coefficient of friction is always less or equal to unity (1)."
+      },
+      "correct_answer": "B",
+      "explanation": "The coefficient of static friction (μs) is always greater than the coefficient of kinetic friction (μk). This is because it requires more force to start an object moving than to keep it moving."
+    },
+    {
+      "id": "phy_2013_q42",
+      "question": "A car is traveling at constant velocity along a straight line. Which statement is correct?",
+      "options": {
+        "A": "The displacement of the car increase linearly with time.",
+        "B": "The displacement of the car is in opposite direction.",
+        "C": "The net force on the car is different from zero.",
+        "D": "The acceleration of the car is in opposite direction."
+      },
+      "correct_answer": "A",
+      "explanation": "If a car is moving with constant velocity, its displacement is d = vt, which is a linear function of time. A and B are correct but A is the standard answer for this type of question. The net force and acceleration are zero."
+    },
+    {
+      "id": "phy_2013_q43",
+      "question": "Which one of the following statements is correct about the impulse on an object?",
+      "options": {
+        "A":
