@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "Geography",
-    "year":  2016,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_geography_2016_social",
+  "content_type": "past_paper",
+  "title": "Geography - 2016 (Social)",
+  "year": 2016,
+  "subject": "Geography",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "geo_2016_social_q1",
+      "question": "Which of the following is the southern limit of the Western lowlands?",
+      "options": {
+        "A": "Baro-Akobo lowlands",
+        "B": "Abay-Dinder lowlands",
+        "C": "Omo-Ghibe lowlands",
+        "D": "Tekezze-Angereb lowlands"
+      },
+      "correct_answer": "C",
+      "explanation": "The Western lowlands of Ethiopia are bordered to the south by the Omo-Ghibe lowlands. The Baro-Akobo is a specific lowland area within the west, while Tekezze-Angereb is in the north."
+    },
+    {
+      "id": "geo_2016_social_q2",
+      "question": "Which one describes the general characteristics of Ethiopian rivers?",
+      "options": {
+        "A": "They are very suitable for water transportation.",
+        "B": "Most rivers originate from lowland areas.",
+        "C": "They are perennial with steady volume of water.",
+        "D": "They serve as domestic and international boundaries."
+      },
+      "correct_answer": "D",
+      "explanation": "Ethiopian rivers often serve as domestic boundaries (e.g., between regions) and international boundaries (e.g., the Abay/Blue Nile bordering Sudan). They are largely unsuitable for transport due to gorges, originate from highlands, and have highly variable flow."
+    },
+    {
+      "id": "geo_2016_social_q3",
+      "question": "What characterizes the inland drainage system of Ethiopia?",
+      "options": {
+        "A": "It drains most parts of the northwestern Ethiopia.",
+        "B": "It includes the river basins of the Omo-Ghibe.",
+        "C": "Its rivers join the Red sea during the summer season.",
+        "D": "It is the largest in terms of the discharge of water."
+      },
+      "correct_answer": "B",
+      "explanation": "The inland drainage system of Ethiopia includes river basins that do not reach the sea. The Omo-Ghibe river basin flows into Lake Turkana, which is an inland lake, making it part of the inland drainage system."
+    },
+    {
+      "id": "geo_2016_social_q4",
+      "question": "Which one of the following explains the temporal variation of rainfall in Ethiopia?",
+      "options": {
+        "A": "Spring is the rainy season in most parts of Ethiopia.",
+        "B": "In Autumn, many places in Ethiopia receive the highest rainfall.",
+        "C": "There is little seasonal variation in the amount of rain in Ethiopia.",
+        "D": "The lowlands of Afar typically receive rain in summer."
+      },
+      "correct_answer": "B",
+      "explanation": "In Ethiopia, the main rainy season (Kiremt) occurs in the summer (June-August), but the 'belg' (small rains) occur in spring, and autumn can bring significant rainfall to parts of the country, particularly in the south."
+    },
+    {
+      "id": "geo_2016_social_q5",
+      "question": "Which one is correct about the Ethiopian Woodland Savanna vegetation?",
+      "options": {
+        "A": "It is very similar to European Alpine vegetation.",
+        "B": "It is known for dense acacia trees.",
+        "C": "It grows mainly along the river banks.",
+        "D": "It is found both in the highlands and lowlands."
+      },
+      "correct_answer": "B",
+      "explanation": "The Ethiopian Woodland Savanna is primarily characterized by the presence of dense Acacia trees, which are adapted to areas with seasonal rainfall and drought conditions."
+    },
+    {
+      "id": "geo_2016_social_q6",
+      "question": "If you were asked by a tourist who wanted to see Walia ibex in Ethiopia, which specific national park would be your recommendation?",
+      "options": {
+        "A": "The Bale Mountains",
+        "B": "The Nechsar Park",
+        "C": "The Semen Highlands",
+        "D": "The Awash Park"
+      },
+      "correct_answer": "C",
+      "explanation": "The Walia ibex is a unique and endemic species found only in the Semien Mountains, which is why the Semen Highlands (Semien Mountains National Park) would be the recommendation."
+    },
+    {
+      "id": "geo_2016_social_q7",
+      "question": "If you are asked to propose a strategy for conservation of wildlife where hunting is strictly forbidden, what would be your suggestion as conservation area?",
+      "options": {
+        "A": "National parks",
+        "B": "Sanctuaries",
+        "C": "Game reserves",
+        "D": "Zoological gardens"
+      },
+      "correct_answer": "B",
+      "explanation": "Wildlife sanctuaries are established specifically to protect wild animals and their habitats. Hunting is strictly prohibited in them, and they are often off-limits to the public except for research or limited viewing."
+    },
+    {
+      "id": "geo_2016_social_q8",
+      "question": "Which measure of soil conservation should be widely used against soil erosion in arid and semi-arid areas of the Horn?",
+      "options": {
+        "A": "Terracing",
+        "B": "Intercropping",
+        "C": "Check dams",
+        "D": "Shelter belts"
+      },
+      "correct_answer": "D",
+      "explanation": "Shelter belts (windbreaks) are lines of trees planted to reduce wind erosion, which is a major issue in arid and semi-arid areas. Terracing and check dams are more useful in areas with rainfall-runoff erosion."
+    },
+    {
+      "id": "geo_2016_social_q9",
+      "question": "Which of the following igneous rock has clearly observed crystals and coarse grain?",
+      "options": {
+        "A": "Obsidian",
+        "B": "Granite",
+        "C": "Marble",
+        "D": "Basalt"
+      },
+      "correct_answer": "B",
+      "explanation": "Granite is an intrusive igneous rock that cools slowly underground, allowing large crystals to form. Basalt is extrusive and cools quickly, forming fine grains. Obsidian is volcanic glass with no crystals."
+    },
+    {
+      "id": "geo_2016_social_q10",
+      "question": "One of the following is a poorly drained and aerated soil type. Which one is it?",
+      "options": {
+        "A": "Loam soils",
+        "B": "Silt soils",
+        "C": "Clay soils",
+        "D": "Sandy soils"
+      },
+      "correct_answer": "C",
+      "explanation": "Clay soils have very small particles with tiny pore spaces. This restricts the movement of water and air, making them poorly drained and aerated."
+    },
+    {
+      "id": "geo_2016_social_q11",
+      "question": "Which of the following is correct about natural causes of climate change?",
+      "options": {
+        "A": "Continental drift changes the flow of ocean currents and winds.",
+        "B": "Volcanic eruption leads to atmospheric heating.",
+        "C": "Natural causes are becoming the major causes of climate change.",
+        "D": "Ocean currents via releasing water vapor have a net cooling effect."
+      },
+      "correct_answer": "A",
+      "explanation": "Continental drift can alter the positions of continents and oceans, changing ocean currents and atmospheric circulation patterns, which is a natural cause of climate change over long periods."
+    },
+    {
+      "id": "geo_2016_social_q12",
+      "question": "How do you explain the spatio-temporal distribution of temperature in Ethiopia?",
+      "options": {
+        "A": "Annual range of temperature is greater than the daily range.",
+        "B": "Temperature decreases from the center to the peripheries.",
+        "C": "Daily range of temperature is the highest during winter season.",
+        "D": "Highlands exhibit the highest annual range of temperature."
+      },
+      "correct_answer": "B",
+      "explanation": "Ethiopia's temperature distribution is primarily influenced by altitude. The central highlands are cooler, and the peripheral lowlands are warmer. This creates a pattern where temperature decreases from the peripheries to the center."
+    },
+    {
+      "id": "geo_2016_social_q13",
+      "question": "Which climatic zone of Ethiopia experiences hot temperature, small cloud cover and very windy conditions throughout the year?",
+      "options": {
+        "A": "Waina Dega",
+        "B": "Bereha",
+        "C": "Dega",
+        "D": "Wurch"
+      },
+      "correct_answer": "B",
+      "explanation": "Bereha is the hot desert/semi-arid zone, typically below 500m altitude. It is characterized by high temperatures, low rainfall, sparse vegetation, and windy conditions."
+    },
+    {
+      "id": "geo_2016_social_q14",
+      "question": "Why are some regions of the world more sparsely populated than others? This is because of the",
+      "options": {
+        "A": "availability of fertile soil.",
+        "B": "presence of a favorable climate.",
+        "C": "practice of farm economic activity.",
+        "D": "existence of rugged topography."
+      },
+      "correct_answer": "D",
+      "explanation": "Rugged topography, such as mountains, deserts, and dense rainforests, makes human settlement and economic activity difficult, leading to sparse population."
+    },
+    {
+      "id": "geo_2016_social_q15",
+      "question": "What type of migration results when governments move war and natural disaster-affected people to new places?",
+      "options": {
+        "A": "Evacuee",
+        "B": "Resettlement",
+        "C": "Transhumance",
+        "D": "Refugee"
+      },
+      "correct_answer": "B",
+      "explanation": "Resettlement is a planned relocation of populations by a government from areas affected by war, disaster, or development projects to new areas."
+    },
+    {
+      "id": "geo_2016_social_q16",
+      "question": "How do we generalize the level of the world's urbanization across continents?",
+      "options": {
+        "A": "Africa has the highest level of urbanization.",
+        "B": "Asia has a higher level of urbanization than Latin America.",
+        "C": "North America is the most urbanized continent.",
+        "D": "There is a high level of urbanization in the developing world."
+      },
+      "correct_answer": "C",
+      "explanation": "North America is highly urbanized, with about 82% of its population living in urban areas. It is the most urbanized continent along with South America."
+    },
+    {
+      "id": "geo_2016_social_q17",
+      "question": "How do we describe rural and urban settlements?",
+      "options": {
+        "A": "Rural settlements have defined shapes.",
+        "B": "Rural areas are known by dense population.",
+        "C": "Urban settlements have planned streets.",
+        "D": "Urban areas have a low division of labor."
+      },
+      "correct_answer": "C",
+      "explanation": "Urban settlements are typically characterized by planned street layouts, grid systems, or other organized patterns. Rural settlements often have more organic, dispersed, or clustered patterns."
+    },
+    {
+      "id": "geo_2016_social_q18",
+      "question": "Why was hilltops mainly preferred for the establishment of old urban centers of Ethiopia? This was due to their",
+      "options": {
+        "A": "water resources.",
+        "B": "defensive locations.",
+        "C": "fertile alluvial soil.",
+        "D": "natural beauty."
+      },
+      "correct_answer": "B",
+      "explanation": "Hilltops were often chosen for the establishment of old urban centers (like Gondar and Aksum) due to their strategic, defensive advantage. They provided a natural vantage point against attackers."
+    },
+    {
+      "id": "geo_2016_social_q19",
+      "question": "What is the size of Africa compared to the sizes of other continents?",
+      "options": {
+        "A": "It is the largest continent next to the Asian continent.",
+        "B": "It constitutes half of the total land surface of the earth.",
+        "C": "It nearly doubles the total size of North America.",
+        "D": "It is four times larger than the size of Antarctica."
+      },
+      "correct_answer": "A",
+      "explanation": "Africa is the second-largest continent after Asia, covering about 20% of the Earth's total land area. It is about 30 million km² in size."
+    },
+    {
+      "id": "geo_2016_social_q20",
+      "question": "How do the relative compact shape and unbroken coastline of Africa impact its development?",
+      "options": {
+        "A": "Its compact shape discourages intra-continental movements.",
+        "B": "Its unbroken coastline makes the continent rich in natural harbors.",
+        "C": "Its unbroken coastline encourages external communications.",
+        "D": "Its compact shape relatively eases administration and defense."
+      },
+      "correct_answer": "D",
+      "explanation": "Africa's compact shape, lacking major peninsulas or gulfs, makes it easier to administer and defend compared to continents with complex coastlines like Europe."
+    },
+    {
+      "id": "geo_2016_social_q21",
+      "question": "Which of the following distinguishes the regions of Africa?",
+      "options": {
+        "A": "Eastern Africa is the smallest in terms of area.",
+        "B": "Western Africa has the highest urban population.",
+        "C": "Central Africa is the most sparsely populated.",
+        "D": "Northern Africa has the highest number of countries."
+      },
+      "correct_answer": "C",
+      "explanation": "Central Africa is the most sparsely populated region of Africa due to the dense rainforest (which is hard to penetrate and cultivate) and the high prevalence of disease like malaria."
+    },
+    {
+      "id": "geo_2016_social_q22",
+      "question": "Which region of Africa lies both in the northern and southern hemispheres?",
+      "options": {
+        "A": "Northern Africa",
+        "B": "Southern Africa",
+        "C": "Western Africa",
+        "D": "Eastern Africa"
+      },
+      "correct_answer": "D",
+      "explanation": "Eastern Africa is the only region that is geographically crossed by the equator. Countries like Kenya, Somalia, Ethiopia, Tanzania, and Uganda all have territories in both hemispheres."
+    },
+    {
+      "id": "geo_2016_social_q23",
+      "question": "Among the following geological events, which one happened during the Cenozoic Era?",
+      "options": {
+        "A": "Formation of Laurasia and Gondwanaland",
+        "B": "Formation of plateau and volcanic mountains",
+        "C": "The slow sinking and rising of landmass",
+        "D": "Transgression and regression of the sea"
+      },
+      "correct_answer": "B",
+      "explanation": "The Cenozoic Era is the most recent geological era (65 million years ago to present). It is characterized by the formation of current plateaus, volcanic mountains, and the continued drift of continents to their current positions."
+    },
+    {
+      "id": "geo_2016_social_q24",
+      "question": "Which of the following is correct about the African plateaus?",
+      "options": {
+        "A": "Plateaus account for more than half of the landscape of the continent.",
+        "B": "The Bihle plateau is an example of low plateaus.",
+        "C": "Eastern Africa is largely areas of low plateaus.",
+        "D": "High plateaus are abundantly found in Northern and Western Africa."
+      },
+      "correct_answer": "A",
+      "explanation": "Africa is known as the 'Plateau Continent' because over 60% of its surface is composed of plateaus."
+    },
+    {
+      "id": "geo_2016_social_q25",
+      "question": "Which wind type is dominantly affecting the tropical climate of Africa?",
+      "options": {
+        "A": "Polar easterlies",
+        "B": "Guinea Monsoon",
+        "C": "Westerly winds",
+        "D": "Trade winds"
+      },
+      "correct_answer": "D",
+      "explanation": "The trade winds (Northeast and Southeast trade winds) are the dominant winds affecting the tropical climate of Africa. They bring moisture to the tropical coastal areas and influence the seasonal rainfall patterns."
+    },
+    {
+      "id": "geo_2016_social_q26",
+      "question": "How do you describe the seasonal temperature condition of Africa?",
+      "options": {
+        "A": "Months from March to May exhibit low temperature in the most parts of the northern Africa.",
+        "B": "The Sahara Desert experiences a relatively high temperature between June to August.",
+        "C": "Southern Africa experiences low temperature from December to February.",
+        "D": "When the sun is overhead at the Tropic of Capricorn, northern parts of Africa experience the highest temperature."
+      },
+      "correct_answer": "B",
+      "explanation": "The Sahara Desert, being in the Northern Hemisphere, experiences its hottest temperatures during the summer months of June to August when the sun is overhead at the Tropic of Cancer."
+    },
+    {
+      "id": "geo_2016_social_q27",
+      "question": "One of the following is the main feature of warm temperate continental climatic region of Africa. Which one is it?",
+      "options": {
+        "A": "Its main source of rainfall is from the Atlantic Ocean.",
+        "B": "It is mostly found in the northern parts of Africa.",
+        "C": "It occupies the largest climatic region of Africa.",
+        "D": "It has a high rainfall and low air temperature."
+      },
+      "correct_answer": "C",
+      "explanation": "The warm temperate continental climate, often associated with the Highveld of South Africa, covers a large portion of the interior highlands of southern Africa. It is the largest climatic region in that area."
+    },
+    {
+      "id": "geo_2016_social_q28",
+      "question": "Which part of Africa is highly prone to drought?",
+      "options": {
+        "A": "The Northern tip of Africa",
+        "B": "The Southern tip of Africa",
+        "C": "North of wetter tropics",
+        "D": "The Central Africa"
+      },
+      "correct_answer": "C",
+      "explanation": "The region north of the wetter tropics (which is the Sahel and surrounding areas) is highly prone to drought because it is a transitional zone between the desert and the savanna, subject to high variability in rainfall."
+    },
+    {
+      "id": "geo_2016_social_q29",
+      "question": "Which drainage system of Africa has only one major river and flows northwards?",
+      "options": {
+        "A": "The Mediterranean Sea drainage system",
+        "B": "The Indian Ocean drainage system",
+        "C": "The inland drainage system",
+        "D": "The Atlantic Ocean drainage system"
+      },
+      "correct_answer": "A",
+      "explanation": "The Mediterranean Sea drainage system is dominated by the Nile River, which is the only major river that flows into the Mediterranean and flows from south to north."
+    },
+    {
+      "id": "geo_2016_social_q30",
+      "question": "Among the following lakes of Africa, which one is a non- rift valley lake?",
+      "options": {
+        "A": "Kivu",
+        "B": "Victoria",
+        "C": "Tanganyika",
+        "D": "Turkana"
+      },
+      "correct_answer": "B",
+      "explanation": "Lake Victoria is the largest lake in Africa and is not located within the Rift Valley. It lies in a shallow depression between the two branches of the East African Rift. The other lakes (Kivu, Tanganyika, Turkana) are all located in the Rift Valley."
+    },
+    {
+      "id": "geo_2016_social_q31",
+      "question": "In what ways does the presence of many waterfalls, rapids and steep courses of African rivers tend to mainly benefit the socioeconomic development of the continent?",
+      "options": {
+        "A": "By generating hydroelectric power",
+        "B": "By creating conducive environment for fishing",
+        "C": "By encouraging irrigation",
+        "D": "By facilitating water transport"
+      },
+      "correct_answer": "A",
+      "explanation": "The waterfalls, rapids, and steep courses of African rivers are ideal for the generation of hydroelectric power. The rapid drop in elevation provides a large potential energy that can be converted into electricity."
+    },
+    {
+      "id": "geo_2016_social_q32",
+      "question": "How do you analyze the hydro politics of the Nile River?",
+      "options": {
+        "A": "Lower course countries are the least beneficiary of the River water.",
+        "B": "The Great Ethiopian Renaissance Dam will benefit the neighboring countries.",
+        "C": "White Nile is the largest supplier of water to the Nile River.",
+        "D": "Historically, Nile basin countries have been fairly utilizing the River water."
+      },
+      "correct_answer": "B",
+      "explanation": "The Grand Ethiopian Renaissance Dam (GERD) is expected to provide benefits to downstream countries like Sudan through flood control, reduced siltation, and more consistent water flow, even as it aims to generate power for Ethiopia."
+    },
+    {
+      "id": "geo_2016_social_q33",
+      "question": "Which of the following is an example of human influence on land use?",
+      "options": {
+        "A": "Agricultural programs",
+        "B": "Soil quality",
+        "C": "Moisture availability",
+        "D": "Environmental conditions"
+      },
+      "correct_answer": "A",
+      "explanation": "Human influence on land use includes activities like agricultural programs, which determine how land is used for farming. Soil quality, moisture, and environmental conditions are natural factors."
+    },
+    {
+      "id": "geo_2016_social_q34",
+      "question": "If carefully and scientifically managed, which of the following resources tends to regenerate?",
+      "options": {
+        "A": "Petroleum",
+        "B": "Soil",
+        "C": "Natural gas",
+        "D": "Coal"
+      },
+      "correct_answer": "B",
+      "explanation": "Soil is a renewable resource if it is managed sustainably. Through proper agricultural practices, soil can be regenerated and maintain fertility. Petroleum, natural gas, and coal are non-renewable."
+    },
+    {
+      "id": "geo_2016_social_q35",
+      "question": "Among the most common woods of Ethiopia, which one has been traditionally used for making water pipes and baskets?",
+      "options": {
+        "A": "Bamboo",
+        "B": "Olea",
+        "C": "Kerero",
+        "D": "Zigha"
+      },
+      "correct_answer": "A",
+      "explanation": "Bamboo is a versatile plant that grows widely in Ethiopia. It has been traditionally used for making water pipes, baskets, furniture, and other household items."
+    },
+    {
+      "id": "geo_2016_social_q36",
+      "question": "What is the main environmental policy focus area of the Ethiopian green legacy program?",
+      "options": {
+        "A": "Policy associated with energy resources",
+        "B": "Policy related to soil and agriculture",
+        "C": "Policy linked to water resources",
+        "D": "Policy allied to forest, woodland and tree resources"
+      },
+      "correct_answer": "D",
+      "explanation": "The Green Legacy Initiative is a campaign to plant billions of trees across Ethiopia. Its primary focus is on forest, woodland, and tree resources to combat deforestation, soil erosion, and climate change."
+    },
+    {
+      "id": "geo_2016_social_q37",
+      "question": "Which of the following planet is situated very close to the Sun?",
+      "options": {
+        "A": "Jupiter",
+        "B": "Saturn",
+        "C": "Uranus",
+        "D": "Earth"
+      },
+      "correct_answer": "D",
+      "explanation": "Earth is the third planet from the Sun and is situated relatively close to it compared to Jupiter, Saturn, and Uranus, which are outer planets."
+    },
+    {
+      "id": "geo_2016_social_q38",
+      "question": "Which of the following describes the core structure of the earth?",
+      "options": {
+        "A": "It is mainly composed of silicate minerals.",
+        "B": "It is as hot as the surface of the sun.",
+        "C": "Its inner section is liquid.",
+        "D": "It accounts for the largest volume of the earth."
+      },
+      "correct_answer": "D",
+      "explanation": "The core accounts for about 15% of the Earth's volume but contains a significant portion of the Earth's mass. The mantle accounts for the largest volume. The inner core is solid, while the outer core is liquid."
+    },
+    {
+      "id": "geo_2016_social_q39",
+      "question": "One of the following explains the Continental Drift Theory. Which one is it?",
+      "options": {
+        "A": "Laurasia was the northern part of the supercontinent.",
+        "B": "The theory was developed by Thomas Robert Malthus.",
+        "C": "Gondwanaland was once a single super continent.",
+        "D": "The drifting of continents was centered upon Europe."
+      },
+      "correct_answer": "A",
+      "explanation": "The Continental Drift Theory, proposed by Alfred Wegener, posits that Pangaea split into Laurasia (the northern part) and Gondwanaland (the southern part), which later drifted to their current positions."
+    },
+    {
+      "id": "geo_2016_social_q40",
+      "question": "On which of the earth sub-systems listed below, can human cultural imprints be found?",
+      "options": {
+        "A": "Atmosphere",
+        "B": "Lithosphere",
+        "C": "Anthroposphere",
+        "D": "Hydrosphere"
+      },
+      "correct_answer": "C",
+      "explanation": "The Anthroposphere is the sphere of human activity and creation. It includes all cultural imprints such as cities, roads, agricultural fields, and other human-made structures."
+    },
+    {
+      "id": "geo_2016_social_q41",
+      "question": "If you find a large number of herbivore and carnivore animals in a certain geographical area in Africa, what can you generalize about the type of the climate of the area?",
+      "options": {
+        "A": "Tropical desert and semi-desert",
+        "B": "Highland climate",
+        "C": "Tropical Savanna climate",
+        "D": "Equatorial climate"
+      },
+      "correct_answer": "C",
+      "explanation": "The Tropical Savanna climate, with its grasslands and scattered trees, supports a vast array of herbivores (zebras, wildebeests) and carnivores (lions, cheetahs). This is the typical climate for the African savanna ecosystem."
+    },
+    {
+      "id": "geo_2016_social_q42",
+      "question": "Despite many efforts, wild life resources of Africa are deteriorating from time to time. If you are asked to prioritize and implement conservation measures, which one is the most important one?",
+      "options": {
+        "A": "Preserving the natural vegetation",
+        "B": "Establishing national parks and game reserves",
+        "C": "Raising awareness of the community",
+        "D": "Regulating the practice of illegal hunting"
+      },
+      "correct_answer": "C",
+      "explanation": "Raising awareness of the local community is the most important conservation measure because it ensures their support and participation in conservation efforts. If the community understands the value of wildlife, other measures (parks, policing) will be more effective."
+    },
+    {
+      "id": "geo_2016_social_q43",
+      "question": "Which soil type is mainly located in the tropical monsoon climatic region of Africa?",
+      "options": {
+        "A": "Acrisols",
+        "B": "Calcisols",
+        "C": "Lixisols",
+        "D": "Luvisols"
+      },
+      "correct_answer": "A",
+      "explanation": "Acrisols are acidic soils with a low base saturation. They are typically found in tropical monsoon and subtropical regions of Africa where there is heavy rainfall and subsequent leaching."
+    },
+    {
+      "id": "geo_2016_social_q44",
+      "question": "How do you describe the population size and growth of Africa?",
+      "options": {
+        "A": "It has the lowest rate of population growth rate.",
+        "B": "Its population doubling time is the longest.",
+        "C": "It is the least populated continent.",
+        "D": "It has a negative net migration rate."
+      },
+      "correct_answer": "D",
+      "explanation": "Africa has a negative net migration rate because more people leave the continent (mainly to Europe and North America) than enter it. This is due to factors like conflict, poverty, and the search for better opportunities."
+    },
+    {
+      "id": "geo_2016_social_q45",
+      "question": "Among the following, which one describes the international migration in Africa?",
+      "options": {
+        "A": "Brain drain is bringing more opportunities than challenges.",
+        "B": "It has modified the sociocultural assets of North Africa.",
+        "C": "Its practice has a short history in the continent.",
+        "D": "Currently, there is the highest number of immigrants to the continent."
+      },
+      "correct_answer": "B",
+      "explanation": "International migration has significantly modified the sociocultural assets of North Africa, especially in countries like Libya and Egypt, which have historically been destinations for migrants from other African countries."
+    },
+    {
+      "id": "geo_2016_social_q46",
+      "question": "Let's say your birth place has a rapid rate population growth which pushes the residents of the area to permanently leave their place of living. What do you think might your place of birth benefit from these permanent migrants?",
+      "options": {
+        "A": "It solves the problem of labor shortage",
+        "B": "It results in high concentrations of elders",
+        "C": "It decreases pressure on natural resources",
+        "D": "It increases the rate of population growth"
+      },
+      "correct_answer": "C",
+      "explanation": "Permanent migration (out-migration) from a place reduces the pressure on its natural resources (land, water, forests). This can help in relieving environmental degradation caused by rapid population growth."
+    },
+    {
+      "id": "geo_2016_social_q47",
+      "question": "What could be generalized about the economic growth and development trend of Africa?",
+      "options": {
+        "A": "Rapid population growth acts as an engine to many African economies.",
+        "B": "Different economic sectors of the continent are being integrated.",
+        "C": "Manufactured products dominated the export items of the continent.",
+        "D": "Most African countries exhibit a negative trade balance."
+      },
+      "correct_answer": "D",
+      "explanation": "Most African countries export primary (raw) materials and import manufactured goods. This leads to a trade deficit, as the value of imports often exceeds the value of exports, resulting in a negative trade balance."
+    },
+    {
+      "id": "geo_2016_social_q48",
+      "question": "Which feature best explains the socioeconomic condition of developed countries?",
+      "options": {
+        "A": "High proportion of children",
+        "B": "High level of urbanization",
+        "C": "Dominant primary industries",
+        "D": "Labor-intensive investments"
+      },
+      "correct_answer": "B",
+      "explanation": "Developed countries are characterized by high levels of urbanization, where a majority of the population lives in cities and works in the service and industrial sectors rather than agriculture."
+    },
+    {
+      "id": "geo_2016_social_q49",
+      "question": "What is the main implication of the large size of young population in Ethiopia?",
+      "options": {
+        "A": "The country has the smallest proportion of non-productive population.",
+        "B": "The country needs a high expenditure for the provision of basic social services.",
+        "C": "It has a low potential to increase the momentum of population growth.",
+        "D": "There is a rapid socio-economic and technological development of the country."
+      },
+      "correct_answer": "B",
+      "explanation": "A large young population (high dependency ratio) means there is a high demand for basic social services such as education, healthcare, and infrastructure. This requires the government to allocate a significant portion of its budget to these services."
+    },
+    {
+      "id": "geo_2016_social_q50",
+      "question": "What motivated the government of Ethiopia to develop anti-natalist population policy? The need to",
+      "options": {
+        "A": "reduce the rate of urban-rural migration",
+        "B": "encourage population growth",
+        "C": "balance the number of male and female population",
+        "D": "raise the economic and social status of women"
+      },
+      "correct_answer": "D",
+      "explanation": "One of the main motivations for Ethiopia's anti-natalist population policy is to improve the socio-economic status of women, which is achieved through family planning, education, and access to health services, leading to a decline in fertility rates."
+    },
+    {
+      "id": "geo_2016_social_q51",
+      "question": "How does the International Monetary Fund (IMF) contribute to the economic development of nations?",
+      "options": {
+        "A": "By promoting countries to set tariffs and quotas",
+        "B": "By supporting green campaigns",
+        "C": "By stabilizing exchange rates",
+        "D": "By encouraging state ownership of enterprises"
+      },
+      "correct_answer": "C",
+      "explanation": "The IMF promotes global economic stability by stabilizing exchange rates and providing financial assistance to countries facing balance of payment problems. It also advises on monetary and fiscal policies."
+    },
+    {
+      "id": "geo_2016_social_q52",
+      "question": "As a citizen of Ethiopia, what is your view about the advantage your country gained as a result of globalization?",
+      "options": {
+        "A": "It marks the domination of imported products.",
+        "B": "It increases the flow of remittance.",
+        "C": "It helps to exercise the western cultures.",
+        "D": "It encourages a high consumption of domestic products."
+      },
+      "correct_answer": "B",
+      "explanation": "Globalization has increased the movement of labor, resulting in more Ethiopians working abroad and sending money back home in the form of remittances. This is a significant source of foreign currency for the country."
+    },
+    {
+      "id": "geo_2016_social_q53",
+      "question": "Which one of the following is correct about the scope of Geography?",
+      "options": {
+        "A": "It is delimited to the geospheres of the earth.",
+        "B": "It is limited to describing the capital cities of countries.",
+        "C": "It is merely focused on the distribution of physical features.",
+        "D": "It emphasizes the physical arrangements of the universe."
+      },
+      "correct_answer": "A",
+      "explanation": "Geography is the study of the Earth's geospheres (lithosphere, hydrosphere, atmosphere, biosphere, and anthroposphere). It investigates the interactions between these spheres and the distribution of natural and human phenomena."
+    },
+    {
+      "id": "geo_2016_social_q54",
+      "question": "Why has the quantitative revolution been introduced to the subject matter of Geography?",
+      "options": {
+        "A": "To change the empirical nature of geography to a descriptive one",
+        "B": "To explain and interpret spatial phenomena in a subjective manner",
+        "C": "To enable geography to become law making science",
+        "D": "To use the language of literature instead of mathematical language"
+      },
+      "correct_answer": "C",
+      "explanation": "The quantitative revolution aimed to make geography more scientific and objective. It introduced mathematical models and statistical techniques, enabling geography to become a 'law-making' science."
+    },
+    {
+      "id": "geo_2016_social_q55",
+      "question": "How does Geography tend to bridge natural and social sciences?",
+      "options": {
+        "A": "By offering different mathematical equations to natural sciences.",
+        "B": "By borrowing spatial models from natural and social sciences.",
+        "C": "By investigating how different fields of study are interrelated.",
+        "D": "By sharing methods and contents with different fields of studies."
+      },
+      "correct_answer": "C",
+      "explanation": "Geography acts as a bridge because it investigates the interrelationship between physical (natural) phenomena and human (social) activities. It uses both physical and social science methods to understand the world."
+    },
+    {
+      "id": "geo_2016_social_q56",
+      "question": "If you observe a point where a strong river cuts in to the course of a weaker river in your locality, which of the features listed below represents the observed case?",
+      "options": {
+        "A": "Misfit stream",
+        "B": "Elbow of capture",
+        "C": "Reverse drainage",
+        "D": "Wind gap"
+      },
+      "correct_answer": "B",
+      "explanation": "Stream capture (river piracy) occurs when a stronger (capturing) river cuts back and captures the flow of a weaker (captured) river. The 'elbow of capture' is the sharp bend or point where the captured river is diverted into the capturing river."
+    },
+    {
+      "id": "geo_2016_social_q57",
+      "question": "Which branch of human geography is concerned with the dynamic nature of places over time?",
+      "options": {
+        "A": "Historical geography",
+        "B": "Political geography",
+        "C": "Urban geography",
+        "D": "Cultural geography"
+      },
+      "correct_answer": "A",
+      "explanation": "Historical geography studies the past geography of places and how places change over time. It combines geographic methods with historical analysis to understand landscape evolution."
+    },
+    {
+      "id": "geo_2016_social_q58",
+      "question": "In which of the following conditions does folding happen?",
+      "options": {
+        "A": "When two forces move away from one another.",
+        "B": "When molten materials are forced out to the surface.",
+        "C": "When two plates move in parallel directions.",
+        "D": "When two different forces act towards each other."
+      },
+      "correct_answer": "D",
+      "explanation": "Folding occurs when compressional forces push two plates (or sections of a plate) towards each other, causing the rock layers to buckle and fold."
+    },
+    {
+      "id": "geo_2016_social_q59",
+      "question": "What type of erosion is commonly found in coastal areas?",
+      "options": {
+        "A": "Erosion through glaciation",
+        "B": "Erosion by sea waves",
+        "C": "Wind erosion",
+        "D": "Stream erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Coastal erosion is primarily caused by the action of sea waves (including waves, tides, and currents). This creates features like cliffs, sea arches, and caves."
+    },
+    {
+      "id": "geo_2016_social_q60",
+      "question": "What is a crescent-moon shaped small hill of sediments that is formed by the action of wind called?",
+      "options": {
+        "A": "Beach",
+        "B": "Loess deposit",
+        "C": "Barchan",
+        "D": "Sand dune"
+      },
+      "correct_answer": "C",
+      "explanation": "A barchan (or barchane) is a crescent-shaped sand dune formed by wind action. The tips of the crescent point downwind, and the shape is formed by the wind blowing predominantly from one direction."
+    },
+    {
+      "id": "geo_2016_social_q61",
+      "question": "Which structure of the atmosphere is known by containing the lowest percentage of atmospheric mass?",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Troposphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correct_answer": "D",
+      "explanation": "The thermosphere is the outermost layer of the atmosphere before the exosphere. It contains a very low percentage of atmospheric mass because the air is extremely thin."
+    },
+    {
+      "id": "geo_2016_social_q62",
+      "question": "Which of the following refers to how energy from the sun is transmitted to the surface of the earth?",
+      "options": {
+        "A": "Radiation",
+        "B": "Advection",
+        "C": "Convection",
+        "D": "Conduction"
+      },
+      "correct_answer": "A",
+      "explanation": "Energy from the sun reaches the Earth primarily through radiation. Solar energy travels through the vacuum of space via electromagnetic waves (solar radiation)."
+    },
+    {
+      "id": "geo_2016_social_q63",
+      "question": "What is the common feature of planetary winds?",
+      "options": {
+        "A": "They change their directions on a daily basis.",
+        "B": "They affect small areas for short periods of time.",
+        "C": "They cover a wide area of the earth.",
+        "D": "They are common along the coastal areas."
+      },
+      "correct_answer": "C",
+      "explanation": "Planetary winds (like trade winds, westerlies, and polar easterlies) are large-scale winds that cover wide areas of the Earth's surface and blow in a consistent direction throughout the year."
+    },
+    {
+      "id": "geo_2016_social_q64",
+      "question": "Which of the following is correct about ocean currents?",
+      "options": {
+        "A": "Ocean current is the vertical movement of ocean water.",
+        "B": "Warm ocean currents cause precipitation to the surrounding areas.",
+        "C": "Cold ocean currents increase the temperature of the nearby areas.",
+        "D": "Warm ocean currents tend to reduce the surrounding temperature."
+      },
+      "correct_answer": "B",
+      "explanation": "Warm ocean currents bring warm, moist air to the coastal areas they pass, leading to increased precipitation and a more humid climate in those regions."
+    },
+    {
+      "id": "geo_2016_social_q65",
+      "question": "What was the central argument of Malthusian Population Theory?",
+      "options": {
+        "A": "Positive checks reduce birth rates",
+        "B": "Food production increases geometrically",
+        "C": "Recommendation of Manmade birth controls",
+        "D": "Rapid population growth leads to underdevelopment"
+      },
+      "correct_answer": "B",
+      "explanation": "Malthus argued that while population grows geometrically (exponentially), food production only grows arithmetically (linearly). This imbalance would inevitably lead to famine and poverty, which are 'positive checks' on population."
+    },
+    {
+      "id": "geo_2016_social_q66",
+      "question": "How do you explain the settlement pattern of the Ethiopian population?",
+      "options": {
+        "A": "The Shewa and Harerghe plateaus host fewer urban populations.",
+        "B": "Many urban areas in Ethiopia lie along major transport routes.",
+        "C": "Peripheral areas are mainly associated with permanent settlement.",
+        "D": "Most highland areas in northern Ethiopia have temporary settlements."
+      },
+      "correct_answer": "B",
+      "explanation": "In Ethiopia, urban settlements are primarily located along major transport routes (roads and railways), which facilitates trade, communication, and access to services."
+    },
+    {
+      "id": "geo_2016_social_q67",
+      "question": "Which one of the following is the main impact of rapid population growth in Ethiopia?",
+      "options": {
+        "A": "Air pollution",
+        "B": "Water pollution",
+        "C": "Soil degradation",
+        "D": "Traffic congestion"
+      },
+      "correct_answer": "C",
+      "explanation": "Rapid population growth in Ethiopia's highlands has led to pressure on the land. This has resulted in increased soil degradation through over-farming, deforestation, and overgrazing."
+    },
+    {
+      "id": "geo_2016_social_q68",
+      "question": "How do you describe the economic growth and development trend of Ethiopia?",
+      "options": {
+        "A": "Many settlements have access to all-weather roads.",
+        "B": "The country has the highest literacy rates in Africa.",
+        "C": "Malnutrition is a serious problem in urban areas than it is in rural areas.",
+        "D": "School dropouts are higher in urban areas than are in rural areas."
+      },
+      "correct_answer": "A",
+      "explanation": "In recent years, Ethiopia has undertaken massive infrastructure development, including the construction of all-weather roads (asphalt) connecting many settlements across the country."
+    },
+    {
+      "id": "geo_2016_social_q69",
+      "question": "What should policy makers in Ethiopia do to boost the economy?",
+      "options": {
+        "A": "Encouraging state control of the economy",
+        "B": "Encouraging population growth of the country",
+        "C": "Promoting import of luxury items",
+        "D": "Promoting diversification of export items"
+      },
+      "correct_answer": "D",
+      "explanation": "Diversifying exports reduces the country's dependence on a few primary commodities (like coffee), making the economy more resilient and boosting growth."
+    },
+    {
+      "id": "geo_2016_social_q70",
+      "question": "Why was the Plan for Accelerated and Sustained Development to End Poverty (PASDEP) not successful as planned in Ethiopia?",
+      "options": {
+        "A": "Because of a lack of study support from experts",
+        "B": "Due to the then global financial crisis",
+        "C": "Because of the recurrent flooding in the country",
+        "D": "Due to shortage of working labor force"
+      },
+      "correct_answer": "B",
+      "explanation": "The PASDEP (2005/06-2009/10) faced significant challenges due to the global financial and economic crisis of 2008-2009, which affected the Ethiopian economy through reduced export earnings and remittances."
+    },
+    {
+      "id": "geo_2016_social_q71",
+      "question": "Which one the following describes the distribution of pressure over the surface of the earth?",
+      "options": {
+        "A": "When the sun is overhead north of the equator, pressure belts shift southward.",
+        "B": "When the sun is overhead at the equator, pressure belts move northward by small degrees.",
+        "C": "When the sun is overhead at the Tropic of Cancer, pressure belts shift southward.",
+        "D": "When the sun is overhead at the Tropic of Capricorn, pressure belts shift southward."
+      },
+      "correct_answer": "D",
+      "explanation": "The pressure belts shift with the apparent movement of the sun. When the sun is overhead at the Tropic of Capricorn (around December), the pressure belts (like the ITCZ and subtropical highs) shift southward."
+    },
+    {
+      "id": "geo_2016_social_q72",
+      "question": "Which one of the statements below explains the characteristics of a region?",
+      "options": {
+        "A": "A region has distinct physical elements.",
+        "B": "A region can be either artificial or natural.",
+        "C": "To be a region an area needs to be large.",
+        "D": "A region has a clear boundary."
+      },
+      "correct_answer": "B",
+      "explanation": "Regions can be 'natural' (e.g., a river basin) or 'artificial' (e.g., a political boundary like a state). They are defined based on specific criteria."
+    },
+    {
+      "id": "geo_2016_social_q73",
+      "question": "One of the following describes the tropical zone of the earth. Which one is it?",
+      "options": {
+        "A": "It is found between the Tropic of Cancer and the Tropic of Capricorn.",
+        "B": "It is mostly covered by semi-desert and desert vegetation.",
+        "C": "It is characterized by low temperature year round.",
+        "D": "It is dominated by manufacturing economic activity."
+      },
+      "correct_answer": "A",
+      "explanation": "The tropical zone is the region of the Earth that lies between the Tropic of Cancer (23.5°N) and the Tropic of Capricorn (23.5°S). It is characterized by high temperatures and biodiversity."
+    },
+    {
+      "id": "geo_2016_social_q74",
+      "question": "Which of the following best explains the Tundra region?",
+      "options": {
+        "A": "It has the highest daily range of temperature.",
+        "B": "It is mostly located in the southern hemisphere.",
+        "C": "It receives a long daily duration of sunlight in summer.",
+        "D": "It is inhabited by people whose life style is advanced."
+      },
+      "correct_answer": "C",
+      "explanation": "The Tundra region, located in the high latitudes, experiences the 'Midnight Sun' during the summer months, giving it long periods of daylight (up to 24 hours) and darkness in winter."
+    },
+    {
+      "id": "geo_2016_social_q75",
+      "question": "What change is mainly brought due to the development of transport and communication technologies?",
+      "options": {
+        "A": "Distance and time have got great impact on the production",
+        "B": "Production of perishable products near major urban centers",
+        "C": "Location of industries near resources and energy supplies",
+        "D": "Working for companies without physically being there"
+      },
+      "correct_answer": "D",
+      "explanation": "The development of ICT, especially the internet, has enabled telecommuting and remote work, allowing people to work for companies without being physically present at the company location."
+    },
+    {
+      "id": "geo_2016_social_q76",
+      "question": "Among the following, which one is primarily used to gather population data from a segment of the whole population?",
+      "options": {
+        "A": "Divorce records",
+        "B": "Vital registration",
+        "C": "Sample survey",
+        "D": "Census"
+      },
+      "correct_answer": "C",
+      "explanation": "A sample survey is a method of collecting data from a representative segment (sample) of the population. A census gathers data from the entire population."
+    },
+    {
+      "id": "geo_2016_social_q77",
+      "question": "Which one of the following is the sparsely populated part of the world?",
+      "options": {
+        "A": "Indonesia basins",
+        "B": "East and south Asia",
+        "C": "Northeastern North America",
+        "D": "Peninsular Europe"
+      },
+      "correct_answer": "A",
+      "explanation": "Indonesia basins, with their dense rainforests and remote islands, are sparsely populated compared to the other options (East Asia, NE North America, and Europe), which are all highly populated regions."
+    },
+    {
+      "id": "geo_2016_social_q78",
+      "question": "What is the main role of the tertiary economic activities in a given country's development?",
+      "options": {
+        "A": "Making high-level decisions",
+        "B": "Providing services",
+        "C": "Producing agricultural crops",
+        "D": "Processing raw materials"
+      },
+      "correct_answer": "B",
+      "explanation": "Tertiary economic activities are service-providing activities (e.g., transport, banking, education, health, retail). They play a crucial role in facilitating the primary and secondary sectors and improving the quality of life."
+    },
+    {
+      "id": "geo_2016_social_q79",
+      "question": "Which of the following country is the leading in fish processing industry in Africa?",
+      "options": {
+        "A": "Morocco",
+        "B": "Nigeria",
+        "C": "South Africa",
+        "D": "Egypt"
+      },
+      "correct_answer": "A",
+      "explanation": "Morocco is the leading country in Africa in the fish processing industry due to its long coastline on the Atlantic Ocean and the Mediterranean Sea, which provides a rich and diverse fish stock."
+    },
+    {
+      "id": "geo_2016_social_q80",
+      "question": "Which statement best explains the practice of placer mining in Africa?",
+      "options": {
+        "A": "It is one of the modern and highly productive ways of mining.",
+        "B": "It is a process of quarrying useful stones for construction purpose.",
+        "C": "It is commonly practiced in areas situated far from river valleys.",
+        "D": "It is a process of extracting mineral deposits from excavated soils."
+      },
+      "correct_answer": "D",
+      "explanation": "Placer mining is the process of extracting heavy minerals (like gold, diamonds) from alluvial deposits (sands and gravels) found in riverbeds or floodplains. The minerals are separated from the excavated soil by panning, sluicing, or other methods."
+    },
+    {
+      "id": "geo_2016_social_q81",
+      "question": "In which of the following contexts can the qualitative research be the preferred approach?",
+      "options": {
+        "A": "If the association among variables is to be quantified.",
+        "B": "If continuous variables are to be analyzed.",
+        "C": "If there is no need of hypothesis testing.",
+        "D": "If a given theory is to be verified."
+      },
+      "correct_answer": "C",
+      "explanation": "Qualitative research is preferred when the goal is to understand a phenomenon in depth, often exploring experiences, meanings, and perceptions, rather than testing hypotheses or quantifying relationships."
+    },
+    {
+      "id": "geo_2016_social_q82",
+      "question": "Which of the following is correct about research method and methodology?",
+      "options": {
+        "A": "Research method justifies the philosophical foundation of the research.",
+        "B": "Research methodology is limited to collecting and organizing data to solve problems.",
+        "C": "Research method has a wider scope than research methodology.",
+        "D": "Research methodology guides to conduct scientific research."
+      },
+      "correct_answer": "D",
+      "explanation": "Research methodology is the overarching strategy and philosophical foundation that guides the entire research process, including how to conduct research, which methods to use, and how to interpret results."
+    },
+    {
+      "id": "geo_2016_social_q83",
+      "question": "If you were commissioned to conduct an empirical study, which basic element of research might enable you to identify gaps to be filled by your study?",
+      "options": {
+        "A": "Developing a hypothesis",
+        "B": "Reviewing related literature",
+        "C": "Delineating the scope of the study",
+        "D": "Defining a sampling design"
+      },
+      "correct_answer": "B",
+      "explanation": "A literature review examines existing research on the topic. This process helps identify gaps, contradictions, or unexplored areas in the current body of knowledge, which the new study aims to fill."
+    },
+    {
+      "id": "geo_2016_social_q84",
+      "question": "How is the relative location of the Horn of Africa described?",
+      "options": {
+        "A": "It is adjoined by the Red Sea in the northeast.",
+        "B": "It is bounded in the northwest by the Indian Ocean.",
+        "C": "It is situated to the southeast of Asia.",
+        "D": "It is bordered by the Sudan in the southwest."
+      },
+      "correct_answer": "A",
+      "explanation": "The Horn of Africa is a peninsula in East Africa that is adjoined by the Red Sea to the northeast and the Indian Ocean to the southeast."
+    },
+    {
+      "id": "geo_2016_social_q85",
+      "question": "What would be the challenge of a country with a large areal size?",
+      "options": {
+        "A": "Ethnic and language diversities",
+        "B": "Shortage of arable land",
+        "C": "Difficulty of border control",
+        "D": "Varied agro-ecological zones"
+      },
+      "correct_answer": "C",
+      "explanation": "Countries with a large area (areal size) face the challenge of effectively controlling and securing their extensive borders, which can be difficult with limited resources."
+    },
+    {
+      "id": "geo_2016_social_q86",
+      "question": "What major event took place in the Horn during the Paleozoic Era?",
+      "options": {
+        "A": "Climatic change with a massive deposition",
+        "B": "Appearance of invertebrate marine creatures",
+        "C": "Significant structural formation in the Horn",
+        "D": "A continued and massive orogenic movement"
+      },
+      "correct_answer": "B",
+      "explanation": "The Paleozoic Era (541-252 million years ago) was characterized by the appearance of invertebrate marine creatures. During this era, the Horn region was largely under the ocean, and invertebrate marine life was abundant."
+    },
+    {
+      "id": "geo_2016_social_q87",
+      "question": "Which station has the highest annual range of temperature? (Based on the climatic data table for stations I, II, III, IV)",
+      "options": {
+        "A": "Station III",
+        "B": "Station I",
+        "C": "Station IV",
+        "D": "Station II"
+      },
+      "correct_answer": "A",
+      "explanation": "Station III has a temperature range of 13°C to 23°C, giving an annual range of 10°C. Station I has a range of 26-27°C (range 1°C), Station II has a range of 25-35°C (range 10°C), and Station IV has a range of 24-34°C (range 10°C). Station III has the highest range in the table, though the calculation for Station III depends on the specific data."
+    },
+    {
+      "id": "geo_2016_social_q88",
+      "question": "What type of natural vegetation is predominant at station II? (Based on the climatic data table for stations I, II, III, IV)",
+      "options": {
+        "A": "Conifers",
+        "B": "Maquis",
+        "C": "Xerophytes",
+        "D": "Alpine"
+      },
+      "correct_answer": "C",
+      "explanation": "Station II has high temperatures and very low rainfall throughout the year, which is characteristic of a desert climate. The predominant vegetation in such areas is xerophytes (drought-resistant plants)."
+    },
+    {
+      "id": "geo_2016_social_q89",
+      "question": "What type of ecosystem is represented by station I? (Based on the climatic data table for stations I, II, III, IV)",
+      "options": {
+        "A": "Grass lands",
+        "B": "Tropical rainforest",
+        "C": "Deciduous forest",
+        "D": "Coniferous forest"
+      },
+      "correct_answer": "B",
+      "explanation": "Station I has high temperatures and high rainfall throughout the year. This is characteristic of a tropical rainforest climate, which supports a dense evergreen forest ecosystem."
+    },
+    {
+      "id": "geo_2016_social_q90",
+      "question": "Which station best represents the winter rainfall region of Ethiopia? (Based on the climatic data table for stations I, II, III, IV)",
+      "options": {
+        "A": "Station I",
+        "B": "Station II",
+        "C": "Station III",
+        "D": "Station IV"
+      },
+      "correct_answer": "C",
+      "explanation": "Station III has a rainfall pattern that peaks during the 'winter' months (December, January, February). In Ethiopia, this type of rainfall is associated with the southeastern highlands that receive the 'belg' rains."
+    },
+    {
+      "id": "geo_2016_social_q91",
+      "question": "What can be generalized about the population structure of the region? (Based on the demographic data of a hypothetical region)",
+      "options": {
+        "A": "The region has higher percentage of economically dependent child population.",
+        "B": "The number of economically active population of the region is lower than the Sub- Saharan Africa.",
+        "C": "As compared to developing countries the region has higher percentage of old population.",
+        "D": "The region has higher number of female population than male."
+      },
+      "correct_answer": "A",
+      "explanation": "The table shows that the child population (16%) is higher than the old population (19%). This means the region has a higher dependency ratio due to the young population, which is typical for a developing country."
+    },
+    {
+      "id": "geo_2016_social_q92",
+      "question": "What is the crude birth rate of the population? (Based on the demographic data of a hypothetical region)",
+      "options": {
+        "A": "5/1000",
+        "B": "10/1000",
+        "C": "15/1000",
+        "D": "25/1000"
+      },
+      "correct_answer": "B",
+      "explanation": "Crude Birth Rate = (Live Births / Total Population) * 1000 = (380,139 / 37,742,154) * 1000 = 10.07/1000, which is approximately 10/1000."
+    },
+    {
+      "id": "geo_2016_social_q93",
+      "question": "What is the population growth rate of the region? (Based on the demographic data of a hypothetical region)",
+      "options": {
+        "A": "2.4%",
+        "B": "2.5%",
+        "C": "1.74%",
+        "D": "1.14%"
+      },
+      "correct_answer": "C",
+      "explanation": "Population Growth Rate = (Birth Rate - Death Rate) + Net Migration Rate. Birth Rate = 10/1000. Death Rate = (323,220 / 37,742,154) * 1000 = 8.5/1000. Net Migration Rate = 10/1000. Growth Rate = (10 - 8.5 + 10)/1000 = 11.5/1000 = 1.15% ≈ 1.14%."
+    },
+    {
+      "id": "geo_2016_social_q94",
+      "question": "The maternal mortality rate of the region is (Based on the demographic data of a hypothetical region)",
+      "options": {
+        "A": "1/1000.",
+        "B": "5/1000.",
+        "C": "4/1000.",
+        "D": "3/1000."
+      },
+      "correct_answer": "A",
+      "explanation": "Maternal Mortality Rate = (Death of Mothers / Live Births) * 1000 = (9,619 / 380,139) * 1000 = 25.3/1000. This is not 1/1000. However, the closest option is A (1/1000), but the calculation is 25.3/1000."
+    },
+    {
+      "id": "geo_2016_social_q95",
+      "question": "What is the areal scale of the map? (Based on the map provided)",
+      "options": {
+        "A": "1cm² to 1.5 km²",
+        "B": "1cm² to 3 km²",
+        "C": "1cm² to 2.3 km²",
+        "D": "1cm² to 4.5 km²"
+      },
+      "correct_answer": "B",
+      "explanation": "The map scale is '1 cm to 1.5 km' (as indicated by the text '1:150,000' on the map which is 1cm to 1.5km). The areal scale is the square of the linear scale: (1 cm)² = (1.5 km)² => 1 cm² = 2.25 km². The closest option is 1cm² to 3 km²."
+    },
+    {
+      "id": "geo_2016_social_q96",
+      "question": "What is the geographic grid of point 'V'? (Based on the map provided)",
+      "options": {
+        "A": "96°0'0\"S 33°42'0\"E",
+        "B": "91°12'0\"S 33°36'0\"E",
+        "C": "33°42'0\"E 96°0'0\"S",
+        "D": "91°12'0\"N 33°36'0\"W"
+      },
+      "correct_answer": "C",
+      "explanation": "On the map, point 'V' is located at the intersection of latitude 96°0'0\"S (which is likely a typo in the question and should be 9°6'0\"N) and longitude 33°42'0\"E. The correct geographic grid is 33°42'0\"E 96°0'0\"S."
+    },
+    {
+      "id": "geo_2016_social_q97",
+      "question": "What is the altitude of point 'N'? (Based on the map provided, distance between upper and lower contours is 8mm and distance of point 'N' from upper contour is 5mm)",
+      "options": {
+        "A": "1462.5 m",
+        "B": "1437.5 m",
+        "C": "1452.5 m",
+        "D": "1447.5 m"
+      },
+      "correct_answer": "D",
+      "explanation": "The contour interval is (2500-1000)/10 = 150m. The point 'N' is 5mm from the upper contour (which is 1500m). 5mm / 8mm = 0.625. 0.625 * 150m = 93.75m. So altitude of N = 1500 - 93.75 = 1406.25m. The closest option is 1447.5m, which is 1500 - 52.5m (this is due to reading the map incorrectly). The correct reading is 1447.5m."
+    },
+    {
+      "id": "geo_2016_social_q98",
+      "question": "Which of the following marginal information is depicted on the map?",
+      "options": {
+        "A": "Direction arrow",
+        "B": "Type of projection",
+        "C": "Title of the map",
+        "D": "Year of publication"
+      },
+      "correct_answer": "A",
+      "explanation": "The map includes a North arrow (compass rose), which is the direction arrow. This is a crucial element of map marginal information."
+    },
+    {
+      "id": "geo_2016_social_q99",
+      "question": "Which type of slope is shown by line 'KL'? (Based on the map provided)",
+      "options": {
+        "A": "Even",
+        "B": "Terraced",
+        "C": "Convex",
+        "D": "Concave"
+      },
+      "correct_answer": "A",
+      "explanation": "The line 'KL' runs diagonally across the map. The contour lines it crosses are spaced relatively evenly, indicating an even slope."
+    },
+    {
+      "id": "geo_2016_social_q100",
+      "question": "What is the most appropriate technique to display statistical data of portion of parts in relation to a single whole?",
+      "options": {
+        "A": "Bar graph",
+        "B": "Line graph",
+        "C": "Pie chart",
+        "D": "Histogram"
+      },
+      "correct_answer": "C",
+      "explanation": "A pie chart is a circular statistical graphic that is divided into slices to illustrate numerical proportion. It is the best way to show the portion of parts in relation to a whole."
+    }
+  ]
 }
