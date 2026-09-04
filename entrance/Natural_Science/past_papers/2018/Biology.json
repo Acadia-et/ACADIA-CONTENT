@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Biology",
-    "year":  2018,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_biology_2018_first_round",
+  "content_type": "past_paper",
+  "title": "Biology - 2018 (First Round)",
+  "year": 2018,
+  "subject": "Biology",
+  "stream": "Natural",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "bio_2018_fr_q1",
+      "question": "A city Municipality following the ban of non-degradable plastic bags, proposed to use genetically engineered bacterium to degrade plastic wastes for making bags. However, an authority claims the use of bioengineered bacteria due to the fear of its negative consequences on the environment. Based on this scenario, which decision is valid?",
+      "options": {
+        "A": "accepted with stringent protocols to reduce its effect.",
+        "B": "rejected since the city can use already existing materials for packing.",
+        "C": "accepted whatever the environmental consequences it caused.",
+        "D": "rejected since the municipality can use the native species."
+      },
+      "correct_answer": "A",
+      "explanation": "Bioremediation/bioengineering projects have potential risks, thus standard procedure requires accepting with very stringent and specific protocols to ensure environmental safety."
+    },
+    {
+      "id": "bio_2018_fr_q2",
+      "question": "This item is based on the following mechanism of hearing in human ear. I. Nerve impulses produced by hair-like sensory cells are transmitted to, and interpreted by the brain. II. Ear ossicles amplify vibrations and cause vibration of the ear fluid. III. Sound wave from the air is collected by pinna and directs to the ear canal. IV. Vibrations are magnified in eardrum and transmitted to oval window. Then which of the following order summarizes correct path of hearing in human ear?",
+      "options": {
+        "A": "III, I, II, IV",
+        "B": "III, II, IV, I",
+        "C": "III, IV, II, I",
+        "D": "III, IV, I, II"
+      },
+      "correct_answer": "C",
+      "explanation": "The sound wave is collected by the pinna (III), sent to eardrum (IV), amplified by ossicles (II), and interpreted by the brain (I)."
+    },
+    {
+      "id": "bio_2018_fr_q3",
+      "question": "Which one of the following is the industrial importance of insects?",
+      "options": {
+        "A": "Serving as pollinating agents for plants",
+        "B": "Producing silk fibers for textiles",
+        "C": "Controlling pests that attack crops",
+        "D": "Serving as the source of pain-relieving drugs"
+      },
+      "correct_answer": "B",
+      "explanation": "Silk fiber production (sericulture) using silkworms is a highly valuable industrial process linked directly to textiles."
+    },
+    {
+      "id": "bio_2018_fr_q4",
+      "question": "Two processes were taking place inside a eukaryotic cell. In process A, a ribosome made a specific protein by reading the instructions from mRNA. In process B, an mRNA was synthesized inside the nucleus. Based on this scenario, which of the following processes correctly represents A and B respectively?",
+      "options": {
+        "A": "Translation and Replication",
+        "B": "Transcription and Translation",
+        "C": "Replication and Translation",
+        "D": "Translation and Transcription"
+      },
+      "correct_answer": "D",
+      "explanation": "Process A (ribosomes reading mRNA to make proteins) is Translation. Process B (mRNA synthesis in the nucleus) is Transcription."
+    },
+    {
+      "id": "bio_2018_fr_q5",
+      "question": "Which one of the following statements is correct about regulation of enzyme through covalent modification? It happens through the",
+      "options": {
+        "A": "permanent binding of effectors to the active site of an enzyme.",
+        "B": "addition or elimination of some molecules attaching of enzyme protein.",
+        "C": "reversible binding of effectors to the allosteric site of an enzyme.",
+        "D": "inhibition of the enzyme by the end product of a pathway."
+      },
+      "correct_answer": "B",
+      "explanation": "Covalent modification involves the enzyme-catalyzed addition or elimination of specific molecules (like phosphate groups) to or from an enzyme to regulate it."
+    },
+    {
+      "id": "bio_2018_fr_q6",
+      "question": "This item is based on the following table that describes about the role of digestive enzymes and their optimum pH. 1. Pepsin - Hydrolyzes proteins to amino acids - pH 1. 2. Amylase - Converts starch to maltose - pH 4-6. 3. Nuclease - Converts nucleotides to nucleic acids - pH 1. 4. Lactase - Hydrolyzes lactose to glucose and galactose - pH 7-8. Which alternative contains the correct role of the enzyme and its optimum pH?",
+      "options": {
+        "A": "2 and 4",
+        "B": "1 and 4",
+        "C": "1, 2 and 4",
+        "D": "1, 3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Amylase converts starch to maltose (optimal pH ~6). Lactase converts lactose to glucose and galactose (pH ~6-7). This is correctly grouped in 1 and 4 ideally but matching the options, Amylase is best seen at 1 and 4 as standard references."
+    },
+    {
+      "id": "bio_2018_fr_q7",
+      "question": "A farmer crossed a heterozygous insect-resistant maize with a non-insect resistant maize variety, where insect-resistance gene is dominant over non-resistance one. What is the probability of the offspring resulted from this cross?",
+      "options": {
+        "A": "75% resistant and 25% are non-resistant to insect infestation.",
+        "B": "50% resistant and 50% are non-resistant to insect infestation.",
+        "C": "25% resistant and 75% are non-resistant to insect infestation.",
+        "D": "100% of the offspring are resistant to insect infestation."
+      },
+      "correct_answer": "B",
+      "explanation": "Heterozygous resistant (Rr) crossed with homozygous non-resistant (rr) results in 50% Rr (resistant) and 50% rr (non-resistant)."
+    },
+    {
+      "id": "bio_2018_fr_q8",
+      "question": "Which statement does NOT show the role of biological discoveries for the society?",
+      "options": {
+        "A": "Detection of cancer cells through advanced instruments",
+        "B": "Collecting and analyzing evidences from crime scene",
+        "C": "Studying of microorganisms that cause disease to humans",
+        "D": "Resolving conflict that happens as a result of over population"
+      },
+      "correct_answer": "D",
+      "explanation": "Resolving population conflict relates to sociology and politics, not directly to a biological discovery/tool."
+    },
+    {
+      "id": "bio_2018_fr_q9",
+      "question": "The function of ovaries in female reproductive system differs from testes in the male reproductive system in which ovaries produce",
+      "options": {
+        "A": "estrogen that initiates pregnancy, whereas testes produce LH and sperm.",
+        "B": "progesterone that initiates ovulation, whereas testes produce FSH and sperm.",
+        "C": "estrogen that promotes the maturation of the ovum, whereas testes produce testosterone and sperm.",
+        "D": "androgen that develops a mature ovum, whereas testes produce estrogen and sperm."
+      },
+      "correct_answer": "C",
+      "explanation": "Ovaries produce estrogen, which promotes the maturation of the ovum, while testes produce testosterone and sperm."
+    },
+    {
+      "id": "bio_2018_fr_q10",
+      "question": "Which of the following about bilogy is true?",
+      "options": {
+        "A": "This pdf was prepared by @NextGen_12 telegram channel",
+        "B": "Join our channel and access to all EUEE materials",
+        "C": "share our channel to your friends",
+        "D": "Good luck"
+      },
+      "correct_answer": "A",
+      "explanation": "All of the choices emphasize how @NextGen_12 remains your best platform for EUEE preparations!"
+    },
+    {
+      "id": "bio_2018_fr_q11",
+      "question": "A student from NextGen Scholars School following biology guide prepared a thin slice of onion epidermal cells and placed it in a hypertonic solution for 15 minutes. What would be the result of the experiment? They",
+      "options": {
+        "A": "become crenated due to damage to the cell walls by the water pressure.",
+        "B": "burst as the vacuoles presses against the cytoplasm and cell membrane.",
+        "C": "get plasmolyzed due to excessive loss of water from the vacuole.",
+        "D": "become turgid due to net inflow of water from the external solution."
+      },
+      "correct_answer": "C",
+      "explanation": "A hypertonic solution causes water to exit the plant cell, resulting in plasmolysis (shrinkage of the vacuole and cytoplasm away from the cell wall)."
+    },
+    {
+      "id": "bio_2018_fr_q12",
+      "question": "Which of the following is correct regarding photorespiration? It is a process of",
+      "options": {
+        "A": "balancing O2 and CO2 concentration in the cell.",
+        "B": "oxidizing organic compounds to release CO2.",
+        "C": "respiration common in plants during the daytime.",
+        "D": "reduction of organic compounds to generate ATP."
+      },
+      "correct_answer": "B",
+      "explanation": "Photorespiration happens when Rubisco binds O2 instead of CO2, oxidizing organic compounds and releasing CO2."
+    },
+    {
+      "id": "bio_2018_fr_q13",
+      "question": "Which alternative contains the behavioral method of thermoregulation with its example?",
+      "options": {
+        "A": "Honey bees - stay in hive to survive cold seasons",
+        "B": "Cats - use involuntary muscle contraction to generate heat",
+        "C": "Foxes - narrow blood vessels to prevent heat loss",
+        "D": "Rodents - sweat to maintain body temperature"
+      },
+      "correct_answer": "A",
+      "explanation": "Staying in a hive is a direct behavioral action to conserve heat. The others are physiological (involuntary) responses."
+    },
+    {
+      "id": "bio_2018_fr_q14",
+      "question": "Why hillside terracing is considered as a mechanical soil conservation measure? Because it",
+      "options": {
+        "A": "is constructed to intercept runoff water that drain from the slopy area.",
+        "B": "breaks largely the speed of wind to avoid wind erosion.",
+        "C": "is a reservoir of rainwater to use the water for irrigation purpose.",
+        "D": "is constructed to divert the rainwater to other area with higher slope."
+      },
+      "correct_answer": "A",
+      "explanation": "Terraces physically (mechanically) intercept and slow down runoff water draining from steep slopes."
+    },
+    {
+      "id": "bio_2018_fr_q15",
+      "question": "The amount of energy required to raise the temperature of one gram of water by one degree Celsius is",
+      "options": {
+        "A": "cohesion force.",
+        "B": "surface tension.",
+        "C": "latent heat of vaporization.",
+        "D": "specific heat capacity."
+      },
+      "correct_answer": "D",
+      "explanation": "Specific heat capacity is defined as the amount of heat energy required to raise the temperature of 1g of a substance by 1°C."
+    },
+    {
+      "id": "bio_2018_fr_q16",
+      "question": "This item is based on the following table about the classification of organic molecules. 1. Sucrose - Carbon, hydrogen and oxygen - Glucose and fructose. 2. Starch - Carbon, hydrogen and oxygen - Glucose and galactose. 3. Proteins - Carbon, hydrogen and oxygen - Amino acids. 4. Lipids - Carbon, hydrogen and oxygen - Fatty acid and glycerol. Which numbers in the above table correspond to the correct elemental composition and monomers of the organic molecules?",
+      "options": {
+        "A": "1, 2 and 4",
+        "B": "1, 3 and 4",
+        "C": "1 and 3",
+        "D": "1 and 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Number 1 is correct (Sucrose = glucose + fructose). Number 4 is correct (Lipids = fatty acids + glycerol). Starch is a polymer of glucose alone (not galactose). Proteins contain Nitrogen."
+    },
+    {
+      "id": "bio_2018_fr_q17",
+      "question": "What are ethical issues in biology? They are issues linked to",
+      "options": {
+        "A": "use of microscope to observe human check cells.",
+        "B": "study the interaction between organisms.",
+        "C": "use of scientific discoveries for human wellbeing.",
+        "D": "study the role of evolution in speciation."
+      },
+      "correct_answer": "C",
+      "explanation": "Bioethics heavily surrounds the application and potential misuse of scientific discoveries for human wellbeing (e.g. cloning, gene editing)."
+    },
+    {
+      "id": "bio_2018_fr_q18",
+      "question": "Which of the following is a symptom of gonorrhea infection?",
+      "options": {
+        "A": "Painful urination and abnormal discharge from the penis",
+        "B": "Necrotizing genital ulcer accompanied by lymphadenopathy",
+        "C": "Sores around the anus that leads to cancer through time",
+        "D": "Rash on hands and soles of feet with late neurological complication"
+      },
+      "correct_answer": "A",
+      "explanation": "Gonorrhea usually presents with painful urination and a purulent (abnormal) discharge from the genitalia."
+    },
+    {
+      "id": "bio_2018_fr_q19",
+      "question": "All the synthesis and breakdown chemical reactions together occurred in our cells is",
+      "options": {
+        "A": "catabolism.",
+        "B": "anabolism.",
+        "C": "respiration.",
+        "D": "metabolism."
+      },
+      "correct_answer": "D",
+      "explanation": "Metabolism is the totality of all chemical reactions (both synthesis/anabolism and breakdown/catabolism) in an organism."
+    },
+    {
+      "id": "bio_2018_fr_q20",
+      "question": "Based on the following diagram of the human heart, identify the flow and anatomical parts accordingly.",
+      "options": {
+        "A": "Left atrium receives deoxygenated blood",
+        "B": "Right ventricle pumps oxygenated blood",
+        "C": "Aorta distributes oxygenated blood to the body",
+        "D": "Pulmonary vein carries deoxygenated blood"
+      },
+      "correct_answer": "C",
+      "explanation": "The aorta receives oxygenated blood from the left ventricle to distribute to the body."
+    },
+    {
+      "id": "bio_2018_fr_q21",
+      "question": "A biologist observed the sister chromatids that lined up end-to-end at the equator of the cell in a sample taken from Test tube 1, whereas in another cell sample (Test tube 2) she observed the sister chromatids are pulled to opposite poles of the equator. Based on this information, which stages of meiosis are observed in test tube 1 and 2?",
+      "options": {
+        "A": "Prophase I and Metaphase I",
+        "B": "Metaphase II and Anaphase II",
+        "C": "Anaphase II and Telophase II",
+        "D": "Prophase I and Telophase I"
+      },
+      "correct_answer": "B",
+      "explanation": "Sister chromatids lining up end-to-end at the equator signifies Metaphase II, and being pulled apart signifies Anaphase II."
+    },
+    {
+      "id": "bio_2018_fr_q22",
+      "question": "Suppose the fibers in the connective tissue of the skin and blood vessels do not form properly and causes bleeding gums and poor healing of wounds. This problem is related with deficiency of",
+      "options": {
+        "A": "Vitamin D.",
+        "B": "Vitamin A.",
+        "C": "Vitamin B.",
+        "D": "Vitamin C."
+      },
+      "correct_answer": "D",
+      "explanation": "Vitamin C is essential for collagen synthesis; its deficiency leads to scurvy (bleeding gums, poor wound healing)."
+    },
+    {
+      "id": "bio_2018_fr_q23",
+      "question": "What would happen to a plant placed in areas with unilateral light? The",
+      "options": {
+        "A": "light exposed side would produce more root hairs.",
+        "B": "light exposed parts would produce more plant hormones.",
+        "C": "plant would bend towards the light source.",
+        "D": "plant would immediately stop growth."
+      },
+      "correct_answer": "C",
+      "explanation": "Phototropism causes plant stems to bend towards a unilateral light source due to auxin distribution on the shaded side."
+    },
+    {
+      "id": "bio_2018_fr_q24",
+      "question": "In a grassland, the gazelle population initially increase in fast pace, then the growth rate reduces gradually and finally levels-off when the population reaches its maximum. This population growth model shows",
+      "options": {
+        "A": "exponential because the gazelle experiences maximum per capita rate of increase.",
+        "B": "logistic because the size of gazelle population reaches the carrying capacity.",
+        "C": "logistic because the per capita rate increase decreases as the population decreases.",
+        "D": "exponential since the growth rate of the gazelle reach maximum at the carrying capacity."
+      },
+      "correct_answer": "B",
+      "explanation": "Logistic growth displays an S-curve where growth rate slows down as the population size approaches the carrying capacity of the environment."
+    },
+    {
+      "id": "bio_2018_fr_q25",
+      "question": "Grade 9 students identified an organism using dichotomous keys. The organism was poikilothermic, invertebrate and had six jointed legs. To which phylum would the students group this organism?",
+      "options": {
+        "A": "Arthropoda",
+        "B": "Mollusca",
+        "C": "Porifera",
+        "D": "Cnidaria"
+      },
+      "correct_answer": "A",
+      "explanation": "Organisms with jointed appendages (legs) and an exoskeleton fall under the Phylum Arthropoda."
+    },
+    {
+      "id": "bio_2018_fr_q26",
+      "question": "Which one of the following statements is correct about innate immunity? It",
+      "options": {
+        "A": "produces antibody that neutralizes antigens in the blood.",
+        "B": "responds better after the second encounter of a pathogens.",
+        "C": "has memory to recognize pathogens.",
+        "D": "is a non-specific host defense system."
+      },
+      "correct_answer": "D",
+      "explanation": "Innate immunity acts as the first line of defense; it is a general, non-specific response to any foreign invader without memory."
+    },
+    {
+      "id": "bio_2018_fr_q27",
+      "question": "Which of the following is NOT a pollinating agent?",
+      "options": {
+        "A": "Birds",
+        "B": "Insects",
+        "C": "Wind",
+        "D": "Microbes"
+      },
+      "correct_answer": "D",
+      "explanation": "Microbes do not function as agents of pollination for plants. Wind, birds, and insects do."
+    },
+    {
+      "id": "bio_2018_fr_q28",
+      "question": "Which of the following is the major causes of evolution that results from a sudden, and random change of DNA sequence?",
+      "options": {
+        "A": "Artificial selection",
+        "B": "Induced mutation",
+        "C": "Environmental stability",
+        "D": "Acquired characteristic"
+      },
+      "correct_answer": "B",
+      "explanation": "Mutation refers directly to a sudden, random change in a DNA sequence causing genetic variation."
+    },
+    {
+      "id": "bio_2018_fr_q29",
+      "question": "Gardener brings an ornamental plant from other country and plant it in urban parks. This species through time moved into conservation area and caused a loss for many other plant species. This is a loss of biodiversity due to",
+      "options": {
+        "A": "invasive species.",
+        "B": "climate change.",
+        "C": "deforestation.",
+        "D": "overexploitation."
+      },
+      "correct_answer": "A",
+      "explanation": "When non-native species spread and outcompete native species, they are classified as invasive species."
+    },
+    {
+      "id": "bio_2018_fr_q30",
+      "question": "Which one of the following breathing structures and its function is correctly matched?",
+      "options": {
+        "A": "Trachea - prevents the collapse of respiratory structures",
+        "B": "Bronchioles - deliver air from the nasal cavity to the bronchi",
+        "C": "Bronchi - exchange gases between capillaries in the lungs",
+        "D": "Larynx - prevents choking by covering the opening in the trachea"
+      },
+      "correct_answer": "A",
+      "explanation": "The trachea is lined with C-shaped cartilaginous rings that prevent it from collapsing during breathing."
+    },
+    {
+      "id": "bio_2018_fr_q31",
+      "question": "Suppose a person's height and body mass are 1.81m and 68kg, respectively. Which one of the following categories best describes the person? She is",
+      "options": {
+        "A": "overweight.",
+        "B": "normal.",
+        "C": "obese.",
+        "D": "underweight."
+      },
+      "correct_answer": "B",
+      "explanation": "BMI = Mass / (Height)². 68 / (1.81)² ≈ 20.7, which falls into the normal weight category (18.5 – 24.9)."
+    },
+    {
+      "id": "bio_2018_fr_q32",
+      "question": "Which one of the following statements is correct about complete metamorphosis? The",
+      "options": {
+        "A": "larvae develop directly into adult",
+        "B": "larvae develop into nymph",
+        "C": "eggs hatch into larvae after few days",
+        "D": "nymph develops into adult"
+      },
+      "correct_answer": "C",
+      "explanation": "In complete metamorphosis, eggs hatch into distinct larval stages (unlike incomplete which hatches into nymphs)."
+    },
+    {
+      "id": "bio_2018_fr_q33",
+      "question": "Plant cells differ from animal cells in that, they have",
+      "options": {
+        "A": "larger ribosomes for protein synthesis.",
+        "B": "large central vacuoles in their cells.",
+        "C": "cell membrane with double layers.",
+        "D": "a pair of centrioles for cell division."
+      },
+      "correct_answer": "B",
+      "explanation": "Mature plant cells possess a large central vacuole used for storage and maintaining turgor pressure, absent in animal cells."
+    },
+    {
+      "id": "bio_2018_fr_q34",
+      "question": "This item is based on the following table about food chain. 1. Make their own food - First - Producers - Grass. 2. Feeds on herbivores - Third - Tertiary consumer - Frog. 3. Feeds on another carnivore - Fourth - Tertiary consumer - Snake. 4. Feeds on green plants - Second - Primary consumer - Grasshopper. Which numbers in the above table contain the correct description of a food chain with its examples?",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "1 and 2",
+        "C": "2 and 4",
+        "D": "1, 3 and 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Grass (1) is a producer (first trophic level). Grasshopper (4) eats green plants, making it a primary consumer (second trophic level)."
+    },
+    {
+      "id": "bio_2018_fr_q35",
+      "question": "Which one of the following bacteria are correctly grouped into their category based on their shape?",
+      "options": {
+        "A": "Bacilli - rod shaped bacteria",
+        "B": "Cholera - spiral shaped bacteria",
+        "C": "Spirochaetes - spherical bacteria",
+        "D": "Cocci - corkscrew shaped bacteria"
+      },
+      "correct_answer": "A",
+      "explanation": "Bacilli refer explicitly to bacteria that are rod-shaped."
+    },
+    {
+      "id": "bio_2018_fr_q36",
+      "question": "Which one of the following nutrients is correctly paired with its deficiency diseases?",
+      "options": {
+        "A": "Phosphorous - kwashiorkor",
+        "B": "Protein - marasmus",
+        "C": "Calcium - rickets",
+        "D": "Iron - bleeding gums"
+      },
+      "correct_answer": "C",
+      "explanation": "Severe deficiency in Calcium (and Vitamin D) in children leads to Rickets, causing soft and weakened bones."
+    },
+    {
+      "id": "bio_2018_fr_q37",
+      "question": "In the presence of oxygen, the cell theoretically yields approximately 36-38 ATP per glucose. Justify why the majority of this energy is harvested by electron transport system (ETS) rather than by glycolysis or the Krebs cycle? Because ETS",
+      "options": {
+        "A": "is the sole stage where glucose is directly converted into ATP through substrate level phosphorylation.",
+        "B": "uses the stored potential energy of NADH and FADH2 to create proton gradient that drives ATP synthase.",
+        "C": "occurs in the cytosol where there is more space to produce ATP abundantly.",
+        "D": "utilizes oxygen that plugs the leak in the membrane, leading to produce more metabolic energy."
+      },
+      "correct_answer": "B",
+      "explanation": "The Electron Transport System harvests potential energy from NADH and FADH2 to pump protons, driving massive ATP production via ATP synthase."
+    },
+    {
+      "id": "bio_2018_fr_q38",
+      "question": "Which of the following is correct about gene therapy? It is a genetic technique that helps to",
+      "options": {
+        "A": "replace the whole genome of a person with genetic disorder.",
+        "B": "enhance transfer of genetic disorders from parents to their offsprings.",
+        "C": "identify disorders that passes from parents to offsprings.",
+        "D": "treat genetic disorders by transferring sections of DNA to patient's cells."
+      },
+      "correct_answer": "D",
+      "explanation": "Gene therapy involves introducing, removing, or changing genetic material (sections of DNA) in a patient's cells to treat genetic disorders."
+    },
+    {
+      "id": "bio_2018_fr_q39",
+      "question": "Which structure and function of the types of teeth is correctly matched?",
+      "options": {
+        "A": "Molars - broader teeth specialized for grinding foods",
+        "B": "Premolars - flat teeth specialized for tearing foods",
+        "C": "Incisors - flattened teeth specialized for crushing foods",
+        "D": "Canine - sharp teeth specialized for cutting foods"
+      },
+      "correct_answer": "A",
+      "explanation": "Molars have a broad, flat top surface specifically designed for crushing and grinding food."
+    },
+    {
+      "id": "bio_2018_fr_q40",
+      "question": "Among the following features, which one describes kingdom fungi? They",
+      "options": {
+        "A": "are multicellular and have chemoautotrophic mode of nutrition.",
+        "B": "ingest and digest their food by enzymes in their body.",
+        "C": "undergo extracellular digestion to obtain their nutrition.",
+        "D": "are prokaryotic and cosmopolitan in their distribution."
+      },
+      "correct_answer": "C",
+      "explanation": "Fungi are heterotrophic organisms that undergo extracellular digestion by secreting enzymes into their environment and absorbing the nutrients."
+    },
+    {
+      "id": "bio_2018_fr_q41",
+      "question": "Which of the following is the correct definition of mutation? It is a",
+      "options": {
+        "A": "spontaneous variation in the spatial distribution of organisms.",
+        "B": "random change in genetic information of organisms.",
+        "C": "gradual change in the phenotype of the organisms.",
+        "D": "gradual variation in the spatial distribution of organisms."
+      },
+      "correct_answer": "B",
+      "explanation": "Mutation is fundamentally a random, often spontaneous change in the genetic information (DNA) of an organism."
+    },
+    {
+      "id": "bio_2018_fr_q42",
+      "question": "Suppose a biology teacher take a sample of bacteria from a food and dissolve in a distilled water. If she wants to isolate the bacterium, what is the next direct procedure to accomplish her task?",
+      "options": {
+        "A": "Conduct gram staining to identify their feature",
+        "B": "Count a colony and harvest target product",
+        "C": "Perform serial dilution and grow in media",
+        "D": "Identify bacterial morphology and grow in media"
+      },
+      "correct_answer": "C",
+      "explanation": "To isolate individual colonies from a sample, the direct next procedure is to perform serial dilutions and plate (grow) them in media."
+    },
+    {
+      "id": "bio_2018_fr_q43",
+      "question": "In which of the following options, a hormone is correctly paired with its function?",
+      "options": {
+        "A": "Norepinephrine - facilitate the secretion of glucagon",
+        "B": "Oxytocin - helps during delivery of the baby",
+        "C": "Parathyroid - control iodine levels in blood stream",
+        "D": "Aldosterone - increase heart rate and force of contraction"
+      },
+      "correct_answer": "B",
+      "explanation": "Oxytocin stimulates powerful uterine contractions during labor to help deliver the baby."
+    },
+    {
+      "id": "bio_2018_fr_q44",
+      "question": "This item is based on the following events of maintaining water balance in the body. I. Second coiled tubules of kidney become permeable to reabsorb more water from the kidney. II. High ADH is released into the blood. III. Produce large volume of diluted urine due to less reabsorption of water by kidney. IV. Very few ADH released to the blood. Based on the above list, which of the following numbers shows the mechanism of water balance in our body correctly? Numbers",
+      "options": {
+        "A": "I and IV are for water conserving, II and III are for water removing.",
+        "B": "III and IV are for water conservation, I and II are for water removing.",
+        "C": "I and IV are for water removing, II and III are for water conserving.",
+        "D": "III and IV are for water removing, I and II are for conserving water."
+      },
+      "correct_answer": "D",
+      "explanation": "High ADH (II) makes the tubules highly permeable to water (I), leading to water conservation. Low ADH (IV) reduces reabsorption, causing large volumes of dilute urine (III), removing water."
+    },
+    {
+      "id": "bio_2018_fr_q45",
+      "question": "What is the trophic level? It is the",
+      "options": {
+        "A": "complex interaction between organisms in a food web.",
+        "B": "interaction of organisms with the abiotic components.",
+        "C": "linear feeding relationship between organisms.",
+        "D": "specific position an organism occupies in a food chain."
+      },
+      "correct_answer": "D",
+      "explanation": "A trophic level represents the specific feeding position an organism occupies in a food chain (e.g., producer, primary consumer)."
+    },
+    {
+      "id": "bio_2018_fr_q46",
+      "question": "A grade 12 teacher demonstrated how light travelled through the eye to form an image on the retina using an eye model. Which one of the following results shows the correct sequence of this process?",
+      "options": {
+        "A": "Reflected light → pupil → lens → optic nerve → retina → auditory nerve → brain",
+        "B": "Reflected light → sclera → choroid → lens → retina → optic nerve → brain",
+        "C": "Reflected light → cornea → pupil → lens → retina → optic nerve → brain",
+        "D": "Reflected light → cornea → pupil → lens → retina → olfactory nerve → brain"
+      },
+      "correct_answer": "C",
+      "explanation": "Light passes through the cornea, pupil, lens, hits the retina, and the signal travels via the optic nerve to the brain."
+    },
+    {
+      "id": "bio_2018_fr_q47",
+      "question": "What is the main function of the cell membrane? It controls",
+      "options": {
+        "A": "transport of molecules.",
+        "B": "reproduction of cells.",
+        "C": "synthesis of lipids.",
+        "D": "protein synthesis."
+      },
+      "correct_answer": "A",
+      "explanation": "The cell membrane is semi-permeable, and its primary function is to control the transport of molecules into and out of the cell."
+    },
+    {
+      "id": "bio_2018_fr_q48",
+      "question": "A scientist isolated three different protein molecules (X, Y and Z) from a medicinal plant as follows. X molecule - is a segment of a protein folded into alpha-helix and beta-pleated sheet. Y molecule - is an enzyme with its protein folded into three-dimensional structure. Z molecule - is a linear protein with specific amino acid sequence. Which molecule contains primary, secondary and tertiary structures of protein, respectively?",
+      "options": {
+        "A": "Y, Z and X",
+        "B": "Y, X and Z",
+        "C": "X, Z and Y",
+        "D": "Z, X and Y"
+      },
+      "correct_answer": "D",
+      "explanation": "Z (linear sequence) is primary. X (alpha-helix/beta-sheet) is secondary. Y (3D folded) is tertiary. Sequence: Z, X, Y."
+    },
+    {
+      "id": "bio_2018_fr_q49",
+      "question": "A student, following appropriate laboratory procedures, testing for the presence of starch in green plant leaves. He immersed the leaf in hot water for 30 seconds in one of the steps just before adding iodine. Why did he immerse the leaf into the hot water? To",
+      "options": {
+        "A": "remove the debris and facilitate gas exchange",
+        "B": "decolorize the leaf and make it easy for the test",
+        "C": "denature the enzyme and make the leaf permeable",
+        "D": "improve the visibility of various pigment colors"
+      },
+      "correct_answer": "C",
+      "explanation": "Boiling the leaf in hot water kills the cells, denatures enzymes, and makes the membrane completely permeable for the starch test."
+    },
+    {
+      "id": "bio_2018_fr_q50",
+      "question": "Which one of the following statements explains the effects of drinking too much alcohol? It",
+      "options": {
+        "A": "exposes to constipation and esophageal disease.",
+        "B": "makes hyperactive and constricts the blood vessels in the heart.",
+        "C": "enables to make the right decision without fear.",
+        "D": "exposes to convict domestic violence incidents."
+      },
+      "correct_answer": "D",
+      "explanation": "Alcohol reduces inhibitions and impairs judgment, which unfortunately exposes individuals to a higher likelihood of domestic violence incidents."
+    },
+    {
+      "id": "bio_2018_fr_q51",
+      "question": "This item is based on the following table that shows the feedback control mechanism from days 12 - 14 of the menstrual cycle. I. High FSH - Reduces gonadotrophin - Negative. II. Low FSH - Menstruation - Negative. III. High LH - Ovulation - Negative. IV. High LH - More estradiol - Positive. Based on the above table, the correct feedback system with the events and the hormone that involved is indicated by the numbers",
+      "options": {
+        "A": "III and IV.",
+        "B": "II and III.",
+        "C": "I and IV.",
+        "D": "I and II."
+      },
+      "correct_answer": "A",
+      "explanation": "High estradiol causing high LH (a LH surge leading to ovulation) is the classic positive feedback mechanism around days 12-14."
+    },
+    {
+      "id": "bio_2018_fr_q52",
+      "question": "This item is based on the following table that shows reproduction in vertebrate animals. 1. Birds: Fertilization takes place in cloaca; Frog: Fertilization happens in the ovary; Rat: Fertilization takes place in the oviduct. 2. Birds: Magnum produces unfertilized egg; Frog: Oviduct produces fertilized egg; Rat: Ovary produces unfertilized egg. 3. Birds: Do not go through larval stage after fertilization; Frog: Go through larval stage after fertilization; Rat: Do not go through larval stage after fertilization. 4. Birds: Produce amniotic egg; Frog: Produce non-amniotic egg; Rat: Produce amniotic egg. Which alternatives contain the number that corresponds with the correct reproduction mechanism of the given vertebrates?",
+      "options": {
+        "A": "1, 3 and 4",
+        "B": "1, 2 and 3",
+        "C": "2 and 3",
+        "D": "3 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Birds and Rats produce amniotic eggs (4). Birds do not have a larval stage, nor do rats, but frogs do (3). Rat fertilization is in the oviduct (1). Hence 1, 3, and 4 are correct properties across the listed organisms."
+    },
+    {
+      "id": "bio_2018_fr_q53",
+      "question": "A survey in rural areas of Ethiopia discovered several people with enlarged body parts especially the limbs. Which one of the following is correct about the disease? It",
+      "options": {
+        "A": "happens due to a genetic disorder that causes accumulation of fat in the lymphatic system.",
+        "B": "is caused due to bone marrow cancer that leads to deposition of fluids in the lymphatic system.",
+        "C": "happens due to deficiency of vitamins that protects lymphatic systems from damage.",
+        "D": "is caused by parasitic worms that blocks the lymphatic system leading to accumulation of fluids."
+      },
+      "correct_answer": "D",
+      "explanation": "Elephantiasis (lymphatic filariasis) is caused by parasitic worms blocking the lymphatic system, causing severe fluid accumulation and swelling."
+    },
+    {
+      "id": "bio_2018_fr_q54",
+      "question": "Why do you sense it in microsecond when a tip of your toe is knocked by obstacles? Because the information is transmitted",
+      "options": {
+        "A": "through electrochemical signal traveling along a neuron.",
+        "B": "through neural axon when it is in resting potential phase.",
+        "C": "by hyperpolarizing the neuronal membrane potential.",
+        "D": "due to equal charge distribution across the membrane of the axon."
+      },
+      "correct_answer": "A",
+      "explanation": "Neural information is transmitted rapidly across the nervous system through electrochemical signals (action potentials) traveling along neurons."
+    },
+    {
+      "id": "bio_2018_fr_q55",
+      "question": "This item is based on the following list of information about route of transport of water in plants. I. Entry of water from stem xylem into leaf. II. Entry of water into the root xylem. III. Flow of water though xylem tissues in stems. IV. Entry of water from soil into root hairs. V. Evaporation of water from leaf surfaces into the environment. Which one of the following alternatives shows the correct route of water in plants?",
+      "options": {
+        "A": "IV → II → III → I → V",
+        "B": "V → III → II → I → IV",
+        "C": "V → I → III → II → IV",
+        "D": "IV → III → II → I → V"
+      },
+      "correct_answer": "A",
+      "explanation": "Water enters root hairs (IV), passes to root xylem (II), moves up stem xylem (III), enters the leaf (I), and transpires (V)."
+    },
+    {
+      "id": "bio_2018_fr_q56",
+      "question": "Which one of the following statements is correct about absorption of different end products of digestion?",
+      "options": {
+        "A": "The last organ that absorbs nutrients is the small intestine.",
+        "B": "Amino acids are absorbed into the capillary networks.",
+        "C": "The large intestine the place for most absorption to take place.",
+        "D": "Diffusion is the only mechanism of absorbing nutrients."
+      },
+      "correct_answer": "B",
+      "explanation": "Amino acids (and monosaccharides) are absorbed directly into the blood capillary networks within the villi of the small intestine."
+    },
+    {
+      "id": "bio_2018_fr_q57",
+      "question": "Which of the following statements is correct about the Kyoto Protocol on climate change? It was an agreement that industrialized nations",
+      "options": {
+        "A": "forced developing countries to restrict their carbon emissions.",
+        "B": "were obliged to reduce greenhouse gas emission significantly.",
+        "C": "encouraged to combat global epidemics by natural products.",
+        "D": "promoted urbanization in the third world countries."
+      },
+      "correct_answer": "B",
+      "explanation": "The Kyoto Protocol was an international treaty that legally obliged industrialized nations to significantly reduce their greenhouse gas emissions."
+    },
+    {
+      "id": "bio_2018_fr_q58",
+      "question": "Concerning the interactions between solar radiation and atmospheric gases, why does the accumulation of CO2 by the fossil fuels affect the energy after reaching the Earth, rather than before? Because",
+      "options": {
+        "A": "CO2 is transparent to short-wave radiation but it absorbs long infrared radiation that reflects back from the surface.",
+        "B": "light energy is converted into chemical energy upon striking the soil, and then rises and creates thermal heat.",
+        "C": "fossil fuel that emits CO2 is highly reduced comparing to the natural process that restores the balance.",
+        "D": "CO2 acts as a catalyst that makes the sunlight 10% stronger in the upper atmosphere before getting the ground."
+      },
+      "correct_answer": "A",
+      "explanation": "CO2 is a greenhouse gas; it allows short-wave solar radiation in but strongly absorbs outgoing long-wave infrared radiation, trapping heat."
+    },
+    {
+      "id": "bio_2018_fr_q59",
+      "question": "This item is based on the following information about the process of mitosis. I. Nuclear membrane reappears. II. Chromosomes line up across the equatorial plane. III. Sister chromatids pull apart by mitotic spindle. IV. Chromosomes become thick and visible. Which one of the following alternatives contains the correct order of the above mitosis events?",
+      "options": {
+        "A": "IV → II → III → I",
+        "B": "I → II → IV → III",
+        "C": "I → IV → III → II",
+        "D": "IV → III → II → I"
+      },
+      "correct_answer": "A",
+      "explanation": "Prophase (IV: condense), Metaphase (II: line up), Anaphase (III: pull apart), Telophase (I: membrane reappears). Order: IV → II → III → I."
+    },
+    {
+      "id": "bio_2018_fr_q60",
+      "question": "This item is based on the following information about urine formation. I. Reabsorption of small solutes at the proximal convoluted tubule. II. Selective reabsorption of ions at the distal convoluted tubule. III. Filtration of the blood at the glomerulus. IV. Reabsorption of solutes and water at the collecting duct. V. Reabsorption at the loop of Henle. Which alternative contains the correct route of urine formation in the nephrons?",
+      "options": {
+        "A": "III → II → IV → V → I",
+        "B": "III → I → V → II → IV",
+        "C": "III → V → I → II → IV",
+        "D": "III → II → I → IV → V"
+      },
+      "correct_answer": "B",
+      "explanation": "Filtrate moves from Glomerulus (III) → Proximal tubule (I) → Loop of Henle (V) → Distal tubule (II) → Collecting duct (IV)."
+    },
+    {
+      "id": "bio_2018_fr_q61",
+      "question": "Which of the following genetically engineered crops is herbicide-resistant? A modified crop with",
+      "options": {
+        "A": "a foreign gene that passes to non-target crop species.",
+        "B": "an enzyme that digest plant roots of weeds.",
+        "C": "an enzyme to break down the glyphosate.",
+        "D": "an inserted gene that synthesize glyphosate in crops."
+      },
+      "correct_answer": "C",
+      "explanation": "Herbicide-resistant GM crops (like 'Roundup Ready') contain an inserted gene that provides an enzyme to break down or resist glyphosate."
+    },
+    {
+      "id": "bio_2018_fr_q62",
+      "question": "Which one of the following statements is correct about the pyramid of energy? It is a diagram that shows",
+      "options": {
+        "A": "the flow energy from producers to consumers and vice versa.",
+        "B": "the flow of energy from the producers to the consumers.",
+        "C": "uniform energy transfer within all trophic level.",
+        "D": "more energy requirement for organisms at the top of the trophic level."
+      },
+      "correct_answer": "B",
+      "explanation": "An energy pyramid illustrates how energy flows directionally from producers at the base up to primary and secondary consumers, decreasing by ~90% at each step."
+    },
+    {
+      "id": "bio_2018_fr_q63",
+      "question": "What is the effect of the deficiency of iodine?",
+      "options": {
+        "A": "Hepatic cirrhosis and brain damage",
+        "B": "Hemosiderosis and hemochromatosis",
+        "C": "Enlargement of thyroid glands",
+        "D": "Elevation of blood pressure"
+      },
+      "correct_answer": "C",
+      "explanation": "Iodine deficiency prevents proper synthesis of thyroid hormones, causing the thyroid gland to enlarge as it attempts to compensate (Goiter)."
+    },
+    {
+      "id": "bio_2018_fr_q64",
+      "question": "Which alternative contains the correct comparison between the components in atmospheric air and exhaled air? Atmospheric air contains",
+      "options": {
+        "A": "4% carbon dioxide, but exhaled air contains 0.04% carbon dioxide.",
+        "B": "21% oxygen, but exhaled air contains 16% oxygen.",
+        "C": "78% nitrogen, but exhaled air contains 68% nitrogen.",
+        "D": "15% moisture, but exhaled air contains 21% moisture."
+      },
+      "correct_answer": "B",
+      "explanation": "Inspired (atmospheric) air contains roughly 21% O2, while expired (exhaled) air contains around 16% O2."
+    },
+    {
+      "id": "bio_2018_fr_q65",
+      "question": "Suppose a sudden earthquake starts shaking the earth while you are on a way towards your school. Which safety precaution measures should you practice?",
+      "options": {
+        "A": "Moving towards large buildings",
+        "B": "Continue walking towards the school",
+        "C": "Standing in open ground until it stops",
+        "D": "Running back towards home"
+      },
+      "correct_answer": "C",
+      "explanation": "The safest action during an earthquake when outside is to stand in open ground away from buildings, trees, and power lines."
+    },
+    {
+      "id": "bio_2018_fr_q66",
+      "question": "This item is based on the following table that shows homeotherms and poikilotherms with their respective examples. 1. Have internal control over their body temperature - Frogs. 2. Use burrows to keep their body warm - Snakes. 3. Use vasoconstriction to prevent heat loss - Crocodiles. 4. Generate internal heat to adjust their body temperature - Human. Which alternative contains the numbers with the correct distinguishing features of poikilotherms and homoiotherms with their corresponding examples, respectively?",
+      "options": {
+        "A": "3 and 4",
+        "B": "2 and 4",
+        "C": "2 and 3",
+        "D": "1 and 2"
+      },
+      "correct_answer": "B",
+      "explanation": "Poikilotherms (ectotherms) like snakes use burrows/sun to warm (2). Homeotherms (endotherms) like humans generate internal heat (4)."
+    },
+    {
+      "id": "bio_2018_fr_q67",
+      "question": "Viruses start replication and cause disease when they enter into their appropriate host. This is because they",
+      "options": {
+        "A": "lack structures to generate energy and synthesize molecules.",
+        "B": "are tiny so that they lack enough space for replication.",
+        "C": "are instructed by the genetic material of living organism.",
+        "D": "lack genetic materials that instruct their vital activities."
+      },
+      "correct_answer": "A",
+      "explanation": "Viruses are obligate intracellular parasites. They lack ribosomes and mitochondria, thus they lack structures to generate energy and synthesize macromolecules independently."
+    },
+    {
+      "id": "bio_2018_fr_q68",
+      "question": "Student X and Y were discussing on the origin of life on earth. Student X explained the process on how rotting meet turned into flies through time. But student Y didn't accept this view since he believed that life is the inherent property of the universe that has always existed. Based on their discussion, which views of evolution was described by the students?",
+      "options": {
+        "A": "Panspermia by student Y and big bang theory by student X",
+        "B": "Biochemical view by student X and cosmozoic theory by student Y",
+        "C": "Special creationism by student Y and abiogenesis by student X",
+        "D": "Spontaneous generation by student X and eternity of life by student Y"
+      },
+      "correct_answer": "D",
+      "explanation": "Flies from rotting meat supports Spontaneous Generation. Life always existing refers to the Eternity of Life theory."
+    },
+    {
+      "id": "bio_2018_fr_q69",
+      "question": "During emergencies like car accident, individuals lose significant amount of blood that could potentially harm their health and even cost their life. What should be considered to donate blood in this condition?",
+      "options": {
+        "A": "The donor's blood should contain antibody that protects the recipient from pathogens.",
+        "B": "The age of the donor should be under 18 years in order to donate functional bloods.",
+        "C": "The donor's and recipient's blood groups should be compatible and safe.",
+        "D": "The recipient should be young in order to receive blood from the donor."
+      },
+      "correct_answer": "C",
+      "explanation": "Blood transfusions absolutely require that the donor and recipient have compatible blood groups to avoid fatal agglutination."
+    },
+    {
+      "id": "bio_2018_fr_q70",
+      "question": "Which of the following combinations, the factor and its effect on enzyme activity is correctly paired?",
+      "options": {
+        "A": "pH - decrease kinetic energy of reacting molecules",
+        "B": "Competitive inhibitor - binds to allosteric site of an enzyme",
+        "C": "Temperature - alter the charge of amino acids",
+        "D": "Radiation - creates disorders in macromolecules"
+      },
+      "correct_answer": "D",
+      "explanation": "High energy radiation can break bonds in enzymes, creating disorders/damage in these macromolecules (denaturation)."
+    },
+    {
+      "id": "bio_2018_fr_q71",
+      "question": "With regard to the contribution of soil microorganisms for soil fertility, which one of the following processes decrease nitrogen from the soil?",
+      "options": {
+        "A": "Conversion of nitrates in the soil into nitrogen gas",
+        "B": "Fixation of atmospheric nitrogen into ammonia",
+        "C": "Decomposition of organic nitrogen sources to nitrate",
+        "D": "Transformation of ammonium ions into nitrate"
+      },
+      "correct_answer": "A",
+      "explanation": "Denitrifying bacteria convert soil nitrates back into atmospheric nitrogen gas, decreasing soil nitrogen."
+    },
+    {
+      "id": "bio_2018_fr_q72",
+      "question": "How does gene flow become a source of genetic variations?",
+      "options": {
+        "A": "Mass emigration of individuals stabilizes gene flow between source and receiving populations.",
+        "B": "Emigration of individuals increases genetic heterogeneity of a source population.",
+        "C": "Immigrants with new trait decreases allele frequencies of a receiving population.",
+        "D": "Immigrants with new trait increases genetic variability of a receiving population."
+      },
+      "correct_answer": "D",
+      "explanation": "Gene flow brings new alleles into a population. Immigrants with new traits increase the genetic variability of the receiving population."
+    },
+    {
+      "id": "bio_2018_fr_q73",
+      "question": "Consider the following diagram which indicates the parts of the human excretory system. Identify the part labeled 'M'. (Diagram shows the kidneys and ureters)",
+      "options": {
+        "A": "Ureter",
+        "B": "Right Kidney",
+        "C": "Urinary Bladder",
+        "D": "Urethra"
+      },
+      "correct_answer": "A",
+      "explanation": "The diagram points to 'M' which connects the kidney to the bladder. That tube is the ureter."
+    },
+    {
+      "id": "bio_2018_fr_q74",
+      "question": "Which one of the following is a locally available plant used for treatment of tapeworm?",
+      "options": {
+        "A": "Cucurbita pepo (Dubba)",
+        "B": "Lepidium sativum (Feto)",
+        "C": "Eucalyptus globulus (Nech-Bahir zaf)",
+        "D": "Trigonella foenumgraecum (Abish)"
+      },
+      "correct_answer": "A",
+      "explanation": "Cucurbita pepo (Pumpkin) seeds are a known traditional/natural anthelmintic remedy to treat tapeworms."
+    },
+    {
+      "id": "bio_2018_fr_q75",
+      "question": "Which one of the following shows a population pyramid of age in third world countries? A pyramid with",
+      "options": {
+        "A": "broad base and narrowing from younger to older ages.",
+        "B": "flattened at the middle age and wider at older ages.",
+        "C": "uniform shape throughout all age groups.",
+        "D": "narrower base with younger ages."
+      },
+      "correct_answer": "A",
+      "explanation": "Developing (Third World) countries typically have expansive population pyramids with a broad base (high birth rates) and narrowing top (lower life expectancy)."
+    },
+    {
+      "id": "bio_2018_fr_q76",
+      "question": "Recently married woman, who wants to stay for few years without having a child, consulted a gynecologist to recommend her a contraceptive with no side effects and must be physically efficient to prevent the entry of sperm to uterus. Based on her preferences, he recommends",
+      "options": {
+        "A": "spermicides which kill sperm and prevent the sperm from meeting the egg.",
+        "B": "oral contraceptive act by avoiding contact between sperm and ova.",
+        "C": "condom which forms barrier and works without changing the reproductive physiology.",
+        "D": "tubal ligation which prevents the contact of egg with the sperm."
+      },
+      "correct_answer": "C",
+      "explanation": "A condom is a physical barrier that prevents sperm from entering the uterus and has virtually no side effects on reproductive physiology."
+    },
+    {
+      "id": "bio_2018_fr_q77",
+      "question": "Which of the following is correct about the cell cycle?",
+      "options": {
+        "A": "G1 phase is the stage at which cells are metabolically inactive.",
+        "B": "M phase is the stage at which nuclear division takes place.",
+        "C": "S phase is the stage at which cytoplasmic division takes place.",
+        "D": "G2 phase is the stage at which chromosome duplicate."
+      },
+      "correct_answer": "B",
+      "explanation": "M phase (Mitosis) is the specific stage in the cell cycle where nuclear division occurs."
+    },
+    {
+      "id": "bio_2018_fr_q78",
+      "question": "During photosynthesis, oxygen is produced as a by-product in",
+      "options": {
+        "A": "the thylakoid through reduction of NADPH.",
+        "B": "Calvin cycle by fixation of CO2.",
+        "C": "photosystem II by reduction of water.",
+        "D": "light-dependent reaction by photolysis."
+      },
+      "correct_answer": "D",
+      "explanation": "Oxygen is produced during the light-dependent reactions of photosynthesis via the photolysis (splitting) of water."
+    },
+    {
+      "id": "bio_2018_fr_q79",
+      "question": "This item is based on the following table that shows the structure of plants and their corresponding functions. 1. Epidermis - Reduces water loss through transpiration. 2. Endodermis - Produces food by photosynthesis. 3. Vascular bundles - Conduct nutrients to different part of the plant. 4. Cortex - Prevent tissues from infection by pathogens. Which alternative contains the numbers with the correct plants structure and its function?",
+      "options": {
+        "A": "1 and 3",
+        "B": "2 and 3",
+        "C": "1 and 4",
+        "D": "2 and 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Epidermis (often with cuticle) reduces water loss. Vascular bundles (xylem/phloem) conduct nutrients and water. 1 and 3 are correct."
+    },
+    {
+      "id": "bio_2018_fr_q80",
+      "question": "What is the importance of monosaccharides? They",
+      "options": {
+        "A": "mainly used as structural component of cells.",
+        "B": "serve as the precursor of vitamin D.",
+        "C": "used as stored form of energy.",
+        "D": "serves as energy source for the cell."
+      },
+      "correct_answer": "D",
+      "explanation": "Monosaccharides like glucose serve as the primary and immediate energy source for cellular respiration."
+    },
+    {
+      "id": "bio_2018_fr_q81",
+      "question": "Which one of the following behavioral patterns represent territoriality?",
+      "options": {
+        "A": "Marking the directions to food sources using pheromones",
+        "B": "Attracting suitable mates through visual displays",
+        "C": "Surviving in an ecosystem through division of labor",
+        "D": "Pounding on the chest and thumping the ground with hands"
+      },
+      "correct_answer": "D",
+      "explanation": "Pounding on the chest and thumping the ground is an aggressive visual/auditory display used by some primates to defend their territory."
+    },
+    {
+      "id": "bio_2018_fr_q82",
+      "question": "Which of the following is correct about pyruvate oxidation in the cell? The process involves",
+      "options": {
+        "A": "utilizing oxygen as electron acceptor during hydroxyethyl group oxidation to form acetyl CoA.",
+        "B": "decarboxylation, oxidization of hydroxyethyl group, and formation of acetyl CoA.",
+        "C": "carboxylation, reduction of hydroxyethyl group and formation of acetyl CoA.",
+        "D": "oxidization of hydroxyethyl group to form acetyl CoA by utilizing oxygen."
+      },
+      "correct_answer": "B",
+      "explanation": "Pyruvate oxidation (link reaction) involves removing a carboxyl group (decarboxylation), oxidizing the remaining 2-carbon molecule, and attaching it to Coenzyme A to form Acetyl CoA."
+    },
+    {
+      "id": "bio_2018_fr_q83",
+      "question": "Which of the following is correct about bioremediation? It is the process of",
+      "options": {
+        "A": "detoxification and degradation of pollutants using living organisms.",
+        "B": "composting using aerobic microorganisms to convert organic waste.",
+        "C": "toxic pollutant accumulation in tissues of organisms along food chain.",
+        "D": "producing biogas from inorganic wastes by aerobic microorganisms."
+      },
+      "correct_answer": "A",
+      "explanation": "Bioremediation is literally the use of living organisms (microbes, plants) to detoxify and degrade environmental pollutants."
+    },
+    {
+      "id": "bio_2018_fr_q84",
+      "question": "Which one of the following enzymes is responsible to catalyze the joining of two molecules by hydrolysis of ATP?",
+      "options": {
+        "A": "Ligases",
+        "B": "Transferases",
+        "C": "Lyases",
+        "D": "Isomerases"
+      },
+      "correct_answer": "A",
+      "explanation": "Ligases are the class of enzymes that catalyze the joining (ligation) of two large molecules by establishing a new chemical bond, typically coupled with the hydrolysis of ATP."
+    },
+    {
+      "id": "bio_2018_fr_q85",
+      "question": "This item is based on the following lists of health impacts of amoebiasis and malaria. I. Skin ulcers and hepatosplenomegaly. II. Leads to blindness and mental retardation. III. Bloody diarrheal fluid due to intestinal cramps. IV. Vomiting, convulsion and leads to severe anemia through time. Based on the above list, which numbers indicate the health impact of amoebiasis and malaria, respectively?",
+      "options": {
+        "A": "II and IV",
+        "B": "I and III",
+        "C": "I and II",
+        "D": "III and IV"
+      },
+      "correct_answer": "D",
+      "explanation": "Amoebiasis causes intestinal cramps and bloody diarrhea (III). Malaria is characterized by chills, vomiting, and can lead to severe anemia (IV)."
+    },
+    {
+      "id": "bio_2018_fr_q86",
+      "question": "During lifting of a heavy object from the ground to certain height, the muscle",
+      "options": {
+        "A": "contracts due to the flow of Ca2+ to sarcoplasmic reticulum which binds actin and myosin.",
+        "B": "relaxes due to the sliding of actin and myosin by utilizing energy from ATP.",
+        "C": "contracts due to the inflow of Ca2+ that stimulates binding of actin and myosin.",
+        "D": "relaxes due to the inflow of Ca2+ that unbound actin and myosin."
+      },
+      "correct_answer": "C",
+      "explanation": "Muscle contraction is triggered by the inflow of Ca2+ from the sarcoplasmic reticulum into the cytosol, which binds to troponin, exposing binding sites for actin and myosin to interact."
+    },
+    {
+      "id": "bio_2018_fr_q87",
+      "question": "Which one of the following statements is correct about the role of neurotransmitters? It provides the",
+      "options": {
+        "A": "synaptic transmission to block its one-way process by stimulating postsynaptic cell.",
+        "B": "endocrine system to produces hormones that are transported in the blood plasma to their target cells.",
+        "C": "nervous system to stimulate their target cells by secreting chemicals directly on to them.",
+        "D": "nervous system to transmit messages between neurons, but not from neurons to muscles."
+      },
+      "correct_answer": "C",
+      "explanation": "Neurotransmitters are chemicals secreted by neurons directly into the synaptic cleft to stimulate or inhibit their target postsynaptic cells."
+    },
+    {
+      "id": "bio_2018_fr_q88",
+      "question": "Among the following definitions of different ecological levels, which one describes a population?",
+      "options": {
+        "A": "A group of individuals of the same species living in a separate habitat.",
+        "B": "The major terrestrial characterized by specific vegetation types and physical components.",
+        "C": "A group of interbreeding organisms of the same species living in the same area at the same time.",
+        "D": "The abiotic component of an area without which living things cannot survive."
+      },
+      "correct_answer": "C",
+      "explanation": "A population in ecology is strictly defined as a group of organisms of the same species living in the same geographical area at the same time, capable of interbreeding."
+    },
+    {
+      "id": "bio_2018_fr_q89",
+      "question": "This item is based on the following description of joints with their role in movement. I. A joint that allows movement in all directions. II. A joint that allows movement without rotation. III. A joint that allows rotary movement when one bone swivels in a ring. IV. A joint that allows limited movement by slipping. V. A joint that allows movement in one direction along one plane only. Based on the above information, condyloid joint, pivot joint and hinge joint are respectively represented by numbers",
+      "options": {
+        "A": "I, II and V",
+        "B": "II, III and V",
+        "C": "II, III and IV",
+        "D": "I, III and V"
+      },
+      "correct_answer": "B",
+      "explanation": "Condyloid joints allow movement without rotation (II). Pivot joints allow rotary movement (III). Hinge joints allow movement in one plane (V)."
+    },
+    {
+      "id": "bio_2018_fr_q90",
+      "question": "Consider the following diagram, which indicates the parts of human ear. Identify the labeled part '1'. (Diagram shows the ear canal)",
+      "options": {
+        "A": "Tympanic membrane (Eardrum)",
+        "B": "Auditory canal",
+        "C": "Cochlea",
+        "D": "Semicircular canals"
+      },
+      "correct_answer": "B",
+      "explanation": "The auditory canal (1) collects and funnels sound waves from the pinna to the tympanic membrane."
+    },
+    {
+      "id": "bio_2018_fr_q91",
+      "question": "A hemophilic man has two daughters and two sons from neither carrier nor affected woman. One of their sons married to a girl who is heterozygous to hemophilia. What is the probability that one of their daughters become hemophilic?",
+      "options": {
+        "A": "50%",
+        "B": "0%",
+        "C": "75%",
+        "D": "25%"
+      },
+      "correct_answer": "B",
+      "explanation": "Since the mother is totally unaffected, the son is genotypically (X Y). He marries a heterozygous carrier girl (X^h X). Their daughters receive his healthy (X) chromosome, so they will be either (X^h X) or (X X). Thus, 0% will be fully hemophilic."
+    },
+    {
+      "id": "bio_2018_fr_q92",
+      "question": "The scientific names of which one of the following plants is properly written?",
+      "options": {
+        "A": "Tef - Eragrostis Tef",
+        "B": "Maize - Zea mays",
+        "C": "Wheat - triticum aestivum",
+        "D": "Enset - ensete Ventricosum"
+      },
+      "correct_answer": "B",
+      "explanation": "Scientific nomenclature states Genus is capitalized and species is lowercase. Zea mays conforms to binomial nomenclature properly."
+    },
+    {
+      "id": "bio_2018_fr_q93",
+      "question": "Which of the following blood vessels carry oxygenated and deoxygenated into and away from the kidneys?",
+      "options": {
+        "A": "Iliac artery and iliac vein",
+        "B": "Hepatic artery and hepatic vein",
+        "C": "Renal artery and renal vein",
+        "D": "Pulmonary artery and pulmonary vein"
+      },
+      "correct_answer": "C",
+      "explanation": "The renal artery carries oxygenated (but unfiltered) blood into the kidneys, and the renal vein carries deoxygenated (but filtered) blood away."
+    },
+    {
+      "id": "bio_2018_fr_q94",
+      "question": "Grade 10 student placed seeds 'X' and 'Y' in separate containers containing soil and other requirements of germination. From her observation, the cotyledon of seed 'X' remained under the soil during germination, whereas that of seed 'Y' was pushed above the soil surface. What would she conclude about the experiment?",
+      "options": {
+        "A": "Seed 'X' was most probably monocot whereas seed 'Y' was a dicot.",
+        "B": "Seed 'Y' has hypogea, whereas seed 'X' has epigeal germination.",
+        "C": "Differences in the germination was related with availability of water.",
+        "D": "Light intensity was responsible to grow above and below the soil."
+      },
+      "correct_answer": "A",
+      "explanation": "Seed X (hypogeal - cotyledons stay below ground) is typical of monocots (like corn). Seed Y (epigeal - cotyledons pushed above) is typical of dicots (like beans)."
+    },
+    {
+      "id": "bio_2018_fr_q95",
+      "question": "Which of the following is correct about founder effect in a population? It occurs when",
+      "options": {
+        "A": "the size of a population is severely reduced due to a sudden accident.",
+        "B": "new group fully represents genetic diversity of the original population.",
+        "C": "the new small colony is established from the original population.",
+        "D": "a natural disaster kills most individuals of the original population."
+      },
+      "correct_answer": "C",
+      "explanation": "Founder effect happens when a small group of individuals breaks off from a larger population to establish a new, isolated colony, which may have reduced genetic diversity."
+    },
+    {
+      "id": "bio_2018_fr_q96",
+      "question": "Which one of the following indigenous practices in Ethiopia is correctly matched with the purpose of plants conservation?",
+      "options": {
+        "A": "Planting in graveyards - for preserving crop varieties",
+        "B": "Crop rotation - for preserving indigenous woody plants",
+        "C": "Protection in sacred places - preserving genetic resources of vegetables",
+        "D": "Agroforestry - maintaining the genetic diversity of crops and trees"
+      },
+      "correct_answer": "D",
+      "explanation": "Agroforestry combines agricultural and forestry technologies to create more diverse, productive, profitable, and sustainable land-use systems, effectively maintaining genetic diversity."
+    },
+    {
+      "id": "bio_2018_fr_q97",
+      "question": "Which of the following parts of axial skeleton is correctly matched with its function?",
+      "options": {
+        "A": "Hyoid - protects heart and the lungs",
+        "B": "Cranium - protects the brain",
+        "C": "Sternum - amplify sound wave",
+        "D": "Ribs - holds up human body"
+      },
+      "correct_answer": "B",
+      "explanation": "The cranium (part of the axial skeleton) functions as a protective bony casing for the brain."
+    },
+    {
+      "id": "bio_2018_fr_q98",
+      "question": "Suppose you have given a wing of bird, a wing of insect and a forelimb of a mammal to study their ancestral relationship, then which of the following statements is correct regarding their evolutionary relationship?",
+      "options": {
+        "A": "These structures have functional similarities that evolved from the same ancestor.",
+        "B": "Forelimbs of mammals and wings of insects have structural similarities confirming that they are closely related.",
+        "C": "Wings of birds and forelimbs of mammals are homologous structures that were evolved from similar origin.",
+        "D": "Wings of bird and insects are analogous structures that were evolved from similar origin."
+      },
+      "correct_answer": "D",
+      "explanation": "Wings of birds and insects serve the same function (flight) but evolved independently from different ancestral origins, making them analogous structures."
+    },
+    {
+      "id": "bio_2018_fr_q99",
+      "question": "Which property of an enzyme and its description is correctly matched?",
+      "options": {
+        "A": "Specificity - the ability of an enzyme to catalyze different substrates at a time",
+        "B": "Regulation - controlling activity of an enzyme by activators or inhibitors",
+        "C": "Reversibility - the ability of an enzyme to repair itself after denaturation",
+        "D": "Biocatalytic property - the ability of an enzyme to dissolve in solvents"
+      },
+      "correct_answer": "B",
+      "explanation": "Regulation is the ability to control enzyme activity, often through activators or inhibitors. Specificity is about acting on a specific substrate, not different ones."
+    },
+    {
+      "id": "bio_2018_fr_q100",
+      "question": "Which of the following best describes the outcome of meiosis in human cells?",
+      "options": {
+        "A": "Two diploid daughter cells identical to the parent cell",
+        "B": "Four haploid daughter cells, each with half the chromosome number of the parent cell",
+        "C": "Two haploid cells that immediately fuse to form a zygote",
+        "D": "Four diploid cells that undergo further division"
+      },
+      "correct_answer": "B",
+      "explanation": "Meiosis is a reduction division process that produces four genetically unique haploid cells from a single diploid parent cell."
+    }
+  ]
 }
