@@ -1,10 +1,732 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Aptitude",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_aptitude_2017_natural",
+  "content_type": "past_paper",
+  "title": "Scholastic Aptitude Test (SAT) - 2017 (Natural)",
+  "year": 2017,
+  "subject": "Aptitude",
+  "stream": "Natural",
+  "total_questions": 60,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "apt_2017_natural_q1",
+      "question": "If two days after tomorrow is four days before Saturday, what day is it today?",
+      "options": {
+        "A": "Friday",
+        "B": "Saturday",
+        "C": "Sunday",
+        "D": "Monday"
+      },
+      "correct_answer": "D",
+      "explanation": "Work backwards: Saturday minus 4 days is Tuesday. Tuesday is 'two days after tomorrow,' so tomorrow is Sunday. Thus, today is Monday."
+    },
+    {
+      "id": "apt_2017_natural_q2",
+      "question": "Gad is older than Dan and Dan is older than Betti. With Senni being older than Dan and younger than Gad, who is the youngest?",
+      "options": {
+        "A": "Betti",
+        "B": "Senni",
+        "C": "Gad",
+        "D": "Dan"
+      },
+      "correct_answer": "A",
+      "explanation": "Age order: Gad > Senni > Dan > Betti. Gad is oldest, Betti is youngest."
+    },
+    {
+      "id": "apt_2017_natural_q3",
+      "question": "Aki is Bali's sister. Yaya is Bali's mother. Lema is Yaya's father. Gette is Lema's mother. Then how is Aki related to Lema?",
+      "options": {
+        "A": "daughter",
+        "B": "granddaughter",
+        "C": "grandson",
+        "D": "grandmother"
+      },
+      "correct_answer": "B",
+      "explanation": "Lema is Yaya's father → Yaya is Bali's mother → Aki is Bali's sister. Thus, Aki is Yaya's daughter and Lema's granddaughter."
+    },
+    {
+      "id": "apt_2017_natural_q4",
+      "question": "Statement I: All football players are sportspersons. Statement II: All sportspersons are fit. This conclusion is:",
+      "options": {
+        "A": "Conclusion: Some football players are fit.",
+        "B": "incorrect",
+        "C": "reasonably correct",
+        "D": "appropriate"
+      },
+      "correct_answer": "C",
+      "explanation": "Statement I: All footballers are sportspersons. Statement II: All sportspersons are fit. Thus, all footballers are fit. The conclusion 'some football players are fit' is logically true (though understated)."
+    },
+    {
+      "id": "apt_2017_natural_q5",
+      "question": "How many months have a twenty-eighth day?",
+      "options": {
+        "A": "seven months",
+        "B": "twelve months",
+        "C": "one month",
+        "D": "two months"
+      },
+      "correct_answer": "B",
+      "explanation": "Every month has at least 28 days (February has 28 in non- leap years; others have 28+)."
+    },
+    {
+      "id": "apt_2017_natural_q6",
+      "question": "Which of the following can be rearranged into a 5-letter English word?",
+      "options": {
+        "A": "PYRIO",
+        "B": "DWAEP",
+        "C": "GOFAT",
+        "D": "PASEH"
+      },
+      "correct_answer": "B",
+      "explanation": "Rearranged to 'PAWED' (valid 5-letter word)."
+    },
+    {
+      "id": "apt_2017_natural_q7",
+      "question": "Based on Passage I: What does the writer imply is a 'monstrous absurdity'? (Passage: What is the matter with our reading is casualness... the assumption has only to be stated in order to appear in its monstrous absurdity.)",
+      "options": {
+        "A": "A problem can be a chance to do one's best.",
+        "B": "It is advisable to have perseverance in the face of challenges.",
+        "C": "Ideas can be instantly absorbed and organized.",
+        "D": "One has to always indulge in a problem whatever the consequences may be."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage calls it 'monstrous absurdity' to assume we can instantly possess and organize ideas from a superior mind."
+    },
+    {
+      "id": "apt_2017_natural_q8",
+      "question": "Based on Passage I: Which lines from the text support the answer to question 7?",
+      "options": {
+        "A": "Line 1-2",
+        "B": "Line 7-9",
+        "C": "Line 12",
+        "D": "Line 10-12"
+      },
+      "correct_answer": "B",
+      "explanation": "Lines 7-9 state: 'For we are assuming that... greater than our own' directly supports the absurdity claim."
+    },
+    {
+      "id": "apt_2017_natural_q9",
+      "question": "Based on Passage I: What is the 'something' that remains to be done after reading?",
+      "options": {
+        "A": "To complete the reading process.",
+        "B": "To reread the text.",
+        "C": "To memorize the text.",
+        "D": "To discuss the text."
+      },
+      "correct_answer": "A",
+      "explanation": "Reflection is the 'something [that] remains to be done' after reading to avoid 'folly and vanity'."
+    },
+    {
+      "id": "apt_2017_natural_q10",
+      "question": "Based on Passage I: What is the main point of the sentence 'Reading without subsequent reflection is ridiculous'?",
+      "options": {
+        "A": "Reflection is essential.",
+        "B": "Reading is a waste of time.",
+        "C": "Reflection is optional.",
+        "D": "Reading is for entertainment."
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence proves reflection is essential for proper reading."
+    },
+    {
+      "id": "apt_2017_natural_q11",
+      "question": "Which of the following is a grammatically correct sentence?",
+      "options": {
+        "A": "One of all-time greatest payer have recently retired from football.",
+        "B": "One of all-time greatest payers have recently retired from football.",
+        "C": "One of all-time greatest payer has recently retired from football.",
+        "D": "One of all-time greatest payers have recently retired from football."
+      },
+      "correct_answer": "C",
+      "explanation": "'One of [plural] + singular verb' → 'payers has' is incorrect. Correct: 'One of the all-time greatest payers has...' (Option C fixes subject-verb agreement)."
+    },
+    {
+      "id": "apt_2017_natural_q12",
+      "question": "Which of the following is a grammatically correct sentence?",
+      "options": {
+        "A": "If you'll not feel well, you'd better go to clinic.",
+        "B": "If you're not feeling well, you'd better go to clinic.",
+        "C": "If you'll not feel well, you better go to clinic.",
+        "D": "If you're not feeling well, you would better go to clinic."
+      },
+      "correct_answer": "B",
+      "explanation": "Use present continuous for current states ('feeling'). 'You'd better' = correct contraction for advice."
+    },
+    {
+      "id": "apt_2017_natural_q13",
+      "question": "Which of the following is a grammatically correct sentence?",
+      "options": {
+        "A": "There school takes only twenty minutes on foot.",
+        "B": "Theirs school takes only twenty minutes on foot.",
+        "C": "Their school takes only twenty minutes on foot.",
+        "D": "They're school takes only twenty minutes on foot."
+      },
+      "correct_answer": "C",
+      "explanation": "'Their' = possessive pronoun. 'Theirs' (no noun after), 'There' (location), 'They're' (they are) are incorrect."
+    },
+    {
+      "id": "apt_2017_natural_q14",
+      "question": "Which of the following is a grammatically correct sentence?",
+      "options": {
+        "A": "I wanted to first take shower and then eat snack.",
+        "B": "I wanted first take shower and then eat snack.",
+        "C": "I wanted to first take shower and then ate snack.",
+        "D": "I wanted to first take shower and then eating snack."
+      },
+      "correct_answer": "A",
+      "explanation": "Parallel structure: 'to take... and [to] eat.' Options B/C/D break parallelism."
+    },
+    {
+      "id": "apt_2017_natural_q15",
+      "question": "Choose a word that does NOT fit into the group:",
+      "options": {
+        "A": "Monogamy",
+        "B": "Polygamy",
+        "C": "Polyglot",
+        "D": "Polyandry"
+      },
+      "correct_answer": "C",
+      "explanation": "Monogamy/polygamy/polyandry = marriage types. Polyglot = multilingual person (not related)."
+    },
+    {
+      "id": "apt_2017_natural_q16",
+      "question": "Choose a word that does NOT fit into the group:",
+      "options": {
+        "A": "Election",
+        "B": "Ballot-box",
+        "C": "Signal-box",
+        "D": "Voting"
+      },
+      "correct_answer": "C",
+      "explanation": "Election/ballot- box/voting = electoral terms. Signal- box = railway equipment (unrelated)."
+    },
+    {
+      "id": "apt_2017_natural_q17",
+      "question": "Choose a word that does NOT fit into the group:",
+      "options": {
+        "A": "Tiptoeing",
+        "B": "Flying",
+        "C": "Strolling",
+        "D": "Striding"
+      },
+      "correct_answer": "B",
+      "explanation": "Tiptoeing/ strolling/ striding = walking styles. Flying = movement through air."
+    },
+    {
+      "id": "apt_2017_natural_q18",
+      "question": "Choose a word that does NOT fit into the group:",
+      "options": {
+        "A": "Yacht",
+        "B": "Ship",
+        "C": "Vehicle",
+        "D": "Boat"
+      },
+      "correct_answer": "C",
+      "explanation": "Yacht/ship/boat = specific water vessels. Vehicle = general transport category."
+    },
+    {
+      "id": "apt_2017_natural_q19",
+      "question": "AUTOMOBILE: GARAGE: : ______",
+      "options": {
+        "A": "Deck",
+        "B": "Truck",
+        "C": "Train",
+        "D": "Airplane"
+      },
+      "correct_answer": "D",
+      "explanation": "Automobile is stored in a garage → Airplane is stored in a hangar."
+    },
+    {
+      "id": "apt_2017_natural_q20",
+      "question": "KEY: LOCK: : Computer",
+      "options": {
+        "A": "Server",
+        "B": "Screen",
+        "C": "Monitor",
+        "D": "Password"
+      },
+      "correct_answer": "D",
+      "explanation": "Key unlocks a lock → Password unlocks a computer."
+    },
+    {
+      "id": "apt_2017_natural_q21",
+      "question": "NEST: BIRD: : Lion",
+      "options": {
+        "A": "Backyard",
+        "B": "Den",
+        "C": "Hive",
+        "D": "Cave"
+      },
+      "correct_answer": "B",
+      "explanation": "Nest is a bird's home → Den is a lion's home."
+    },
+    {
+      "id": "apt_2017_natural_q22",
+      "question": "PHYSICIAN: HOSPITAL: : School",
+      "options": {
+        "A": "Administrator",
+        "B": "Student",
+        "C": "Supervisor",
+        "D": "Teacher"
+      },
+      "correct_answer": "D",
+      "explanation": "Physician works in a hospital → Teacher works in a school."
+    },
+    {
+      "id": "apt_2017_natural_q23",
+      "question": "Choose the word that is most nearly similar in meaning to PHONEY:",
+      "options": {
+        "A": "Fake",
+        "B": "Funny",
+        "C": "Genuine",
+        "D": "Authentic"
+      },
+      "correct_answer": "A",
+      "explanation": "Phoney ≡ not genuine; counterfeit."
+    },
+    {
+      "id": "apt_2017_natural_q24",
+      "question": "Choose the word that is most nearly similar in meaning to HUMOROUS:",
+      "options": {
+        "A": "Satiating",
+        "B": "Satisfying",
+        "C": "Amusing",
+        "D": "Doubting"
+      },
+      "correct_answer": "C",
+      "explanation": "Humorous ≡ funny; entertaining."
+    },
+    {
+      "id": "apt_2017_natural_q25",
+      "question": "Choose the word that is most nearly similar in meaning to THEFT:",
+      "options": {
+        "A": "Burglary",
+        "B": "Hypocrisy",
+        "C": "Gossip",
+        "D": "Suspicion"
+      },
+      "correct_answer": "A",
+      "explanation": "Theft ≡ act of stealing."
+    },
+    {
+      "id": "apt_2017_natural_q26",
+      "question": "Choose the word that is most nearly OPPOSITE in meaning to FONDLY:",
+      "options": {
+        "A": "Affectionate",
+        "B": "Sociable",
+        "C": "Hatred",
+        "D": "Agreeable"
+      },
+      "correct_answer": "C",
+      "explanation": "Fondly ≡ affectionately → Opposite: Hatred."
+    },
+    {
+      "id": "apt_2017_natural_q27",
+      "question": "Choose the word that is most nearly OPPOSITE in meaning to INVINCIBLE:",
+      "options": {
+        "A": "Breakable",
+        "B": "Debatable",
+        "C": "Visible",
+        "D": "Conquerable"
+      },
+      "correct_answer": "D",
+      "explanation": "Invincible ≡ unbeatable → Opposite: Conquerable."
+    },
+    {
+      "id": "apt_2017_natural_q28",
+      "question": "Choose the word that is most nearly OPPOSITE in meaning to SUBORDINATE:",
+      "options": {
+        "A": "Superior",
+        "B": "Retainer",
+        "C": "Soldier",
+        "D": "Inferior"
+      },
+      "correct_answer": "A",
+      "explanation": "Subordinate ≡ lower rank → Opposite: Superior."
+    },
+    {
+      "id": "apt_2017_natural_q29",
+      "question": "In the Passage on 'Breaking the Rules', what does the phrase 'these two individuals' in paragraph 2 refer to?",
+      "options": {
+        "A": "John Smith & the person in movie industry.",
+        "B": "the grocery store and the movie theatre.",
+        "C": "the employer and the employee.",
+        "D": "people and the community as a whole."
+      },
+      "correct_answer": "A",
+      "explanation": "'These two individuals' refers to John Smith and the movie theater owner mentioned."
+    },
+    {
+      "id": "apt_2017_natural_q30",
+      "question": "In the Passage on 'Breaking the Rules', what does the sentence 'most successful employers today have risen through the ranks...' imply?",
+      "options": {
+        "A": "Every successful employer is the result of his/her hard work and diligence.",
+        "B": "Having different ranks and rewards is the real manifestation of successful employers.",
+        "C": "All successful employers today have reached their level passing through lots of ups and downs.",
+        "D": "Most successful employers have proven their leadership ability through their journey."
+      },
+      "correct_answer": "D",
+      "explanation": "'Risen through the ranks' implies gaining experience and demonstrating management skills over time."
+    },
+    {
+      "id": "apt_2017_natural_q31",
+      "question": "What is the main intent of the writer in the 'Breaking the Rules' passage?",
+      "options": {
+        "A": "the transition from employee to employer does not require much effort except having the interest.",
+        "B": "smooth transition from being an employer to employee is more of a matter of destiny than hard work.",
+        "C": "most successful employers are those who have achieved their dreams through trade-off.",
+        "D": "there are steps that one needs to undergo in the transition from employee to employer."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage outlines steps: serving diligently, leveraging skills, and facilitating opportunities."
+    },
+    {
+      "id": "apt_2017_natural_q32",
+      "question": "According to the passage, what does the word 'vices' most likely denote?",
+      "options": {
+        "A": "deputies",
+        "B": "strengths",
+        "C": "weaknesses",
+        "D": "ambitions"
+      },
+      "correct_answer": "C",
+      "explanation": "'Vices' here likely means flaws or bad practices (e.g., poor management habits)."
+    },
+    {
+      "id": "apt_2017_natural_q33",
+      "question": "Choose the word which could be interchangeably used with 'body' in the sentence: 'The man was killed in a car accident. His body was dragged from the burning wreckage of his car.'",
+      "options": {
+        "A": "remains",
+        "B": "fire",
+        "C": "backseats",
+        "D": "wheels"
+      },
+      "correct_answer": "A",
+      "explanation": "Body ≡ physical corpse → Remains is a synonym in this context."
+    },
+    {
+      "id": "apt_2017_natural_q34",
+      "question": "Choose the word which could be interchangeably used with 'prestigious' in the sentence: 'Harvard is one of the most prestigious universities in the USA.'",
+      "options": {
+        "A": "privileged",
+        "B": "admired",
+        "C": "furnished",
+        "D": "expensive"
+      },
+      "correct_answer": "B",
+      "explanation": "Prestigious = respected/admired for excellence."
+    },
+    {
+      "id": "apt_2017_natural_q35",
+      "question": "Choose the word which could be interchangeably used with 'repealed' in the sentence: 'The government has just repealed the law segregating public facilities...'",
+      "options": {
+        "A": "approved",
+        "B": "renewed",
+        "C": "signed",
+        "D": "cancelled"
+      },
+      "correct_answer": "D",
+      "explanation": "Repealed = revoked or cancelled (a law)."
+    },
+    {
+      "id": "apt_2017_natural_q36",
+      "question": "How many triangles are there in the diagram? [Image: A square with lines forming 4 quadrants and 2 diagonals]",
+      "options": {
+        "A": "18",
+        "B": "14",
+        "C": "16",
+        "D": "12"
+      },
+      "correct_answer": "C",
+      "explanation": "This requires logical counting of the visible shapes. Based on the geometry of the diagram (a square with diagonals and a cross), there are 16 triangles."
+    },
+    {
+      "id": "apt_2017_natural_q37",
+      "question": "Which one of the following statements is true?",
+      "options": {
+        "A": "Every integer number can be numerator of a rational number.",
+        "B": "Every non-negative integer is a natural number.",
+        "C": "The intersection of the set of integers and the set of irrational numbers is non-empty set.",
+        "D": "The sum of two irrational numbers is irrational number."
+      },
+      "correct_answer": "A",
+      "explanation": "Rational numbers are defined as a/b where a (numerator) and b ≠ 0 are integers. Any integer 'a' can be a numerator. (Option B is false, C is false, D is false as √2 + (-√2) = 0, rational)."
+    },
+    {
+      "id": "apt_2017_natural_q38",
+      "question": "If f(x) = sin(πx) + e^(x²) + |x| + x³ and g(x) = cos(πx) + ln(x+1) + x, then what is the value of f(1) - 2g(0)?",
+      "options": {
+        "A": "e",
+        "B": "ln2",
+        "C": "0",
+        "D": "e+2"
+      },
+      "correct_answer": "A",
+      "explanation": "f(1) = sin(π) + e¹ + |1| + 1³ = 0 + e + 1 + 1 = e + 2. g(0) = cos(0) + ln(1) + 0 = 1 + 0 + 0 = 1. f(1) - 2g(0) = (e + 2) - 2(1) = e."
+    },
+    {
+      "id": "apt_2017_natural_q39",
+      "question": "A person makes a glass of juice and used half of the glass with avocado, one third of the remaining half with mangoes and the rest is filled by banana and papaya with the same proportion. Which one of the following is the ratio of bananas to avocados in the glass?",
+      "options": {
+        "A": "1:6",
+        "B": "1:2",
+        "C": "1:3",
+        "D": "2:3"
+      },
+      "correct_answer": "C",
+      "explanation": "Assume glass = 1 unit. Avocado: 1/2. Remaining: 1/2. Mangoes: (1/3) * (1/2) = 1/6. Left: (1/2) - (1/6) = 1/3. Split equally: banana = papaya = 1/6. Ratio banana to avocado: (1/6) : (1/2) = 1:3."
+    },
+    {
+      "id": "apt_2017_natural_q40",
+      "question": "Which one of the following is the largest number? (A) (√5)^(6) (B) (2)^(16) (C) (11)^(12) (D) (3)^(9)",
+      "options": {
+        "A": "(√5)^(6)",
+        "B": "(2)^(16)",
+        "C": "(11)^(12)",
+        "D": "(3)^(9)"
+      },
+      "correct_answer": "A",
+      "explanation": "Express with exponent 576 (LCM of 6, 36, 12, 64): A: 5^96, B: 2^16, C: 11^48, D: 3^9. Compare: 5^96 = (5^2)^48 = 25^48 > 11^48."
+    },
+    {
+      "id": "apt_2017_natural_q41",
+      "question": "Two pipes A and B are used to fill a water tank. Pipe A can fill the tank in 3 hours, and pipe B can fill the same tank in 6 hours. How long will it take in hours to fill the tank if both pipes are opened at the same time?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "9",
+        "D": "2"
+      },
+      "correct_answer": "D",
+      "explanation": "A's rate: 1/3 tank/hour. B's rate: 1/6 tank/hour. Combined rate: (1/3) + (1/6) = 1/2 tank/hour. Time: 1 / (1/2) = 2 hours."
+    },
+    {
+      "id": "apt_2017_natural_q42",
+      "question": "A milk factory has only two pipe machines used to fill bottles for market. The old and new machines can fill 35 and 50 bottles per hour, respectively, and a total of 590 bottles are filled every day. One day the old machine was broken after working for 4 hours. How long will it take in hours for the new machine to fill the remaining bottles on that day?",
+      "options": {
+        "A": "8",
+        "B": "5",
+        "C": "13",
+        "D": "7"
+      },
+      "correct_answer": "B",
+      "explanation": "Both work first 4 hours: combined rate = 85 bottles/hour. Filled: 340 bottles. Remaining: 250 bottles. New machine time: 250/50 = 5 hours."
+    },
+    {
+      "id": "apt_2017_natural_q43",
+      "question": "If a spherical soccer ball has a volume of 36π cm³, then which one of the following is the surface area of the ball in square centimeter?",
+      "options": {
+        "A": "(16π) / 3",
+        "B": "12π",
+        "C": "36π",
+        "D": "(32π) / 3"
+      },
+      "correct_answer": "C",
+      "explanation": "Volume: (4/3)πr³ = 36π ⇒ r³ = 27 ⇒ r = 3 cm. Surface area: 4πr² = 4π × 9 = 36π."
+    },
+    {
+      "id": "apt_2017_natural_q44",
+      "question": "A ball is shot into the air from the top of the building. The height in meter is given by h(t) = kt - t² + 30, where t is the time taken in second. What is the possible value of k if the maximum value of height from the ground is 34?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5",
+        "D": "8"
+      },
+      "correct_answer": "B",
+      "explanation": "Max at t = k/2 (vertex of parabola). h(k/2) = k²/4 + 30. Set equal to 34: k²/4 + 30 = 34 ⇒ k²/4 = 4 ⇒ k² = 16 ⇒ k = 4."
+    },
+    {
+      "id": "apt_2017_natural_q45",
+      "question": "A farmer has ten cows. Every day, he receives the same amount of milk in liters from each cow. One day, due to the food supply, he received half of the daily amount of milk from the four cows; he received three-fourth of the daily amount of milk from the three cows, and no milk from the other three cows. In total, he didn't receive ninety-two liters of milk on that day. How many liters of milk did he receive on that particular day?",
+      "options": {
+        "A": "92",
+        "B": "16",
+        "C": "160",
+        "D": "68"
+      },
+      "correct_answer": "D",
+      "explanation": "Normal total: 10x. Received: 4(x/2) + 3(3x/4) = 17x/4. Shortfall: 10x - 17x/4 = 23x/4 = 92 ⇒ x = 16. Received: 17 * 16 / 4 = 68 liters."
+    },
+    {
+      "id": "apt_2017_natural_q46",
+      "question": "How many days did the student study more than the average amount of the study? (Based on a Bar Graph: 2h=10d, 4h=7d, 6h=7d, 8h=5d, 10h=3d)",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "17",
+        "D": "15"
+      },
+      "correct_answer": "D",
+      "explanation": "Calculate total hours: 20+28+42+40+30=160. Total days=32. Average study=160/32=5 hours/day. Categories >5 hours: 6h, 8h, 10h. Sum days: 7+5+3=15 days."
+    },
+    {
+      "id": "apt_2017_natural_q47",
+      "question": "How many days did the student study less than 8 hours? (Based on the Bar Graph in Q46)",
+      "options": {
+        "A": "18",
+        "B": "6",
+        "C": "24",
+        "D": "12"
+      },
+      "correct_answer": "C",
+      "explanation": "Sum 'Number of days' for 'Amount of study' less than 8 hours. This includes 2 hours (10), 4 hours (7), and 6 hours (7). Total = 24."
+    },
+    {
+      "id": "apt_2017_natural_q48",
+      "question": "Which time in hours is the median amount of the study? (Based on the Bar Graph in Q46)",
+      "options": {
+        "A": "6",
+        "B": "2",
+        "C": "8",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "explanation": "Total days = 32. Median is average of 16th and 17th values. Cumulative: 2h(1-10), 4h(11-17), 6h(18-24), 8h(25-29), 10h(30-32). Both 16th and 17th fall in '4 hours' category."
+    },
+    {
+      "id": "apt_2017_natural_q49",
+      "question": "If -x + 2y = 4, then what is the value of (25^y) / (5^x)?",
+      "options": {
+        "A": "125",
+        "B": "625",
+        "C": "5",
+        "D": "25"
+      },
+      "correct_answer": "B",
+      "explanation": "Expression = (5^2)^y / 5^x = 5^(2y - x). Given -x + 2y = 4, so 2y - x = 4. Therefore, 5^4 = 625."
+    },
+    {
+      "id": "apt_2017_natural_q50",
+      "question": "A woman burns 416 calories in an hour exercise at a fitness center. If she burns 10 calories per minute swimming in the water and 6 calories per minute pedaling on the stationary bike, then how many minutes of the hour does she spend exercising in the water?",
+      "options": {
+        "A": "56",
+        "B": "14",
+        "C": "60",
+        "D": "46"
+      },
+      "correct_answer": "B",
+      "explanation": "Let x be minutes swimming. Total calories: 10x + 6(60-x) = 416. 10x + 360 - 6x = 416. 4x = 56. x = 14."
+    },
+    {
+      "id": "apt_2017_natural_q51",
+      "question": "Which one of the following is the domain of g(x) = ln(1 - x) + ln(x)?",
+      "options": {
+        "A": "(0, ∞)",
+        "B": "R \\ {1, 0}",
+        "C": "(0, 1)",
+        "D": "(1, ∞)"
+      },
+      "correct_answer": "C",
+      "explanation": "ln(1-x) defined for 1-x > 0 ⇒ x < 1. ln(x) defined for x > 0. Combined: 0 < x < 1."
+    },
+    {
+      "id": "apt_2017_natural_q52",
+      "question": "How many days are there from the first day of March to the last day of May?",
+      "options": {
+        "A": "89",
+        "B": "92",
+        "C": "91",
+        "D": "90"
+      },
+      "correct_answer": "B",
+      "explanation": "March: 31 days, April: 30 days, May: 31 days. Total: 31 + 30 + 31 = 92 days (inclusive)."
+    },
+    {
+      "id": "apt_2017_natural_q53",
+      "question": "A corporation pays ten employees a total of Birr 100,000 every month. Six out of ten employees receives less than Birr 10,000 per month. Compare Quantity P (The average of the monthly payment) with Quantity Q (The median of the monthly payment).",
+      "options": {
+        "A": "Quantity P is greater than Quantity Q.",
+        "B": "Quantity P is less than Quantity Q.",
+        "C": "The two quantities cannot be compared.",
+        "D": "The two quantities are equal."
+      },
+      "correct_answer": "A",
+      "explanation": "Average (P) = 100,000/10 = 10,000. Median (Q): Since 6 employees earn < 10,000, the median (5th and 6th in ordered list) must be < 10,000. Thus, P > Q."
+    },
+    {
+      "id": "apt_2017_natural_q54",
+      "question": "Consider the lengths of the sides of a triangle x, y, z. Compare Quantity P (|3x + y - z|) with Quantity Q (4x).",
+      "options": {
+        "A": "Quantity P is less than Quantity Q.",
+        "B": "Quantity P is greater than Quantity Q.",
+        "C": "The two quantities cannot be compared.",
+        "D": "The two quantities are equal."
+      },
+      "correct_answer": "A",
+      "explanation": "Triangle inequality: y < x + z. 3x + y - z < 3x + (x + z) - z = 4x. Thus, P < Q."
+    },
+    {
+      "id": "apt_2017_natural_q55",
+      "question": "Which one of the following is true about the function f(x) = x^(2/5)?",
+      "options": {
+        "A": "The domain of f is {x ∈ R | x ≥ 0}",
+        "B": "The range of f is {y ∈ R | y ≥ 0}",
+        "C": "The range of f is {y | y ∈ R}",
+        "D": "The domain of f is {x ∈ R | x ≤ 0}"
+      },
+      "correct_answer": "B",
+      "explanation": "f(x) = (x^2)^(1/5) or (x^(1/5))^2, defined for all real x. Output is always non-negative (square). Range: [0, ∞)."
+    },
+    {
+      "id": "apt_2017_natural_q56",
+      "question": "What is the value of z in the sequence 1, 2, 4, 8, 10, 20, 22, z,...?",
+      "options": {
+        "A": "44",
+        "B": "24",
+        "C": "32",
+        "D": "40"
+      },
+      "correct_answer": "A",
+      "explanation": "Pattern: Multiply by 2, then add 2: 1×2=2, 2+2=4, 4×2=8, 8+2=10, 10×2=20, 20+2=22, 22×2=44."
+    },
+    {
+      "id": "apt_2017_natural_q57",
+      "question": "An engineer is putting black and white colored ceramics on a square floor of area 36m². Each ceramic has area 1m². The engineer places the black ones along both diagonals and the rest is covered by white colored ceramics. In what ratio is black to white ceramic used?",
+      "options": {
+        "A": "1:6",
+        "B": "1:2",
+        "C": "1:5",
+        "D": "4:5"
+      },
+      "correct_answer": "B",
+      "explanation": "Side = 6 m. Total tiles = 36. In a 6x6 grid (even size), diagonals have no common tile. Each diagonal: 6 tiles. Total black = 12. White = 36-12 = 24. Ratio black: white = 12:24 = 1:2."
+    },
+    {
+      "id": "apt_2017_natural_q58",
+      "question": "A daily profit earned by a T-shirt factory is modeled by the formula p(x) = -x² + 1400x - 80,000, where p is the profit and x is the price for each T-shirt sold. What range of prices will yield a profit of at least Birr 400,000?",
+      "options": {
+        "A": "600 ≤ x ≤ 800",
+        "B": "x ≤ 800",
+        "C": "x ≤ 600 or x ≥ 800",
+        "D": "x ≤ 600"
+      },
+      "correct_answer": "A",
+      "explanation": "Solve -x² + 1400x - 80,000 ≥ 400,000. Rearrange: -x² + 1400x - 480,000 ≥ 0. Multiply by -1: x² - 1400x + 480,000 ≤ 0. Roots: x = 600, 800. Solution: 600 ≤ x ≤ 800."
+    },
+    {
+      "id": "apt_2017_natural_q59",
+      "question": "Points A, B and C are located on a circle with center O and radius 2 units long. If A, B and C are joined to form an equilateral triangle, then what is the area of triangle ABC in square units?",
+      "options": {
+        "A": "3",
+        "B": "√3",
+        "C": "1",
+        "D": "3√3"
+      },
+      "correct_answer": "D",
+      "explanation": "For equilateral triangle, circumradius R = a/√3 ⇒ a = 2√3 (side). Area: (√3/4)a² = (√3/4) × 12 = 3√3."
+    },
+    {
+      "id": "apt_2017_natural_q60",
+      "question": "What is the possible value of the missing term x in the sequence -1, 0, 1, 2, -1, 8, 1, 26, -1, x, 1, 242, -1, 728, 1,...?",
+      "options": {
+        "A": "54",
+        "B": "36",
+        "C": "80",
+        "D": "34"
+      },
+      "correct_answer": "C",
+      "explanation": "Focus on even-position terms: 0, 2, 8, 26, x, 242, 728. Pattern: a_n = 3a_(n-1) + 2. 2=3(0)+2, 8=3(2)+2, 26=3(8)+2, x=3(26)+2=80. Verify: 3(80)+2=242."
+    }
+  ]
 }
