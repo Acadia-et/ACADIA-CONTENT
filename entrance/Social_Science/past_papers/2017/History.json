@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "History",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_history_2017_social",
+  "content_type": "past_paper",
+  "title": "History - 2017 (Social)",
+  "year": 2017,
+  "subject": "History",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "hist_2017_social_q1",
+      "question": "With which one of the following ideas or institutions is capitalism associated?",
+      "options": {
+        "A": "Serfdom",
+        "B": "Equality of classes",
+        "C": "Controlled markets",
+        "D": "Making profit"
+      },
+      "correct_answer": "D",
+      "explanation": "Capitalism is an economic system based on private ownership of the means of production and their operation for profit. 'Making profit' is the central motive of capitalism."
+    },
+    {
+      "id": "hist_2017_social_q2",
+      "question": "What was the fundamental organizational change that led to the Industrial Revolution?",
+      "options": {
+        "A": "The shift from the dispersed system to factory production",
+        "B": "The replacement of animal and human labor by machines",
+        "C": "The shift from coal to water to generate power",
+        "D": "The development of banks to lend money to Entrepreneurs"
+      },
+      "correct_answer": "A",
+      "explanation": "The Industrial Revolution was characterized by a massive organizational shift in how goods were produced, moving from the domestic (putting-out) system to the centralized factory system."
+    },
+    {
+      "id": "hist_2017_social_q3",
+      "question": "Which one of the following was a consequence of the American Civil War?",
+      "options": {
+        "A": "The end of racial oppression in the USA",
+        "B": "The end of the institution of slavery in the USA",
+        "C": "The economic prosperity of the southern planter class",
+        "D": "The acquisition of parts of the US by France"
+      },
+      "correct_answer": "B",
+      "explanation": "The Emancipation Proclamation (1863) and the 13th Amendment (1865) ended the institution of slavery in the United States as a direct result of the Civil War."
+    },
+    {
+      "id": "hist_2017_social_q4",
+      "question": "What was the major consequence of the Second Balkan War?",
+      "options": {
+        "A": "The deepening of hostility between Austria-Hungary and Serbia over territorial claims.",
+        "B": "The forced withdrawal of Ottoman Turkey from all its European territories.",
+        "C": "The emergence of conflict between emerging Balkan nationalism and the Ottoman Empire.",
+        "D": "The emergence of several countries such as Greece and Macedonia as independent nations."
+      },
+      "correct_answer": "A",
+      "explanation": "The Second Balkan War (1913) ended with the Treaty of Bucharest, which enlarged Serbia. This angered Austria-Hungary and deepened the hostility that contributed to the outbreak of World War I."
+    },
+    {
+      "id": "hist_2017_social_q5",
+      "question": "Which of the following innovations contributed to the success of European imperialism in Africa in the late 19th-century?",
+      "options": {
+        "A": "The discovery of cement for building efficient roads",
+        "B": "The development of techniques for exploring minerals",
+        "C": "The numerical superiority of white armies than Africans",
+        "D": "The discovery of medicinal protection against malaria"
+      },
+      "correct_answer": "D",
+      "explanation": "The discovery of quinine as a prophylactic against malaria was crucial. It allowed Europeans to survive and operate in the interior of Africa, which had previously been a 'white man's grave'."
+    },
+    {
+      "id": "hist_2017_social_q6",
+      "question": "What was the main feature of British indirect rule?",
+      "options": {
+        "A": "The exclusion of Africans from the administration of the colonies.",
+        "B": "The use of extensive violence to mobilize commodities for export.",
+        "C": "The granting of Africans British citizens with their political rights.",
+        "D": "The use of Africans in their administration of the colonies."
+      },
+      "correct_answer": "D",
+      "explanation": "Indirect rule was a system where the British governed through existing African traditional structures and chiefs. This involved using Africans to administer the colonies."
+    },
+    {
+      "id": "hist_2017_social_q7",
+      "question": "How did long distance trade facilitate interaction among Ethiopia's populations?",
+      "options": {
+        "A": "By helping introduce Orthodox to different parts of the region.",
+        "B": "By giving rise to markets that served as centers of cultural interaction.",
+        "C": "By spreading democratic institutions such as Gada to new areas.",
+        "D": "By making use of the common media of exchange."
+      },
+      "correct_answer": "B",
+      "explanation": "Long-distance trade created market towns where people from different regions and ethnic groups met to exchange goods. These markets became centers of cultural exchange."
+    },
+    {
+      "id": "hist_2017_social_q8",
+      "question": "Why did Emperor Tewodros II's modernization attempts fail? Because",
+      "options": {
+        "A": "he lacked the technology and resources necessary to implement the reforms.",
+        "B": "he tried to simply copy western institutions rather than adapt them to local conditions.",
+        "C": "he angered the European powers who could have helped him.",
+        "D": "British opposed his reforms fearing he would create a strong Ethiopian state."
+      },
+      "correct_answer": "C",
+      "explanation": "Tewodros II's attempts to modernize Ethiopia were hindered by his conflict with the British, who he imprisoned. This angered Europe, led to the British expedition (1868), and cut off the foreign support he needed."
+    },
+    {
+      "id": "hist_2017_social_q9",
+      "question": "What was the consequence of the Hewett (Adwa) Treaty of 1884?",
+      "options": {
+        "A": "Return of Massawa to Ethiopia",
+        "B": "Ethiopian hostility with the Mahdist Sudan",
+        "C": "Ethiopian control over Matama",
+        "D": "Continuous Ethiopian war with the Egyptians"
+      },
+      "correct_answer": "B",
+      "explanation": "The Hewett Treaty was signed between Britain, Egypt, and Ethiopia. It allowed the evacuation of Egyptian forces from the Sudanese-Ethiopian border, but it also created a state of hostility between Ethiopia and the Mahdist forces who took over the region."
+    },
+    {
+      "id": "hist_2017_social_q10",
+      "question": "What was the significance of the battle of Saglee of 1916 in Ethiopian politics?",
+      "options": {
+        "A": "It ended the political influence of Wallo in national politics.",
+        "B": "It led to the victory of the progressive groups in court politics.",
+        "C": "It marked the end of the influence of the tripartite powers in Ethiopia.",
+        "D": "It marked a shift of power from Shewa to Wallo."
+      },
+      "correct_answer": "A",
+      "explanation": "The Battle of Saglee (1916) was a military conflict between the forces loyal to Lij Iyasu and the Shewan nobility. The victory of the nobility effectively ended Lij Iyasu's reign and Wallo's influence."
+    },
+    {
+      "id": "hist_2017_social_q11",
+      "question": "Which one of the following is correct about the importance of history?",
+      "options": {
+        "A": "It enables people to become less spiritual and more secular.",
+        "B": "It helps us understand contemporary issues.",
+        "C": "It encourages people to focus more on local than global issues.",
+        "D": "It deepens extreme nationalism among the diverse population."
+      },
+      "correct_answer": "B",
+      "explanation": "History provides the context for understanding present-day conditions, conflicts, and societies. It allows us to see the roots of contemporary issues."
+    },
+    {
+      "id": "hist_2017_social_q12",
+      "question": "Which of the following is correct according to the scientific theory of human evolution?",
+      "options": {
+        "A": "The earliest human species originated in Africa and spread out to other continents.",
+        "B": "The major difference among the various hominid species is in terms of height and weight.",
+        "C": "It is by the types of iron tools that they made that we differentiate among hominids.",
+        "D": "The different hominid species in Africa descended from Lucy (Dinkinesh)."
+      },
+      "correct_answer": "A",
+      "explanation": "The scientific theory states that the earliest hominids and the genus Homo originated in Africa and subsequently migrated to other parts of the world."
+    },
+    {
+      "id": "hist_2017_social_q13",
+      "question": "What was the Ethiopian state that had emerged immediately before Aksum?",
+      "options": {
+        "A": "Damot",
+        "B": "Adulis",
+        "C": "Haulti",
+        "D": "Damat"
+      },
+      "correct_answer": "D",
+      "explanation": "Da'amat (or Damat) was a kingdom in the northern Horn of Africa that existed from roughly the 10th to 5th centuries BCE, predating and being succeeded by Aksum."
+    },
+    {
+      "id": "hist_2017_social_q14",
+      "question": "To which language super-family do the Omotic language belongs?",
+      "options": {
+        "A": "Khoi-San",
+        "B": "Niger-Congo",
+        "C": "Afro-Asiatic",
+        "D": "Nilo-Saharan"
+      },
+      "correct_answer": "C",
+      "explanation": "Omotic languages are a branch of the Afro-Asiatic language family, spoken primarily in the Omo River valley of Ethiopia."
+    },
+    {
+      "id": "hist_2017_social_q15",
+      "question": "Which of the following technologies enabled ancient Egyptians to produce large surpluses and maintain an enduring state?",
+      "options": {
+        "A": "Building pyramids",
+        "B": "Inventing hieroglyphics",
+        "C": "Constructing irrigation canals",
+        "D": "The art of mummification"
+      },
+      "correct_answer": "C",
+      "explanation": "The development of irrigation systems allowed the Egyptians to control the Nile floods and produce large agricultural surpluses, which sustained the population and the state."
+    },
+    {
+      "id": "hist_2017_social_q16",
+      "question": "Which one of the following is correct about Pre-Colonial American civilizations?",
+      "options": {
+        "A": "They all achieved high standards of urban development and high rate of city structure.",
+        "B": "While the Inca built extensive roads and the Maya developed an accurate calendar.",
+        "C": "The development of writing distinguished Aztec civilization from Mayan and Incan civilizations.",
+        "D": "The Inca put up a stronger resistance against the Spanish because they used tools made out of silver."
+      },
+      "correct_answer": "B",
+      "explanation": "The Inca were famous for their extensive road system (Qhapaq Ñan), and the Maya were renowned for their astronomical knowledge and accurate calendars."
+    },
+    {
+      "id": "hist_2017_social_q17",
+      "question": "To which power did Aksum eventually lose control over the Red Sea trade?",
+      "options": {
+        "A": "Muslim Arabia",
+        "B": "Ottoman Turkey",
+        "C": "Mamluk Egypt",
+        "D": "Safavid Persia"
+      },
+      "correct_answer": "A",
+      "explanation": "Following the rise of Islam in the 7th century, Muslim Arab powers gained control over the Red Sea trade routes, leading to the decline of Aksum's commercial dominance."
+    },
+    {
+      "id": "hist_2017_social_q18",
+      "question": "What was the major achievement of the Muslim Arabs under the immediate successors of the Prophet Mohammed?",
+      "options": {
+        "A": "Moving the center of the empire outside of Arabia and Syria.",
+        "B": "The capture of Medina and its selection as the religious center.",
+        "C": "The capture of extensive territories from Persia and Byzantium.",
+        "D": "The opening of trade routes connecting Arabia with India."
+      },
+      "correct_answer": "C",
+      "explanation": "Under the Rashidun Caliphate (immediate successors), Muslim armies conquered vast territories, including the Sassanian Persian Empire and significant provinces of the Byzantine Empire."
+    },
+    {
+      "id": "hist_2017_social_q19",
+      "question": "Which one of the following was a cultural feature of the Zagwe dynasty?",
+      "options": {
+        "A": "The continuation of Christianity as the official state religion.",
+        "B": "The use of the Agaw language for both court and church functions.",
+        "C": "The shift of the pilgrimages from the Holy Land to Lalibela.",
+        "D": "The development of rules about royal succession."
+      },
+      "correct_answer": "A",
+      "explanation": "The Zagwe dynasty was a Christian dynasty that continued the Orthodox Christian traditions of the Aksumite state. They are known for their monumental rock-hewn churches."
+    },
+    {
+      "id": "hist_2017_social_q20",
+      "question": "Why did the medieval Ethiopian Christian kingdom rely on mobile courts? Because",
+      "options": {
+        "A": "the tradition of permanent capitals did not familiar before.",
+        "B": "moveable capital made it possible to administer a vast empire easily.",
+        "C": "permanent capitals were easy targets for attack by subject populations.",
+        "D": "the empire lacked materials to construct permanent settlements."
+      },
+      "correct_answer": "B",
+      "explanation": "A roving capital allowed the emperor to move from region to region to collect taxes, administer justice, and maintain control over the distant provinces of the empire."
+    },
+    {
+      "id": "hist_2017_social_q21",
+      "question": "What was the major feature of early capitalism in Europe?",
+      "options": {
+        "A": "Greater use of money as capital rather than just income.",
+        "B": "The shift in motivation from making profits to humanitarianism.",
+        "C": "Decline in international trade due to internal and external war.",
+        "D": "Replacement of human and animal labor to machines in production."
+      },
+      "correct_answer": "A",
+      "explanation": "The transition to capitalism involved accumulating wealth as capital to be re-invested in production and trade, rather than just spending it as income."
+    },
+    {
+      "id": "hist_2017_social_q22",
+      "question": "Which of the following is correct about the Aksumite state?",
+      "options": {
+        "A": "Its expansion was due to the desire to control trade routes.",
+        "B": "It was established by immigrants from South Arabia.",
+        "C": "It directly inherited the political institutions of Punt and Dumut.",
+        "D": "Its rulers ruled their subjects directly."
+      },
+      "correct_answer": "A",
+      "explanation": "Aksum's power was largely based on its control over the trade routes connecting the interior of Africa to the Red Sea ports like Adulis."
+    },
+    {
+      "id": "hist_2017_social_q23",
+      "question": "What explains the rise of the Zagwe dynasty to power?",
+      "options": {
+        "A": "Their success in effectively mobilizing the Agaw people.",
+        "B": "Their achievements in architectural development.",
+        "C": "Their integration into the Aksumite economic and politics.",
+        "D": "Their success in preserving Christianity elements."
+      },
+      "correct_answer": "A",
+      "explanation": "The Zagwe dynasty rose to power based on the strength of the Agaw people, who were the dominant population in the Lasta region where the dynasty originated."
+    },
+    {
+      "id": "hist_2017_social_q24",
+      "question": "Which one of the following accounts for the downfall of the Zagwe?",
+      "options": {
+        "A": "Succession struggle",
+        "B": "Economic decline",
+        "C": "Outbreak of plague",
+        "D": "Religious controversy"
+      },
+      "correct_answer": "A",
+      "explanation": "Internal conflict over succession weakened the Zagwe dynasty, making it vulnerable to the rise of Yekuno Amlak who claimed to be the legitimate ruler from the Solomonic line."
+    },
+    {
+      "id": "hist_2017_social_q25",
+      "question": "What idea from the Renaissance period became a dominant in the Modern World?",
+      "options": {
+        "A": "The divine origin of human life",
+        "B": "Reconciliation of with secular life",
+        "C": "The non-understandability of the universe",
+        "D": "Reason and the possibility of progress"
+      },
+      "correct_answer": "D",
+      "explanation": "The Renaissance emphasized humanism, reason, and the scientific approach. These ideas contributed to the Enlightenment and the modern belief in progress."
+    },
+    {
+      "id": "hist_2017_social_q26",
+      "question": "How Yekuno Amlak restore the so-called 'Solomonic' Dynasty in 1270?",
+      "options": {
+        "A": "By referring the Zagwe as usurpers and hence eroding its acceptance.",
+        "B": "By securing recognition from the Egyptian Coptic Church.",
+        "C": "By getting support from the Holy Land of Jerusalem.",
+        "D": "By blocking the Zagwe from being crowned as emperors at Aksu"
+      },
+      "correct_answer": "A",
+      "explanation": "Yekuno Amlak used the 'Solomonic Legend' to legitimize his rule by claiming descent from King Solomon and the Queen of Sheba, labeling the Zagwe as usurpers."
+    },
+    {
+      "id": "hist_2017_social_q27",
+      "question": "How did Islam spread in to central and eastern Ethiopia during the medieval period? It was through",
+      "options": {
+        "A": "Islamic Holy war of jihad.",
+        "B": "the migration of Arab clans.",
+        "C": "the agency of nomadic pastoralists.",
+        "D": "the activities of traders and sheikhs."
+      },
+      "correct_answer": "D",
+      "explanation": "Islam spread largely through peaceful means via trade routes. Muslim merchants and holy men (sheikhs) established communities in new areas."
+    },
+    {
+      "id": "hist_2017_social_q28",
+      "question": "What was the main factor for the expansion of the Christian kingdom in north and central Ethiopia from the 13th to the 16th-centuries?",
+      "options": {
+        "A": "The wish to convert Muslim populations to Christianity",
+        "B": "The desire to establish ports on the Red Sea and the Indian Ocean",
+        "C": "The desire to increase revenue by controlling trade routes",
+        "D": "The wish to acquire new lands for a rapidly growing population"
+      },
+      "correct_answer": "C",
+      "explanation": "The empire's expansion was driven by the desire to control the rich southern trade routes and the resources (gold, slaves, ivory) that flowed through them."
+    },
+    {
+      "id": "hist_2017_social_q29",
+      "question": "Which of the following was a consequence of the wars between the Christian State and Adal under Imam Ahmed al-Ghazi?",
+      "options": {
+        "A": "The decline of the importance of trade routes leading to Zeila.",
+        "B": "The partition of the Red Sea between the Portuguese and Ottomans.",
+        "C": "The end of ruling the Christian state from permanent seat in Shewa.",
+        "D": "The adoption of agriculture by many pastoralists in eastern Ethiopia."
+      },
+      "correct_answer": "A",
+      "explanation": "The prolonged wars destroyed the region's economy and shifted trade patterns. The port of Zeila and the trade routes that depended on it were heavily disrupted."
+    },
+    {
+      "id": "hist_2017_social_q30",
+      "question": "What distinguished Imam Ahmed Al-Ghazi from his predecessors?",
+      "options": {
+        "A": "His use of a cavalry rather than an infantry force in his wars.",
+        "B": "His mobilization of armies from Afar and Somali in his campaigns.",
+        "C": "His used the religious animosity to mobilize the Muslim population.",
+        "D": "His decision to conquer the Christian kingdom rather than raid it."
+      },
+      "correct_answer": "D",
+      "explanation": "Unlike his predecessors who mainly raided the frontiers, Imam Ahmed Al-Ghazi launched a full-scale conquest of the Christian Kingdom with the aim of destroying it entirely."
+    },
+    {
+      "id": "hist_2017_social_q31",
+      "question": "Which one of the following explains why Italian unification became successful?",
+      "options": {
+        "A": "The adoption of a mixed strategy by the Italians that combined armed uprising and diplomatic pressure.",
+        "B": "The decision of the Austrian Hapsburgs to support Italian unification.",
+        "C": "The weakening of the Hapsburgs both economically and politically.",
+        "D": "The mobilization of liberals, conservatives and the papal states by Piedmont-Sardinia for the cause."
+      },
+      "correct_answer": "A",
+      "explanation": "Italian unification involved a combination of diplomatic maneuvering (e.g., Cavour's alliance with France) and military action (e.g., Garibaldi's Red Shirts), making it a mixed strategy."
+    },
+    {
+      "id": "hist_2017_social_q32",
+      "question": "Which one of the following was the major factor for the colonial occupation in Africa?",
+      "options": {
+        "A": "Collection of ethnographic and geographical information by missionaries and explorers.",
+        "B": "Internal divisions within African societies and the factional support provided by the Europeans.",
+        "C": "Europeans military and technological superiority over the pre-colonial African states.",
+        "D": "The absence of centralized state structures among many African populations at the time."
+      },
+      "correct_answer": "C",
+      "explanation": "The military and technological gap (e.g., Maxim guns, steamers, quinine) was the crucial factor that allowed a small number of Europeans to conquer vast territories."
+    },
+    {
+      "id": "hist_2017_social_q33",
+      "question": "Who were the traders dominated long distance trade in the Southwestern region during the 19th-century?",
+      "options": {
+        "A": "Saffare",
+        "B": "Jabarti",
+        "C": "Jallaba",
+        "D": "Afkala"
+      },
+      "correct_answer": "B",
+      "explanation": "The Jabarti were Muslim merchants who played a dominant role in long-distance trade in southwestern Ethiopia, particularly in areas like Jimma and Kaffa."
+    },
+    {
+      "id": "hist_2017_social_q34",
+      "question": "What does the Liche Treaty of 1878 tell us about Emperor Yohannes IV's style of rule? That he",
+      "options": {
+        "A": "favored negotiations and power sharing to build imperial authority.",
+        "B": "was cruel towards his rivals and sought to eliminate them for the last.",
+        "C": "lacked consistency in his approach to local rulers.",
+        "D": "was influenced by his religious thought in his administration."
+      },
+      "correct_answer": "A",
+      "explanation": "The Liche Agreement was a power-sharing arrangement between Yohannes IV and Menelik II, demonstrating Yohannes' pragmatic preference for negotiation to consolidate his rule."
+    },
+    {
+      "id": "hist_2017_social_q35",
+      "question": "Which one of the following was a consequence of the battle of Adwa?",
+      "options": {
+        "A": "The acquisition of an outlet to the sea for Ethiopia.",
+        "B": "The end of Ethiopia's encirclement by hostile powers.",
+        "C": "The recognition of Ethiopia as an independent country.",
+        "D": "The end of Italian colonial aspirations in the Horn of Africa."
+      },
+      "correct_answer": "C",
+      "explanation": "The decisive victory at Adwa led Italy to recognize Ethiopia as an independent state, culminating in the Treaty of Addis Ababa which annulled the Treaty of Wuchale."
+    },
+    {
+      "id": "hist_2017_social_q36",
+      "question": "Which of the following was a feature of the period of the Diarchy (1930) in Ethiopian politics?",
+      "options": {
+        "A": "The absence of power struggle within the ruling class.",
+        "B": "Struggle for power among groups within the ruling class.",
+        "C": "The introduction of major political and constitutional reforms.",
+        "D": "Rapid penetration of foreign capital into the country."
+      },
+      "correct_answer": "B",
+      "explanation": "The Diarchy period (1916-1930) was characterized by a power struggle between Empress Zewditu and her regent, Ras Tafari (later Haile Selassie), reflecting a division in the ruling class."
+    },
+    {
+      "id": "hist_2017_social_q37",
+      "question": "Why did the Shewan nobility remove Empress Taytu from power in 1910? Because",
+      "options": {
+        "A": "they disliked her attempt to undermine Shoan dominance.",
+        "B": "she favored the German over the Britain and France diplomatic chid",
+        "C": "she began to reverse the humanitarian steps of Emperor Menelik",
+        "D": "she demonstrated lack of judgement in making decisions."
+      },
+      "correct_answer": "A",
+      "explanation": "The Shewan nobility removed Empress Taytu because she had consolidated too much power and was seen as undermining the political dominance of the Shewan faction."
+    },
+    {
+      "id": "hist_2017_social_q38",
+      "question": "Which one of the following initiatives of Lij Iyasu can be said to have improved the condition of the Ethiopian peasantry?",
+      "options": {
+        "A": "The establishment of a modern police force called Terenbulle as the first municipal force.",
+        "B": "The requirement that all businesses should be audited periodically to make sure they paid taxes.",
+        "C": "The appointment of local administrators on the basis of merit to the central administration office.",
+        "D": "The decision that the payment of tithe (aart) should be on the basis of actual produce."
+      },
+      "correct_answer": "D",
+      "explanation": "Lij Iyasu's decision to base the tithe (aart) on actual produce rather than a fixed amount was a reform intended to relieve the tax burden on peasants."
+    },
+    {
+      "id": "hist_2017_social_q39",
+      "question": "In what way did the Constitution of 1931 contribute to the consolidation of Haile Selassie I's autocratic power?",
+      "options": {
+        "A": "It gave the emperor the right to pardon crimes against the state.",
+        "B": "It created a parliament that would debate and approve legislation.",
+        "C": "It reduced the power of nobilities not to challenge his power.",
+        "D": "It enhanced the image of the emperor as a progressive leader."
+      },
+      "correct_answer": "C",
+      "explanation": "The 1931 Constitution centralized power in the hands of the emperor, significantly reducing the autonomy and power of regional nobles who had previously challenged the throne."
+    },
+    {
+      "id": "hist_2017_social_q40",
+      "question": "Which one of the following African resistance movements was related to colonial Cotton plantation?",
+      "options": {
+        "A": "The Ndebele resistance in Zimbabwe",
+        "B": "The Maji Maji rebellion in Tanganyika",
+        "C": "The resistance of the Ashanti kingdom",
+        "D": "The resistance of the Mandinka Empire"
+      },
+      "correct_answer": "B",
+      "explanation": "The Maji Maji rebellion (1905-1907) in German East Africa was partly triggered by the forced cultivation of cotton, which was deeply resented by the local population."
+    },
+    {
+      "id": "hist_2017_social_q41",
+      "question": "Why did Bismarck organize the alliance system?",
+      "options": {
+        "A": "To solve European colonial rivalry in Africa peacefully",
+        "B": "To weaken British dominance in European politics",
+        "C": "To support the Ottoman Empire against Russian expansion",
+        "D": "To secure protection for Germany against French hostility"
+      },
+      "correct_answer": "D",
+      "explanation": "Bismarck's primary goal was to isolate France and prevent them from seeking revenge for their defeat in the Franco-Prussian War, ensuring the security of the newly unified Germany."
+    },
+    {
+      "id": "hist_2017_social_q42",
+      "question": "Which of the following was a consequence of the 1917 Revolution in Russia?",
+      "options": {
+        "A": "The restoration of Russian control over neighboring states such as Ukraine and Poland.",
+        "B": "Implementation of the Communism as an official ideology in Russia and influenced other world.",
+        "C": "The withdrawal of Russia from international politics until the beginning of WWII.",
+        "D": "The shift of Russian modernization efforts from the cities to the countryside."
+      },
+      "correct_answer": "B",
+      "explanation": "The 1917 Revolution led to the rise of the Bolsheviks and the establishment of a communist state, which became the foundation of the Soviet Union and a model for communist movements worldwide."
+    },
+    {
+      "id": "hist_2017_social_q43",
+      "question": "What was the immediate cause of the Second World War?",
+      "options": {
+        "A": "The publication of the Axis powers' secret plan to partition the globe.",
+        "B": "The withdrawal of Germany's pledge to guarantee the sovereignty of Czechoslovakia.",
+        "C": "British decision to occupy the port of Danzig as a pre-emptive action against German invasion.",
+        "D": "Germany's invasion of Poland threatened both Britain and France."
+      },
+      "correct_answer": "D",
+      "explanation": "The immediate cause of WWII was Germany's invasion of Poland on September 1, 1939, which led Britain and France to declare war on Germany."
+    },
+    {
+      "id": "hist_2017_social_q44",
+      "question": "Which organ of the UN was responsible for facilitating the independence of former mandated territories?",
+      "options": {
+        "A": "The Security Council",
+        "B": "The Trusteeship Council",
+        "C": "The International Court of Justice",
+        "D": "The UN Secretariat"
+      },
+      "correct_answer": "B",
+      "explanation": "The Trusteeship Council was established to supervise the administration of trust territories (former League of Nations mandates and territories taken from defeated Axis powers) and guide them towards independence."
+    },
+    {
+      "id": "hist_2017_social_q45",
+      "question": "Which of the following was a consequence of the Marshall Plan?",
+      "options": {
+        "A": "The containment of Communism from spreading to Asia and Africa",
+        "B": "The division of Germany between the Capitalist West and Communist East.",
+        "C": "The extension of American political influence to Latin American countries.",
+        "D": "The economic recovery of Western European countries after WWI"
+      },
+      "correct_answer": "D",
+      "explanation": "The Marshall Plan (officially the European Recovery Program) provided massive financial aid to Western European nations, which was instrumental in rebuilding their post-war economies."
+    },
+    {
+      "id": "hist_2017_social_q46",
+      "question": "What was the cause of the Cold War?",
+      "options": {
+        "A": "Conflict between the supporters of free market & planned economic systems.",
+        "B": "Desire of the super powers to extend their political and strategic influence across the globe.",
+        "C": "Difference between the two superpowers on how to partition Africa and Asia.",
+        "D": "Rivalry between the super powers to send the first mission to outer space."
+      },
+      "correct_answer": "B",
+      "explanation": "The Cold War was fundamentally a struggle between the US and USSR for global political, economic, and strategic influence."
+    },
+    {
+      "id": "hist_2017_social_q47",
+      "question": "Which of the following countries did NOT belong to the Warsaw Pact?",
+      "options": {
+        "A": "Romania",
+        "B": "The Soviet Union",
+        "C": "West Germany",
+        "D": "Hungary"
+      },
+      "correct_answer": "C",
+      "explanation": "West Germany was a NATO member and a capitalist state. The Warsaw Pact comprised the Soviet Union and its Eastern European satellite states."
+    },
+    {
+      "id": "hist_2017_social_q48",
+      "question": "What was the Vietnamese city that was renamed as Ho Chi Minh City following Communist victory over the US?",
+      "options": {
+        "A": "Saigon",
+        "B": "Peking",
+        "C": "Dien Bien Phu",
+        "D": "Hanoi"
+      },
+      "correct_answer": "A",
+      "explanation": "Saigon, the capital of South Vietnam, was renamed Ho Chi Minh City after the communist victory in 1975."
+    },
+    {
+      "id": "hist_2017_social_q49",
+      "question": "Which of the following was a factor for the collapse of Communism in the late 1980s?",
+      "options": {
+        "A": "The rise of anti-communist movements in the Eastern Europe",
+        "B": "Political and economic reforms initiated by Gorbachev",
+        "C": "Rivalry between the Soviet and Chinese forms of communism",
+        "D": "Loss of popular support for the ideology at the global level"
+      },
+      "correct_answer": "B",
+      "explanation": "Gorbachev's policies of glasnost (openness) and perestroika (restructuring) weakened the Soviet state's control and encouraged reform movements that ultimately led to the collapse of the Soviet Union and its satellite states."
+    },
+    {
+      "id": "hist_2017_social_q50",
+      "question": "Why did the Imperial government fail to carry out a land reform program in the late 1960s and early 1970s? Because it",
+      "options": {
+        "A": "lacked the technical and financial resources for its realization.",
+        "B": "feared that there would be opposition from the peasantry.",
+        "C": "was preoccupied with peasant rebellions in Gojjam and Bale.",
+        "D": "feared that there would be strong opposition from the big land owners."
+      },
+      "correct_answer": "D",
+      "explanation": "The imperial regime was heavily dependent on the support of the landed nobility. Any meaningful land reform threatened the interests of this powerful class, so the regime avoided it."
+    },
+    {
+      "id": "hist_2017_social_q51",
+      "question": "To which of the following is the concept of objectivity related when applied to the study of history? The ability to",
+      "options": {
+        "A": "interpret events based on one's subjective experience.",
+        "B": "explain change in a clear and logical manner.",
+        "C": "avoid subjectivity on the part of the historian.",
+        "D": "identify original sources by the historian."
+      },
+      "correct_answer": "C",
+      "explanation": "Objectivity in history refers to the historian's ability to interpret events and sources without personal bias or prejudice, basing conclusions on evidence."
+    },
+    {
+      "id": "hist_2017_social_q52",
+      "question": "What is the significance of periodization in historical studies? It helps to",
+      "options": {
+        "A": "trace continuities and change through time.",
+        "B": "make the work of history to screen usable sources.",
+        "C": "distinguish professional history from popular history.",
+        "D": "sort out factual details from factious narratives."
+      },
+      "correct_answer": "A",
+      "explanation": "Periodization is the process of categorizing the past into discrete named blocks of time. This helps historians analyze and understand the patterns of change and continuity."
+    },
+    {
+      "id": "hist_2017_social_q53",
+      "question": "With which of the following homo species are Achulean tools associated?",
+      "options": {
+        "A": "Homo africanus",
+        "B": "Homo habilis",
+        "C": "Homo erectus",
+        "D": "Homo sapiens"
+      },
+      "correct_answer": "C",
+      "explanation": "The Acheulean tool industry (hand axes, cleavers) is primarily associated with Homo erectus, who were the first to make this type of sophisticated tool."
+    },
+    {
+      "id": "hist_2017_social_q54",
+      "question": "Which of the following is a characteristics of the Upper Paleolithic?",
+      "options": {
+        "A": "Composite tools made out of stone and Bone",
+        "B": "Lack of change in tool making techniques in Africa",
+        "C": "Tools made out of metals like copper and bronze",
+        "D": "Highly selective breeding of livestock"
+      },
+      "correct_answer": "A",
+      "explanation": "The Upper Paleolithic is marked by the development of more advanced composite tools (e.g., hafted blades, harpoons) made from stone, bone, and antler."
+    },
+    {
+      "id": "hist_2017_social_q55",
+      "question": "Which one of the following explanation is NOT correct according to the theories of emergence of early states?",
+      "options": {
+        "A": "Those who control trade routes become rulers.",
+        "B": "Successful military leaders become kings.",
+        "C": "Priests established political control in the name of gods.",
+        "D": "People who organize religious pilgrimages become leaders."
+      },
+      "correct_answer": "D",
+      "explanation": "Organizing pilgrimages is not a commonly cited theory for the emergence of the state. Theories usually focus on irrigation control, warfare, trade, and religion."
+    },
+    {
+      "id": "hist_2017_social_q56",
+      "question": "Which one of the following was a major achievement of the Indus Valley civilization?",
+      "options": {
+        "A": "The development of a writing system",
+        "B": "The construction of refined Buddhist temples",
+        "C": "The development of urban planning techniques",
+        "D": "The writing of a complex legal code"
+      },
+      "correct_answer": "C",
+      "explanation": "The Indus Valley Civilization is famous for its well-planned cities with grid layouts, sophisticated drainage systems, and standardized brick sizes, showing advanced urban planning."
+    },
+    {
+      "id": "hist_2017_social_q57",
+      "question": "What was the major contribution of Greek civilization to the Western world?",
+      "options": {
+        "A": "Ideas about direct participatory democracy",
+        "B": "Rejection of slavery as an institution",
+        "C": "Techniques of building roads that last long",
+        "D": "The use of the wheeled transport"
+      },
+      "correct_answer": "A",
+      "explanation": "The Greek city-state of Athens developed a system of direct democracy where citizens participated directly in decision-making, a foundational concept for modern Western democracies."
+    },
+    {
+      "id": "hist_2017_social_q58",
+      "question": "What was a common achievement of the civilizations of Egypt and Mesopotamia?",
+      "options": {
+        "A": "The invention of techniques for preserving the bodies of the dead.",
+        "B": "The development of a writing system for administrative purposes.",
+        "C": "The construction of elaborate religious buildings using clay bricks.",
+        "D": "The invention of techniques for purifying copper and iron."
+      },
+      "correct_answer": "B",
+      "explanation": "Both Egyptian (hieroglyphs) and Mesopotamian (cuneiform) civilizations developed writing systems, initially primarily for recording administrative and economic transactions."
+    },
+    {
+      "id": "hist_2017_social_q59",
+      "question": "Which of the following characterizes feudal society in Medieval Europe?",
+      "options": {
+        "A": "The revival of patronage for Arts and Architectures",
+        "B": "The establishment of centralized empires",
+        "C": "The existence of large and flourishing trade centers",
+        "D": "The decentralization of state power"
+      },
+      "correct_answer": "D",
+      "explanation": "Feudalism was characterized by a decentralized political system where power was fragmented among local lords (vassals) who owed allegiance to higher lords (fealty)."
+    },
+    {
+      "id": "hist_2017_social_q60",
+      "question": "Which of the following is correct about Byzantine emperors?",
+      "options": {
+        "A": "They were both religious and political leaders.",
+        "B": "Their power was checked by the Orthodox Church.",
+        "C": "They exercised absolute power over their subjects.",
+        "D": "Their rule was based on the model of Athenian politics."
+      },
+      "correct_answer": "A",
+      "explanation": "The Byzantine Emperor was the head of both the state and the church (Caesaropapism), exercising supreme religious and political authority."
+    },
+    {
+      "id": "hist_2017_social_q61",
+      "question": "Why did the 1960 attempted coup against Emperor Haile Selassie fail? Because",
+      "options": {
+        "A": "there was disagreement between the coup leaders on what to do with Haile Selassie's officials.",
+        "B": "the coup leaders failed to secure support from the army and the air force.",
+        "C": "the coup leaders failed to secure control of the radio station and the imperial palace.",
+        "D": "the coup leaders did not set up a government immediately after capturing power."
+      },
+      "correct_answer": "B",
+      "explanation": "The coup attempt failed because the primary forces of the Army and the Air Force remained loyal to the Emperor and opposed the coup led by the Imperial Bodyguard and Mengistu Neway."
+    },
+    {
+      "id": "hist_2017_social_q62",
+      "question": "Which of the following initiatives of the Derg had a major socio-economic consequence for the peasantry?",
+      "options": {
+        "A": "The Land Reform",
+        "B": "The Literacy Campaign",
+        "C": "The nationalization of industries",
+        "D": "The confiscation of extra houses"
+      },
+      "correct_answer": "A",
+      "explanation": "The 1975 Land Reform Proclamation abolished the feudal land system, redistributed land to the tillers, and profoundly transformed the lives of the peasantry."
+    },
+    {
+      "id": "hist_2017_social_q63",
+      "question": "What was the major factor for the outbreak of the Ethio-Somalia War of 1977/78?",
+      "options": {
+        "A": "Difference over interpreting the teachings of Marxism-Leninism.",
+        "B": "Rivalry between the two countries over the issue of Djibouti.",
+        "C": "Republic of Somalia claimed the Somali-inhabited territories of eastern Ethiopia.",
+        "D": "Personal animosity between Colonel Mengisu and General Siad Barre."
+      },
+      "correct_answer": "C",
+      "explanation": "The war was initiated by Somalia's irredentist claim over the Somali-inhabited Ogaden region of eastern Ethiopia."
+    },
+    {
+      "id": "hist_2017_social_q64",
+      "question": "How did France punish Guinea for voting against continued political association with the former colonial master?",
+      "options": {
+        "A": "Sponsoring a coup against Sekou Toure",
+        "B": "Denying any form assistance to the country",
+        "C": "Establishing a rival government in France",
+        "D": "Expelling Guinea from the French Union"
+      },
+      "correct_answer": "B",
+      "explanation": "France, angered by Guinea's 'No' vote in the 1958 referendum, immediately withdrew all French aid, administrative support, and resources, cutting the country off completely."
+    },
+    {
+      "id": "hist_2017_social_q65",
+      "question": "Which of the following shows the continued influence of western countries over the economies of African countries after independence?",
+      "options": {
+        "A": "The export of primary and industrial products to western countries.",
+        "B": "The dependence on infrastructure built by the west.",
+        "C": "The dependence on western models of education.",
+        "D": "The dependence of African countries on western loans."
+      },
+      "correct_answer": "D",
+      "explanation": "Post-independence African economies were often saddled with debt from western loans, creating a neo-colonial dependency that allowed western countries to influence their economic policies."
+    },
+    {
+      "id": "hist_2017_social_q66",
+      "question": "Which of the following was the characteristics of coups in African politics after independence?",
+      "options": {
+        "A": "Although coups were instrumental in removing authoritarian leaders, the regimes that replaced them brought very little change.",
+        "B": "Although coups were carried out by the military, the latter proved a revolutionary force of change in many African countries.",
+        "C": "Unlike coups carried out in former French colonies, coups in former British colonies succeeded in bringing change to African politics.",
+        "D": "Coups carried out by junior officers were successful in bringing change than coups led by generals."
+      },
+      "correct_answer": "A",
+      "explanation": "Most coups in post-independence Africa were successful in removing leaders but often replaced them with military regimes that were just as authoritarian and did not bring significant political or economic change."
+    },
+    {
+      "id": "hist_2017_social_q67",
+      "question": "What was the major political agenda of the Transitional Period (1991-1994) in Ethiopia?",
+      "options": {
+        "A": "Finding a new foreign partner to help with economic and social recovery after decades of war.",
+        "B": "Re-establishing an Ethiopian army on the basis of ethnic and regional representation.",
+        "C": "Transforming the country from a centralized command economy to one based on the principles of market liberalism.",
+        "D": "Developing a constitution that would guarantee both the democratic rights of individuals and groups."
+      },
+      "correct_answer": "D",
+      "explanation": "The Transitional Period of Ethiopia (1991-1994) was primarily focused on drafting a new constitution that would establish a federal system and guarantee the rights of individuals and groups (nationalities)."
+    },
+    {
+      "id": "hist_2017_social_q68",
+      "question": "In which of the following countries did Ethiopia take part in a UN led Peace keeping mission?",
+      "options": {
+        "A": "Zimbabwe",
+        "B": "Sierra Leone",
+        "C": "Liberia",
+        "D": "Chad"
+      },
+      "correct_answer": "C",
+      "explanation": "Ethiopia has contributed troops to the UN Mission in Liberia (UNMIL) from 2003 to 2018."
+    },
+    {
+      "id": "hist_2017_social_q69",
+      "question": "Which of the following features of indigenous knowledge has the potential to contribute to overall development of a society?",
+      "options": {
+        "A": "Its sense of superiority",
+        "B": "Its unchanging nature",
+        "C": "Its disregard for morality",
+        "D": "Its holistic nature"
+      },
+      "correct_answer": "D",
+      "explanation": "Indigenous knowledge systems are often holistic, integrating social, economic, and environmental aspects, which is increasingly seen as valuable for sustainable development."
+    },
+    {
+      "id": "hist_2017_social_q70",
+      "question": "Which one of the following is NOT an example of cultural heritage?",
+      "options": {
+        "A": "The Palace of Abba Jifar",
+        "B": "Halala Kella of Dawro",
+        "C": "Semen National Park",
+        "D": "The Al Najashi Mosque"
+      },
+      "correct_answer": "C",
+      "explanation": "Semen National Park is a natural heritage site, not a cultural heritage site. The others (palaces, mosques, historical sites) are examples of cultural heritage."
+    },
+    {
+      "id": "hist_2017_social_q71",
+      "question": "Why did the Schlieffen plan failed in the WWI? Because",
+      "options": {
+        "A": "Germany did not receive support from Turkey on time.",
+        "B": "Russia mobilized quickly and attacked Germany.",
+        "C": "the US refused to send the arms Germany had paid for.",
+        "D": "Germany did not have air superiority on the western front."
+      },
+      "correct_answer": "B",
+      "explanation": "Russia mobilized faster than expected, forcing Germany to divert troops to the Eastern Front, weakening the massive assault intended to quickly defeat France in the West."
+    },
+    {
+      "id": "hist_2017_social_q72",
+      "question": "What was the difference between the self-help associations and the political parties that emerged in Africa in the inter-war period?",
+      "options": {
+        "A": "The former supported colonial rule while the latter demanded independence.",
+        "B": "The former were led by the educated elite while the latter were led by traditional leaders.",
+        "C": "The former were primarily concerned with economic issues while the latter focused on broader political matters.",
+        "D": "The former called for gradual transfer of power to Africans while the latter demanded speedy transfer."
+      },
+      "correct_answer": "C",
+      "explanation": "Self-help associations (like unions, welfare societies) focused on economic improvement and social welfare. Political parties were more focused on national politics and the struggle for independence."
+    },
+    {
+      "id": "hist_2017_social_q73",
+      "question": "Following the Wal-Wal incident of 1934, what action taken by Italy caused the outbreak of war between Ethiopia and Italy? Italy's",
+      "options": {
+        "A": "submission of unacceptable demands to the Ethiopian.",
+        "B": "decision to take the conflict to the League of Nations.",
+        "C": "deployment of army between Italo- Somaliland and Ethiopia.",
+        "D": "attempt to incite local populations in the border areas to rebel."
+      },
+      "correct_answer": "A",
+      "explanation": "After the Wal-Wal incident, Italy presented ultimatums and unacceptable demands to Ethiopia, which Ethiopia rejected, leading Italy to invade Ethiopia in 1935."
+    },
+    {
+      "id": "hist_2017_social_q74",
+      "question": "Why did the US declare war on Japan in the Second World War? Because",
+      "options": {
+        "A": "the US disliked the prospect of a modernizing and rising Japan.",
+        "B": "Japan attacked US bases on the Pacific at Pearl Harbour.",
+        "C": "Japan criticized US support for the Allies power in the Pacific.",
+        "D": "the US wanted to take over Japan's colonies in the Far East."
+      },
+      "correct_answer": "B",
+      "explanation": "The immediate cause of the US entering WWII was the Japanese surprise attack on the US naval base at Pearl Harbor on December 7, 1941."
+    },
+    {
+      "id": "hist_2017_social_q75",
+      "question": "What is the connection between the Atlantic Charter and the future UN? The charter underlined that",
+      "options": {
+        "A": "the establishment of an international organization to ensure world peace.",
+        "B": "the various bodies of the future United Nations to be functionary.",
+        "C": "a detailed description of how the United Nations would be run.",
+        "D": "the UN would be a failure if the Security Council was dominated by the Big Five."
+      },
+      "correct_answer": "A",
+      "explanation": "The Atlantic Charter (1941) outlined goals for the post-war world, including the disarmament of aggressor nations and the establishment of a permanent system of general security, which later became the UN."
+    },
+    {
+      "id": "hist_2017_social_q76",
+      "question": "What was the cause of the First Arab-Israeli War of 1948/1949?",
+      "options": {
+        "A": "British decision to take the issue of Palestine to the UN.",
+        "B": "The Arab States' refusal to accept the partition of Palestine.",
+        "C": "US decision to recognize the establishment of the state of Israel.",
+        "D": "The Israeli occupation of Jerusalem and the West Bank."
+      },
+      "correct_answer": "B",
+      "explanation": "The war began when Arab states rejected the UN partition plan of Palestine and invaded the newly declared state of Israel."
+    },
+    {
+      "id": "hist_2017_social_q77",
+      "question": "Which of the following was common to national liberation movements in Kenya and Algeria?",
+      "options": {
+        "A": "Strong influence of communist ideology",
+        "B": "Strong support from Socialist Tanzania",
+        "C": "Resort to armed struggle as a strategy",
+        "D": "Internal power struggle among the leaders"
+      },
+      "correct_answer": "C",
+      "explanation": "Both the Mau Mau uprising in Kenya and the National Liberation Front (FLN) in Algeria engaged in significant armed struggle against their respective colonizers."
+    },
+    {
+      "id": "hist_2017_social_q78",
+      "question": "Which one of the following African nationalist leaders took part in the 1945 Pan-African Congress that took place at Manchester?",
+      "options": {
+        "A": "Edward Blyden",
+        "B": "Julius Nyrere",
+        "C": "Gamal Abdel Nasser",
+        "D": "Kwame Nkrumah"
+      },
+      "correct_answer": "D",
+      "explanation": "Kwame Nkrumah, the future leader of Ghana, was a prominent participant in the 1945 Manchester Pan-African Congress."
+    },
+    {
+      "id": "hist_2017_social_q79",
+      "question": "Which one of the following developments characterizes the post-liberation period in Ethiopia?",
+      "options": {
+        "A": "Frequent coup attempts",
+        "B": "Suppression of landlordism",
+        "C": "Consolidation autocracy",
+        "D": "The expansion of education"
+      },
+      "correct_answer": "C",
+      "explanation": "The post-liberation period (after 1941) was characterized by Emperor Haile Selassie's progressive consolidation of power into his own hands, creating a personal autocracy."
+    },
+    {
+      "id": "hist_2017_social_q80",
+      "question": "Why did the Ethio-Eritrean federation fail? Because",
+      "options": {
+        "A": "the arrangement was subverted by the Italians.",
+        "B": "both unionists and separatists were dissatisfied with it.",
+        "C": "the UN did not provide the support it promised to Ethiopia.",
+        "D": "the federal representative in Asmara was corrupt and ineffective."
+      },
+      "correct_answer": "B",
+      "explanation": "The federation (1952-1962) failed because Ethiopian unionists wanted full integration, while Eritrean separatists wanted full independence. Both sides were dissatisfied with the compromise."
+    },
+    {
+      "id": "hist_2017_social_q81",
+      "question": "Which of the following Oromo group settled in the south western part of the Ethiopian region?",
+      "options": {
+        "A": "Mecha",
+        "B": "Borana",
+        "C": "Goji",
+        "D": "Ittu"
+      },
+      "correct_answer": "A",
+      "explanation": "The Mecha (or Macha) Oromo are primarily located in the southwestern parts of Ethiopia, particularly in the former Wollega and Shewa regions."
+    },
+    {
+      "id": "hist_2017_social_q82",
+      "question": "Why did Emperor Susenyos accept Catholicism? Because",
+      "options": {
+        "A": "he believed that the Catholic doctrine was superior to the teachings of the Orthodox Church.",
+        "B": "he wanted Portuguese military help in securing an outlet through the Red sea.",
+        "C": "he wanted to become rich and powerful by taking over the lands of the Orthodox Church.",
+        "D": "he hoped to get military support from the Catholic countries against his rivals."
+      },
+      "correct_answer": "D",
+      "explanation": "Emperor Susenyos converted to Catholicism to secure military support from the Portuguese/ Catholic powers against his internal rivals (the rebel lords) and external threats."
+    },
+    {
+      "id": "hist_2017_social_q83",
+      "question": "With which of the following was the Zemene Mesafint associated?",
+      "options": {
+        "A": "Revival of commerce and crafts",
+        "B": "Consolidation of monarchical power",
+        "C": "Doctrinal controversies in the Church",
+        "D": "Improvement of peasant conditions"
+      },
+      "correct_answer": "C",
+      "explanation": "The Zemene Mesafint (Era of Princes) was characterized by weak emperors and powerful regional lords. This period also saw major doctrinal controversies in the Ethiopian Orthodox Church (e.g., the Sost Lidet vs. Tewahedo debate)."
+    },
+    {
+      "id": "hist_2017_social_q84",
+      "question": "What was the consequence of the Tokugawa Shogunate's seclusion policy for Japan?",
+      "options": {
+        "A": "It ended Japanese voyages of discovery in Asia and hence economic benefits that could come from these activities.",
+        "B": "It prevented Japan from importing firearms and hence the capacity the state to consolidate power.",
+        "C": "It weakened Christianity in Japan by limiting regular contacts between the Japanese and foreigners.",
+        "D": "It limited the development of Japanese international trade and retarded its capitalistic development."
+      },
+      "correct_answer": "D",
+      "explanation": "The Sakoku (closed country) policy severely limited Japan's trade with the outside world, effectively stalling its economic integration and capitalist development for over two centuries."
+    },
+    {
+      "id": "hist_2017_social_q85",
+      "question": "What was the statement by John Locke that justified rebellion? A. That a government cannot ask its people for additional taxes without approval by parliament or a representative body. B. That a government which cannot protect the natural rights of its people is not a legitimate government. C. That in order to govern, a government would have to call Parliament into session regularly. D. That the legitimacy of a government is dependent on its ability to offer physical security to its citizens.",
+      "options": {
+        "A": "That a government cannot ask its people for additional taxes without approval by parliament or a representative body.",
+        "B": "That a government which cannot protect the natural rights of its people is not a legitimate government.",
+        "C": "That in order to govern, a government would have to call Parliament into session regularly.",
+        "D": "That the legitimacy of a government is dependent on its ability to offer physical security to its citizens."
+      },
+      "correct_answer": "B",
+      "explanation": "John Locke's social contract theory argued that if a government fails to protect the natural rights (life, liberty, property) of its citizens, they have the right to overthrow it."
+    },
+    {
+      "id": "hist_2017_social_q86",
+      "question": "What explains the involvement of large numbers of ordinary people in the French revolution between 1788 and early 1789?",
+      "options": {
+        "A": "The introduction of revolutionary ideas from the Americas.",
+        "B": "The collapse of the state's security system.",
+        "C": "The defeat of France in the Seven years' War.",
+        "D": "The food crisis and ensuing economic misery."
+      },
+      "correct_answer": "D",
+      "explanation": "Severe economic hardship, including famine, skyrocketing bread prices, and high taxes, drove ordinary Parisians and peasants to take to the streets, sparking the popular phase of the revolution."
+    },
+    {
+      "id": "hist_2017_social_q87",
+      "question": "Which one of the following was a consequence of the Industrial Revolution?",
+      "options": {
+        "A": "The decline of the urban population.",
+        "B": "The spread of the factory system.",
+        "C": "The improvement of the life of workers.",
+        "D": "The abolition of manual labor in manufacturing."
+      },
+      "correct_answer": "B",
+      "explanation": "The Industrial Revolution led to the mass production of goods in centralized factories, transforming the system of production from domestic to industrial."
+    },
+    {
+      "id": "hist_2017_social_q88",
+      "question": "How did the Congress of Vienna of 1815 seek to establish peace across Europe?",
+      "options": {
+        "A": "By establishing a balance of power among the European powers.",
+        "B": "By weakening the economic and military capabilities of France.",
+        "C": "By recognizing the democratic and nationalistic aspirations of European populations.",
+        "D": "By agreeing to support the reforms of liberalizing European governments."
+      },
+      "correct_answer": "A",
+      "explanation": "The Congress of Vienna aimed to maintain peace by creating a balance of power among the major European states, preventing any one nation from dominating the continent."
+    },
+    {
+      "id": "hist_2017_social_q89",
+      "question": "Which one of the following group was able to establish their own dynasty in Egypt?",
+      "options": {
+        "A": "Funj",
+        "B": "Almohads",
+        "C": "Abdallabi",
+        "D": "Manlukus"
+      },
+      "correct_answer": "D",
+      "explanation": "The Mamluks were a military caste of slave-soldiers who seized control of Egypt and established their own dynasty (the Mamluk Sultanate) in the 13th century."
+    },
+    {
+      "id": "hist_2017_social_q90",
+      "question": "Which one of the following was a consequence of the Trans-Atlantic Slave trade?",
+      "options": {
+        "A": "The overthrow of oppressive regimes by force of arms.",
+        "B": "Greater availability of land and hence expansion of the economy.",
+        "C": "The weakening of indigenous crafts and technology due to import of European goods.",
+        "D": "The rapid increase of population due to introduction of new food crops and medical technologies."
+      },
+      "correct_answer": "C",
+      "explanation": "The slave trade weakened African economies by draining labor and fueling internal wars. Moreover, the import of European manufactured goods undermined local industries and crafts."
+    },
+    {
+      "id": "hist_2017_social_q91",
+      "question": "Which of the following Ethiopian states had emerged first?",
+      "options": {
+        "A": "Gojjam",
+        "B": "Damot",
+        "C": "Enareya",
+        "D": "Wolayta"
+      },
+      "correct_answer": "B",
+      "explanation": "Damot (the Kingdom of Damot) was an ancient state in southern Ethiopia that emerged in the 13th century, preceding the states of Enarea and Wolayta."
+    },
+    {
+      "id": "hist_2017_social_q92",
+      "question": "Which one of the following was an outcome of the formation of the Ottoman Empire?",
+      "options": {
+        "A": "The weakening of the Persian Empire",
+        "B": "The spread of pastoral nomadism across Asia",
+        "C": "The decline of trade between Europe and Asia",
+        "D": "The expansion of Islam in the Balkan Peninsula"
+      },
+      "correct_answer": "D",
+      "explanation": "The expansion of the Ottoman Empire into the Balkans brought Islam to the region and left a lasting cultural and religious legacy in southeastern Europe."
+    },
+    {
+      "id": "hist_2017_social_q93",
+      "question": "Which one of the following was a key feature of early capitalism in Europe?",
+      "options": {
+        "A": "The relocation of manufacturing from the cities to the countryside.",
+        "B": "Massive investment in the construction of railways and roads.",
+        "C": "The development of a banking system that facilitated long distance.",
+        "D": "The decline of the power of the bourgeoisie in local and international trade."
+      },
+      "correct_answer": "C",
+      "explanation": "Early capitalism was supported by the growth of banking and credit systems that financed trade, exploration, and manufacturing ventures."
+    },
+    {
+      "id": "hist_2017_social_q94",
+      "question": "What was the motive behind the involvement of the Portuguese and Ottomans in the Ethiopian region in the 16th-century?",
+      "options": {
+        "A": "Establishing control over the source of the Abbay",
+        "B": "Spreading their respective religions in the region",
+        "C": "Finding markets for their manufactured goods",
+        "D": "Extending their economic and political influence in the region"
+      },
+      "correct_answer": "D",
+      "explanation": "Both the Portuguese (Catholic) and Ottomans (Muslim) were motivated by the desire to extend their global influence and control over trade routes. Their involvement in the Ethiopian-Adal conflict was part of this broader competition."
+    },
+    {
+      "id": "hist_2017_social_q95",
+      "question": "Which one of the following region was believed to have been an area of Oromo settlement prior to their 16th-century movement?",
+      "options": {
+        "A": "The Ethio-Sudan borderlands",
+        "B": "The upper course of the Awash River",
+        "C": "The area between the Wabi Shebelle and Juba",
+        "D": "The area adjoining upper Gana"
+      },
+      "correct_answer": "C",
+      "explanation": "The traditional homeland of the Oromo before their expansion in the 16th century is considered to be the area between the Wabi Shebelle and Juba rivers in the southeast."
+    },
+    {
+      "id": "hist_2017_social_q96",
+      "question": "Which of the following 19th-century Ethiopian societies shared a similar system of political organization?",
+      "options": {
+        "A": "Kaffa and Hadiya",
+        "B": "Wolayta and Kaffa",
+        "C": "Khomosha and Nuer",
+        "D": "Shewa and Gamo"
+      },
+      "correct_answer": "B",
+      "explanation": "Both the Kingdom of Wolayta and the Kingdom of Kaffa were centralized monarchies with complex administrative systems, distinguishing them from the less-centralized societies."
+    },
+    {
+      "id": "hist_2017_social_q97",
+      "question": "With which of the following medieval African states was Timbuktu associated?",
+      "options": {
+        "A": "Mali",
+        "B": "Ghana",
+        "C": "Kanem Bormu",
+        "D": "Songhai"
+      },
+      "correct_answer": "D",
+      "explanation": "Timbuktu, although founded earlier, reached its golden age as a major center of learning and trade under the Songhai Empire in the 15th and 16th centuries."
+    },
+    {
+      "id": "hist_2017_social_q98",
+      "question": "Why was the second phase of the Trans-Atlantic slave trade also known as the Triangular trade? Because the",
+      "options": {
+        "A": "merchants involved in this trade transported slaves to the Americas using triangular shaped ships.",
+        "B": "transportation of slaves to the Americas passed through three distinctive phases.",
+        "C": "trade linked traders and goods drawn from the continents of Africa, Europe and the Americas.",
+        "D": "slave trade during this period was dominated by the Portuguese, Spanish and Dutch."
+      },
+      "correct_answer": "C",
+      "explanation": "The 'Triangular Trade' refers to the three-cornered route of the Atlantic trade: Europe (goods) → Africa (slaves) → Americas (raw materials) → back to Europe."
+    },
+    {
+      "id": "hist_2017_social_q99",
+      "question": "Which one of the following was a consequence of the Industrial Revolution?",
+      "options": {
+        "A": "The domination of European society by aristocrats devoted to farming and the manufacturing bourgeoisie.",
+        "B": "The widening of income inequality between workers and capitalists.",
+        "C": "The improvement of living and working conditions for factory workers.",
+        "D": "Increase in unemployment due to the replacement of workers by machines."
+      },
+      "correct_answer": "B",
+      "explanation": "The Industrial Revolution created immense wealth for factory owners (capitalists) while subjecting workers (proletariat) to low wages and poor working conditions, significantly widening income inequality."
+    },
+    {
+      "id": "hist_2017_social_q100",
+      "question": "What was the fundamental cause of the American War of Independence?",
+      "options": {
+        "A": "The introduction of the different Acts by the British government.",
+        "B": "The support France gave to the Colonists against the British.",
+        "C": "The thirteen colonies rejection of strict rule by the British.",
+        "D": "The passage of the Declaration of Independence by the colonists."
+      },
+      "correct_answer": "A",
+      "explanation": "The British government's imposition of various acts (e.g., Stamp Act, Townshend Acts, Tea Act) to raise revenue and tighten control over the thirteen colonies was the fundamental cause of the colonists' rebellion."
+    }
+  ]
 }
