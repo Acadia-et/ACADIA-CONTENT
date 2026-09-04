@@ -1,10 +1,876 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "English",
-    "year":  2016,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_english_2016_social",
+  "content_type": "past_paper",
+  "title": "English - 2016 (Social)",
+  "year": 2016,
+  "subject": "English",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2016_social_q1",
+      "question": "Which one of the following topic sentences can best be developed using the exemplification method? (Topic sentences: I. I believe that being well-educated makes people happier than being rich. II. There are several instances that clearly show that an individual can make a big difference in a country's development. III. The theory of relativity is not that difficult to explain. IV. You will not believe what happened to me on my 17th birthday!)",
+      "options": {
+        "A": "IV",
+        "B": "II",
+        "C": "III",
+        "D": "I"
+      },
+      "correct_answer": "B",
+      "explanation": "Exemplification involves providing specific instances or examples to support a general statement. Sentence II states that there are 'several instances' showing an individual can make a difference, which would be developed by giving examples."
+    },
+    {
+      "id": "eng_2016_social_q2",
+      "question": "Which one of the above topic sentences can best be developed using the argumentative method? (Topic sentences: I. I believe that being well-educated makes people happier than being rich. II. There are several instances that clearly show that an individual can make a big difference in a country's development. III. The theory of relativity is not that difficult to explain. IV. You will not believe what happened to me on my 17th birthday!)",
+      "options": {
+        "A": "IV",
+        "B": "II",
+        "C": "III",
+        "D": "I"
+      },
+      "correct_answer": "D",
+      "explanation": "Sentence I presents a debatable claim or belief ('I believe that...') that would need to be supported with logical arguments and evidence to persuade the reader."
+    },
+    {
+      "id": "eng_2016_social_q3",
+      "question": "Which one of the above topic sentences can best be developed using the expository method? (Topic sentences: I. I believe that being well-educated makes people happier than being rich. II. There are several instances that clearly show that an individual can make a big difference in a country's development. III. The theory of relativity is not that difficult to explain. IV. You will not believe what happened to me on my 17th birthday!)",
+      "options": {
+        "A": "IV",
+        "B": "II",
+        "C": "III",
+        "D": "I"
+      },
+      "correct_answer": "C",
+      "explanation": "Expository writing aims to explain or inform. Sentence III states that a complex theory is 'not that difficult to explain', which implies the paragraph will explain it factually."
+    },
+    {
+      "id": "eng_2016_social_q4",
+      "question": "Choose the one which is correctly spelt.",
+      "options": {
+        "A": "fascinate",
+        "B": "surgion",
+        "C": "extinct",
+        "D": "landscape"
+      },
+      "correct_answer": "A",
+      "explanation": "'Fascinate' is the correct spelling. 'Surgion' is a misspelling of 'Surgeon'."
+    },
+    {
+      "id": "eng_2016_social_q5",
+      "question": "Choose the one which is correctly spelt.",
+      "options": {
+        "A": "diagnos",
+        "B": "afforestation",
+        "C": "accomodate",
+        "D": "infrastructure"
+      },
+      "correct_answer": "B",
+      "explanation": "'Afforestation' is the correct spelling. 'Diagnos' should be 'Diagnose'. 'Accomodate' should be 'Accommodate'."
+    },
+    {
+      "id": "eng_2016_social_q6",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. The main obstacle is the quality of the roads. b. Driving in the city is really difficult. c. I hope the city administration is working hard to improve the situation. d. The number of cars the city hosts is also much higher than the capacity of the city.",
+      "options": {
+        "A": "b d a c",
+        "B": "a d c b",
+        "C": "d b a c",
+        "D": "b a d c"
+      },
+      "correct_answer": "D",
+      "explanation": "The logical order is: b (General statement about driving being difficult), a (First obstacle: road quality), d (Second obstacle: number of cars), c (Hoping for improvement)."
+    },
+    {
+      "id": "eng_2016_social_q7",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. It is, therefore, possible to say that reading with undivided attention for a short time makes people more effective than sitting in a library the whole night. b. One reason for this may be that they get distracted frequently by some noise around them or phone calls from their friends. c. If they worry too much about the exam while reading their notes, this might also take their concentration away from what they are reading. d. Why do some students who study for long hours sometimes fail their exams?",
+      "options": {
+        "A": "d b c a",
+        "B": "b d a c",
+        "C": "a c d b",
+        "D": "d a b c"
+      },
+      "correct_answer": "A",
+      "explanation": "The logical order is: d (Posing the question), b (First reason: distraction), c (Second reason: worry), a (Conclusion based on the reasons)."
+    },
+    {
+      "id": "eng_2016_social_q8",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. The author stated that in an elementary school, teachers were observed paying more attention to cuter children. b. I believe being physically attractive is an important factor in determining success in life. c. Such children are more likely to love school and hence become more successful. d. I came to this conclusion after I read an interesting article.",
+      "options": {
+        "A": "d b c a",
+        "B": "b a c d",
+        "C": "b d a c",
+        "D": "a c d b"
+      },
+      "correct_answer": "C",
+      "explanation": "The logical order is: b (Stating the belief), d (Explaining how the conclusion was reached), a (Providing evidence from an article), c (Explaining the outcome for the children)."
+    },
+    {
+      "id": "eng_2016_social_q9",
+      "question": "When you put in the correct order, sentences (a - d) make up a complete paragraph. a. Others assert that the advantages outweigh the disadvantages. b. To support their claim, they point to the frequent unrest being caused by all the fake news being spread every minute. c. Some people say that social media is doing more harm than good. d. According to them, useful changes happen rapidly all over the world due to social media.",
+      "options": {
+        "A": "d a b c",
+        "B": "c b a d",
+        "C": "c a b d",
+        "D": "b d c a"
+      },
+      "correct_answer": "C",
+      "explanation": "The logical order is: c (Introducing the 'harm' viewpoint), a (Introducing the 'benefit' viewpoint), b (Supporting the 'harm' viewpoint with an example), d (Supporting the 'benefit' viewpoint with an example)."
+    },
+    {
+      "id": "eng_2016_social_q10",
+      "question": "The missing part of the letter in number 2 is: (Informal letter structure: Sender's address, [Blank 2], Body, [Blank 3], 'Your friend Samy')",
+      "options": {
+        "A": "receiver's name",
+        "B": "date",
+        "C": "opening salutation",
+        "D": "sender's address"
+      },
+      "correct_answer": "C",
+      "explanation": "The structure of a letter is: Sender's Address, Date, Opening Salutation (e.g., 'Dear...'), Body, Closing Salutation, Sender's Name. Number 2 is the opening salutation."
+    },
+    {
+      "id": "eng_2016_social_q11",
+      "question": "The missing part of the letter in number 3 is: (Informal letter structure: Sender's address, [Blank 2], Body, [Blank 3], 'Your friend Samy')",
+      "options": {
+        "A": "receiver's address",
+        "B": "closing salutation",
+        "C": "sender's address",
+        "D": "sender's signature"
+      },
+      "correct_answer": "B",
+      "explanation": "The structure of a letter is: Sender's Address, Date, Opening Salutation, Body, Closing Salutation, Sender's Name. Number 3 is the closing salutation (e.g., 'Yours sincerely')."
+    },
+    {
+      "id": "eng_2016_social_q12",
+      "question": "The missing part of the letter in number 1 is: (Informal letter structure: Sender's address, [Blank 2], Body, [Blank 3], 'Your friend Samy')",
+      "options": {
+        "A": "date",
+        "B": "receiver's name",
+        "C": "sender's signature",
+        "D": "sender's address"
+      },
+      "correct_answer": "A",
+      "explanation": "The structure of a letter is: Sender's Address, Date, Opening Salutation, Body, Closing Salutation, Sender's Name. Number 1 is the date."
+    },
+    {
+      "id": "eng_2016_social_q13",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "\"Do you believe in god?\" He asked.",
+        "B": "\"Do You believe in God?\" he asked.",
+        "C": "\"Do you believe in God?\" he asked.",
+        "D": "\"do you believe in God?\" he asked."
+      },
+      "correct_answer": "C",
+      "explanation": "The 'g' in 'God' should be capitalized as it is a name. The word 'Do' in the quote is capitalized as it is the start of the sentence. The reporting clause 'he asked' is not capitalized since it follows the quote."
+    },
+    {
+      "id": "eng_2016_social_q14",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "He is not doing very well despite the support, he gets from his family.",
+        "B": "He is not doing very well, Despite the support he gets from his family.",
+        "C": "Despite the support he gets from his family he is not doing very well.",
+        "D": "Despite the support he gets from his family, he is not doing very well."
+      },
+      "correct_answer": "D",
+      "explanation": "A comma is used to separate an introductory dependent clause from the main clause. 'Despite the support he gets from his family' is the introductory phrase, so it needs a comma before 'he is not doing very well'."
+    },
+    {
+      "id": "eng_2016_social_q15",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "I wanted to know his name, not his father's.",
+        "B": "I wanted, to know his name not his father's.",
+        "C": "I wanted to know his name not, his father's.",
+        "D": "I wanted to know his name not his father's."
+      },
+      "correct_answer": "A",
+      "explanation": "A comma is used to separate the two contrasting elements in the sentence: 'his name' and 'not his father's'. Option A correctly places the comma."
+    },
+    {
+      "id": "eng_2016_social_q16",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "She is beautiful; however, she is not intelligent.",
+        "B": "She is beautiful. However, she is not intelligent.",
+        "C": "She is beautiful, however, she is not intelligent.",
+        "D": "She is beautiful; However, she is not intelligent."
+      },
+      "correct_answer": "A",
+      "explanation": "A semicolon is used to join two independent clauses. The transition word 'however' is followed by a comma. The 'h' in 'however' is not capitalized because it is not the start of a new sentence."
+    },
+    {
+      "id": "eng_2016_social_q17",
+      "question": "The words in the following question are NOT in the right order. When put in the right order, they make a correct English sentence: always aspired to famous she become really has.",
+      "options": {
+        "A": "She has always aspired to become really famous.",
+        "B": "She really has become always aspired to famous.",
+        "C": "She always has to become really famous aspired.",
+        "D": "Always, she aspired to has become famous really."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct word order for a present perfect sentence with an adverb of frequency is: Subject + have/has + adverb + verb (past participle)."
+    },
+    {
+      "id": "eng_2016_social_q18",
+      "question": "The words in the following question are NOT in the right order. When put in the right order, they make a correct English sentence: when jogging to listen music he not goes does he.",
+      "options": {
+        "A": "When he does not jogging, he goes to music listen.",
+        "B": "He does not listen to music when he goes jogging.",
+        "C": "He goes to listen music when he does not jogging.",
+        "D": "When he does jogging, he not goes to listen music."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct structure is: Subject + does not + verb + object + when + subject + verb (ing). Option B follows this structure: 'He does not listen to music when he goes jogging.'"
+    },
+    {
+      "id": "eng_2016_social_q19",
+      "question": "Which one of the following is NOT among student's duties in college? (Passage I: Factors that Lead to Success in College)",
+      "options": {
+        "A": "reading for exams",
+        "B": "writing term papers",
+        "C": "doing a part-time job",
+        "D": "doing assignments"
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 2 says some students 'are forced to work' (do a part-time job) to help with finances. It is not a duty like reading, writing papers, or doing assignments."
+    },
+    {
+      "id": "eng_2016_social_q20",
+      "question": "What should students consider before choosing area of study as implied in paragraph 4? (Passage I)",
+      "options": {
+        "A": "the status of the area of study in the society where they live",
+        "B": "the job opportunity there may be for them after graduation",
+        "C": "the interest and capacity they have in an area of study",
+        "D": "their parents' approval of the area of study"
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 4 states 'Students may have very high expectations and select a major that presents demands they cannot meet' and 'If they are more focused on what they want...'. This implies that considering their own interest and capacity is crucial."
+    },
+    {
+      "id": "eng_2016_social_q21",
+      "question": "Which one of the following words has the correct meaning to the word 'realize' as stated in paragraph 2? (Passage I)",
+      "options": {
+        "A": "implement",
+        "B": "achieve",
+        "C": "boost",
+        "D": "understand"
+      },
+      "correct_answer": "D",
+      "explanation": "In the context of the passage, 'help them realize their own capacity' means to help them 'understand' their own capacity."
+    },
+    {
+      "id": "eng_2016_social_q22",
+      "question": "In order to achieve their goals, students do not need (Passage I)",
+      "options": {
+        "A": "emotional support",
+        "B": "the latest computer",
+        "C": "enthusiasm for what they study",
+        "D": "the capacity to focus"
+      },
+      "correct_answer": "B",
+      "explanation": "Paragraph 1 lists support from family, strong motivation, and focus. Paragraph 5 mentions enthusiasm. There is no mention of needing the latest computer."
+    },
+    {
+      "id": "eng_2016_social_q23",
+      "question": "According to the information in paragraph 2, students who doubt themselves (Passage I)",
+      "options": {
+        "A": "can be successful in college if given the right support.",
+        "B": "should not be given the chance to join college at all.",
+        "C": "can only cause trouble to their family and friends.",
+        "D": "will surely fail in their studies at college."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 2 says 'Students need this support system to help them realize their own capacity even when they doubt themselves. Families can encourage them to persevere.' This implies they can succeed with support."
+    },
+    {
+      "id": "eng_2016_social_q24",
+      "question": "Studying in college can be a challenge for some students because they (Passage I)",
+      "options": {
+        "A": "tend to waste the money they receive from family and friends.",
+        "B": "do part-time jobs to earn money so that they can have fun.",
+        "C": "choose to have fun and relax rather than studying hard.",
+        "D": "may not afford to buy materials required for their study."
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 2 states 'tuition and books are very expensive; consequently, some students are forced to work.' This indicates some students may struggle to afford materials."
+    },
+    {
+      "id": "eng_2016_social_q25",
+      "question": "What does the word 'persevere' as used in paragraph 2, line 7 mean? (Passage I)",
+      "options": {
+        "A": "decide",
+        "B": "give up",
+        "C": "carry on",
+        "D": "predict"
+      },
+      "correct_answer": "C",
+      "explanation": "Persevere means to continue despite difficulty. 'Carry on' is the closest synonym."
+    },
+    {
+      "id": "eng_2016_social_q26",
+      "question": "Which of the following words can be synonymous with the word 'dedicated' in paragraph 3, line 4? (Passage I)",
+      "options": {
+        "A": "committed",
+        "B": "stubborn",
+        "C": "desperate",
+        "D": "decided"
+      },
+      "correct_answer": "A",
+      "explanation": "Dedicated means devoted or committed to a cause or purpose."
+    },
+    {
+      "id": "eng_2016_social_q27",
+      "question": "What does the word 'demands' as used in paragraph 4, line 5 mean? (Passage I)",
+      "options": {
+        "A": "opportunities",
+        "B": "orders",
+        "C": "requests",
+        "D": "requirements"
+      },
+      "correct_answer": "D",
+      "explanation": "In this context, 'demands' refers to the level of difficulty and expectations (requirements) of a particular course of study."
+    },
+    {
+      "id": "eng_2016_social_q28",
+      "question": "The author suggests that the best way to prevent plagiarism in colleges is to (Passage II: Breaking the Rules)",
+      "options": {
+        "A": "train university authorities so they can easily prevent it from happening",
+        "B": "train teachers to be able to detect the crime when it is committed",
+        "C": "make students aware in advance that the act is wrong",
+        "D": "punish the criminal when he/she is found cheating"
+      },
+      "correct_answer": "C",
+      "explanation": "The author states 'I believe that university authorities should discourage plagiarism by making students more aware of the problems it causes.'"
+    },
+    {
+      "id": "eng_2016_social_q29",
+      "question": "It is implied in paragraph 2 that (Passage II)",
+      "options": {
+        "A": "the majority of students commit this crime but it's not taken seriously",
+        "B": "buying material from the Internet is the most frequent way of cheating",
+        "C": "there is nothing universities/colleges can do to control academic theft",
+        "D": "plagiarism can easily be detected and there are punishments for it"
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 2 says 'Instructors can use software that compares a student essay and material on the Internet... The consequences are very serious.' This implies it can be detected and is punishable."
+    },
+    {
+      "id": "eng_2016_social_q30",
+      "question": "What does the word 'This' in paragraph 1, line 4 refer to? (Passage II)",
+      "options": {
+        "A": "buying essays from the Internet",
+        "B": "using the internet regularly",
+        "C": "making your work easier",
+        "D": "being tempted to cheat"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence says 'One of the most frequent ways of cheating is to buy essays from the Internet. This may result in a good grade.' So 'This' refers to buying essays from the Internet."
+    },
+    {
+      "id": "eng_2016_social_q31",
+      "question": "The right thing to do for students who believe their writing skills are not so good is to (Passage II)",
+      "options": {
+        "A": "try harder and improve their own writing skills through repeated practice",
+        "B": "focus on just the idea and let the teacher worry about the accuracy of their writing",
+        "C": "ask their friends to write essays for them instead of taking them from the Internet",
+        "D": "buy essays from the Internet legally"
+      },
+      "correct_answer": "A",
+      "explanation": "The passage says 'Instead, students might try to negotiate with their instructor on the deadline. Furthermore, while writing may be a struggle for some students... it is crucial that they do their own work. They may go to a writing center for help.' This implies they should try to improve their own skills."
+    },
+    {
+      "id": "eng_2016_social_q32",
+      "question": "If students have too many assignments to complete, they (Passage II)",
+      "options": {
+        "A": "should withdraw and take some time to improve their skills.",
+        "B": "can ask their classmates to do some of the work for them.",
+        "C": "have no choice but borrow some material from the Internet.",
+        "D": "can try and convince their teacher to give them more time."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage says 'Instead, students might try to negotiate with their instructor on the deadline.'"
+    },
+    {
+      "id": "eng_2016_social_q33",
+      "question": "Which one of the following is NOT a problem caused by plagiarism? (Passage II)",
+      "options": {
+        "A": "The student's social relationships can be negatively affected.",
+        "B": "The student can receive an F for the course or assignment.",
+        "C": "The student can be suspended from the college/university.",
+        "D": "The student can waste a lot of time surfing the Internet."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage mentions damage to relationships (A), consequences like receiving an F or suspension (B, C). It does not say the student wastes time surfing the Internet."
+    },
+    {
+      "id": "eng_2016_social_q34",
+      "question": "What does the word 'their' in paragraph 2, line 2 refer to? (Passage II)",
+      "options": {
+        "A": "the group's",
+        "B": "the classmates'",
+        "C": "the students'",
+        "D": "the teachers'"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence is 'Students are expected by teachers and their classmates to do their own work.' 'Their' refers to the students."
+    },
+    {
+      "id": "eng_2016_social_q35",
+      "question": "What does the word 'this' in paragraph 3, line 2 refer to? (Passage II)",
+      "options": {
+        "A": "pretending the essays copied from internet as yours",
+        "B": "the way instructors can compare students' essays",
+        "C": "saving the time initially on presentation",
+        "D": "buying essays from the Internet"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence is 'Even though buying essays and presenting them as your own may save time initially, this is against university rules.' So 'this' refers to presenting as your own."
+    },
+    {
+      "id": "eng_2016_social_q36",
+      "question": "Which one of the following has the closest meaning to the word 'negotiate' as used in paragraph 4, line 5? (Passage II)",
+      "options": {
+        "A": "argue",
+        "B": "disagree",
+        "C": "deal",
+        "D": "dispute"
+      },
+      "correct_answer": "C",
+      "explanation": "To negotiate means to discuss something in order to reach an agreement. 'Deal' is the closest synonym in this context."
+    },
+    {
+      "id": "eng_2016_social_q37",
+      "question": "Choose the sentence with the closest meaning: Had you studied harder, you wouldn't have found the exam so hard.",
+      "options": {
+        "A": "Although you studied so hard, the exam was too difficult for you.",
+        "B": "You didn't study hard so you found the exam to be difficult.",
+        "C": "Even if you studied hard, the exam would be hard for you.",
+        "D": "You studied hard so the exam was not hard for you at all."
+      },
+      "correct_answer": "B",
+      "explanation": "This is a third conditional sentence. 'Had you studied harder' means 'you did not study hard'. 'You wouldn't have found the exam so hard' means 'you found the exam hard'."
+    },
+    {
+      "id": "eng_2016_social_q38",
+      "question": "Choose the sentence with the closest meaning: If I were you, I would look for a scholarship abroad.",
+      "options": {
+        "A": "You should have applied for a scholarship abroad, but it's too late now.",
+        "B": "You are not as wise as I am so you have not applied for a scholarship.",
+        "C": "I believe it is a good idea for you to apply for a scholarship abroad.",
+        "D": "Sadly, I am not you so I will not look for a scholarship abroad."
+      },
+      "correct_answer": "C",
+      "explanation": "The structure 'If I were you, I would...' is a way of giving advice. It means the speaker thinks it is a good idea for the listener to do something."
+    },
+    {
+      "id": "eng_2016_social_q39",
+      "question": "Cub is to a Lion; ______ is to a Cow.",
+      "options": {
+        "A": "Veal",
+        "B": "Kitten",
+        "C": "Bull",
+        "D": "Calf"
+      },
+      "correct_answer": "D",
+      "explanation": "A cub is a young lion. A calf is a young cow."
+    },
+    {
+      "id": "eng_2016_social_q40",
+      "question": "Driver is to a Car; ______ is to a Ship.",
+      "options": {
+        "A": "Swimmer",
+        "B": "Sailor",
+        "C": "Rider",
+        "D": "Surfer"
+      },
+      "correct_answer": "B",
+      "explanation": "A driver operates a car. A sailor operates a ship."
+    },
+    {
+      "id": "eng_2016_social_q41",
+      "question": "Due to economic and cultural factors, many children in the countryside ______ of school.",
+      "options": {
+        "A": "run out",
+        "B": "fall out",
+        "C": "leave out",
+        "D": "drop out"
+      },
+      "correct_answer": "D",
+      "explanation": "To 'drop out' means to leave school before finishing one's studies."
+    },
+    {
+      "id": "eng_2016_social_q42",
+      "question": "The whole building collapsed when it was hit by a missile. Only two children were found alive in the rubble.",
+      "options": {
+        "A": "fortunate",
+        "B": "fearless",
+        "C": "mysterious",
+        "D": "miraculous"
+      },
+      "correct_answer": "D",
+      "explanation": "The situation is extraordinary and seemingly impossible, making it 'miraculous'. 'Fortunate' implies luck, while 'miraculous' implies a miracle."
+    },
+    {
+      "id": "eng_2016_social_q43",
+      "question": "The conflict between the two countries had ______ effect on their economy. They have been spending a lot on armaments.",
+      "options": {
+        "A": "a complementary",
+        "B": "an easing",
+        "C": "an encouraging",
+        "D": "a disastrous"
+      },
+      "correct_answer": "D",
+      "explanation": "Spending a lot on armaments indicates a negative, harmful impact. 'Disastrous' means causing great damage."
+    },
+    {
+      "id": "eng_2016_social_q44",
+      "question": "A new cure for malaria has been found. This could reduce the ______ that has normally been caused by the disease, especially in developing countries.",
+      "options": {
+        "A": "famine",
+        "B": "fatality",
+        "C": "immunity",
+        "D": "longevity"
+      },
+      "correct_answer": "B",
+      "explanation": "A cure for a disease would reduce the number of deaths (fatality) it causes."
+    },
+    {
+      "id": "eng_2016_social_q45",
+      "question": "I think memories are usually pleasant. That is because, as children, we didn't have to worry about the hardships of life.",
+      "options": {
+        "A": "children",
+        "B": "child",
+        "C": "childhood",
+        "D": "childish"
+      },
+      "correct_answer": "C",
+      "explanation": "The context is about the time of being a child. 'Childhood' is the noun for that period."
+    },
+    {
+      "id": "eng_2016_social_q46",
+      "question": "Any negotiation is a give-and-take process but there are things we cannot ______ for anything. There is a limit to what you can give.",
+      "options": {
+        "A": "condemn",
+        "B": "compromise",
+        "C": "dispute",
+        "D": "discuss"
+      },
+      "correct_answer": "B",
+      "explanation": "'Compromise' means to settle a dispute by mutual concession. The sentence suggests there are things we should not give up or compromise on."
+    },
+    {
+      "id": "eng_2016_social_q47",
+      "question": "The ongoing competition between the two powerful countries to control the region is causing more harm than good to the people.",
+      "options": {
+        "A": "hatred",
+        "B": "argument",
+        "C": "contest",
+        "D": "cooperation"
+      },
+      "correct_answer": "C",
+      "explanation": "In this context, 'competition' means a contest for control. 'Contest' is the closest synonym."
+    },
+    {
+      "id": "eng_2016_social_q48",
+      "question": "Any country needs a strong government in order to limit or eradicate unlawful activities by some elements of society.",
+      "options": {
+        "A": "suspicious",
+        "B": "trading",
+        "C": "secretive",
+        "D": "illicit"
+      },
+      "correct_answer": "D",
+      "explanation": "'Unlawful' means illegal or forbidden. 'Illicit' is a direct synonym."
+    },
+    {
+      "id": "eng_2016_social_q49",
+      "question": "She told the class a very funny story. Nobody could stop laughing!",
+      "options": {
+        "A": "silly",
+        "B": "long",
+        "C": "hilarious",
+        "D": "useful"
+      },
+      "correct_answer": "C",
+      "explanation": "'Hilarious' is a stronger synonym for 'funny' that fits the context of people unable to stop laughing."
+    },
+    {
+      "id": "eng_2016_social_q50",
+      "question": "After her long career in several international organizations, she is now engaged in humanitarian service intending to give back to the community.",
+      "options": {
+        "A": "obligatory",
+        "B": "profitable",
+        "C": "professional",
+        "D": "charitable"
+      },
+      "correct_answer": "D",
+      "explanation": "'Humanitarian' refers to promoting human welfare and social reform. 'Charitable' is the most direct synonym for this type of service."
+    },
+    {
+      "id": "eng_2016_social_q51",
+      "question": "When you buy an item from a shop, you are usually given a one-year assurance to if it stops working, you can get it fixed for free.",
+      "options": {
+        "A": "guarantee",
+        "B": "certificate",
+        "C": "service",
+        "D": "replacement"
+      },
+      "correct_answer": "A",
+      "explanation": "'Assurance' in this context means a promise to repair or replace a product. 'Guarantee' is the correct term."
+    },
+    {
+      "id": "eng_2016_social_q52",
+      "question": "Conservation of natural resources is one of the key duties of any society.",
+      "options": {
+        "A": "utilization",
+        "B": "afforestation",
+        "C": "renovation",
+        "D": "protection"
+      },
+      "correct_answer": "D",
+      "explanation": "'Conservation' means the preservation and protection of something, especially natural resources."
+    },
+    {
+      "id": "eng_2016_social_q53",
+      "question": "Interviewer: You said that you left your previous work place because the organization was old-fashioned. What do you mean?\nCandidate: The management is not open to change; they always want to do things the old way.",
+      "options": {
+        "A": "Let me re-phrase what I just said",
+        "B": "I will say that again if you want",
+        "C": "Let me repeat what I just said",
+        "D": "Let me say it again loudly"
+      },
+      "correct_answer": "A",
+      "explanation": "The interviewer is asking for clarification, not a repetition. The candidate is explaining in different words, which is 're-phrasing'."
+    },
+    {
+      "id": "eng_2016_social_q54",
+      "question": "Kenan: What do you think will be the next major scientific discovery?\nJojo:",
+      "options": {
+        "A": "I will suppose they are discovering a cure for cancer.",
+        "B": "I'm supposing they will discover a cure for cancer.",
+        "C": "I suppose they will discover a cure for cancer.",
+        "D": "I suppose the cancer will be wide spreading."
+      },
+      "correct_answer": "C",
+      "explanation": "The best way to express a personal opinion or prediction is 'I suppose they will discover a cure for cancer.'"
+    },
+    {
+      "id": "eng_2016_social_q55",
+      "question": "Abraham: ______\nVeronica: I believe both are equally important.",
+      "options": {
+        "A": "Why do you think many people prefer money than love?",
+        "B": "Do you think money is more important than love?",
+        "C": "Do you believe that money can buy love?",
+        "D": "Do you think love is the most important?"
+      },
+      "correct_answer": "B",
+      "explanation": "Veronica's response 'both are equally important' directly answers a question that asks to compare two things, like money and love."
+    },
+    {
+      "id": "eng_2016_social_q56",
+      "question": "Banker: Good morning, sir. How shall I help you?\nCustomer: How much is the rate today?\nBanker: Of course. The exchange rate today is 56 Birr for a dollar.",
+      "options": {
+        "A": "Good morning. I want you to give me some dollars, if you don't mind.",
+        "B": "Good morning. I'm in a hurry. Give me some dollars now, will you?",
+        "C": "Good morning. I'm here to convert some Birr to dollars right now.",
+        "D": "Good morning. I would like to change some dollars, please."
+      },
+      "correct_answer": "D",
+      "explanation": "The customer's question 'How much is the rate today?' is most logically preceded by a request to exchange currency. 'I would like to change some dollars, please.' is a polite way to state this."
+    },
+    {
+      "id": "eng_2016_social_q57",
+      "question": "Which one of the following sentences is grammatically accurate?",
+      "options": {
+        "A": "Lions can easily kill buffalos, not because lions are stronger but because they are more intelligent.",
+        "B": "Malaria is one of the diseases that kills the highest number of people.",
+        "C": "Everyone in the school complain about the poor service in the cafe.",
+        "D": "Either the boy or the girls living next door speaks French."
+      },
+      "correct_answer": "A",
+      "explanation": "Option A is correct. 'Are' is used for plural subjects. B should be 'kill' (plural verb for 'diseases'). C should be 'complains' (singular verb for 'everyone'). D should be 'speak' (plural verb for 'the girls')."
+    },
+    {
+      "id": "eng_2016_social_q58",
+      "question": "Alex joined the natural sciences stream when he was in Grade 10 because his father wanted him to be a doctor. Now he is in Grade 12 and he feels he is more talented in the arts. He says",
+      "options": {
+        "A": "I wish I had joined the natural science stream.",
+        "B": "I wish I had joined the social science stream.",
+        "C": "I wish I never listened to my father's advice.",
+        "D": "I wish I joined the social science stream."
+      },
+      "correct_answer": "B",
+      "explanation": "He is in Grade 12 (present) and regrets a past decision (joining natural science). 'I wish I had joined...' is the correct structure for past regret. He wishes he had made the opposite choice, which is the social science stream."
+    },
+    {
+      "id": "eng_2016_social_q59",
+      "question": "This year, money for the construction of a wider and greener football pitch ______. The school management has decided to improve the sports field in our school.",
+      "options": {
+        "A": "will be raising",
+        "B": "has raised",
+        "C": "is being raised",
+        "D": "is raising"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence is in the passive voice. Money is being raised by the school management. The present continuous passive 'is being raised' indicates an ongoing process."
+    },
+    {
+      "id": "eng_2016_social_q60",
+      "question": "An important message on the famous journalist's burial ceremony ______ by the manager of the organization for which he worked.",
+      "options": {
+        "A": "was being transmitted",
+        "B": "had transmitted",
+        "C": "was transmitted",
+        "D": "transmitted"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence is in the passive voice. A message 'was transmitted' by the manager. Past simple passive is correct."
+    },
+    {
+      "id": "eng_2016_social_q61",
+      "question": "My son intends ______ economics when he joins university.",
+      "options": {
+        "A": "to have studied",
+        "B": "to study",
+        "C": "study",
+        "D": "studying"
+      },
+      "correct_answer": "B",
+      "explanation": "The verb 'intend' is followed by an infinitive (to + verb). 'Intends to study' is the correct structure."
+    },
+    {
+      "id": "eng_2016_social_q62",
+      "question": "The first thing you should do when you do a reading test is read the questions you are going to answer. ______ you should read the text quickly to get the general idea.",
+      "options": {
+        "A": "While",
+        "B": "After",
+        "C": "Instead",
+        "D": "Then"
+      },
+      "correct_answer": "D",
+      "explanation": "The word 'Then' indicates the next step in a sequence. After reading the questions, 'then' you read the text."
+    },
+    {
+      "id": "eng_2016_social_q63",
+      "question": "He wrote the essay carelessly. The teacher couldn't read it. Which of the following sentences combines these two sentences correctly?",
+      "options": {
+        "A": "He wrote the essay so carelessly as he didn't want the teacher to read it.",
+        "B": "He wrote the essay so carelessly that the teacher couldn't read it.",
+        "C": "He wrote the essay such carelessly that the teacher couldn't read it.",
+        "D": "He wrote the essay carelessly, so that the teacher couldn't read it."
+      },
+      "correct_answer": "B",
+      "explanation": "The 'so...that' structure is used to show cause and effect. 'So carelessly that' is the correct grammatical structure."
+    },
+    {
+      "id": "eng_2016_social_q64",
+      "question": "My spoken English has been improved a lot. Because, I ______ English classes in the evenings consecutively for six months.",
+      "options": {
+        "A": "have been being attended",
+        "B": "have been attend",
+        "C": "have been attended",
+        "D": "have been attending"
+      },
+      "correct_answer": "D",
+      "explanation": "The present perfect continuous tense (have been + verb-ing) is used to describe an action that started in the past and continues to the present. 'Have been attending' is the correct form."
+    },
+    {
+      "id": "eng_2016_social_q65",
+      "question": "All of us in my family are teachers. We are all employed by the government. ______ of us has his/her own private company.",
+      "options": {
+        "A": "None",
+        "B": "Each",
+        "C": "Everyone",
+        "D": "All"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence says they are all employed by the government. This implies none of them has their own private company."
+    },
+    {
+      "id": "eng_2016_social_q66",
+      "question": "Having worked for eight consecutive hours, he ______ exhausted.",
+      "options": {
+        "A": "came",
+        "B": "became",
+        "C": "declared",
+        "D": "shifted"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct verb to use with 'exhausted' to describe a state of becoming is 'became'."
+    },
+    {
+      "id": "eng_2016_social_q67",
+      "question": "When you bought me the alarm clock for my last birthday, you were actually trying to tell me that I was wasting too much time sleeping, ______?",
+      "options": {
+        "A": "wasn't I",
+        "B": "weren't I",
+        "C": "didn't you",
+        "D": "weren't you"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence is a statement about 'you' (the person who bought the clock). The verb is 'were trying' (past continuous). The question tag for 'were' is 'weren't you'."
+    },
+    {
+      "id": "eng_2016_social_q68",
+      "question": "Many people think that students fail the exam because it is ______ for them to pass. But I believe, it is because most students do not work ______.",
+      "options": {
+        "A": "too difficult/hard enough",
+        "B": "too difficult/hardly",
+        "C": "difficult enough/too hard",
+        "D": "too difficult/ enough hard"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct structure is 'too + adjective + to' (too difficult to pass). The second part uses 'hard enough' to describe insufficient effort."
+    },
+    {
+      "id": "eng_2016_social_q69",
+      "question": "A key feature of the new law is that it promotes the use of renewable energy, ______ both economic and environmental benefits.",
+      "options": {
+        "A": "to provide",
+        "B": "provides",
+        "C": "providing",
+        "D": "provided"
+      },
+      "correct_answer": "C",
+      "explanation": "A present participle phrase (providing...) is used here to provide additional information about the main clause. The participle phrase modifies the entire main clause."
+    },
+    {
+      "id": "eng_2016_social_q70",
+      "question": "The number of people who are willing to pay for renewable energy is growing, but the technology ______ in many parts of the world is still not advanced enough.",
+      "options": {
+        "A": "using",
+        "B": "used",
+        "C": "is used",
+        "D": "uses"
+      },
+      "correct_answer": "B",
+      "explanation": "The phrase 'used in many parts of the world' is a past participle phrase modifying the noun 'technology'. It describes the technology that is being used."
+    },
+    {
+      "id": "eng_2016_social_q71",
+      "question": "Which one of the following is an example of a non-verbal communication?",
+      "options": {
+        "A": "Reading a book aloud",
+        "B": "Giving a speech",
+        "C": "Using a phone to call someone",
+        "D": "Nodding your head to show agreement"
+      },
+      "correct_answer": "D",
+      "explanation": "Non-verbal communication involves conveying messages without words. Nodding your head is a non-verbal gesture. The other options involve using spoken or written words."
+    },
+    {
+      "id": "eng_2016_social_q72",
+      "question": "Which one of the following words is correctly used to describe a person who is very interested in learning new things?",
+      "options": {
+        "A": "curious",
+        "B": "careful",
+        "C": "cautious",
+        "D": "caring"
+      },
+      "correct_answer": "A",
+      "explanation": "'Curious' describes a person who is eager to know or learn something."
+    }
+  ]
 }
