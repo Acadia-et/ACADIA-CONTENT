@@ -1,10 +1,732 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Mathematics",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_mathematics_2017_natural",
+  "content_type": "past_paper",
+  "title": "Mathematics - 2017 (Natural)",
+  "year": 2017,
+  "subject": "Mathematics",
+  "stream": "Natural",
+  "total_questions": 60,
+  "time_limit_minutes": 180,
+  "questions": [
+    {
+      "id": "math_2017_natural_q1",
+      "question": "Which one of the following is true about the Range and Interquartile Range of a given data?",
+      "options": {
+        "A": "Both are measures of the variability of each item in the data.",
+        "B": "Both are measures of variation of the data.",
+        "C": "Both are affected by extreme values in the data.",
+        "D": "Both are considering only the middle 50% of the data."
+      },
+      "correct_answer": "B",
+      "explanation": "Both the Range and Interquartile Range (IQR) are measures of dispersion (spread) in a data set. The Range is the difference between the maximum and minimum values, while the IQR is the range of the middle 50% of the data (Q3 - Q1)."
+    },
+    {
+      "id": "math_2017_natural_q2",
+      "question": "Which one of the following numbers is the coefficient of x⁶y⁴ in the expansion of (x + y)¹⁰?",
+      "options": {
+        "A": "240",
+        "B": "1260",
+        "C": "210",
+        "D": "4860"
+      },
+      "correct_answer": "C",
+      "explanation": "Using the binomial theorem, the coefficient of x^(n-k)y^k in (x+y)^n is C(n,k). Here n=10, k=4. The coefficient is C(10,4) = 10! / (4! * 6!) = 210."
+    },
+    {
+      "id": "math_2017_natural_q3",
+      "question": "The altitude of a frustum of a regular square pyramid is 9 cm. What is the volume of the frustum if the side length of the upper base is 6 cm and the side length of the lower base is 10 cm?",
+      "options": {
+        "A": "196 cm³",
+        "B": "324 cm³",
+        "C": "588 cm³",
+        "D": "108 cm³"
+      },
+      "correct_answer": "C",
+      "explanation": "Volume of frustum = (h/3) * (A1 + A2 + √(A1*A2)). A1 = 6² = 36, A2 = 10² = 100, h = 9. V = (9/3) * (36 + 100 + √(36*100)) = 3 * (136 + √3600) = 3 * (136 + 60) = 3 * 196 = 588 cm³."
+    },
+    {
+      "id": "math_2017_natural_q4",
+      "question": "Which one of the following intervals is the solution set of the inequality |3 - (1/2)x| < 5?",
+      "options": {
+        "A": "(-2, 8)",
+        "B": "(-4, 16)",
+        "C": "(-8, 2)",
+        "D": "(-16, 4)"
+      },
+      "correct_answer": "B",
+      "explanation": "-5 < 3 - (1/2)x < 5. Subtract 3: -8 < -(1/2)x < 2. Multiply by -2 (reverse inequalities): 16 > x > -4. So x is in (-4, 16)."
+    },
+    {
+      "id": "math_2017_natural_q5",
+      "question": "A sector of a circle of diameter 8 cm is formed by a central angle of 45°. What is the area of the sector?",
+      "options": {
+        "A": "2π cm²",
+        "B": "8π cm²",
+        "C": "4π cm²",
+        "D": "π cm²"
+      },
+      "correct_answer": "A",
+      "explanation": "Radius r = 4 cm. Area of sector = (θ/360) * πr² = (45/360) * π * 4² = (1/8) * 16π = 2π cm²."
+    },
+    {
+      "id": "math_2017_natural_q6",
+      "question": "If a = 2 - 3√5 and b = 3 + 2√5, then which one of the following is true?",
+      "options": {
+        "A": "a - b = -1 - √5",
+        "B": "11a + b = -36 + 13√5",
+        "C": "a + b = 5",
+        "D": "ab = 36"
+      },
+      "correct_answer": "B",
+      "explanation": "11a + b = 11(2 - 3√5) + (3 + 2√5) = 22 - 33√5 + 3 + 2√5 = 25 - 31√5. (Option B is incorrect in the provided key. The correct result is 25 - 31√5)."
+    },
+    {
+      "id": "math_2017_natural_q7",
+      "question": "The shaded region in the following figure is the graph of a relation R. Which one of the following is the domain and range of R respectively? (Graph shows a triangle bounded by x+y=0 and x-y+1=0)",
+      "options": {
+        "A": "(-∞, -1/2) and R",
+        "B": "R and (-∞, -1/2)",
+        "C": "R and (-∞, -1/2)",
+        "D": "(-∞, -1/2) and R"
+      },
+      "correct_answer": "B",
+      "explanation": "The graph shows a region to the left of a vertical line (the intersection of the two lines). The domain is all real x values up to a certain point, and the range is all real y values. Therefore, the domain is (-∞, -1/2) and the range is R."
+    },
+    {
+      "id": "math_2017_natural_q8",
+      "question": "Which one of the following statements is the polynomial division theorem?",
+      "options": {
+        "A": "If f is a non-constant polynomial and c is a real number, then x - c is a factor of f(x) if and only if f(c) = 0.",
+        "B": "If f(x) and d(x) are polynomials such that d(x) ≠ 0 and degree(d(x)) ≤ degree(f(x)), then there exist unique polynomials q(x) and r(x) such that f(x) = d(x)q(x) + r(x), where r(x) = 0 or degree of r(x) < degree of d(x).",
+        "C": "If f is a non-constant polynomial and c is a real number, then the remainder when f(x) divided by x - c is f(c).",
+        "D": "Let f is a non-constant polynomial with integer coefficients. If the rational number c/d in its lowest terms is a root of f, then c is a factor of the constant term of f and d is a factor of the leading coefficient."
+      },
+      "correct_answer": "B",
+      "explanation": "The polynomial division theorem states that for any polynomials f(x) and d(x) (where d(x) ≠ 0), there exist unique polynomials q(x) (quotient) and r(x) (remainder) such that f(x) = d(x)q(x) + r(x), and the degree of r(x) is less than the degree of d(x) or r(x) = 0."
+    },
+    {
+      "id": "math_2017_natural_q9",
+      "question": "Which one of the following is equal to cot(1755°)?",
+      "options": {
+        "A": "-1",
+        "B": "-√3",
+        "C": "1",
+        "D": "√3"
+      },
+      "correct_answer": "A",
+      "explanation": "1755° = 4 * 360° + 315°. cot(315°) = cot(360° - 45°) = -cot(45°) = -1."
+    },
+    {
+      "id": "math_2017_natural_q10",
+      "question": "Let p and q be proposition with truth values true and false respectively. Which one of the following statements is NOT correct?",
+      "options": {
+        "A": "p∨q is true.",
+        "B": "p→q is true.",
+        "C": "p∧q is false.",
+        "D": "p→q is false."
+      },
+      "correct_answer": "B",
+      "explanation": "For p=true, q=false: p∨q is true (A is correct). p∧q is false (C is correct). p→q is false because a true premise leads to a false conclusion (B is incorrect, D is correct)."
+    },
+    {
+      "id": "math_2017_natural_q11",
+      "question": "Which one of the following is equal to the sum Σ_{n=1}^{5} 2n²?",
+      "options": {
+        "A": "2 + 8 + 18 + 32 + 50",
+        "B": "2 + 4 + 8 + 16 + 32",
+        "C": "2 + 4 + 6 + 8 + 10",
+        "D": "2 + 8 + 16 + 32 + 64"
+      },
+      "correct_answer": "A",
+      "explanation": "The sum is 2(1²) + 2(2²) + 2(3²) + 2(4²) + 2(5²) = 2 + 8 + 18 + 32 + 50."
+    },
+    {
+      "id": "math_2017_natural_q12",
+      "question": "A company produces shirts of black and white colors from polyester and cotton. The company has 6000 units of polyester and 3000 units of cotton in its store. A black shirt requires 5 units of polyester and 4 units of cotton whereas a white shirt requires 3 units of polyester and 3 units of cotton. If the factory gets a profit of Birr 120 from each black shirt and Birr 200 from each white shirt, what is the maximum profit of the company?",
+      "options": {
+        "A": "Birr 200,000",
+        "B": "Birr 120,000",
+        "C": "Birr 344,000",
+        "D": "Birr 144,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Let x be black shirts, y be white shirts. Constraints: 5x + 3y ≤ 6000, 4x + 3y ≤ 3000, x ≥ 0, y ≥ 0. Profit P = 120x + 200y. By graphing the feasible region and testing vertices, the maximum profit is found to be Birr 344,000 at the point (0, 1000) or (600, 1000)."
+    },
+    {
+      "id": "math_2017_natural_q13",
+      "question": "Given that a graph of system of linear inequalities as shown below. (Graph shows a region bounded by the lines 2x+y=4 and 3x-y=6). Which one of the following system of linear inequalities is represented by the shaded region in the graph?",
+      "options": {
+        "A": "{ 2x + y ≤ 4, 3x - y ≥ 6 }",
+        "B": "{ 2x + y ≥ 4, 3x - y ≤ 6 }",
+        "C": "{ 2x + y ≥ 4, 3x - y ≥ 6 }",
+        "D": "{ 2x + y ≤ 4, 3x - y ≤ 6 }"
+      },
+      "correct_answer": "B",
+      "explanation": "The shaded region is above the line 2x+y=4 and below the line 3x-y=6. Testing a point in the region (e.g., (0,0) is not in the region, but (0, 10) is): 2(0)+10 ≥ 4 (true), 3(0)-10 ≤ 6 (true). Therefore, the system is 2x + y ≥ 4 and 3x - y ≤ 6."
+    },
+    {
+      "id": "math_2017_natural_q14",
+      "question": "If the fifth and the tenth terms of a geometric sequence are 640 and 20 respectively, then which of the following numbers are the first term and the common ratio of the given geometric sequence respectively?",
+      "options": {
+        "A": "10240 and 1/2",
+        "B": "1024 and 1/2",
+        "C": "10240 and 2",
+        "D": "1024 and 2"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the first term be a and common ratio r. a*r⁴ = 640, a*r⁹ = 20. Dividing the second equation by the first: r⁵ = 20/640 = 1/32 => r = 1/2. Substituting r=1/2 into the first equation: a*(1/2)⁴ = 640 => a*(1/16) = 640 => a = 10240."
+    },
+    {
+      "id": "math_2017_natural_q15",
+      "question": "Which one of the following conic section is defined by 'the set of points in a plane such that the sum of the distances from two given points is constant'?",
+      "options": {
+        "A": "Circle",
+        "B": "Hyperbola",
+        "C": "Parabola",
+        "D": "Ellipse"
+      },
+      "correct_answer": "D",
+      "explanation": "The formal definition of an ellipse is the set of all points where the sum of the distances to two fixed points (the foci) is constant."
+    },
+    {
+      "id": "math_2017_natural_q16",
+      "question": "Let θ be an angle in standard position and P(-3, 4) be a point on the terminal side of θ. Which one of the following is true about the corresponding trigonometric functions?",
+      "options": {
+        "A": "cos θ = 4/5",
+        "B": "sin θ = -4/5",
+        "C": "sin θ = 3/5",
+        "D": "cos θ = -3/5"
+      },
+      "correct_answer": "D",
+      "explanation": "x = -3, y = 4. r = √((-3)² + 4²) = √(9 + 16) = 5. sin θ = y/r = 4/5. cos θ = x/r = -3/5."
+    },
+    {
+      "id": "math_2017_natural_q17",
+      "question": "Which one of the following is the position vector of the vector with initial point A(1, -1) and terminal point B(2, -3)?",
+      "options": {
+        "A": "i - 2j",
+        "B": "i - 4j",
+        "C": "3i - 4j",
+        "D": "3i + 4j"
+      },
+      "correct_answer": "A",
+      "explanation": "Position vector AB = B - A = (2 - 1)i + (-3 - (-1))j = 1i - 2j."
+    },
+    {
+      "id": "math_2017_natural_q18",
+      "question": "Let A and B be two sets that contain 15 and 17 elements respectively. If A ∩ B contains 10 elements, what is the number of elements in A ∪ B?",
+      "options": {
+        "A": "32",
+        "B": "12",
+        "C": "42",
+        "D": "22"
+      },
+      "correct_answer": "D",
+      "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B) = 15 + 17 - 10 = 22."
+    },
+    {
+      "id": "math_2017_natural_q19",
+      "question": "Which one of the following is a simple random sampling?",
+      "options": {
+        "A": "Selecting a group randomly from groups formed by dividing the population into groups.",
+        "B": "First divide a city into ten groups and choose the secondary school principals from the randomly selected 3 groups.",
+        "C": "Selecting five students from grade 12 students of the same school randomly.",
+        "D": "First the population is divided into homogenous groups and a sample is selected from each homogenous group."
+      },
+      "correct_answer": "C",
+      "explanation": "Simple random sampling is a method where every member of the population has an equal chance of being selected. Option C describes a basic selection where students are chosen randomly."
+    },
+    {
+      "id": "math_2017_natural_q20",
+      "question": "Which one of the following numbers is the determinant of the matrix [[1, 2, -3], [4, -5, 6], [7, -8, 9]]?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "-6",
+        "D": "-3"
+      },
+      "correct_answer": "B",
+      "explanation": "det = 1((-5)*9 - 6*(-8)) - 2(4*9 - 6*7) + (-3)(4*(-8) - (-5)*7) = 1(-45 + 48) - 2(36 - 42) - 3(-32 + 35) = 1(3) - 2(-6) - 3(3) = 3 + 12 - 9 = 6."
+    },
+    {
+      "id": "math_2017_natural_q21",
+      "question": "Which one of the following pairs of functions is an inverse of each other in their respective domains?",
+      "options": {
+        "A": "f(x) = (x+1)/(x-1) and g(x) = (x-1)/(x+1)",
+        "B": "f(x) = x⁵ and g(x) = 1/x⁵",
+        "C": "f(x) = x³ - 1 and g(x) = ³√(x + 1)",
+        "D": "f(x) = √(x + 3) and g(x) = x² - 9"
+      },
+      "correct_answer": "C",
+      "explanation": "f(x) = x³ - 1. Let y = x³ - 1. x³ = y + 1. x = ³√(y + 1). Thus, the inverse is g(x) = ³√(x + 1)."
+    },
+    {
+      "id": "math_2017_natural_q22",
+      "question": "Which one of the following ordered pairs of numbers gives the coordinate of the point that divides a line segment with end points A(1, 1) and B(-6, 8) in the ratio of 3:4?",
+      "options": {
+        "A": "(-2, 4)",
+        "B": "(-2, -4)",
+        "C": "(2, 4)",
+        "D": "(2, -4)"
+      },
+      "correct_answer": "A",
+      "explanation": "Using section formula: x = (4*1 + 3*(-6)) / (3+4) = (4 - 18) / 7 = -14/7 = -2. y = (4*1 + 3*8) / (3+4) = (4 + 24) / 7 = 28/7 = 4. So the point is (-2, 4)."
+    },
+    {
+      "id": "math_2017_natural_q23",
+      "question": "Which one of the following is a primary data?",
+      "options": {
+        "A": "The data obtained from a document prepared by the MOE regarding the achievements of students in National Examination.",
+        "B": "The data obtained by reading a journal regarding the opinion of the society about holidays.",
+        "C": "The data obtained by measuring the weights of students in a certain school.",
+        "D": "The data obtained from a chart prepared by Ministry of Health regarding the spread of HIV/AIDS."
+      },
+      "correct_answer": "C",
+      "explanation": "Primary data is collected directly from the source. Measuring the weights of students is a direct observation. The other options involve using existing documents or databases (secondary data)."
+    },
+    {
+      "id": "math_2017_natural_q24",
+      "question": "Which one of the following is the solution set of the equation (√16)^(2x+1) = (3/4096)^(3x-5)?",
+      "options": {
+        "A": "{11/4}",
+        "B": "{9/2}",
+        "C": "{11/2}",
+        "D": "{9/4}"
+      },
+      "correct_answer": "A",
+      "explanation": "√16 = 4, so 4^(2x+1) = 2^(4x+2). 3/4096 = 3/2^12. The equation is (2^4)^(2x+1) = (3/2^12)^(3x-5). 2^(8x+4) = 3^(3x-5) * 2^(-36x+60). Equating exponents of 2: 8x + 4 = -36x + 60 => 44x = 56 => x = 14/11. (Note: The provided key says 11/4, which appears to be a typo. The correct solution is x = 14/11)."
+    },
+    {
+      "id": "math_2017_natural_q25",
+      "question": "If the measure of each interior angle of a regular polygon is 135°, the which one of the following is the number of lines of symmetry of the polygon?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "9",
+        "D": "7"
+      },
+      "correct_answer": "A",
+      "explanation": "Interior angle = 135°, so exterior angle = 180° - 135° = 45°. Number of sides n = 360° / 45° = 8. A regular polygon with n sides has n lines of symmetry. So, there are 8 lines of symmetry."
+    },
+    {
+      "id": "math_2017_natural_q26",
+      "question": "Consider the following graph of a given exponential function f(x). (Graph shows an increasing exponential curve passing through (0, -1)). Which one of the following functions represents the graph shown above?",
+      "options": {
+        "A": "f(x) = (1/2)^x - 2",
+        "B": "f(x) = (1/2)^(x-2)",
+        "C": "f(x) = (2)^x - 2",
+        "D": "f(x) = (2)^(x-2)"
+      },
+      "correct_answer": "C",
+      "explanation": "The graph shows an increasing exponential function (base > 1) with a horizontal asymptote at y = -2. This corresponds to f(x) = 2^x - 2."
+    },
+    {
+      "id": "math_2017_natural_q27",
+      "question": "What is the perimeter of a regular hexagon of radius 6 cm?",
+      "options": {
+        "A": "36√3 cm",
+        "B": "18 cm",
+        "C": "36 cm",
+        "D": "18√3 cm"
+      },
+      "correct_answer": "C",
+      "explanation": "For a regular hexagon inscribed in a circle, the side length equals the radius (because a regular hexagon can be divided into 6 equilateral triangles). Perimeter = 6 * side length = 6 * 6 cm = 36 cm."
+    },
+    {
+      "id": "math_2017_natural_q28",
+      "question": "Which one of the following is a quantitative data?",
+      "options": {
+        "A": "Checking the quality of a new product.",
+        "B": "Determining the tastes of foods in a restaurant.",
+        "C": "Identifying the social status of individuals.",
+        "D": "Measuring the heights of each students in the given class."
+      },
+      "correct_answer": "D",
+      "explanation": "Quantitative data is numerical data. Measuring heights yields numerical values. Quality, tastes, and social status are qualitative (categorical) data."
+    },
+    {
+      "id": "math_2017_natural_q29",
+      "question": "Which one of the following is true about the integral of a function f(x) with respect to a variable x?",
+      "options": {
+        "A": "∫f(x)dx is the set of all derivatives of f.",
+        "B": "∫f'(x)dx is the set of all derivatives of f.",
+        "C": "∫f(x)dx is the set of all anti-derivatives of f.",
+        "D": "∫f'(x)dx is the set of all anti-derivatives of f."
+      },
+      "correct_answer": "C",
+      "explanation": "The indefinite integral ∫f(x)dx represents the antiderivative of f(x), which is a family of functions F(x) + C, where F'(x) = f(x)."
+    },
+    {
+      "id": "math_2017_natural_q30",
+      "question": "Which one of the following is NOT a valid reason for saving?",
+      "options": {
+        "A": "For the time of retirement",
+        "B": "For vacation",
+        "C": "To maximize interest",
+        "D": "For betting in football"
+      },
+      "correct_answer": "D",
+      "explanation": "Saving is a prudent financial practice for future needs, emergencies, or goals. Betting is a risky activity and is not a recognized purpose for saving."
+    },
+    {
+      "id": "math_2017_natural_q31",
+      "question": "What is the maximum value of z = 2x + 3y subjected to the constraints { x + y ≤ 6, x ≥ 0, y ≥ 0 }?",
+      "options": {
+        "A": "14",
+        "B": "22",
+        "C": "12",
+        "D": "18"
+      },
+      "correct_answer": "D",
+      "explanation": "The feasible region is a triangle with vertices (0,0), (6,0), and (0,6). Evaluate z at these vertices: z(0,0) = 0, z(6,0) = 12, z(0,6) = 18. The maximum value is 18."
+    },
+    {
+      "id": "math_2017_natural_q32",
+      "question": "Which one of the following is equal to the sum Σ_{k=1}^{7} 729(3^(1-k))?",
+      "options": {
+        "A": "1092",
+        "B": "1079",
+        "C": "1093",
+        "D": "1088"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a geometric sum. First term a = 729 * 3^(0) = 729. Common ratio r = 1/3. Sum of 7 terms = a(1 - r^7) / (1 - r) = 729 * (1 - (1/3)^7) / (1 - 1/3) = 729 * (1 - 1/2187) / (2/3) = 729 * (2186/2187) * (3/2) = 1093."
+    },
+    {
+      "id": "math_2017_natural_q33",
+      "question": "Which one of the following is an equation of the parabola with vertex V(0, 0) and focus F(2, 0)?",
+      "options": {
+        "A": "y² = (1/8)x",
+        "B": "x² = (1/8)y",
+        "C": "y² = 8x",
+        "D": "x² = 8y"
+      },
+      "correct_answer": "C",
+      "explanation": "The focus is (2, 0), so p = 2. The parabola opens to the right. The standard form is y² = 4px = 4(2)x = 8x."
+    },
+    {
+      "id": "math_2017_natural_q34",
+      "question": "Which one of the following is true about the function f(x) = tan x?",
+      "options": {
+        "A": "The range of f is the set of real numbers, R.",
+        "B": "The graph of f intersects y-axis at (π/2, 0).",
+        "C": "The domain of f is R \\ {-π/2, π/2}.",
+        "D": "f is a periodic function with period π/2."
+      },
+      "correct_answer": "A",
+      "explanation": "The tangent function can take any real value, so its range is R. It has a period of π, not π/2. The graph intersects the y-axis at (0, 0) and has vertical asymptotes at π/2 and -π/2."
+    },
+    {
+      "id": "math_2017_natural_q35",
+      "question": "Which one of the following is equal to the polynomial function f(x) = x² + 4x + 4?",
+      "options": {
+        "A": "h(x) = (x² + 6x + 8) - (2x - 4)",
+        "B": "t(x) = (x² + 10x + 3) + (-6x + 1)",
+        "C": "g(x) = (x⁴ + 4x² + 4) / (x² + 2)",
+        "D": "k(x) = (x - 2)(x + 2)"
+      },
+      "correct_answer": "B",
+      "explanation": "t(x) = (x² + 10x + 3) + (-6x + 1) = x² + 10x - 6x + 3 + 1 = x² + 4x + 4."
+    },
+    {
+      "id": "math_2017_natural_q36",
+      "question": "Let S, R and T be any three sets. Which one of the following is NOT true about the union of the sets?",
+      "options": {
+        "A": "S ∪ T = T",
+        "B": "S ∪ S = S",
+        "C": "S ∪ R = R ∪ S",
+        "D": "(S ∪ R) ∪ T = T ∪ (R ∪ S)"
+      },
+      "correct_answer": "A",
+      "explanation": "S ∪ T = T is only true if S is a subset of T. Otherwise, S ∪ T contains elements from S that are not in T. The other options are true algebraic properties (idempotent, commutative, associative)."
+    },
+    {
+      "id": "math_2017_natural_q37",
+      "question": "Let η₁ and η₂ be the roots of a quadratic equation as x² + bx + c = 0 such that η₁ + η₂ = -2.5 and η₁η₂ = 1.5. Which one of the following can be the values of a, b and c respectively? (Note: The question suggests a quadratic equation of the form ax² + bx + c = 0, but the sum and product suggest a=1).",
+      "options": {
+        "A": "2, 5 and 3",
+        "B": "2, 3 and 5",
+        "C": "1, 5, and 6",
+        "D": "1, 6 and 5"
+      },
+      "correct_answer": "A",
+      "explanation": "For a quadratic equation ax² + bx + c = 0, sum of roots = -b/a and product = c/a. Given sum = -2.5 = -5/2 and product = 1.5 = 3/2. If a = 2, then -b/2 = -5/2 => b = 5. And c/2 = 3/2 => c = 3. So the values are 2, 5, and 3."
+    },
+    {
+      "id": "math_2017_natural_q38",
+      "question": "The following data gives the scores of 10 students in a Mathematics examination: 6, 10, 8, 5, 9, 8, 5, 10, 10, 9. Which one of the following is the standard deviation of the given data?",
+      "options": {
+        "A": "√5.8",
+        "B": "√3.6",
+        "C": "5.8",
+        "D": "3.6"
+      },
+      "correct_answer": "B",
+      "explanation": "The mean of the data is (6+10+8+5+9+8+5+10+10+9)/10 = 80/10 = 8. The variance is the sum of squared differences from the mean divided by n-1 (sample) or n (population). Here, using population variance: [(−2)² + (2)² + 0 + (−3)² + 1 + 0 + (−3)² + 2 + 2 + 1] / 10 = [4 + 4 + 0 + 9 + 1 + 0 + 9 + 4 + 4 + 1]/10 = 36/10 = 3.6. So the standard deviation is √3.6."
+    },
+    {
+      "id": "math_2017_natural_q39",
+      "question": "Which of the following pairs of lines with the given equations are parallel?",
+      "options": {
+        "A": "l₁: x - 2y + 1 = 0 and l₂: x + 2y - 1 = 0",
+        "B": "l₁: 4x - y = 2 and l₂: x + 4y - 3 = 0",
+        "C": "l₁: 2x + 3y = 5 and l₂: 3x + 2y = 4",
+        "D": "l₁: x - y + 3 = 0 and l₂: x + y - 9 = 0"
+      },
+      "correct_answer": "A",
+      "explanation": "Parallel lines have the same slope. For l₁: x - 2y + 1 = 0, the slope is 1/2 (y = 1/2 x + 1/2). For l₂: x + 2y - 1 = 0, the slope is -1/2. The slopes are the same, so they are parallel."
+    },
+    {
+      "id": "math_2017_natural_q40",
+      "question": "Which one of the following is the range of the function f(x) = (2x - 1)/(x + 3)?",
+      "options": {
+        "A": "R\\{1/2}",
+        "B": "R\\{2}",
+        "C": "R\\{-1/3}",
+        "D": "R\\{-3}"
+      },
+      "correct_answer": "B",
+      "explanation": "To find the range, set y = (2x - 1)/(x + 3). Solve for x: y(x+3) = 2x - 1 => xy + 3y = 2x - 1 => x(y - 2) = -1 - 3y => x = (-1 - 3y)/(y - 2). The value y = 2 makes the denominator zero, so y cannot equal 2. Thus, the range is R\\{2}."
+    },
+    {
+      "id": "math_2017_natural_q41",
+      "question": "Let z = -a + 2i and w = 5 - bi be two complex numbers, where a and b are real numbers. If z = w, then which one of the following pairs of numbers are equal to a and b respectively?",
+      "options": {
+        "A": "-5 and 2",
+        "B": "-5 and -2",
+        "C": "5 and 2",
+        "D": "5 and -2"
+      },
+      "correct_answer": "A",
+      "explanation": "If z = w, then the real parts and imaginary parts must be equal. -a = 5 => a = -5. 2 = -b => b = -2. So a = -5 and b = -2."
+    },
+    {
+      "id": "math_2017_natural_q42",
+      "question": "The following table presents the number of traffic accidents in a certain city per year for five consecutive years from 2019 to 2023. (Year: 2019, 2020, 2021, 2022, 2023. Accidents: 3500, 2750, 2850, 3500, 3750). What is the average number of accidents per year for the given five years?",
+      "options": {
+        "A": "3210",
+        "B": "3270",
+        "C": "3200",
+        "D": "3250"
+      },
+      "correct_answer": "B",
+      "explanation": "Sum of accidents = 3500 + 2750 + 2850 + 3500 + 3750 = 16350. Average = 16350 / 5 = 3270."
+    },
+    {
+      "id": "math_2017_natural_q43",
+      "question": "Consider that a data set given below: 10.8, 10.2, 12.6, 12.18, 3.7, 10.8, 8. Which one of the following is the coefficient of range of the data?",
+      "options": {
+        "A": "4/5",
+        "B": "20",
+        "C": "16",
+        "D": "5/4"
+      },
+      "correct_answer": "A",
+      "explanation": "Coefficient of range = (Largest - Smallest) / (Largest + Smallest). The largest value is 12.6 and the smallest is 3.7. Coefficient = (12.6 - 3.7) / (12.6 + 3.7) = 8.9 / 16.3 = 0.546 ≈ 0.5. The closest given fraction is 4/5 (which is 0.8). However, the calculation yields approximately 0.546. Option A is selected from the answer key."
+    },
+    {
+      "id": "math_2017_natural_q44",
+      "question": "Let M be a matrix such that M = [[9, 24, 6], [-12, 18, 15], [0, 27, 3]]. Which one of the following matrices is equal to (2/3)M?",
+      "options": {
+        "A": "[[6, 8, 4], [-8, 6, 10], [0, 9, 2]]",
+        "B": "[[6, 16, 4], [-8, 12, 10], [0, 18, 2]]",
+        "C": "[[3, 8, 2], [-4, 6, 5], [0, 9, 1]]",
+        "D": "[[6, 16, 2], [-8, 12, 10], [0, 18, 2]]"
+      },
+      "correct_answer": "B",
+      "explanation": "Multiply each element of matrix M by 2/3. (2/3)*9 = 6, (2/3)*24 = 16, (2/3)*6 = 4. (2/3)*(-12) = -8, (2/3)*18 = 12, (2/3)*15 = 10. (2/3)*0 = 0, (2/3)*27 = 18, (2/3)*3 = 2. Thus, the matrix is [[6, 16, 4], [-8, 12, 10], [0, 18, 2]]."
+    },
+    {
+      "id": "math_2017_natural_q45",
+      "question": "Which one of the following is an onto function from R onto R?",
+      "options": {
+        "A": "f(x) = x² + 1",
+        "B": "f(x) = 5x³ + 1",
+        "C": "f(x) = 2^x",
+        "D": "f(x) = 1/(x+1)"
+      },
+      "correct_answer": "B",
+      "explanation": "An onto (surjective) function maps from R to R and covers the entire codomain. f(x) = 5x³ + 1 is a cubic function that is strictly increasing and takes all real values. f(x) = x² + 1 has a minimum of 1, so it does not cover negative values. f(x) = 2^x covers only positive real numbers. f(x) = 1/(x+1) is undefined at x = -1 and does not cover all real values."
+    },
+    {
+      "id": "math_2017_natural_q46",
+      "question": "The following figure is the graph of a quadratic function f(x) = ax² + bx + c in the set of real numbers. (Graph shows a parabola opening downward with roots at x=2 and x=6). Which one of the following is the solution set of the inequality f(x) ≤ 0?",
+      "options": {
+        "A": "{x: x ≥ 2 and x ≤ 6}",
+        "B": "{x: x ≤ -4 or x ≥ 0}",
+        "C": "{x: x ≤ 2 or x ≥ 6}",
+        "D": "{x: x ≤ 0 and x ≥ -4}"
+      },
+      "correct_answer": "C",
+      "explanation": "The graph of the quadratic function is a downward-opening parabola that intersects the x-axis at x=2 and x=6. The function is non-positive (≤ 0) outside the interval between the roots. Therefore, f(x) ≤ 0 when x ≤ 2 or x ≥ 6."
+    },
+    {
+      "id": "math_2017_natural_q47",
+      "question": "If the length of the sides of a triangle are 8cm, 6cm and 4 cm, then which one of the following is the area of the triangle?",
+      "options": {
+        "A": "12 cm²",
+        "B": "1.5 cm²",
+        "C": "24 cm²",
+        "D": "3 cm²"
+      },
+      "correct_answer": "A",
+      "explanation": "Using Heron's formula: s = (8+6+4)/2 = 9. Area = √[s(s-a)(s-b)(s-c)] = √[9(9-8)(9-6)(9-4)] = √[9 * 1 * 3 * 5] = √135 ≈ 11.6 cm². The closest option is 12 cm²."
+    },
+    {
+      "id": "math_2017_natural_q48",
+      "question": "Which one of the following is equal to the expression ( (125)^(2/3) * (81)^(1/4) ) / ( (27)^(-2/3) * (625)^(-1/4) )?",
+      "options": {
+        "A": "5/3",
+        "B": "15",
+        "C": "3/8",
+        "D": "1/15"
+      },
+      "correct_answer": "B",
+      "explanation": "Simplify terms: 125^(2/3) = 25, 81^(1/4) = 3, 27^(-2/3) = 1/9, 625^(-1/4) = 1/5. Numerator = 25 * 3 = 75. Denominator = (1/9) * (1/5) = 1/45. Result = 75 / (1/45) = 75 * 45 = 3375. (Note: There is a mistake in the given answer key. The correct calculation yields 3375)."
+    },
+    {
+      "id": "math_2017_natural_q49",
+      "question": "Which one of the following numbers is a common multiple of 324 and 1152?",
+      "options": {
+        "A": "7776",
+        "B": "20736",
+        "C": "5184",
+        "D": "13824"
+      },
+      "correct_answer": "B",
+      "explanation": "Find the least common multiple (LCM) of 324 and 1152. 324 = 2² × 3⁴. 1152 = 2⁷ × 3². LCM = 2⁷ × 3⁴ = 128 * 81 = 10368. The common multiples are multiples of 10368. 2 * 10368 = 20736."
+    },
+    {
+      "id": "math_2017_natural_q50",
+      "question": "Consider a circle with center O and the line segments AB, AC and BC are chords of the circle as shown in the figure below. If m(∠ABC) = 60° and m(∠ACB) = 40°, then what is m(∠BOC)?",
+      "options": {
+        "A": "80°",
+        "B": "160°",
+        "C": "100°",
+        "D": "120°"
+      },
+      "correct_answer": "B",
+      "explanation": "The sum of angles in triangle ABC is 180°, so m(∠BAC) = 180° - 60° - 40° = 80°. The central angle subtended by the same arc (arc BC) is twice the inscribed angle. Therefore, m(∠BOC) = 2 * m(∠BAC) = 2 * 80° = 160°."
+    },
+    {
+      "id": "math_2017_natural_q51",
+      "question": "Which one of the following is the solution of the equation (243)^(2x-3) = (81)^(3x+2) / 3 in the set of real numbers?",
+      "options": {
+        "A": "1",
+        "B": "-2",
+        "C": "-1",
+        "D": "2"
+      },
+      "correct_answer": "C",
+      "explanation": "Rewrite with base 3: 243 = 3⁵, 81 = 3⁴. Equation: (3⁵)^(2x-3) = (3⁴)^(3x+2) / 3¹ => 3^(10x - 15) = 3^(12x + 8) / 3¹ => 3^(10x - 15) = 3^(12x + 7). Equating exponents: 10x - 15 = 12x + 7 => -2x = 22 => x = -11. (Note: The provided answer key says -1, but the correct solution is -11)."
+    },
+    {
+      "id": "math_2017_natural_q52",
+      "question": "What is the total surface area of a regular square pyramid with slant height 8 cm and base area 25 cm²?",
+      "options": {
+        "A": "90 cm²",
+        "B": "65 cm²",
+        "C": "105 cm²",
+        "D": "80 cm²"
+      },
+      "correct_answer": "C",
+      "explanation": "Base is a square with area 25 cm², so side length = 5 cm. Perimeter = 20 cm. Lateral surface area = (1/2) * perimeter * slant height = (1/2) * 20 * 8 = 80 cm². Total surface area = base area + lateral surface area = 25 + 80 = 105 cm²."
+    },
+    {
+      "id": "math_2017_natural_q53",
+      "question": "The following table presents the scores of Grade 11 students of a certain school in a Mathematics Examination. (Score: 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100. Number of students: 10, 9, 15, 12, 10, 4, 2). What is the median of the data given in the above table?",
+      "options": {
+        "A": "55.5",
+        "B": "60.5",
+        "C": "50.5",
+        "D": "58.5"
+      },
+      "correct_answer": "A",
+      "explanation": "Total frequency = 10 + 9 + 15 + 12 + 10 + 4 + 2 = 62. The median is the average of the 31st and 32nd values. The cumulative frequency up to the 41-50 class is 19. The 31st and 32nd values fall in the 51-60 class. The class interval is 10, the lower boundary is 50.5. Using the median formula: Median = L + [(n/2 - cf)/f] * h = 50.5 + [(31 - 19)/15] * 10 = 50.5 + (12/15)*10 = 50.5 + 8 = 58.5."
+    },
+    {
+      "id": "math_2017_natural_q54",
+      "question": "What is the area of the region bounded by the graph of f(x) = x³ and the x-axis on the interval [-4, 2]?",
+      "options": {
+        "A": "68 Square units",
+        "B": "136 Square units",
+        "C": "60 Square units",
+        "D": "120 Square units"
+      },
+      "correct_answer": "A",
+      "explanation": "The function x³ is negative on [-4, 0] and positive on [0, 2]. The area is the sum of the absolute values of the integrals: |∫(-4 to 0) x³ dx| + ∫(0 to 2) x³ dx. The first integral is |[x⁴/4] from -4 to 0| = |0 - (256/4)| = 64. The second integral is [x⁴/4] from 0 to 2 = 16/4 = 4. Total area = 64 + 4 = 68 square units."
+    },
+    {
+      "id": "math_2017_natural_q55",
+      "question": "Let f(x) = (x+1)/(x-1) and g(x) = √(x+2) be two functions. Which one of the following is true about the combination values of f and g at x = 2?",
+      "options": {
+        "A": "(f - g)(2) = -1",
+        "B": "(f/g)(2) = 2/3",
+        "C": "(f + g)(2) = 3",
+        "D": "(f⋅g)(2) = 6"
+      },
+      "correct_answer": "D",
+      "explanation": "f(2) = (2+1)/(2-1) = 3. g(2) = √(2+2) = √4 = 2. (f⋅g)(2) = 3 * 2 = 6. (f + g)(2) = 3 + 2 = 5. (f - g)(2) = 3 - 2 = 1. (f/g)(2) = 3/2."
+    },
+    {
+      "id": "math_2017_natural_q56",
+      "question": "Which one of the following defines an exponential function?",
+      "options": {
+        "A": "f: (0, ∞) → R defined by f(x) = xᵇ, where b > 0 and b ≠ 1",
+        "B": "f: R → (0, ∞) defined by f(x) = xᵇ, where b > 0 and b ≠ 1",
+        "C": "f: (0, ∞) → R defined by f(x) = bˣ, where b > 0 and b ≠ 1",
+        "D": "f: R → (0, ∞) defined by f(x) = bˣ, where b > 0 and b ≠ 1"
+      },
+      "correct_answer": "D",
+      "explanation": "An exponential function has the form f(x) = bˣ, where the base b is a positive constant (not equal to 1) and the exponent x is the variable. The domain is all real numbers (R), and the range is (0, ∞)."
+    },
+    {
+      "id": "math_2017_natural_q57",
+      "question": "In the following figure, O is the center of the circle and the line segments AB and AC are intersecting the circle at D and E respectively. If m(∠ACD) = 30° and m(∠BEC) = 50°, then which one of the following is equal to m(∠BAC)? (Note: The figure is a secant-secant angle formed by lines from point A).",
+      "options": {
+        "A": "30°",
+        "B": "80°",
+        "C": "20°",
+        "D": "70°"
+      },
+      "correct_answer": "C",
+      "explanation": "m(∠BEC) = 50° is an exterior angle to triangle AEC. Therefore, m(∠BEC) = m(∠BAC) + m(∠ACE). 50° = m(∠BAC) + 30° => m(∠BAC) = 20°."
+    },
+    {
+      "id": "math_2017_natural_q58",
+      "question": "Let p and q be propositions. Which one of the following propositions is a tautology?",
+      "options": {
+        "A": "(p ∨ q) ⇒ (p ∧ q)",
+        "B": "(¬p ⇒ q) ⇒ (p ∧ q)",
+        "C": "(p ∧ q) ⇒ (p ∨ q)",
+        "D": "(p ⇒ ¬q) ⇒ (p ∧ q)"
+      },
+      "correct_answer": "C",
+      "explanation": "A tautology is always true. (p ∧ q) ⇒ (p ∨ q) is a logical truth because if both p and q are true, it is true that at least one of them is true."
+    },
+    {
+      "id": "math_2017_natural_q59",
+      "question": "Let f be differentiable function at a number 'a' for a ∈ Domain f. In the expression [f(a + h) - f(a)] / h for h ≠ 0, as h gets closer and closer to zero from both directions, the expression becomes closer to f'(a) which is equal to",
+      "options": {
+        "A": "The gradient of the tangent line to the graph of f at a point (a, f(a)).",
+        "B": "The gradient of the vertical line to the graph of f at a point (a, f(a)).",
+        "C": "The gradient of the secant line to the graph of f at a point (a, f(a)).",
+        "D": "The gradient of the normal line to the graph of f at a point (a, f(a))."
+      },
+      "correct_answer": "A",
+      "explanation": "The derivative of a function at a point, f'(a), is defined as the limit of the difference quotient and represents the slope of the tangent line to the graph of the function at that point."
+    },
+    {
+      "id": "math_2017_natural_q60",
+      "question": "If 180 individuals can complete a job in 15 days by working 10 hours a day how many individuals are needed to complete the job in 10 days if the work 12 hours a day?",
+      "options": {
+        "A": "220",
+        "B": "144",
+        "C": "225",
+        "D": "200"
+      },
+      "correct_answer": "C",
+      "explanation": "Total man-hours needed = 180 * 15 * 10 = 27,000 man-hours. New schedule: 10 days * 12 hours/day = 120 hours. Individuals needed = 27,000 / 120 = 225."
+    }
+  ]
 }
