@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "History",
-    "year":  2015,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_history_2015_social",
+  "content_type": "past_paper",
+  "title": "History - 2015 (Social)",
+  "year": 2015,
+  "subject": "History",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "hist_2015_social_q1",
+      "question": "Which one of the following was a factor for the Oromo population movement of the 16th century?",
+      "options": {
+        "A": "The desire to expand Oromo religion.",
+        "B": "The desire to find new pastures for cattle.",
+        "C": "The need to expand the tax base of the Oromo.",
+        "D": "The demand to establish political control over new areas."
+      },
+      "correct_answer": "B",
+      "explanation": "The Oromo population movement was largely driven by the need to find new pastures for their large cattle herds, which was affected by population pressure and environmental changes in their homeland."
+    },
+    {
+      "id": "hist_2015_social_q2",
+      "question": "What challenge did Emperor Serse Dingil face beyond the Mereb River in the 1570s?",
+      "options": {
+        "A": "Turkish expansionism",
+        "B": "Disobedience from the na'ib of Arkiko.",
+        "C": "Mutiny among royal regiments in the province.",
+        "D": "Rebellion by local people"
+      },
+      "correct_answer": "A",
+      "explanation": "In the 1570s, Emperor Serse Dingil faced the challenge of Ottoman Turkish expansionism in the Red Sea coastal regions, specifically from the Ottoman base in Massawa."
+    },
+    {
+      "id": "hist_2015_social_q3",
+      "question": "What achievements earned Iyasu I the nickname 'Iyasu the Great'?",
+      "options": {
+        "A": "The successful campaign against the Funj Sultanate in the west.",
+        "B": "Revision of works related to the legal code and taxation",
+        "C": "Introduction of new forms of architecture in the city of Gonder.",
+        "D": "Restoration of Gondarine rule over south-western Ethiopia."
+      },
+      "correct_answer": "B",
+      "explanation": "Iyasu I was known as 'Iyasu the Great' for his administrative reforms, particularly his work on the legal code and tax assessment system, as well as his efforts to consolidate the empire."
+    },
+    {
+      "id": "hist_2015_social_q4",
+      "question": "What helped the Ching dynasty in China to gain the support of the indigenous Han ruling class?",
+      "options": {
+        "A": "The continuation of Chinese administrative practices by the Ching.",
+        "B": "The successful rejection of the 'Unequal Treaties' by the Ching.",
+        "C": "The reduction of the tax on the Chinese peasantry.",
+        "D": "The opening of China for foreign trade and civilization by the Ching."
+      },
+      "correct_answer": "A",
+      "explanation": "The Qing (Ching) dynasty initially maintained the Ming administrative structure and practices, which helped them gain the support and cooperation of the Han Chinese ruling elite."
+    },
+    {
+      "id": "hist_2015_social_q5",
+      "question": "What was the fundamental source of conflict between Charles I and the English Short Parliament?",
+      "options": {
+        "A": "Disagreement on the authority of the king to sign treaties without consulting Parliament.",
+        "B": "Dispute as to whether or not Presbyterians can be head of the English Church.",
+        "C": "Disagreement on the nature of union between England and Scotland.",
+        "D": "Dispute over raising taxes to suppress the rebellion in Scotland."
+      },
+      "correct_answer": "D",
+      "explanation": "Charles I recalled the Short Parliament in 1640 primarily to raise funds to suppress the rebellion in Scotland (the Bishops' Wars). Parliament refused to grant funds, leading to a conflict over taxation."
+    },
+    {
+      "id": "hist_2015_social_q6",
+      "question": "Which of the following is a dominant idea among Enlightenment thinkers?",
+      "options": {
+        "A": "Man can attain salvation only through good work.",
+        "B": "Humans can achieve progress through the application of reason.",
+        "C": "Democracy is the best form of government",
+        "D": "Religion is important for social cohesion."
+      },
+      "correct_answer": "B",
+      "explanation": "The Enlightenment was characterized by the belief in the power of reason to understand and improve the world. Enlightenment thinkers believed that progress was possible through the application of rational thought."
+    },
+    {
+      "id": "hist_2015_social_q7",
+      "question": "What was behind the outbreak of the Latin American revolutions in the early 19th century?",
+      "options": {
+        "A": "Implementation of the Monroe Doctrine by the US",
+        "B": "Re-division of Latin America between the Spanish and Portuguese.",
+        "C": "Decline of French rule in the Atlantic colonies.",
+        "D": "Ideas generated by the Enlightenment thinkers."
+      },
+      "correct_answer": "D",
+      "explanation": "The ideas of the Enlightenment, including those of liberty, equality, and popular sovereignty, were a major inspiration for the revolutions in Latin America against Spanish colonial rule."
+    },
+    {
+      "id": "hist_2015_social_q8",
+      "question": "What was the common feature of the 1848 revolutions in Europe?",
+      "options": {
+        "A": "They were inspired by the idea of establishing a liberal government.",
+        "B": "They were primarily led by a coalition of youth groups and bourgeoisie.",
+        "C": "They drew inspiration from the successful revolutions in America.",
+        "D": "They ultimately failed because of divisions among the leadership on future goals."
+      },
+      "correct_answer": "A",
+      "explanation": "The 1848 revolutions were largely inspired by liberal ideas, advocating for constitutions, parliamentary rule, national unity, and greater political rights."
+    },
+    {
+      "id": "hist_2015_social_q9",
+      "question": "Who was responsible for the end of the Funj Sultanate?",
+      "options": {
+        "A": "The Abdallabi",
+        "B": "Iyasu II",
+        "C": "Amara Dunqas",
+        "D": "Mohammed Ali"
+      },
+      "correct_answer": "D",
+      "explanation": "The Funj Sultanate of Sennar was conquered and ended by the forces of Muhammed Ali of Egypt in 1821."
+    },
+    {
+      "id": "hist_2015_social_q10",
+      "question": "Which one of the following explains Egypt's prosperity under the Mamlukes?",
+      "options": {
+        "A": "The successful participation of Egypt in the Crusades.",
+        "B": "The decline of Ottoman control over the Mediterranean.",
+        "C": "Egypt's participation in the trans-Saharan trade.",
+        "D": "The construction of a canal across the Red Sea."
+      },
+      "correct_answer": "C",
+      "explanation": "Under Mamluke rule, Egypt was a major hub for the trans-Saharan trade and also profited from the trade between the Mediterranean and the Red Sea, which contributed to its prosperity."
+    },
+    {
+      "id": "hist_2015_social_q11",
+      "question": "Which of the following people was responsible for invading India in the 14th century?",
+      "options": {
+        "A": "The Han",
+        "B": "The Arabs",
+        "C": "The Mongols",
+        "D": "The Huns"
+      },
+      "correct_answer": "C",
+      "explanation": "The Mongols, under the leadership of Timur (Tamerlane), invaded India in 1398, sacking Delhi and causing massive destruction."
+    },
+    {
+      "id": "hist_2015_social_q12",
+      "question": "Which one of the following is a Central Cushitic language?",
+      "options": {
+        "A": "Gedeo",
+        "B": "Burji",
+        "C": "Beja",
+        "D": "Bilen"
+      },
+      "correct_answer": "C",
+      "explanation": "Beja is classified as a Central Cushitic language, while Gedeo and Burji are Highland East Cushitic, and Bilen is Agaw."
+    },
+    {
+      "id": "hist_2015_social_q13",
+      "question": "Where was the ancient state of Punt located?",
+      "options": {
+        "A": "The Eastern coast of the Red Sea",
+        "B": "In Northeast Africa",
+        "C": "On the Swahili Coast",
+        "D": "Along the Ethio-Sudan borderlands."
+      },
+      "correct_answer": "B",
+      "explanation": "The land of Punt is generally believed to have been located in the Horn of Africa, corresponding to modern-day Eritrea, Djibouti, or Northern Somalia."
+    },
+    {
+      "id": "hist_2015_social_q14",
+      "question": "What factors facilitated the rise of the Zagwe Dynasty?",
+      "options": {
+        "A": "The popularity that the Agaw gained because of the rock hewn churches.",
+        "B": "The increased interaction of the Agaw elite with the Aksumite court.",
+        "C": "The spread of Christianity among the Agaw populations.",
+        "D": "The shift of the major trade routes from Massawa to Zeila."
+      },
+      "correct_answer": "C",
+      "explanation": "The Zagwe dynasty rose to power on the basis of the Agaw people in the Lasta region. The increasing influence of Christianity among the Agaw community played a key role in legitimizing their rule."
+    },
+    {
+      "id": "hist_2015_social_q15",
+      "question": "Which of the following was characteristic of Renaissance Humanism?",
+      "options": {
+        "A": "Desire to recreate the Roman Empire.",
+        "B": "Study of classical Islamic literature.",
+        "C": "Focus on how to achieve salvation.",
+        "D": "Interest in everyday human conditions."
+      },
+      "correct_answer": "D",
+      "explanation": "Renaissance Humanism placed emphasis on human values, achievements, and the importance of the present life. It was marked by an interest in the everyday human condition."
+    },
+    {
+      "id": "hist_2015_social_q16",
+      "question": "How did the Solomonic rulers of the medieval period in Ethiopia try to solve the problem of royal succession?",
+      "options": {
+        "A": "By inventing a system of a caretaker administration that ruled for a few years until final selection of a king is made.",
+        "B": "By designing a system in which the decisions of the Church leaders on succession became final.",
+        "C": "By developing a prison system for male royal prison system in which male descendants of a monarch were kept.",
+        "D": "By establishing a clear rule of succession."
+      },
+      "correct_answer": "C",
+      "explanation": "The Solomonic rulers established the 'Royal Prison' system, where male descendants of the emperor were confined to a mountain fortress (like Amba Gishen). This was intended to prevent rival claimants from vying for the throne."
+    },
+    {
+      "id": "hist_2015_social_q17",
+      "question": "Which one of the following was a characteristic feature of the Muslim sultanates of Medieval Ethiopia?",
+      "options": {
+        "A": "Their economy was mainly dependent on trade.",
+        "B": "Their rulers exercised limited power and authority.",
+        "C": "Their populations were made up of Muslims and Christians.",
+        "D": "Their ruling class were immigrants from Arabia."
+      },
+      "correct_answer": "A",
+      "explanation": "The economy of the Muslim Sultanates was heavily dependent on long-distance trade, controlling key trade routes that connected the interior to the ports on the Red Sea and Indian Ocean."
+    },
+    {
+      "id": "hist_2015_social_q18",
+      "question": "Which one of the following is true about the Kingdom of Kaffa?",
+      "options": {
+        "A": "It was ruled by a king who had limited power.",
+        "B": "It was created by invaders from neighbouring Enarya.",
+        "C": "It had a dynasty that came from the Manjo clan.",
+        "D": "It had developed an efficient system of defending its territory."
+      },
+      "correct_answer": "D",
+      "explanation": "The Kingdom of Kaffa was known for its military organization and its efficient system of defense, which included strategically located forts and a well-organized army."
+    },
+    {
+      "id": "hist_2015_social_q19",
+      "question": "What was the main cause for the expansion of the Christian kingdom during the medieval period?",
+      "options": {
+        "A": "Determination to restore the lost territories of the Aksumites.",
+        "B": "Ambition to acquire slaves for export to Arabia.",
+        "C": "Desire to expand its resource base.",
+        "D": "The need to expand Christianity."
+      },
+      "correct_answer": "C",
+      "explanation": "The Christian kingdom expanded southward primarily to access valuable resources such as gold, ivory, and slaves, which were key components of its economy and trade."
+    },
+    {
+      "id": "hist_2015_social_q20",
+      "question": "Which one of the following factors intensified the conflict between the Christian kingdom and the Sultanate of Adal in the 15th and early 16th centuries?",
+      "options": {
+        "A": "The shift of the Christian political center to Shewa.",
+        "B": "The introduction of new weapons like muskets",
+        "C": "The establishment of the Turks along the Red Sea coast",
+        "D": "The pressure created by the migration of lowland pastoralists"
+      },
+      "correct_answer": "C",
+      "explanation": "The establishment of the Ottoman Turks along the Red Sea coast provided firearms and support to the Adal Sultanate, intensifying the conflict between Adal and the Christian kingdom."
+    },
+    {
+      "id": "hist_2015_social_q21",
+      "question": "What was the factor that led to the decline of the gada institution among the Oromo of the Gibe region?",
+      "options": {
+        "A": "Political influence of Sudanese states of the Ethio-Sudan border.",
+        "B": "The shift of the economy from pastoralism to agriculture.",
+        "C": "Warfare and the rise of powerful war leaders",
+        "D": "The conquest of the region by the forces of Menelik."
+      },
+      "correct_answer": "B",
+      "explanation": "As the Oromo in the Gibe region shifted from pastoralism to settled agriculture, the Gada system—which was based on a pastoralist and cyclical age-set structure—declined. The rise of monarchical states (like Jimma) replaced the Gada system."
+    },
+    {
+      "id": "hist_2015_social_q22",
+      "question": "Which of the following is NOT a correct description of long-distance trade routes of 19th century Ethiopia?",
+      "options": {
+        "A": "Jiren-Rogge-Harar-Massawa",
+        "B": "Basso-Darita-Gonder-Metema",
+        "C": "Jiren-Seka-Soddo-Aliyu Amba",
+        "D": "Bonga-Jiren-Asendabo-Darita"
+      },
+      "correct_answer": "A",
+      "explanation": "The route Jiren-Rogge-Harar-Massawa is not a correct description of a 19th-century trade route, as Jiren is in the west and Rogge is in the south-west, while Harar is in the east and Massawa is on the Red Sea. These were not directly connected in a single route."
+    },
+    {
+      "id": "hist_2015_social_q23",
+      "question": "What was Giuseppe Garibaldi's role in the unification of Italy?",
+      "options": {
+        "A": "He brought together the Pope and Cavour to work for unification.",
+        "B": "He inspired and led a popular uprising for Italian unification.",
+        "C": "He secured Napoleon III's diplomatic support for Italian unification.",
+        "D": "He deepened Italian national consciousness through his writings."
+      },
+      "correct_answer": "B",
+      "explanation": "Garibaldi was a key military leader of the Italian unification movement. He inspired and led a volunteer army (the 'Red Shirts') in the Expedition of the Thousand, which conquered the Kingdom of the Two Sicilies."
+    },
+    {
+      "id": "hist_2015_social_q24",
+      "question": "How did the Congress of Vienna of 1815 lay the ground for the German unification?",
+      "options": {
+        "A": "It made Prussia the leading German state of the confederation.",
+        "B": "It brought the different German states under one customs union.",
+        "C": "It made German an official language for the confederation.",
+        "D": "It created a German confederation led by Austria."
+      },
+      "correct_answer": "D",
+      "explanation": "The Congress of Vienna established the German Confederation, a loose association of 39 German states, which was led by Austria. This set the stage for the later struggle over German unification."
+    },
+    {
+      "id": "hist_2015_social_q25",
+      "question": "Which one of the following was a consequence of the American Civil War?",
+      "options": {
+        "A": "Industrialization of American economy.",
+        "B": "Colonization of the south by the north.",
+        "C": "Toleration of slavery in some parts of the south.",
+        "D": "End of racism across the whole of the United States."
+      },
+      "correct_answer": "A",
+      "explanation": "The Civil War accelerated the industrialization of the American economy, particularly in the North. It also led to the end of slavery but did not end racism."
+    },
+    {
+      "id": "hist_2015_social_q26",
+      "question": "Which of the following processes contributed to the emergence of the 'The Eastern Question'?",
+      "options": {
+        "A": "The discovery of oil in territories ruled by the Ottoman Empire.",
+        "B": "The rivalry between the Ottomans and Russians for control of the Mediterranean.",
+        "C": "The spread of nationalism among the Slavic peoples of the Ottoman Empire.",
+        "D": "The expansion of the Austrian Empire to lands that were previously under the control of the Ottomans."
+      },
+      "correct_answer": "C",
+      "explanation": "The Eastern Question refers to the diplomatic and political problems posed by the decline of the Ottoman Empire. The spread of nationalism among its various subject peoples (including the Slavs in the Balkans) was a key factor contributing to this decline."
+    },
+    {
+      "id": "hist_2015_social_q27",
+      "question": "How did Tewodros II come to power?",
+      "options": {
+        "A": "By defeating his opponents through military means.",
+        "B": "By gaining the support of the Orthodox Church.",
+        "C": "By claiming he was the Tewodros of The Fikare Iyesus.",
+        "D": "By using British diplomatic support."
+      },
+      "correct_answer": "A",
+      "explanation": "Kassa Hailu (later Tewodros II) came to power through a series of military victories over his rivals, including the defeat of the powerful Empress Menen and her allies at the Battle of Dersega in 1855."
+    },
+    {
+      "id": "hist_2015_social_q28",
+      "question": "What was the significance of the Battle of Assam for Kassa Mircha of Tigray?",
+      "options": {
+        "A": "It convinced the British to support him in his bid to become emperor.",
+        "B": "It helped him defeat a major rival and hence become emperor.",
+        "C": "It convinced him to modernize his army if he wanted to become emperor.",
+        "D": "It helped him become the sole governor of the province of Tigray."
+      },
+      "correct_answer": "D",
+      "explanation": "The Battle of Assam (1861) was a victory for Kassa Mircha (later Emperor Yohannes IV) which solidified his control over Tigray, making him the sole authority in the region."
+    },
+    {
+      "id": "hist_2015_social_q29",
+      "question": "What strategy did Menelik use in his expansion to the south prior to 1889?",
+      "options": {
+        "A": "Overwhelming force across the whole region.",
+        "B": "Force for state societies but negotiation among non-state peoples.",
+        "C": "A combination of diplomacy and force across the whole region",
+        "D": "Peaceful methods among Christians but force in non-Christian areas."
+      },
+      "correct_answer": "C",
+      "explanation": "Menelik II's expansion to the south was primarily a combination of diplomacy and force. He used political alliances, trade agreements, and marriage connections alongside military campaigns to conquer and integrate the southern regions."
+    },
+    {
+      "id": "hist_2015_social_q30",
+      "question": "Why did Article 17 of the Wuchale Treaty become a source of conflict between Ethiopia and Italy?",
+      "options": {
+        "A": "Because the Italian version stated that Ethiopia has agreed to become an Italian protectorate.",
+        "B": "Because the Amharic and Italian versions did not agree on the boundaries of the two states.",
+        "C": "Because the Italian version suggested that Menelik had agreed to give Mereb Melash to Italy.",
+        "D": "Because the Amharic and Italian versions did not agree how long Italy should stay at Massawa."
+      },
+      "correct_answer": "A",
+      "explanation": "Article 17 of the Treaty of Wuchale was the primary cause of the conflict. The Amharic version stated that Ethiopia had the option to use Italian diplomatic services, while the Italian version stated that Ethiopia was obliged to do so, effectively making it an Italian protectorate."
+    },
+    {
+      "id": "hist_2015_social_q31",
+      "question": "Which one of the following southern states exercised extensive influence in areas south of the Abbay before the 14th century?",
+      "options": {
+        "A": "Damot",
+        "B": "Bizamo",
+        "C": "Hadiya",
+        "D": "Enarea"
+      },
+      "correct_answer": "A",
+      "explanation": "The Kingdom of Damot was a powerful state located south of the Abbay River (Blue Nile). It exercised significant influence in the region before the 14th century."
+    },
+    {
+      "id": "hist_2015_social_q32",
+      "question": "Which one of the following was a feature of European society during the 'Dark Ages'?",
+      "options": {
+        "A": "The movement of large number of people from the countryside to the cities.",
+        "B": "The decline of Christianity and rise of traditional religious beliefs.",
+        "C": "The rise in the power of local rulers at the expense of kings and emperors.",
+        "D": "The shift of regional political power from Italy northwards to Scandinavia."
+      },
+      "correct_answer": "C",
+      "explanation": "The 'Dark Ages' (roughly the early Middle Ages) saw the decline of central authority and the rise of local lords. The power of kings and emperors weakened, and feudalism began to take hold."
+    },
+    {
+      "id": "hist_2015_social_q33",
+      "question": "Which one of the following was a feature of early capitalism in Europe?",
+      "options": {
+        "A": "The withdrawal of the special privileges granted to cities by rulers.",
+        "B": "The growth of conflict between states and merchants over control of markets.",
+        "C": "The shift of the economy from trading to banking and manufacturing.",
+        "D": "The rise in importance of the bourgeoisie in economic and cultural life."
+      },
+      "correct_answer": "D",
+      "explanation": "The rise of early capitalism was marked by the increased importance of the bourgeoisie (merchants, artisans, bankers) in economic and cultural life."
+    },
+    {
+      "id": "hist_2015_social_q34",
+      "question": "What was the cause of the conflict between the Christian highland kingdom and the Muslim sultanates in the Medieval period?",
+      "options": {
+        "A": "The desire of the ruling classes to collect war booty.",
+        "B": "The determination by both parties to spread their religions.",
+        "C": "The desire to control the lucrative Zeila trade route.",
+        "D": "The need to control the salt producing regions of Afar."
+      },
+      "correct_answer": "C",
+      "explanation": "The conflict between the Christian kingdom and the Muslim sultanates was largely driven by the desire to control the lucrative long-distance trade routes, particularly the one leading to the port of Zeila."
+    },
+    {
+      "id": "hist_2015_social_q35",
+      "question": "Which one of the following was NOT a consequence of the Oromo population movement of the 16th century?",
+      "options": {
+        "A": "The adoption of aspects of the gada system by the Christian state.",
+        "B": "The shift of some Oromo people to sedentary agriculture.",
+        "C": "The assimilation of large number of groups by the Oromo.",
+        "D": "The loss of territory by the Christian highland kingdom."
+      },
+      "correct_answer": "A",
+      "explanation": "The Christian state did not adopt aspects of the Gada system. Instead, some Oromo groups adopted Christianity and other cultural elements of the Christian kingdom."
+    },
+    {
+      "id": "hist_2015_social_q36",
+      "question": "Why did the Jesuits fail to keep Ethiopia a Catholic country during the reign of Susenyos? Because:",
+      "options": {
+        "A": "they failed to bring in the military support they had promised to Susenyos.",
+        "B": "their attempt led to widespread opposition by the population.",
+        "C": "they failed to secure the support of the nobility for their cause",
+        "D": "they disagreed with Susenyos over the abolition of the tabot (Ark)."
+      },
+      "correct_answer": "B",
+      "explanation": "The attempt to impose Catholicism by Emperor Susenyos with Jesuit support led to widespread popular opposition and civil war. The population strongly resisted the change from the Orthodox faith, forcing Susenyos to abdicate and restore Orthodoxy."
+    },
+    {
+      "id": "hist_2015_social_q37",
+      "question": "Which of the following southern African peoples were cattle herders?",
+      "options": {
+        "A": "The Khoi",
+        "B": "The Hausa",
+        "C": "The Swahili",
+        "D": "The San"
+      },
+      "correct_answer": "A",
+      "explanation": "The Khoi (also known as Khoikhoi) were pastoralist herders of cattle and sheep in the southern African region."
+    },
+    {
+      "id": "hist_2015_social_q38",
+      "question": "Which one of the following was a term used for the second phase of the Trans-Atlantic slave trade?",
+      "options": {
+        "A": "Legitimate slave trade.",
+        "B": "Free Slave trade",
+        "C": "Piratic Slave trade",
+        "D": "Monopolistic slave trade"
+      },
+      "correct_answer": "C",
+      "explanation": "The second phase of the Trans-Atlantic slave trade, which involved the transport of enslaved Africans to the Americas by European traders, is sometimes referred to as the 'Piratic Slave Trade'."
+    },
+    {
+      "id": "hist_2015_social_q39",
+      "question": "Which one of the following was a distinct feature of industrial capitalism in Europe in the 19th century?",
+      "options": {
+        "A": "The emergence of big share companies that traded all over the world.",
+        "B": "The transformation of communication through advances in air and railway transportation.",
+        "C": "The replacement of human and animal labor by new inanimate sources of power.",
+        "D": "The shift of production from the factory to household workshops."
+      },
+      "correct_answer": "C",
+      "explanation": "A defining feature of the Industrial Revolution (and thus industrial capitalism) was the replacement of human and animal power with new inanimate sources of power like steam engines and electricity."
+    },
+    {
+      "id": "hist_2015_social_q40",
+      "question": "What was the fundamental cause of the American War of Independence?",
+      "options": {
+        "A": "The formation of closer relationship with the French by the colonists.",
+        "B": "Attempts by the British to tighten control over the colonies.",
+        "C": "Opposition by the colonists to British policy on slavery.",
+        "D": "The unpopularity of George III in the colonies."
+      },
+      "correct_answer": "B",
+      "explanation": "The fundamental cause was the British government's attempts to tighten political and economic control over the thirteen colonies through taxes and laws (like the Stamp Act, Tea Act) without giving the colonists representation in Parliament."
+    },
+    {
+      "id": "hist_2015_social_q41",
+      "question": "Which of the following is true about modernization in Ethiopia under Menelik II?",
+      "options": {
+        "A": "It failed mainly for lack of finance.",
+        "B": "It was not supported by large sections of the population.",
+        "C": "It was advanced by the Cabinet established in 1907.",
+        "D": "It was limited to the building of schools by foreign missionaries."
+      },
+      "correct_answer": "C",
+      "explanation": "Menelik II's modernization efforts were advanced by various institutions, including the creation of a Council of Ministers (Cabinet) in 1907, which was a step towards a more modern system of government."
+    },
+    {
+      "id": "hist_2015_social_q42",
+      "question": "What was the consequence of Bismarck's system of alliances for European politics?",
+      "options": {
+        "A": "It helped Germany expand its influence in Europe as well as Asia.",
+        "B": "It encouraged resort to diplomacy rather than war.",
+        "C": "It established a balance of forces in Europe, thus averting war.",
+        "D": "It led to the establishment of two hostile military camps in Europe."
+      },
+      "correct_answer": "D",
+      "explanation": "Bismarck's alliance system aimed to isolate France, but the complex web of alliances ultimately led to the creation of two hostile military camps: the Triple Alliance (Germany, Austria-Hungary, Italy) and the Triple Entente (France, Russia, Britain), which set the stage for WWI."
+    },
+    {
+      "id": "hist_2015_social_q43",
+      "question": "Which of the following was a consequence of the First World War?",
+      "options": {
+        "A": "The establishment of British and French dominance in the Middle East.",
+        "B": "The partition of Poland among the victorious powers.",
+        "C": "The strengthening of the Austrian and Czarist empires.",
+        "D": "The complete break-up of the German army and navy."
+      },
+      "correct_answer": "A",
+      "explanation": "The defeat of the Ottoman Empire led to the establishment of British and French mandates in the Middle East (e.g., Palestine, Iraq, Syria, Lebanon) as part of the post-war settlement."
+    },
+    {
+      "id": "hist_2015_social_q44",
+      "question": "Why did the Russian working class support the 1917 Revolution? Because:",
+      "options": {
+        "A": "Conscription of workers had been introduced.",
+        "B": "Living conditions of workers had worsened.",
+        "C": "Many conscript workers had lost their lives.",
+        "D": "the Czar had imposed a war tax on workers"
+      },
+      "correct_answer": "B",
+      "explanation": "The living and working conditions of the Russian urban working class had become extremely poor due to the strains of WWI, food shortages, and inflation. This led them to support the revolution."
+    },
+    {
+      "id": "hist_2015_social_q45",
+      "question": "What strategy did Italy use to undermine Ethiopian unity before the invasion of 1935?",
+      "options": {
+        "A": "Preventing Ethiopia from producing arms locally.",
+        "B": "Signing a treaty of peace and friendship with Ethiopia.",
+        "C": "Bribing Ethiopian officials to weaken the imperial government.",
+        "D": "Supporting Ethiopia's application to the League of Nations."
+      },
+      "correct_answer": "C",
+      "explanation": "Italy used a strategy of bribing and promising positions to local nobles and officials within Ethiopia to weaken central authority and create disunity, which made the invasion easier."
+    },
+    {
+      "id": "hist_2015_social_q46",
+      "question": "Why was the Fascist rule limited largely to the urban centers during the period of Italian occupation of Ethiopia? Because:",
+      "options": {
+        "A": "the small Italian army could only control the towns.",
+        "B": "the countryside was a base for the resistance.",
+        "C": "urban services were concentrated in the towns.",
+        "D": "Italian soldiers hated service in the countryside."
+      },
+      "correct_answer": "B",
+      "explanation": "The Ethiopian patriotic resistance was heavily concentrated in the rural areas. The Italians found it difficult to control the countryside, so their effective rule was largely limited to the urban centers and major towns."
+    },
+    {
+      "id": "hist_2015_social_q47",
+      "question": "What was the fundamental factor for the outbreak of the Second World War?",
+      "options": {
+        "A": "The spread of racism in Germany and Italy.",
+        "B": "The arms race between the Triple Alliance and the Triple Entente.",
+        "C": "The feeling of victimhood felt by Germans about the Versailles Treaty.",
+        "D": "The policy of appeasement pursued by Britain and France."
+      },
+      "correct_answer": "C",
+      "explanation": "The harsh terms of the Treaty of Versailles caused a deep sense of humiliation and resentment in Germany, which Hitler exploited to gain support and pursue policies that led to WWII."
+    },
+    {
+      "id": "hist_2015_social_q48",
+      "question": "What was the immediate factor for the outbreak of the Second World War?",
+      "options": {
+        "A": "The invasion of Manchuria by the Japanese.",
+        "B": "The attack on Pearl Harbour by the Japanese.",
+        "C": "The signing of the Nazi-Soviet non-aggression pact.",
+        "D": "The invasion of Poland by the German army."
+      },
+      "correct_answer": "D",
+      "explanation": "The immediate cause of WWII was Germany's invasion of Poland on September 1, 1939, which led Britain and France to declare war on Germany."
+    },
+    {
+      "id": "hist_2015_social_q49",
+      "question": "What was the importance of the Tehran Conference of 1943 in the formation of the United Nations?",
+      "options": {
+        "A": "The Charter of the UN was signed by member states there.",
+        "B": "The details of the UN structure were worked out there.",
+        "C": "The idea of forming the UN received support from the great powers there.",
+        "D": "The idea of creating the UN was first discussed there."
+      },
+      "correct_answer": "C",
+      "explanation": "At the Tehran Conference, the 'Big Three' (Roosevelt, Churchill, Stalin) affirmed their support for establishing an international organization to maintain peace after the war, laying the groundwork for the UN."
+    },
+    {
+      "id": "hist_2015_social_q50",
+      "question": "Which of the following countries was a member of the Warsaw Pact?",
+      "options": {
+        "A": "Hungary",
+        "B": "Turkey",
+        "C": "Greece",
+        "D": "Norway"
+      },
+      "correct_answer": "A",
+      "explanation": "Hungary was a member of the Warsaw Pact, the military alliance of the Soviet Union and its Eastern European satellite states. Turkey, Greece, and Norway were members of NATO."
+    },
+    {
+      "id": "hist_2015_social_q51",
+      "question": "How does a historian establish the value of a source for his work?",
+      "options": {
+        "A": "By carrying out a critical evaluation of the source he/she uses.",
+        "B": "By making sure that the source comes from a national archive.",
+        "C": "By checking it out against books written on a related subject.",
+        "D": "By making sure that the source has been used by other historians."
+      },
+      "correct_answer": "A",
+      "explanation": "A historian evaluates a source's authenticity, reliability, and relevance through critical analysis. This involves checking for bias, corroborating with other sources, and understanding the context of the source."
+    },
+    {
+      "id": "hist_2015_social_q52",
+      "question": "Which one of the following has been a limitation of Ethiopian historiography?",
+      "options": {
+        "A": "Focus on the pre-modern period rather than the modern period.",
+        "B": "Heavy dependence on oral sources rather than documents.",
+        "C": "Heavy emphasis on political history than other kinds of history.",
+        "D": "Focus on the history of the masses than elite members of society."
+      },
+      "correct_answer": "C",
+      "explanation": "A significant limitation of Ethiopian historiography has been its heavy focus on political history, particularly the lives of emperors, battles, and the ruling elite, often neglecting social, economic, and cultural history."
+    },
+    {
+      "id": "hist_2015_social_q53",
+      "question": "What were the distinctive characteristics of Homo erectus?",
+      "options": {
+        "A": "They migrated from Africa to other continents.",
+        "B": "They were the first bipedal species of the genus Homo.",
+        "C": "They first developed the technology of using fire.",
+        "D": "They were the first tool making hominids."
+      },
+      "correct_answer": "A",
+      "explanation": "Homo erectus was the first hominin species to migrate extensively from Africa to other parts of the world, including Asia and Europe."
+    },
+    {
+      "id": "hist_2015_social_q54",
+      "question": "Which one of the following is correct about the Neolithic Revolution in the Ethiopian region?",
+      "options": {
+        "A": "It had led to the development of language and ethnicity.",
+        "B": "Its history has been reconstructed with artefacts from sites such as Gobedra and Lake Baseka.",
+        "C": "It largely affected the northern parts of the region.",
+        "D": "It started with the diffusion of different food crops from South Arabia."
+      },
+      "correct_answer": "B",
+      "explanation": "The history of the Neolithic Revolution in Ethiopia has been reconstructed through archaeological findings from sites like Gobedra (near Axum) and Lake Basaka, where evidence of early domestication of plants and animals has been found."
+    },
+    {
+      "id": "hist_2015_social_q55",
+      "question": "What is the key idea of the theory of Oriental Despotism?",
+      "options": {
+        "A": "That states emerged from the necessity of control over trade routes.",
+        "B": "That states came into being as a result of war among despotic tribal leaders.",
+        "C": "That states emerged out of the necessity of organizing irrigation works.",
+        "D": "That early states were first emerged in the Orient."
+      },
+      "correct_answer": "C",
+      "explanation": "The theory of Oriental Despotism argues that states emerged in Asia (the Orient) to organize large-scale irrigation works, which required centralized control and led to despotic political systems."
+    },
+    {
+      "id": "hist_2015_social_q56",
+      "question": "Which one of the following is an achievement in Egypt during the New Kingdom?",
+      "options": {
+        "A": "The unification of upper and lower Egypt.",
+        "B": "The development of ideas about the afterlife.",
+        "C": "The invention of the 'nomes' as units of administration.",
+        "D": "The expansion of the empire to parts of Asia and Africa."
+      },
+      "correct_answer": "D",
+      "explanation": "The New Kingdom is known as Egypt's 'Golden Age'. During this period, Egypt became a major imperial power, conquering territories in Nubia (Africa) and the Levant (Asia)."
+    },
+    {
+      "id": "hist_2015_social_q57",
+      "question": "Which one of the following is an achievement of Sumerian civilization?",
+      "options": {
+        "A": "The invention a monotheistic religion.",
+        "B": "The development of astronomy and mathematics.",
+        "C": "The development of alphabetic writing.",
+        "D": "The construction of great monuments for kings and gods."
+      },
+      "correct_answer": "B",
+      "explanation": "The Sumerians made significant contributions to astronomy and mathematics (using a base-60 system), which were crucial for their complex society and administration."
+    },
+    {
+      "id": "hist_2015_social_q58",
+      "question": "Which of the following is a characteristic feature of Athenian democracy?",
+      "options": {
+        "A": "The dominance of the city by tyrants.",
+        "B": "The prominence of the Senate in governing the city.",
+        "C": "The passage of laws through direct participation of citizens.",
+        "D": "The prominence of women in the making of laws."
+      },
+      "correct_answer": "C",
+      "explanation": "Athenian democracy was a direct democracy where eligible male citizens participated directly in the assembly to pass laws and make decisions, rather than relying solely on elected representatives."
+    },
+    {
+      "id": "hist_2015_social_q59",
+      "question": "What role did the Catholic Church play in Europe during the early Middle Ages?",
+      "options": {
+        "A": "As a home for the development of democratic ideas.",
+        "B": "As a supporter of capitalistic enterprises.",
+        "C": "As a protector of the rights of peasants and serfs.",
+        "D": "As a center of culture and learning."
+      },
+      "correct_answer": "D",
+      "explanation": "During the early Middle Ages, the Catholic Church was the primary center of learning and culture. Monasteries were places where manuscripts were copied, education was provided, and knowledge was preserved."
+    },
+    {
+      "id": "hist_2015_social_q60",
+      "question": "What was the battle that led to the end of Persian Empire in the 7th century?",
+      "options": {
+        "A": "The Battle of Karbala",
+        "B": "The Battle Nihawand",
+        "C": "The Battle of Tours",
+        "D": "The Battle of Qadisriya"
+      },
+      "correct_answer": "B",
+      "explanation": "The Battle of Nihawand (642 CE) was a decisive victory for the Arab Muslim forces over the Sassanian Persian Empire, which led to the collapse and eventual end of the Persian Empire."
+    },
+    {
+      "id": "hist_2015_social_q61",
+      "question": "Which of the following helped Italy achieve unification in the 19th century?",
+      "options": {
+        "A": "The adoption of a policy of neutrality by Cavour in the Crimean War.",
+        "B": "The weakening of the power of the Pope in Europe.",
+        "C": "The spread of Italian nationalism in the Peninsula.",
+        "D": "The support of France and Austria to the Italian cause."
+      },
+      "correct_answer": "C",
+      "explanation": "The growth of Italian nationalism, a cultural and political movement advocating for the unification of the various Italian states into a single nation, was a key factor driving the unification process."
+    },
+    {
+      "id": "hist_2015_social_q62",
+      "question": "In what ways did the British and French systems of administration in colonial Africa differ?",
+      "options": {
+        "A": "The British used private companies in administering their colonies while the French did not use such companies.",
+        "B": "The British sought to make Africans full citizens while the French denied citizenship to Africans.",
+        "C": "The British used excessive force in their colonies while the French rarely resorted to violence.",
+        "D": "The British ruled indirectly through local chiefs while the French ruled directly themselves."
+      },
+      "correct_answer": "D",
+      "explanation": "The British system of administration was largely characterized by 'Indirect Rule', using existing local chiefs and institutions to govern. The French implemented 'Direct Rule' and 'Assimilation', seeking to replace local structures with French administration."
+    },
+    {
+      "id": "hist_2015_social_q63",
+      "question": "How did long distance trade help in the consolidation of states in the Gibe region?",
+      "options": {
+        "A": "By introducing the idea of kingship from the Christian kingdom.",
+        "B": "By bringing messages of encouragement from elsewhere rulers.",
+        "C": "Through the introduction of modern firearms that helped rulers defeat rivals.",
+        "D": "By introducing new ideas and practices that legitimized the power of rulers."
+      },
+      "correct_answer": "C",
+      "explanation": "The long-distance trade brought wealth and modern firearms to the Gibe region. These firearms allowed local rulers to defeat rivals, build larger armies, and consolidate their power into more centralized states."
+    },
+    {
+      "id": "hist_2015_social_q64",
+      "question": "What was the major difference between the administrative styles of emperors Tewodros and Yohannes?",
+      "options": {
+        "A": "Tewodros sought to use the Church in his administration while Yohannes did not.",
+        "B": "Tewodros centralized power in his hands while Yohannes did not.",
+        "C": "Tewodros employed Europeans in his administration while Yohannes did not.",
+        "D": "Tewodros sought to use modern techniques of administration while Yohannes did not."
+      },
+      "correct_answer": "B",
+      "explanation": "Tewodros II pursued a policy of extreme centralization, trying to reduce the power of regional lords and unify the empire under his direct control. Yohannes IV, in contrast, was more inclined to a decentralized style, ruling through an agreement that recognized Menelik's autonomy in Shewa."
+    },
+    {
+      "id": "hist_2015_social_q65",
+      "question": "What was the tactic used by the Ethiopians to eject the Italians out of Mekelle in January 1896?",
+      "options": {
+        "A": "Misleading them through false movements of troops.",
+        "B": "Spreading propaganda against their Eritrean askaris.",
+        "C": "Inciting rebellion against them in Eritrea",
+        "D": "Denying them access to sources of water."
+      },
+      "correct_answer": "D",
+      "explanation": "The Ethiopian forces besieged the Italians at Mekelle and denied them access to water, forcing the Italian garrison to surrender."
+    },
+    {
+      "id": "hist_2015_social_q66",
+      "question": "Why did the Shewan nobility oppose Lij Iyasu? Because:",
+      "options": {
+        "A": "he threatened the Orthodox Church by converting to Islam.",
+        "B": "he threatened their political position in the Empire.",
+        "C": "he worked to reorganize Ethiopia's foreign policy.",
+        "D": "he sought to introduce a modern system of administration."
+      },
+      "correct_answer": "B",
+      "explanation": "The Shewan nobility opposed Lij Iyasu primarily because his actions threatened their political dominance and the traditional order."
+    },
+    {
+      "id": "hist_2015_social_q67",
+      "question": "Which one of the following initiatives of Lij Iyasu was important in reforming the legal system in the country?",
+      "options": {
+        "A": "Establishment of an audit department in the Ministry of Finance.",
+        "B": "Introduction of the German legal code to the country.",
+        "C": "Introduction of a new way of assessing tax on produce.",
+        "D": "Abolition of the system of identifying robbers and thieves."
+      },
+      "correct_answer": "B",
+      "explanation": "Lij Iyasu was known for his interest in modernizing Ethiopia. One of his notable initiatives was the introduction of the German legal code, which was a significant attempt at legal reform."
+    },
+    {
+      "id": "hist_2015_social_q68",
+      "question": "What was the main feature of the Diarchy in the government of early 20th-century Ethiopia?",
+      "options": {
+        "A": "Rivalry between conservative and progressive groups in the ruling class",
+        "B": "Less rivalry among the nobility compared to the preceding period.",
+        "C": "Rapid penetration of European institutions of government.",
+        "D": "Consolidation of power by the Empress at the expense of the Regent."
+      },
+      "correct_answer": "A",
+      "explanation": "The Diarchy was a period of power-sharing between Empress Zewditu (who represented the conservative old guard) and Ras Tafari (who represented the progressive reformers). The main feature was the rivalry between these two groups."
+    },
+    {
+      "id": "hist_2015_social_q69",
+      "question": "Which one of the following provisions of the 1931 Constitution enabled the creation of autocratic rule by Emperor Haile Sellassie? The provision which:",
+      "options": {
+        "A": "stated that the Emperor should be the direct descendant of King Solomon.",
+        "B": "granted the Emperor the right to sign treaties with foreign powers.",
+        "C": "gave the Emperor the right to disband parliament at his own will.",
+        "D": "stated the parliament should have lower and upper chambers."
+      },
+      "correct_answer": "C",
+      "explanation": "The provision that gave the Emperor the right to dissolve parliament at his own discretion concentrated immense power in his hands, making it a key tool for his autocratic rule."
+    },
+    {
+      "id": "hist_2015_social_q70",
+      "question": "Why did the Ashanti Empire succeed in repulsing the British in 1876? Because:",
+      "options": {
+        "A": "they had witches who terrorized the British.",
+        "B": "they formed an alliance with the coastal Fante people.",
+        "C": "the British had support from the French.",
+        "D": "they had a well-organized army."
+      },
+      "correct_answer": "D",
+      "explanation": "The Ashanti Empire was known for its highly organized and effective military force, which allowed them to resist British military incursions in the 19th century."
+    },
+    {
+      "id": "hist_2015_social_q71",
+      "question": "What strategy did the Indian National Congress adopt in fighting for independence?",
+      "options": {
+        "A": "Working with the Japanese to undermine the British",
+        "B": "Forming a united front with the Muslim League",
+        "C": "Armed struggle and civil disobedience methods",
+        "D": "Non-violence struggle methods"
+      },
+      "correct_answer": "D",
+      "explanation": "The Indian National Congress, particularly under the leadership of Mahatma Gandhi, adopted a strategy of non-violent civil disobedience (Satyagraha) as the primary method for achieving independence."
+    },
+    {
+      "id": "hist_2015_social_q72",
+      "question": "Which one of the following was a consequence of the First Arab-Israeli War?",
+      "options": {
+        "A": "The conquest of the whole of Jerusalem by Israel.",
+        "B": "The formation of the PLO as leader of the Palestinians.",
+        "C": "The emergence of a Palestinian Arab refugee problem",
+        "D": "The recognition of Israel as an independent state."
+      },
+      "correct_answer": "C",
+      "explanation": "The 1948 war created a massive displacement of Palestinian Arabs, leading to the Palestinian refugee problem that persists to this day."
+    },
+    {
+      "id": "hist_2015_social_q73",
+      "question": "Why did the USA decide to intervene in Vietnam after the French defeat?",
+      "options": {
+        "A": "Promise given to France that its defeat by the Vietnamese forces would be avenged.",
+        "B": "Dislike for the idea of partition of Vietnam between the north and south.",
+        "C": "To test the extent to which Russia was determined to maintain its dominance in Asia.",
+        "D": "Fear that Vietnamese victory would lead to the spread of communism across the region."
+      },
+      "correct_answer": "D",
+      "explanation": "The US intervened in Vietnam primarily due to the domino theory—the fear that if Vietnam fell to communism, the rest of Southeast Asia would follow. This was a key element of US Cold War containment policy."
+    },
+    {
+      "id": "hist_2015_social_q74",
+      "question": "How did the British help Haile Selassie consolidate his powers after 1941?",
+      "options": {
+        "A": "By keeping the Italian's out of all Somali-inhabited areas.",
+        "B": "By training and equipping his army.",
+        "C": "By keeping control over Ethiopia's foreign relations.",
+        "D": "By restoring his government in troublesome provinces like the Ogaden."
+      },
+      "correct_answer": "B",
+      "explanation": "The British played a crucial role in helping Haile Selassie consolidate his power by training and equipping the Ethiopian army, which was essential for him to control his expanded empire."
+    },
+    {
+      "id": "hist_2015_social_q75",
+      "question": "Which one of the following became elective under the 1955 Constitution?",
+      "options": {
+        "A": "The Crown Council.",
+        "B": "The Office of the Prime Minister",
+        "C": "The Senate",
+        "D": "The Chamber of Deputies"
+      },
+      "correct_answer": "D",
+      "explanation": "The 1955 revised constitution introduced a bicameral parliament where the Chamber of Deputies was elected by the people. The Senate was appointed by the Emperor."
+    },
+    {
+      "id": "hist_2015_social_q76",
+      "question": "Why did the 1960 coup against Haile Sellassie fail? Because:",
+      "options": {
+        "A": "the neighbouring colonial powers opposed it.",
+        "B": "it was not planned and led effectively.",
+        "C": "the people of Addis Ababa did not support it.",
+        "D": "it was led by a civilian with no military experience."
+      },
+      "correct_answer": "C",
+      "explanation": "The coup failed because the people of Addis Ababa eventually rallied behind the Emperor when he spoke to them over the radio. The lack of popular support for the coup makers sealed their failure."
+    },
+    {
+      "id": "hist_2015_social_q77",
+      "question": "Which one of the following was a consequence of the 1974 Ethiopian Revolution?",
+      "options": {
+        "A": "Abolition of status and class.",
+        "B": "Transformation of peasant agriculture.",
+        "C": "Centralization of power under a new regime.",
+        "D": "Democratization of state and politics."
+      },
+      "correct_answer": "C",
+      "explanation": "The 1974 revolution led to the overthrow of the monarchy and the establishment of the Derg, a military regime that centralized power in the hands of the military junta."
+    },
+    {
+      "id": "hist_2015_social_q78",
+      "question": "What was the distinctive feature of the pan-African movement as practiced by Garvey?",
+      "options": {
+        "A": "That blacks in the diaspora can achieve full independence only by returning to Africa.",
+        "B": "That the Pan-African movement should be led by Africans in the Continent.",
+        "C": "That pan-Africanism should ensure economic independence for Africans.",
+        "D": "That blacks should fight for their rights in their respective countries."
+      },
+      "correct_answer": "A",
+      "explanation": "Marcus Garvey's vision was distinct in its emphasis on Black Nationalism and a 'Back to Africa' movement, urging people of African descent to return to Africa and create a powerful, independent nation."
+    },
+    {
+      "id": "hist_2015_social_q79",
+      "question": "What strategy was used by the Mau Mau in struggling for Kenya's independence?",
+      "options": {
+        "A": "Putting diplomatic pressure on the British at the UN.",
+        "B": "Organizing an armed struggle against the British.",
+        "C": "Adopting the principle of non-violent struggle used in India.",
+        "D": "Frighten out the British by undertaking scary oaths."
+      },
+      "correct_answer": "B",
+      "explanation": "The Mau Mau rebellion was a violent, armed insurgency against British colonial rule in Kenya, involving guerrilla warfare tactics."
+    },
+    {
+      "id": "hist_2015_social_q80",
+      "question": "What was the idea articulated at the All-African People's Conference at Accra that became a key principle of the OAU? The idea that:",
+      "options": {
+        "A": "all African states should work towards democratizing the state.",
+        "B": "African states should stand with oppressed nations globally.",
+        "C": "the immediate goal of Africans should be economic union.",
+        "D": "states should respect each other's territorial integrity."
+      },
+      "correct_answer": "D",
+      "explanation": "The principle of respecting the territorial integrity of states (i.e., the maintenance of colonial borders) was a key outcome of the Accra conference and became a foundational principle of the OAU."
+    },
+    {
+      "id": "hist_2015_social_q81",
+      "question": "What is prehistory?",
+      "options": {
+        "A": "The method palaeontologists use in dating fossils.",
+        "B": "The method archaeologists use to dig out material objects.",
+        "C": "The study of the period before the beginning of writing.",
+        "D": "The study of non-literate societies."
+      },
+      "correct_answer": "C",
+      "explanation": "Prehistory is the period of human history before the invention of writing systems. It is studied through archaeology, paleontology, and geology."
+    },
+    {
+      "id": "hist_2015_social_q82",
+      "question": "Which of the following is correct about the theory of evolution?",
+      "options": {
+        "A": "Claims that human beings first originated in Europe.",
+        "B": "States that humans are products of natural selection and adaptation.",
+        "C": "Argues that humans were first civilized in ancient Greece and Rome.",
+        "D": "Argues that human beings are descendants of Adam and Eve."
+      },
+      "correct_answer": "B",
+      "explanation": "The scientific theory of evolution posits that species, including humans, evolve over time through the process of natural selection and adaptation to their environment."
+    },
+    {
+      "id": "hist_2015_social_q83",
+      "question": "Which of the following is correct about the Mesolithic age?",
+      "options": {
+        "A": "It is the longest of the three stone ages in human prehistory.",
+        "B": "It witnessed the shift from hunting and gathering to agriculture.",
+        "C": "It was a period that preceded the Neolithic age.",
+        "D": "Its defining feature was the invention of the technology of fire."
+      },
+      "correct_answer": "C",
+      "explanation": "The Mesolithic (Middle Stone Age) is the period that comes after the Paleolithic (Old Stone Age) and before the Neolithic (New Stone Age)."
+    },
+    {
+      "id": "hist_2015_social_q84",
+      "question": "What is the central point in the theocratic theory of state formation?",
+      "options": {
+        "A": "That states emerged first in The Middle East.",
+        "B": "That states were created by religious experts",
+        "C": "That states were formed along river valleys.",
+        "D": "That states emerged with the emergence of private property."
+      },
+      "correct_answer": "B",
+      "explanation": "The theocratic theory suggests that the state was created by religious authorities (priests or religious leaders) who claimed to rule on behalf of the gods."
+    },
+    {
+      "id": "hist_2015_social_q85",
+      "question": "What does the construction of the pyramids by the ancient Egyptians demonstrate?",
+      "options": {
+        "A": "They had made significant advances in engineering and architecture.",
+        "B": "They believed in the idea of life after death.",
+        "C": "They had intense interaction with Sumeria.",
+        "D": "Their rulers mobilized vast resources from subject populations."
+      },
+      "correct_answer": "A",
+      "explanation": "The construction of the pyramids is a testament to the ancient Egyptians' advances in engineering, architecture, mathematics, and organizational management."
+    },
+    {
+      "id": "hist_2015_social_q86",
+      "question": "Which of the following achievements of ancient Persia helped the state in maintaining administrative control of the Empire?",
+      "options": {
+        "A": "The construction of a defensive wall along the borders of the Empire.",
+        "B": "Effective use of examinations to recruit administrators",
+        "C": "The introduction of an effective postal relay system.",
+        "D": "The development of a religion called Zoroastrianism."
+      },
+      "correct_answer": "C",
+      "explanation": "The Persians established an extensive and efficient network of roads and a postal relay system, which allowed for rapid communication and administrative control across their vast empire."
+    },
+    {
+      "id": "hist_2015_social_q87",
+      "question": "Which one of the following was the earliest state in Ethiopia and the Horn?",
+      "options": {
+        "A": "Aksum",
+        "B": "Damat",
+        "C": "Yeha",
+        "D": "Punt"
+      },
+      "correct_answer": "B",
+      "explanation": "Da'amat (or Damat) was the earliest known state in the Horn of Africa, believed to have existed from the 10th to 5th centuries BCE, predating Aksum."
+    },
+    {
+      "id": "hist_2015_social_q88",
+      "question": "Which one of the following is a major achievement of the Muslim Arab civilization?",
+      "options": {
+        "A": "The opening up of new trade routes to Africa and Asia.",
+        "B": "The preservation of ancient Greek texts through translation.",
+        "C": "The development of paper money for international trade.",
+        "D": "The introduction of new technologies of warfare to Europe."
+      },
+      "correct_answer": "B",
+      "explanation": "During the Islamic Golden Age, Muslim scholars translated and preserved many ancient Greek, Persian, and Indian texts. This preservation was vital for the later transmission of this knowledge to Europe."
+    },
+    {
+      "id": "hist_2015_social_q89",
+      "question": "What features of the Zagwe period show that there was cultural continuity with the Aksumite period?",
+      "options": {
+        "A": "The use of Masawa and Zeyla for international trade.",
+        "B": "The continued importance of Greek as commercial language.",
+        "C": "The attempt by the state to expand its territory to the eastern lowlands.",
+        "D": "The important role Christianity enjoyed as official religion of the state."
+      },
+      "correct_answer": "D",
+      "explanation": "The Zagwe dynasty continued the Aksumite tradition of having Christianity as the official state religion and maintaining the Orthodox Church as a central institution."
+    },
+    {
+      "id": "hist_2015_social_q90",
+      "question": "Why did the Christian highland kingdom in Medieval Ethiopia depend on mobile camps rather than permanent capitals? Because:",
+      "options": {
+        "A": "there was scarcity of lime (nora) which was important for building permanent buildings.",
+        "B": "the mobile camps enabled rulers to control their empire more effectively than the permanent capitals.",
+        "C": "the warrior kings of the time disliked the luxury life associated with permanent towns.",
+        "D": "the tradition of building towns had disappeared with the Aksumites."
+      },
+      "correct_answer": "B",
+      "explanation": "A mobile or roving capital allowed the emperor to be physically present in different regions to assert authority, collect taxes, and prevent rebellions, making it an effective method for controlling a vast empire."
+    },
+    {
+      "id": "hist_2015_social_q91",
+      "question": "Which one of the following was a major cause of The First World War?",
+      "options": {
+        "A": "Rise of Intense nationalism among European countries.",
+        "B": "Contest over who should control the oil fields of the Middle East.",
+        "C": "Disagreement among European powers on the partition of Africa",
+        "D": "Rivalry over spheres of influence in Southeast Asia."
+      },
+      "correct_answer": "A",
+      "explanation": "The rise of intense nationalism, particularly in the Balkans and Europe, created a climate of rivalry and tension that was a major cause of WWI."
+    },
+    {
+      "id": "hist_2015_social_q92",
+      "question": "Which one of the following was responsible for the outbreak of the 1917 Russian Revolution?",
+      "options": {
+        "A": "The imposition of a harsh treaty by Germany over Russia.",
+        "B": "The dismissal of the Duma by Czar Nicholas II.",
+        "C": "The military losses that Russia suffered in WWI.",
+        "D": "The assassination of Rasputin by the socialists."
+      },
+      "correct_answer": "C",
+      "explanation": "The massive military losses and economic suffering Russia endured during WWI were the primary cause of the 1917 revolution."
+    },
+    {
+      "id": "hist_2015_social_q93",
+      "question": "Which one of the following was true about the period of Italian occupation of Ethiopia?",
+      "options": {
+        "A": "The expansion of road infrastructure.",
+        "B": "The creation of an educated class",
+        "C": "The growth of heavy industries",
+        "D": "The introduction of decentralized administration."
+      },
+      "correct_answer": "A",
+      "explanation": "The Italian occupation involved significant investment in infrastructure, including the construction of roads, bridges, and other public works to facilitate military control and colonial administration."
+    },
+    {
+      "id": "hist_2015_social_q94",
+      "question": "How did the outbreak of WWII in Europe affect Ethiopia?",
+      "options": {
+        "A": "It led the British to focus on Europe and hence delayed Ethiopia's liberation.",
+        "B": "It led to the reduction of Italian troops in Ethiopia and hence encouraged the growth of the resistance movement.",
+        "C": "It forced the Ethiopian resistance movement to change its tactics from guerrilla warfare to conventional warfare.",
+        "D": "It gained Ethiopia the support of the British government and hence facilitated its liberation."
+      },
+      "correct_answer": "B",
+      "explanation": "The outbreak of WWII in Europe forced the Italians to reduce their troop numbers in Ethiopia to fight in other theaters. This weakened Italian control and enabled the Ethiopian resistance to intensify its efforts."
+    },
+    {
+      "id": "hist_2015_social_q95",
+      "question": "Why was the UNO established?",
+      "options": {
+        "A": "To provide a way out of Cold War politics",
+        "B": "To facilitate the process of decolonization.",
+        "C": "To resolve international conflicts peacefully.",
+        "D": "To fight against global climate change."
+      },
+      "correct_answer": "C",
+      "explanation": "The United Nations Organization (UNO) was established in 1945 to maintain international peace and security, promote cooperation among nations, and resolve conflicts peacefully, succeeding the League of Nations."
+    },
+    {
+      "id": "hist_2015_social_q96",
+      "question": "What did the anti-colonial movements in Algeria and Kenya in the 1950s have in common?",
+      "options": {
+        "A": "Both initially opposed complete independence but accepted it later",
+        "B": "Both tried peaceful methods but resorted to armed resistance when that failed.",
+        "C": "Both were led by leaders who supported the Indian tactic of peaceful resistance",
+        "D": "Both were urban based movements that sought to advance the interests of the middle classes."
+      },
+      "correct_answer": "B",
+      "explanation": "Both the FLN in Algeria and the Mau Mau in Kenya initially sought peaceful means but eventually adopted armed struggle as the primary method to achieve independence from European colonial rule."
+    },
+    {
+      "id": "hist_2015_social_q97",
+      "question": "Why did independent African states establish the OAU in 1963?",
+      "options": {
+        "A": "Because the United States had encouraged them to do so.",
+        "B": "Because they desired to spread democracy across the Continent.",
+        "C": "Because they wanted to establish an association independent of the Super Powers.",
+        "D": "Because they wanted to advance the struggle against colonialism."
+      },
+      "correct_answer": "D",
+      "explanation": "The OAU was established to promote unity and solidarity among African states, coordinate their efforts to end colonialism in Africa, and eliminate racism."
+    },
+    {
+      "id": "hist_2015_social_q98",
+      "question": "Which one of the following institutions in Ethiopia was rebuilt with the help of the US in the post-liberation period?",
+      "options": {
+        "A": "The Imperial Highway Authority",
+        "B": "The Parliament",
+        "C": "The Imperial Board of Telecommunications",
+        "D": "The Imperial Body Guard"
+      },
+      "correct_answer": "A",
+      "explanation": "The Imperial Highway Authority was a major institution that received substantial support and funding from the United States to build and maintain roads in Ethiopia during the post-liberation period."
+    },
+    {
+      "id": "hist_2015_social_q99",
+      "question": "Which one of the following was a consequence of the 1973-74 famine for the Imperial Government of Ethiopia?",
+      "options": {
+        "A": "The inability of the government to repulse the Somali invasion.",
+        "B": "The withdrawal of US support from the government.",
+        "C": "The adoption of a radical land reform program.",
+        "D": "The loss of legitimacy for the regime."
+      },
+      "correct_answer": "D",
+      "explanation": "The 1973-74 famine, which killed tens of thousands, was a major blow to the legitimacy of the Imperial government. The government's failure to respond effectively to the crisis fueled public anger and contributed to the outbreak of the 1974 revolution."
+    },
+    {
+      "id": "hist_2015_social_q100",
+      "question": "Which one of the following was responsible for unpopularity of the Derg Regime?",
+      "options": {
+        "A": "Formation of an alliance with Socialist Cuba",
+        "B": "The passage of the land reform proclamation",
+        "C": "Using violence against opposition groups",
+        "D": "Organizing the Edget Behibret campaign"
+      },
+      "correct_answer": "C",
+      "explanation": "The Derg's use of violence, particularly the 'Red Terror' campaign in the late 1970s, which involved widespread arrests, executions, and torture of political opponents, was a primary cause of its unpopularity."
+    }
+  ]
 }
