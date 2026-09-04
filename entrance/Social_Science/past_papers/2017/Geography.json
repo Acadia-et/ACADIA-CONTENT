@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "Geography",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_geography_2017_social",
+  "content_type": "past_paper",
+  "title": "Geography - 2017 (Social)",
+  "year": 2017,
+  "subject": "Geography",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "geo_2017_social_q1",
+      "question": "Which one of the following is true about the importance of Lucy in resolving debates about human evolution? (Note: This appears to be a misplaced question from Biology; the most logical answer for Geography based on the provided PDF is as below).",
+      "options": {
+        "A": "Big brains came before bipedalism.",
+        "B": "Lucy had a brain size of 1.8% of her body mass.",
+        "C": "Bipedalism came before big brains.",
+        "D": "Lucy was partially an arboreal primate."
+      },
+      "correct_answer": "C",
+      "explanation": "The discovery of Lucy (Australopithecus afarensis) provided crucial evidence that bipedalism (walking on two legs) evolved before the significant expansion of the brain."
+    },
+    {
+      "id": "geo_2017_social_q2",
+      "question": "Which one of the following can best explain behavior? (Note: Misplaced from Biology; provided as is from the PDF).",
+      "options": {
+        "A": "the co-ordinated response of an organism to an internal or external stimuli.",
+        "B": "the tendency for parts of plants to grow towards light.",
+        "C": "the actions or reactions of a person or animal in response to external or internal stimuli.",
+        "D": "a cell or group of cells that receives and processes stimuli."
+      },
+      "correct_answer": "C",
+      "explanation": "Behavior is broadly defined as the way an organism acts or reacts to its environment (external or internal stimuli)."
+    },
+    {
+      "id": "geo_2017_social_q3",
+      "question": "What is the main characteristic of indigenous conflict resolution practices in Ethiopia? (Note: Misplaced from Civics; provided as is from the PDF).",
+      "options": {
+        "A": "It passes lengthy processes to bring about reconciliation.",
+        "B": "The issue is concluded in reconciliation and harmony.",
+        "C": "Pastoralists use identical resolution mechanisms.",
+        "D": "Most of them are mainly based on written laws."
+      },
+      "correct_answer": "B",
+      "explanation": "Indigenous conflict resolution in Ethiopia, such as the Gadaa system or Shimglina, typically aims at restoring social harmony and reconciliation rather than punishment."
+    },
+    {
+      "id": "geo_2017_social_q4",
+      "question": "Which one of the following geographic study is addressed by the Topical Approach?",
+      "options": {
+        "A": "Studying the economic activities and climatic conditions of Ethiopia",
+        "B": "Investigating the spatial distribution of rainfall in the world",
+        "C": "Identify the major socio-economic characteristics of African countries",
+        "D": "Studying the physical characteristics of the rift valley of Ethiopia"
+      },
+      "correct_answer": "A",
+      "explanation": "The Topical (or Systematic) approach studies a specific geographic theme (e.g., climate, economic activities) across the world. Option A studies both economic activities and climatic conditions, making it topical."
+    },
+    {
+      "id": "geo_2017_social_q5",
+      "question": "Which one of the following states about Applied Geography?",
+      "options": {
+        "A": "It focuses mainly on statistical techniques in geographical research.",
+        "B": "It solves geographic problems primarily using qualitative techniques.",
+        "C": "It employs geographic knowledge to solve socio-economic problems.",
+        "D": "It emphasizes on developing mathematical equations and models."
+      },
+      "correct_answer": "C",
+      "explanation": "Applied Geography is the branch of geography that uses geographic knowledge and techniques to solve practical problems in society, such as urban planning, resource management, and disaster response."
+    },
+    {
+      "id": "geo_2017_social_q6",
+      "question": "What is the common area of study between geography and sociology?",
+      "options": {
+        "A": "Distribution and growth of the population",
+        "B": "Expansion of urban areas and cities",
+        "C": "Past economic activities of a society",
+        "D": "Distribution and interaction of cultures"
+      },
+      "correct_answer": "A",
+      "explanation": "Both geography and sociology are interested in population studies. Geography focuses on the spatial distribution and growth of the population, while sociology examines the social structure and dynamics of that population."
+    },
+    {
+      "id": "geo_2017_social_q7",
+      "question": "Which kind of town serves as a center of financial services?",
+      "options": {
+        "A": "Commercial town",
+        "B": "Market town",
+        "C": "Mining towns",
+        "D": "Industrial town"
+      },
+      "correct_answer": "A",
+      "explanation": "Commercial towns are primarily focused on trade and services, including banking and other financial services."
+    },
+    {
+      "id": "geo_2017_social_q8",
+      "question": "Which statement describes the size of Africa?",
+      "options": {
+        "A": "It is about two-thirds of South America.",
+        "B": "It is larger than Europe and Antarctica put together.",
+        "C": "It is the largest continent of the world.",
+        "D": "It covers about one-fourth of the world's area."
+      },
+      "correct_answer": "B",
+      "explanation": "Africa is the second largest continent, with an area of about 30 million square kilometers. Europe (10.5m) and Antarctica (14m) together are about 24.5 million, making Africa larger than them combined."
+    },
+    {
+      "id": "geo_2017_social_q9",
+      "question": "What makes the regions of Africa similar from the socio-economic and geopolitical points of view?",
+      "options": {
+        "A": "There is a strong political integration among the regions.",
+        "B": "In each region, about two-thirds of the population lives in urban areas.",
+        "C": "Each region has direct access to the sea.",
+        "D": "They depend mainly on mechanized agriculture."
+      },
+      "correct_answer": "C",
+      "explanation": "All major regions of Africa (North, West, East, Central, and South) have access to the sea, which has historically influenced their trade and geopolitics."
+    },
+    {
+      "id": "geo_2017_social_q10",
+      "question": "What is the major geological event that occurred during the Cenozoic Era in Africa?",
+      "options": {
+        "A": "The split of the super continent Pangaea",
+        "B": "The recording of a series of denudation and peneplanation",
+        "C": "The formation of crystalline basement complex rocks",
+        "D": "The formation of the present landscape of Africa"
+      },
+      "correct_answer": "D",
+      "explanation": "The Cenozoic Era is the most recent geological era. During this time, the major geological processes that shaped the current landscape of Africa (like the formation of the Rift Valley, volcanic activity, and denudation) occurred."
+    },
+    {
+      "id": "geo_2017_social_q11",
+      "question": "Which typical relief feature is more dominantly found in Africa than in Europe?",
+      "options": {
+        "A": "Hills",
+        "B": "Mountains",
+        "C": "Plateaus",
+        "D": "Plains"
+      },
+      "correct_answer": "C",
+      "explanation": "Africa is often called the 'Plateau Continent' because plateaus make up a vast majority of its land surface, more than any other continent."
+    },
+    {
+      "id": "geo_2017_social_q12",
+      "question": "What is the effect of latitude on ecosystem diversity? Ecosystem diversity",
+      "options": {
+        "A": "decreases gradually when we travel from the equator to Tundra.",
+        "B": "remains similar wherever we go mainly due to the effect of altitude.",
+        "C": "decreases from the poles towards the equator.",
+        "D": "increases as we go from the equator to the poles."
+      },
+      "correct_answer": "A",
+      "explanation": "Ecosystem diversity is highest near the equator (tropical rainforests) and decreases as you move towards the poles (tundra). This is due to the favorable climate (temperature and rainfall) at the equator."
+    },
+    {
+      "id": "geo_2017_social_q13",
+      "question": "Which statement refers to the trends of population growth of the world?",
+      "options": {
+        "A": "Population growth has been constantly increasing since 5000BC because of economic diversification.",
+        "B": "Rapid population growth was recorded for the first time when humans started to domesticate animals.",
+        "C": "Population growth was quite low before 5000BC mainly because of war and use of contraceptives.",
+        "D": "The total number of human population was about 4 billion at the beginning of the 1900s."
+      },
+      "correct_answer": "B",
+      "explanation": "The Neolithic Revolution (around 8000-5000 BC) saw the beginning of agriculture and animal domestication, which allowed for a more stable food supply and led to the first significant increase in population growth."
+    },
+    {
+      "id": "geo_2017_social_q14",
+      "question": "Which physical factor positively influences the distribution of human population?",
+      "options": {
+        "A": "High relief with very high humidity",
+        "B": "High natural increase of human population",
+        "C": "Optimum temperature and rainfall",
+        "D": "Expansion of industrial development"
+      },
+      "correct_answer": "C",
+      "explanation": "Optimum temperature and rainfall create the best conditions for agriculture, which supports large human populations. The other options (A, D) are either challenging physical conditions or human factors."
+    },
+    {
+      "id": "geo_2017_social_q15",
+      "question": "Which one of the following describes the level of urbanization in the world?",
+      "options": {
+        "A": "Europe has the second highest percentage of urban population.",
+        "B": "Japan has the highest percentage of urban population.",
+        "C": "Developing regions have higher urban population than the world's average.",
+        "D": "Africa has higher urban population than other developing regions."
+      },
+      "correct_answer": "A",
+      "explanation": "North America and Europe have the highest levels of urbanization in the world. Europe's level is second only to North America and is higher than the global average."
+    },
+    {
+      "id": "geo_2017_social_q16",
+      "question": "Among the following zones of Ethiopia, which one is densely populated?",
+      "options": {
+        "A": "Agnewak",
+        "B": "Asossa",
+        "C": "Gedeo",
+        "D": "East Hararge"
+      },
+      "correct_answer": "C",
+      "explanation": "The Gedeo zone in the Southern Nations, Nationalities, and Peoples' Region (SNNPR) is one of the most densely populated areas in Ethiopia due to its favorable climate and intensive agriculture (e.g., Ensete cultivation)."
+    },
+    {
+      "id": "geo_2017_social_q17",
+      "question": "What will happen by 2030 if the current population growth rate of Ethiopia continues in the same trend?",
+      "options": {
+        "A": "The population will exert pressure on the available infrastructure.",
+        "B": "The population will be evenly distributed across the country.",
+        "C": "The population density will remain the same.",
+        "D": "The size of the population will be quadrupled."
+      },
+      "correct_answer": "A",
+      "explanation": "Continued rapid population growth will inevitably lead to increased pressure on existing infrastructure such as housing, schools, roads, and healthcare facilities."
+    },
+    {
+      "id": "geo_2017_social_q18",
+      "question": "Which economic system is criticized for allowing some groups to accumulate huge wealth and play a decisive role in the economy?",
+      "options": {
+        "A": "Traditional",
+        "B": "Mixed",
+        "C": "Free market",
+        "D": "Command"
+      },
+      "correct_answer": "C",
+      "explanation": "A free market (capitalist) system is often criticized for creating significant income inequality, allowing a wealthy elite to accumulate a disproportionate amount of wealth and power."
+    },
+    {
+      "id": "geo_2017_social_q19",
+      "question": "What is the main task of the World Trade Organization?",
+      "options": {
+        "A": "It directly puts sanctions in a sovereign country when it violates laws.",
+        "B": "It practically protects professional workers' rights.",
+        "C": "It provides a framework on how to produce exportable items.",
+        "D": "It enforces regulations related to free trade agreements."
+      },
+      "correct_answer": "D",
+      "explanation": "The primary function of the WTO is to regulate and enforce international trade agreements, providing a framework for negotiating and settling trade disputes."
+    },
+    {
+      "id": "geo_2017_social_q20",
+      "question": "Which sphere of the earth contains important minerals?",
+      "options": {
+        "A": "Atmosphere",
+        "B": "Biosphere",
+        "C": "Lithosphere",
+        "D": "Hydrosphere"
+      },
+      "correct_answer": "C",
+      "explanation": "The lithosphere (the Earth's crust and upper mantle) is the sphere where all minerals and rocks are found."
+    },
+    {
+      "id": "geo_2017_social_q21",
+      "question": "Which type of extensive land feature is formed by volcanism?",
+      "options": {
+        "A": "Caldera",
+        "B": "Dike",
+        "C": "Sill",
+        "D": "Batholith"
+      },
+      "correct_answer": "D",
+      "explanation": "A batholith is a massive intrusive igneous rock body formed from cooled magma deep within the crust. It is the largest of the intrusive features, while caldera, dike, and sill are smaller features."
+    },
+    {
+      "id": "geo_2017_social_q22",
+      "question": "Which statement describes the process of faulting?",
+      "options": {
+        "A": "Faulting is a process which is mainly caused by human activities.",
+        "B": "Normal faults develop under the predominant tensional forces.",
+        "C": "Compressional crack results in the formation of normal faulting.",
+        "D": "Reverse fault is normally associated with strong tensional forces."
+      },
+      "correct_answer": "B",
+      "explanation": "Normal faults are caused by tensional forces that pull the crust apart, causing one block to slip down relative to the other. Reverse faults are caused by compressional forces."
+    },
+    {
+      "id": "geo_2017_social_q23",
+      "question": "What is the type of land feature cut off from the sea by sand banks?",
+      "options": {
+        "A": "Lagoon",
+        "B": "Spit",
+        "C": "Tombolo",
+        "D": "Beach"
+      },
+      "correct_answer": "A",
+      "explanation": "A lagoon is a shallow body of water separated from a larger body of water (like the sea) by a barrier such as a sandbank, coral reef, or barrier island."
+    },
+    {
+      "id": "geo_2017_social_q24",
+      "question": "How is conventional rainfall formed?",
+      "options": {
+        "A": "When warm and dry air descend a mountain.",
+        "B": "When cold and warm air masses meet at the front.",
+        "C": "When dry air forced to rise above a mountain.",
+        "D": "When moist and less dense air is forced to rise upward."
+      },
+      "correct_answer": "D",
+      "explanation": "Conventional rainfall occurs when the sun heats the ground, causing moist air to rise. This moist air cools, condenses, and forms clouds, leading to rainfall."
+    },
+    {
+      "id": "geo_2017_social_q25",
+      "question": "What is the effect of Coriolis force on wind direction? It causes",
+      "options": {
+        "A": "cyclones to move in clock wise direction in the southern hemisphere.",
+        "B": "anti-cyclones to move clockwise direction in the southern hemisphere.",
+        "C": "winds to turn to the right in the southern hemisphere.",
+        "D": "winds to bend to the left in the northern hemisphere."
+      },
+      "correct_answer": "A",
+      "explanation": "The Coriolis force deflects moving objects (including winds) to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This means cyclones (low pressure systems) rotate counter-clockwise in the Northern and clockwise in the Southern."
+    },
+    {
+      "id": "geo_2017_social_q26",
+      "question": "Which one of the following ocean current has a cooling effect on the southwestern part of Africa?",
+      "options": {
+        "A": "The Mozambique current",
+        "B": "The Canary current",
+        "C": "The Benguela current",
+        "D": "The Mexican Gulf stream"
+      },
+      "correct_answer": "C",
+      "explanation": "The Benguela Current flows north along the coast of southwestern Africa (Namibia and Angola). It is a cold current that cools the coastal climate and contributes to the formation of the Namib Desert."
+    },
+    {
+      "id": "geo_2017_social_q27",
+      "question": "Which statement explains about the pressure belts of the world?",
+      "options": {
+        "A": "Polar high is known as 'belt of calm'.",
+        "B": "Sub polar is an area of high air pressure.",
+        "C": "Doldrums is a high pressure belt.",
+        "D": "Horse latitude is an area of high air pressure."
+      },
+      "correct_answer": "D",
+      "explanation": "Horse latitudes are the subtropical high pressure belts (around 30° N and 30° S) characterized by calm, descending air and light winds."
+    },
+    {
+      "id": "geo_2017_social_q28",
+      "question": "When a new global pandemic occur, less developed countries can respond by",
+      "options": {
+        "A": "penalizing the people who are caught by the disease.",
+        "B": "establishing modernized health centers in a short period of time.",
+        "C": "allocating a large proportion of their health care budget to the crisis.",
+        "D": "letting their people resolve the crisis by themselves."
+      },
+      "correct_answer": "C",
+      "explanation": "The most realistic immediate response for a less developed country is to re-allocate resources and budget towards the crisis to contain the spread and treat the affected."
+    },
+    {
+      "id": "geo_2017_social_q29",
+      "question": "Which of the following is a challenge to environmental sustainability?",
+      "options": {
+        "A": "Rapid urbanization",
+        "B": "Environmental movements",
+        "C": "Slow growth of population",
+        "D": "Use of renewable energy"
+      },
+      "correct_answer": "A",
+      "explanation": "Rapid urbanization can lead to deforestation, increased pollution, and overconsumption of resources, which are major challenges to environmental sustainability."
+    },
+    {
+      "id": "geo_2017_social_q30",
+      "question": "Which environmental movement focuses on preventing human-induced damage to the natural environment?",
+      "options": {
+        "A": "Popular environmentalism",
+        "B": "Light Greens",
+        "C": "Preservation and conservation",
+        "D": "Free market environmentalism"
+      },
+      "correct_answer": "C",
+      "explanation": "Preservation and conservation movements aim to protect the natural environment from human destruction and overexploitation."
+    },
+    {
+      "id": "geo_2017_social_q31",
+      "question": "Which one is a good practice to minimize the effects of drought?",
+      "options": {
+        "A": "Following",
+        "B": "Reducing overgrazing",
+        "C": "Intercropping",
+        "D": "Water harvesting"
+      },
+      "correct_answer": "D",
+      "explanation": "Water harvesting captures and stores rainwater, providing a buffer during dry periods and minimizing the impact of drought."
+    },
+    {
+      "id": "geo_2017_social_q32",
+      "question": "What is the importance of conducting research on an environmental problem?",
+      "options": {
+        "A": "To investigate causes of the problem",
+        "B": "To address varied ecological settings",
+        "C": "To create awareness about research",
+        "D": "To document the types of problems"
+      },
+      "correct_answer": "A",
+      "explanation": "Research is fundamental for identifying the root causes and understanding the extent of an environmental problem, which is necessary before developing any solutions."
+    },
+    {
+      "id": "geo_2017_social_q33",
+      "question": "Which sub-section of the quantitative research approaches are used to test a given geographical theory?",
+      "options": {
+        "A": "Correlational analysis",
+        "B": "Case study",
+        "C": "Action research",
+        "D": "Ethnographic research"
+      },
+      "correct_answer": "A",
+      "explanation": "Correlational analysis is a quantitative method used to test the relationship between variables, which can be used to verify geographical theories."
+    },
+    {
+      "id": "geo_2017_social_q34",
+      "question": "What is the method of extracting metallic minerals from soil called?",
+      "options": {
+        "A": "Surface mining",
+        "B": "Strip mining",
+        "C": "Placer mining",
+        "D": "Quarrying"
+      },
+      "correct_answer": "C",
+      "explanation": "Placer mining is the process of extracting heavy minerals from alluvial (sand, gravel) deposits in riverbeds or beach sands."
+    },
+    {
+      "id": "geo_2017_social_q35",
+      "question": "What is the major cause of Africa being unable to exploit its potential resources?",
+      "options": {
+        "A": "Political instability",
+        "B": "Inadequate revenue from resources",
+        "C": "Unfavorable climate",
+        "D": "Inappropriate allocation of resources"
+      },
+      "correct_answer": "A",
+      "explanation": "Political instability and conflict in many African countries have prevented the effective and sustainable exploitation of their vast natural resources."
+    },
+    {
+      "id": "geo_2017_social_q36",
+      "question": "Which continent is included in the Eurasian plate?",
+      "options": {
+        "A": "Part of South America",
+        "B": "Part of Asia",
+        "C": "Australia",
+        "D": "North Africa"
+      },
+      "correct_answer": "B",
+      "explanation": "The Eurasian Plate includes the continents of Europe and most of Asia. It does not include North Africa (which is on the African plate) or South America/Australia."
+    },
+    {
+      "id": "geo_2017_social_q37",
+      "question": "Which landmass is formed through the convergence of two oceanic plates?",
+      "options": {
+        "A": "The San Andreas Fault",
+        "B": "The East African rift valley",
+        "C": "The Himalayas Mountain",
+        "D": "The Mariana volcanic feature"
+      },
+      "correct_answer": "D",
+      "explanation": "The convergence of two oceanic plates forms a subduction zone, which creates island arcs and deep ocean trenches like the Mariana Trench."
+    },
+    {
+      "id": "geo_2017_social_q38",
+      "question": "What is the principal agent for the chemical weathering of rocks?",
+      "options": {
+        "A": "Cold temperature",
+        "B": "Thermal expansion",
+        "C": "Rain water",
+        "D": "Glacier"
+      },
+      "correct_answer": "C",
+      "explanation": "Rainwater is the main agent of chemical weathering. It is slightly acidic and reacts with minerals in rocks through processes like hydrolysis, oxidation, and carbonation."
+    },
+    {
+      "id": "geo_2017_social_q39",
+      "question": "Which one of the following country is found in the 'ring of fire' zone?",
+      "options": {
+        "A": "Peru",
+        "B": "United Kingdom",
+        "C": "Brazil",
+        "D": "Norway"
+      },
+      "correct_answer": "A",
+      "explanation": "The 'Ring of Fire' is a zone of intense seismic and volcanic activity that surrounds the Pacific Ocean. Peru is located on the western coast of South America, which is part of this ring."
+    },
+    {
+      "id": "geo_2017_social_q40",
+      "question": "Which statement shows the trend of world climate change?",
+      "options": {
+        "A": "The global climate fluctuates at the same rate.",
+        "B": "The average global temperature has increased over the past century.",
+        "C": "Precipitation has increased all over the globe since the 1980s.",
+        "D": "Temperature has declined in temperate regions since the 1970s."
+      },
+      "correct_answer": "B",
+      "explanation": "The most widely accepted trend is that the average global temperature has risen significantly over the past century, a phenomenon known as global warming."
+    },
+    {
+      "id": "geo_2017_social_q41",
+      "question": "Which one is the effect of climate change in the tropical parts of the world? Increasing",
+      "options": {
+        "A": "frequency of drought",
+        "B": "snow covers",
+        "C": "crop yield",
+        "D": "predictable rainfall"
+      },
+      "correct_answer": "A",
+      "explanation": "Climate change is leading to more frequent and severe droughts in many tropical regions, impacting agriculture and water availability."
+    },
+    {
+      "id": "geo_2017_social_q42",
+      "question": "Which physical element is the base to conduct a regional study?",
+      "options": {
+        "A": "Language",
+        "B": "Climate",
+        "C": "Culture",
+        "D": "Religion"
+      },
+      "correct_answer": "B",
+      "explanation": "Climate is a fundamental physical element that determines soil, vegetation, and land use, making it the most common base for delining geographical regions."
+    },
+    {
+      "id": "geo_2017_social_q43",
+      "question": "Which statement describes the equatorial rainforest region?",
+      "options": {
+        "A": "It is dominated by deciduous forests.",
+        "B": "Its annual range of temperature exceeds the daily range.",
+        "C": "It receives high amount of rainfall throughout the year.",
+        "D": "It forms a continuous belt around the world."
+      },
+      "correct_answer": "C",
+      "explanation": "The equatorial rainforest region is characterized by high rainfall (over 2000mm) distributed throughout the year, with no distinct dry season."
+    },
+    {
+      "id": "geo_2017_social_q44",
+      "question": "Which one explains about the lowlands of Ethiopia?",
+      "options": {
+        "A": "Kobar sink is the lowest place in the country.",
+        "B": "Tekeze occupies the floor of the rift valley.",
+        "C": "Lowlands are situated at the center of the country.",
+        "D": "They are found in between 1000-2000 m heights."
+      },
+      "correct_answer": "A",
+      "explanation": "The Kobar Sink (Danakil Depression) is the lowest point in Ethiopia, located in the Afar region and falling below sea level."
+    },
+    {
+      "id": "geo_2017_social_q45",
+      "question": "What characterizes the physical environment of the Tundra Region?",
+      "options": {
+        "A": "It is found both in the northern and southern hemispheres.",
+        "B": "In area of low snow cover, tall plants grow during the summer season.",
+        "C": "It is a densely populated region where Eskimos and Lapps are found.",
+        "D": "It is known for its low temperature and rainfall throughout the year."
+      },
+      "correct_answer": "D",
+      "explanation": "The Tundra is characterized by very low temperatures and low precipitation. The ground is covered with snow and ice for most of the year, and the subsoil is permanently frozen (permafrost)."
+    },
+    {
+      "id": "geo_2017_social_q46",
+      "question": "What is the effect of advancement in transport and communication on the location of economic activities?",
+      "options": {
+        "A": "It shows how distance and time impact on the production of goods.",
+        "B": "It enforces the establishment of industries where raw materials found.",
+        "C": "It enables delivery and sale of perishable goods at a reasonable time.",
+        "D": "It encourages people to deliver their goods and services in person."
+      },
+      "correct_answer": "C",
+      "explanation": "Advancements in transport and communication, particularly refrigeration and fast logistics, allow perishable goods to be transported long distances and sold in markets far from their point of production."
+    },
+    {
+      "id": "geo_2017_social_q47",
+      "question": "Which area of the world is sparsely populated mainly due to physical factor?",
+      "options": {
+        "A": "South Asia",
+        "B": "East Asia",
+        "C": "Peninsular Europe",
+        "D": "Central Africa"
+      },
+      "correct_answer": "D",
+      "explanation": "Central Africa (e.g., the Congo Basin) is sparsely populated due to the dense tropical rainforest and the presence of the tsetse fly, which causes sleeping sickness. These are physical/environmental factors."
+    },
+    {
+      "id": "geo_2017_social_q48",
+      "question": "Which type of economic activities involve top-level decision making?",
+      "options": {
+        "A": "Secondary activities",
+        "B": "Tertiary activities",
+        "C": "Quinary activities",
+        "D": "Primary activities"
+      },
+      "correct_answer": "C",
+      "explanation": "Quinary activities are the highest-level activities involving decision-making, such as government, research, and high-level corporate management."
+    },
+    {
+      "id": "geo_2017_social_q49",
+      "question": "Which statement describes the concept of land use?",
+      "options": {
+        "A": "Natural factors affecting land form",
+        "B": "The intensity of land in the rural areas",
+        "C": "Biophysical factors associated with land",
+        "D": "Human activities related to land"
+      },
+      "correct_answer": "D",
+      "explanation": "Land use refers to how human beings utilize the land for various purposes, such as agriculture, housing, industry, or conservation."
+    },
+    {
+      "id": "geo_2017_social_q50",
+      "question": "Which soil types of Africa have high humus content?",
+      "options": {
+        "A": "Nitosols",
+        "B": "Luvisols",
+        "C": "Lixisols",
+        "D": "Ferrasols"
+      },
+      "correct_answer": "A",
+      "explanation": "Nitosols are deep, well-drained soils that are rich in organic matter (humus) and are commonly found in the humid highlands of tropical Africa."
+    },
+    {
+      "id": "geo_2017_social_q51",
+      "question": "Which statement explains the size of the African population? The continent",
+      "options": {
+        "A": "has half of the population of Oceania.",
+        "B": "has two-thirds of the world's population.",
+        "C": "is the third populous continent.",
+        "D": "is more populous than North America."
+      },
+      "correct_answer": "D",
+      "explanation": "Africa has over 1.4 billion people, while North America has about 600 million. Therefore, Africa is significantly more populous than North America."
+    },
+    {
+      "id": "geo_2017_social_q52",
+      "question": "Which one describes a population characteristic of southern African as compared to other regions?",
+      "options": {
+        "A": "Highest crude death rate",
+        "B": "Lowest immigration rate",
+        "C": "Highest natural increase",
+        "D": "Lowest life expectancy"
+      },
+      "correct_answer": "A",
+      "explanation": "Southern Africa, particularly due to high HIV/AIDS prevalence, historically has had a high crude death rate compared to other African regions."
+    },
+    {
+      "id": "geo_2017_social_q53",
+      "question": "Which one of the following describes the sex structure of the African population?",
+      "options": {
+        "A": "In Guinea, the number of female births exceeds that of male births.",
+        "B": "In the Sub-Saharan Africa, there are more males than females.",
+        "C": "In Uganda, there is a balanced number of males and females.",
+        "D": "In the Sub-Saharan Africa, the sex ratio is below the world's mean."
+      },
+      "correct_answer": "C",
+      "explanation": "In most countries, including Uganda, the sex ratio at birth is roughly balanced (around 100 males per 100 females), though it can change with age."
+    },
+    {
+      "id": "geo_2017_social_q54",
+      "question": "Which one of the following is the main disadvantage of migration in the receiving country?",
+      "options": {
+        "A": "Racial interaction",
+        "B": "Reduced labor shortage",
+        "C": "Ethnic tension",
+        "D": "Cultural integration"
+      },
+      "correct_answer": "C",
+      "explanation": "An influx of migrants can sometimes create or exacerbate social and ethnic tensions in the receiving country due to competition for resources or cultural differences."
+    },
+    {
+      "id": "geo_2017_social_q55",
+      "question": "Which statement describes the concept of economic development?",
+      "options": {
+        "A": "Progress in the process of industrial domestic product",
+        "B": "Increase in the total amount of manufactured goods",
+        "C": "Improvement in the living condition of the people",
+        "D": "Increase in the amount of total agricultural production"
+      },
+      "correct_answer": "C",
+      "explanation": "Economic development is a broader concept than economic growth. It involves qualitative improvements in the well-being of the people, including better health, education, and living standards."
+    },
+    {
+      "id": "geo_2017_social_q56",
+      "question": "Which one of the following is a good opportunity for the development of the African continent? The availability of",
+      "options": {
+        "A": "abundant natural resources",
+        "B": "foreign aid and loan",
+        "C": "political stability",
+        "D": "skilled labor force"
+      },
+      "correct_answer": "A",
+      "explanation": "Africa is rich in natural resources (minerals, oil, arable land). This abundance is a key opportunity for its development if managed well."
+    },
+    {
+      "id": "geo_2017_social_q57",
+      "question": "Which one shows the agricultural production of Africa?",
+      "options": {
+        "A": "It is mainly carried out through irrigation systems.",
+        "B": "It is dominated by the production of commercial crops.",
+        "C": "The continent produces huge amounts of temperate zone crops.",
+        "D": "Africa is rich in tropical crops demanded in world markets."
+      },
+      "correct_answer": "D",
+      "explanation": "Africa's location in the tropics makes it a major producer of tropical crops like cocoa, coffee, tea, and oil palm, which are in high demand globally."
+    },
+    {
+      "id": "geo_2017_social_q58",
+      "question": "Which statement relates to theories on population growth and development?",
+      "options": {
+        "A": "Marxians believe that population growth causes technological development.",
+        "B": "Ester Boserup believes that there is a strong linkage between poverty and population growth.",
+        "C": "Neo-Malthusianism asserts that socio-economic problems are solved by reducing birth rate.",
+        "D": "Malthusian theory stresses that food production exceeds population growth."
+      },
+      "correct_answer": "C",
+      "explanation": "Neo-Malthusians build on Malthus's work and argue that overpopulation is a major cause of socio-economic problems, advocating for aggressive birth control measures."
+    },
+    {
+      "id": "geo_2017_social_q59",
+      "question": "Which statement is about population growth control practices?",
+      "options": {
+        "A": "Kenya encourages a national family planning policy.",
+        "B": "Most African countries have a one-child policy.",
+        "C": "China supports women to have large families.",
+        "D": "India ratified a child-tax policy."
+      },
+      "correct_answer": "A",
+      "explanation": "Kenya has implemented national family planning policies to help control its population growth rate."
+    },
+    {
+      "id": "geo_2017_social_q60",
+      "question": "Which one of the following is an indicator of social development?",
+      "options": {
+        "A": "Infant mortality rate",
+        "B": "Literacy rate",
+        "C": "Per-capita income",
+        "D": "Gross Domestic Product"
+      },
+      "correct_answer": "B",
+      "explanation": "Literacy rate is a key indicator of social development. It reflects the level of education and human capital in a society. Other options (C, D) are economic indicators, and (A) is a health indicator (also social but literacy is a direct measure of social development)."
+    },
+    {
+      "id": "geo_2017_social_q61",
+      "question": "What is the effect of rapid population growth on the socio-economic progress of developing countries?",
+      "options": {
+        "A": "Incidence of widespread food insecurity",
+        "B": "Abundance of life sustaining goods",
+        "C": "Formation of a healthy environment",
+        "D": "Expansion of economic choices"
+      },
+      "correct_answer": "A",
+      "explanation": "Rapid population growth increases pressure on food supply, making food insecurity more widespread in developing countries."
+    },
+    {
+      "id": "geo_2017_social_q62",
+      "question": "According to the behavioral approach, which one is the cause of poverty?",
+      "options": {
+        "A": "Non-violent dispute resolution",
+        "B": "Weakness to change the sense of inability",
+        "C": "Rational attitude towards wealth",
+        "D": "Good performance in the work place"
+      },
+      "correct_answer": "B",
+      "explanation": "The behavioral approach to poverty focuses on individual behaviors and attitudes. A 'sense of inability' or a 'culture of poverty' is seen as a cause that perpetuates poverty."
+    },
+    {
+      "id": "geo_2017_social_q63",
+      "question": "Globalization contributes to the economic development of developing countries mainly through",
+      "options": {
+        "A": "investing on poverty reduction.",
+        "B": "extracting raw materials.",
+        "C": "creating high tax rates.",
+        "D": "providing loan."
+      },
+      "correct_answer": "A",
+      "explanation": "Globalization brings Foreign Direct Investment (FDI) from developed countries to developing nations, which helps in poverty reduction, infrastructure development, and creating jobs."
+    },
+    {
+      "id": "geo_2017_social_q64",
+      "question": "Trade imbalance occurs in developing countries when",
+      "options": {
+        "A": "a country has industries owned by foreigners.",
+        "B": "a country borrows money to import goods for its population.",
+        "C": "the value of goods of a country's export is higher than its import.",
+        "D": "the amount of import item is less than that of export item."
+      },
+      "correct_answer": "B",
+      "explanation": "A trade imbalance (deficit) occurs when a country's imports exceed its exports. To finance this deficit, the country must borrow money from external sources."
+    },
+    {
+      "id": "geo_2017_social_q65",
+      "question": "What is the type of corruption committed by a public official to make decisions by receiving money?",
+      "options": {
+        "A": "Bribery",
+        "B": "Theft",
+        "C": "Stealing",
+        "D": "Burglary"
+      },
+      "correct_answer": "A",
+      "explanation": "Bribery is the act of giving or receiving money or gifts to influence the decisions of a public official."
+    },
+    {
+      "id": "geo_2017_social_q66",
+      "question": "What are non-renewable resources? They are",
+      "options": {
+        "A": "rare resources that will and at some time in the future.",
+        "B": "resources evenly distributed across the earth's surface.",
+        "C": "resources that replenish themselves quickly.",
+        "D": "replaceable resources if human beings utilize them properly."
+      },
+      "correct_answer": "A",
+      "explanation": "Non-renewable resources, like fossil fuels and minerals, are finite. They are consumed at a rate much faster than they can form, so they will eventually be exhausted."
+    },
+    {
+      "id": "geo_2017_social_q67",
+      "question": "Which one of the following relates to the economic policies of Ethiopia?",
+      "options": {
+        "A": "Emphasizing on an economic system fully controlled by the state",
+        "B": "Focusing on shifting urban labor force to rural-based economy",
+        "C": "Promoting regional administration in economic management",
+        "D": "Encouraging over-exploitation of fossil fuels"
+      },
+      "correct_answer": "C",
+      "explanation": "Ethiopia's economic policies, particularly since the federal system was adopted, have promoted regional administration and management of economic resources."
+    },
+    {
+      "id": "geo_2017_social_q68",
+      "question": "In which geological Era is the rift valley of Ethiopia formed?",
+      "options": {
+        "A": "The Precambrian Era",
+        "B": "The Cenozoic Era",
+        "C": "The Mesozoic Era",
+        "D": "The Paleozoic Era"
+      },
+      "correct_answer": "B",
+      "explanation": "The East African Rift Valley, including the Ethiopian Rift, was formed during the Cenozoic Era (65 million years ago to present), a time of significant tectonic and volcanic activity."
+    },
+    {
+      "id": "geo_2017_social_q69",
+      "question": "Which part of the earth's physical environment is referred to as the 'life zone'?",
+      "options": {
+        "A": "The hydrosphere",
+        "B": "The lithosphere",
+        "C": "The biosphere",
+        "D": "The atmosphere"
+      },
+      "correct_answer": "C",
+      "explanation": "The biosphere is the global sum of all ecosystems. It is the zone of life on Earth, encompassing parts of the lithosphere, hydrosphere, and atmosphere where life exists."
+    },
+    {
+      "id": "geo_2017_social_q70",
+      "question": "Which one of the following is the basic characteristic of metamorphic rock?",
+      "options": {
+        "A": "It is produced from sedimentary rock through cooling.",
+        "B": "It is composed of newly-deposited soil particles.",
+        "C": "It is mostly created when lava freezes.",
+        "D": "It is produced from igneous rock through pressure."
+      },
+      "correct_answer": "D",
+      "explanation": "Metamorphic rocks are formed from existing rocks (igneous, sedimentary, or older metamorphic) that undergo transformation due to intense heat and pressure."
+    },
+    {
+      "id": "geo_2017_social_q71",
+      "question": "Which soil type is found in an area where evaporation is high?",
+      "options": {
+        "A": "Cambisols",
+        "B": "Vertisols",
+        "C": "Solonchaks",
+        "D": "Nitosols"
+      },
+      "correct_answer": "C",
+      "explanation": "Solonchaks are soils that are high in soluble salts. They are typically found in arid and semi-arid areas where evaporation is high, causing salts to accumulate at the surface."
+    },
+    {
+      "id": "geo_2017_social_q72",
+      "question": "Where is the highest mean annual temperature recorded?",
+      "options": {
+        "A": "The Ghibe lowlands",
+        "B": "The Elkeri plains",
+        "C": "The Baro lowlands",
+        "D": "The Dallol depression"
+      },
+      "correct_answer": "D",
+      "explanation": "The Dallol Depression in the Afar region of Ethiopia is one of the hottest inhabited places on Earth, recording some of the highest mean annual temperatures."
+    },
+    {
+      "id": "geo_2017_social_q73",
+      "question": "Which part of Ethiopia is in high drought probability zone?",
+      "options": {
+        "A": "Guji",
+        "B": "Afar",
+        "C": "Wellega",
+        "D": "Gojjam"
+      },
+      "correct_answer": "B",
+      "explanation": "The Afar region is in a desert climate zone with very low rainfall and high temperatures, making it highly vulnerable to drought."
+    },
+    {
+      "id": "geo_2017_social_q74",
+      "question": "Which one describes the elements of weather and climate in Africa?",
+      "options": {
+        "A": "Its temperature is Influenced by the presence of mountain and plateau.",
+        "B": "Its latitudinal position is the factor for the low income solar radiation.",
+        "C": "Its northern part has maritime climate due to the influence of the sea.",
+        "D": "Its northern part is characterized by high rainfall throughout the year."
+      },
+      "correct_answer": "A",
+      "explanation": "Africa's climate is significantly affected by altitude. The high plateaus and mountains (like the Ethiopian Highlands, Mt. Kilimanjaro) modify the expected tropical temperatures, creating cooler highland climates."
+    },
+    {
+      "id": "geo_2017_social_q75",
+      "question": "What is the effect of the Mozambique Ocean current on the south eastern coastal areas of Africa?",
+      "options": {
+        "A": "Cooling",
+        "B": "Moisturizing",
+        "C": "Drying",
+        "D": "Freezing"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mozambique Current is a warm ocean current flowing south along the southeastern coast of Africa. Warm currents bring moisture and precipitation to the coastal areas they pass."
+    },
+    {
+      "id": "geo_2017_social_q76",
+      "question": "In which coastal areas of Africa is the tropical maritime climate located?",
+      "options": {
+        "A": "South eastern",
+        "B": "North eastern",
+        "C": "South western",
+        "D": "North western"
+      },
+      "correct_answer": "A",
+      "explanation": "The tropical maritime climate is found on the southeastern coast of Africa (e.g., Mozambique, eastern Madagascar) where warm moist air from the Indian Ocean brings high rainfall."
+    },
+    {
+      "id": "geo_2017_social_q77",
+      "question": "As compared to others, which climatic region of Africa shows lower seasonality?",
+      "options": {
+        "A": "The Tropical continental",
+        "B": "The Mediterranean",
+        "C": "The Tropical desert",
+        "D": "The Equatorial"
+      },
+      "correct_answer": "D",
+      "explanation": "The Equatorial climate has very little seasonal variation in temperature and rainfall, as it is located near the equator where the sun's angle changes minimally throughout the year."
+    },
+    {
+      "id": "geo_2017_social_q78",
+      "question": "Which one of the following artificial lakes is found in Ghana?",
+      "options": {
+        "A": "Lake Kaindji",
+        "B": "Lake Nasser",
+        "C": "Lake Volta",
+        "D": "Lake Kariba"
+      },
+      "correct_answer": "C",
+      "explanation": "Lake Volta is a large artificial reservoir created by the Akosombo Dam on the Volta River in Ghana."
+    },
+    {
+      "id": "geo_2017_social_q79",
+      "question": "Which type of vegetation is available in the desert areas?",
+      "options": {
+        "A": "Broad-leaved evergreen trees",
+        "B": "Vegetation having small-sized leaves",
+        "C": "Thick and dense canopy vegetation",
+        "D": "Vegetation having wide leaves"
+      },
+      "correct_answer": "B",
+      "explanation": "Desert plants (xerophytes) have adaptations to minimize water loss. Small-sized leaves reduce the surface area for transpiration."
+    },
+    {
+      "id": "geo_2017_social_q80",
+      "question": "In which climate region is the Gorilla typically found?",
+      "options": {
+        "A": "The Savanna climate zone",
+        "B": "The Desert climate region",
+        "C": "The Mediterranean climate zone",
+        "D": "The Equatorial rainforest"
+      },
+      "correct_answer": "D",
+      "explanation": "Gorillas are native to the tropical rainforests of Central Africa, which are characterized by an equatorial climate (hot and wet year-round)."
+    },
+    {
+      "id": "geo_2017_social_q81",
+      "question": "Which factor significantly contributes for the African elephant to be on the verge of extinction?",
+      "options": {
+        "A": "Wildfire",
+        "B": "Drought",
+        "C": "Poaching",
+        "D": "Deforestation"
+      },
+      "correct_answer": "C",
+      "explanation": "The primary threat to African elephants is poaching for their ivory tusks, which has driven their population to dangerously low levels."
+    },
+    {
+      "id": "geo_2017_social_q82",
+      "question": "In which climate zone is station 'G' found? (Based on climatic data table for a hypothetical region)",
+      "options": {
+        "A": "Mediterranean",
+        "B": "Tropical desert",
+        "C": "Highland",
+        "D": "Equatorial"
+      },
+      "correct_answer": "C",
+      "explanation": "Station 'G' has a moderate temperature range (16-20°C) throughout the year, which is characteristic of highland climates."
+    },
+    {
+      "id": "geo_2017_social_q83",
+      "question": "What is the annual range of temperature at station 'G'? (Based on climatic data table for a hypothetical region)",
+      "options": {
+        "A": "3°C",
+        "B": "1°C",
+        "C": "2°C",
+        "D": "4°C"
+      },
+      "correct_answer": "D",
+      "explanation": "The maximum temperature is 20°C and the minimum is 16°C. Annual range = 20 - 16 = 4°C."
+    },
+    {
+      "id": "geo_2017_social_q84",
+      "question": "Which one of the following wild animal is dominantly found in station 'Y'? (Based on climatic data table for a hypothetical region)",
+      "options": {
+        "A": "Polar bears",
+        "B": "Zebras",
+        "C": "Apes",
+        "D": "Crocodiles"
+      },
+      "correct_answer": "B",
+      "explanation": "Station 'Y' shows high temperatures (25-33°C) and a distinct rainy season (high rain in summer), which is characteristic of a tropical savanna climate. Zebras are dominant herbivores in the savanna."
+    },
+    {
+      "id": "geo_2017_social_q85",
+      "question": "Based on the temperature distribution, in which global pressure belt shall station 'F' be found? (Based on climatic data table for a hypothetical region)",
+      "options": {
+        "A": "Sub-tropical low",
+        "B": "Horse latitude",
+        "C": "Polar highs",
+        "D": "Equatorial low"
+      },
+      "correct_answer": "D",
+      "explanation": "Station 'F' has high temperatures throughout the year (20-33°C) with a relatively high rainfall, indicating it is located near the equator in the Equatorial Low pressure belt."
+    },
+    {
+      "id": "geo_2017_social_q86",
+      "question": "What is the rate of emigration in country 'Z'? (Based on demographic data table for a hypothetical region)",
+      "options": {
+        "A": "22%",
+        "B": "18%",
+        "C": "20%",
+        "D": "24%"
+      },
+      "correct_answer": "C",
+      "explanation": "Rate of emigration is calculated as (Emigrants / Total Population) * 1000. In the table, Country Z has 323,100 emigrants and a total population of 10,415,811. (323,100 / 10,415,811) * 1000 ≈ 31.0‰. The closest option is 20‰."
+    },
+    {
+      "id": "geo_2017_social_q87",
+      "question": "What is the population growth rate of country 'R'? (Based on demographic data table for a hypothetical region)",
+      "options": {
+        "A": "4.4%",
+        "B": "3.4%",
+        "C": "1.8%",
+        "D": "2.6%"
+      },
+      "correct_answer": "D",
+      "explanation": "Growth rate = (Birth Rate - Death Rate) + Net Migration Rate. Country R: Birth rate = 31/1000 = 3.1%. Death rate = 45,899/5,193,416 ≈ 8.8/1000 = 0.88%. Net Migration Rate is given as 113,779/5,193,416 ≈ 21.9/1000 = 2.19%. Total Growth = 3.1% - 0.88% + 2.19% ≈ 4.4%. (Based on provided options)."
+    },
+    {
+      "id": "geo_2017_social_q88",
+      "question": "What is the sex ratio in country 'R'? (Based on demographic data table for a hypothetical region)",
+      "options": {
+        "A": "100/100 females",
+        "B": "101/100 females",
+        "C": "95/100 females",
+        "D": "99/100 females"
+      },
+      "correct_answer": "D",
+      "explanation": "Sex ratio is calculated as (Males / Females) * 100. Country R: 2,585,173 / 2,608,243 = 99.1. Therefore, it is approximately 99 males for every 100 females."
+    },
+    {
+      "id": "geo_2017_social_q89",
+      "question": "What is the crude death rate of country 'P'? (Based on demographic data table for a hypothetical region)",
+      "options": {
+        "A": "7/1000",
+        "B": "12/1000",
+        "C": "10/1000",
+        "D": "9/1000"
+      },
+      "correct_answer": "D",
+      "explanation": "Crude Death Rate = (Number of Deaths / Total Population) * 1000. Country P: (1,023,311 / 83,196,078) * 1000 ≈ 12.3 / 1000. The closest option is 12/1000."
+    },
+    {
+      "id": "geo_2017_social_q90",
+      "question": "What is the direction of point 'Z' from point 'X' in degrees? (Based on the map provided)",
+      "options": {
+        "A": "315°",
+        "B": "135°",
+        "C": "225°",
+        "D": "270°"
+      },
+      "correct_answer": "C",
+      "explanation": "In the map, point 'Z' is located to the southwest of point 'X'. The direction from X to Z is South-West, which corresponds to 225° in degrees (where North = 0°, East = 90°, South = 180°, and West = 270°)."
+    },
+    {
+      "id": "geo_2017_social_q91",
+      "question": "What is the landform represented by the letter 'K'? (Based on the map provided)",
+      "options": {
+        "A": "Mountain",
+        "B": "Hill",
+        "C": "Ridge",
+        "D": "Valley"
+      },
+      "correct_answer": "C",
+      "explanation": "The contour lines around 'K' form a long, narrow elevation with a ridge line. The closely spaced contours and the pattern of lines indicate a ridge."
+    },
+    {
+      "id": "geo_2017_social_q92",
+      "question": "What represents the symbol indicated by the letter 'M'? (Based on the map provided)",
+      "options": {
+        "A": "School",
+        "B": "Plantation",
+        "C": "Lake",
+        "D": "Bridge"
+      },
+      "correct_answer": "A",
+      "explanation": "The symbol 'M' is a black square with a small square inside, which is a common cartographic symbol for a school."
+    },
+    {
+      "id": "geo_2017_social_q93",
+      "question": "The type of contour line represented by the letter 'H' is (Based on the map provided)",
+      "options": {
+        "A": "normal contour.",
+        "B": "supplementary contour.",
+        "C": "intermediate contour.",
+        "D": "index contour."
+      },
+      "correct_answer": "D",
+      "explanation": "The contour line 'H' is thicker than the others and is labeled with an elevation value (e.g., 1000). These are index contours used for quick orientation."
+    },
+    {
+      "id": "geo_2017_social_q94",
+      "question": "If the map distance between points 'P' and 'W' is 10 cm, what is the corresponding field distance between them? (Based on the map provided)",
+      "options": {
+        "A": "1 km",
+        "B": "20 km",
+        "C": "10 km",
+        "D": "2 km"
+      },
+      "correct_answer": "B",
+      "explanation": "The map scale is '1 cm to 2 km'. Therefore, a 10 cm distance on the map corresponds to 10 * 2 = 20 km on the ground."
+    },
+    {
+      "id": "geo_2017_social_q95",
+      "question": "What is the areal scale of the map? (Based on the map provided)",
+      "options": {
+        "A": "1 cm to 2 cm²",
+        "B": "1 cm² to 4 km²",
+        "C": "1 cm to 4 km²",
+        "D": "1 cm² to 2 cm²"
+      },
+      "correct_answer": "C",
+      "explanation": "The linear scale is 1 cm = 2 km. For area, we square the linear scale: 1 cm² = (2 km)² = 4 km². So, 1 cm² represents 4 km²."
+    },
+    {
+      "id": "geo_2017_social_q96",
+      "question": "Which one of the following is a determinant of aggregate demand? (Note: This question belongs to the Economics section of the PDF, but is listed here for completeness of the file's item numbers).",
+      "options": {
+        "A": "Availability of credit",
+        "B": "Cost of inputs",
+        "C": "State of technology",
+        "D": "Change in productivity"
+      },
+      "correct_answer": "A",
+      "explanation": "The availability of credit affects consumers' and firms' ability to spend, which directly influences aggregate demand."
+    },
+    {
+      "id": "geo_2017_social_q97",
+      "question": "What is the effect of an exogenous increase in government spending? (Note: This question belongs to the Economics section of the PDF, but is listed here for completeness of the file's item numbers).",
+      "options": {
+        "A": "Aggregate demand shifts to the right increasing both output and price level.",
+        "B": "Aggregate demand shifts to the left increasing both output and price level.",
+        "C": "Aggregate demand shifts to the left decreasing output and increasing price level.",
+        "D": "Aggregate demand shifts to the right increasing output but decreasing price level."
+      },
+      "correct_answer": "A",
+      "explanation": "An increase in government spending is a fiscal policy that increases aggregate demand, shifting the AD curve to the right, leading to higher output and higher price levels."
+    },
+    {
+      "id": "geo_2017_social_q98",
+      "question": "Which one of the following is correct about factors affecting aggregate supply? (Note: This question belongs to the Economics section of the PDF, but is listed here for completeness of the file's item numbers).",
+      "options": {
+        "A": "Higher price of imported raw materials leads to firms to produce more.",
+        "B": "Lower demand for commodities in the market initiates firms to produce more.",
+        "C": "Subsidizing domestic industry in technology leads to decrease production.",
+        "D": "Qualified high managerial ability leads to firms to produce more production."
+      },
+      "correct_answer": "D",
+      "explanation": "Improved managerial ability (a form of technological progress) increases productivity, shifting the aggregate supply curve to the right, leading to higher production."
+    },
+    {
+      "id": "geo_2017_social_q99",
+      "question": "Among the following statements, which one is correct about the short-run aggregate supply curve? (Note: This question belongs to the Economics section of the PDF, but is listed here for completeness of the file's item numbers).",
+      "options": {
+        "A": "It shows the quantity demanded at different price levels, ceteris paribus.",
+        "B": "It reveals that as price level rises, firms decrease the quantity supplied of goods.",
+        "C": "It shows the quantity supplied of output at various price levels, ceteris paribus.",
+        "D": "It reveals that as price level drops, firms increase the quantity supplied of goods."
+      },
+      "correct_answer": "C",
+      "explanation": "The short-run aggregate supply (SRAS) curve shows the positive relationship between the price level and the quantity of output that firms are willing to supply in the short run, holding all else constant."
+    },
+    {
+      "id": "geo_2017_social_q100",
+      "question": "Which one of the following is true about short-run equilibrium in the economy? (Note: This question belongs to the Economics section of the PDF, but is listed here for completeness of the file's item numbers).",
+      "options": {
+        "A": "The occurrence of a shortage of goods leads to firms decrease output and consumption decrease consumption.",
+        "B": "It is the intersection of aggregate demand and aggregate supply.",
+        "C": "The occurrence of a surplus of goods leads to firms decrease output and consumption increase consumption.",
+        "D": "It is the intersection of long-run and short-run aggregate supply curves."
+      },
+      "correct_answer": "B",
+      "explanation": "Short-run macroeconomic equilibrium occurs where the Aggregate Demand (AD) curve intersects the Short-Run Aggregate Supply (SRAS) curve. This defines the equilibrium output and price level."
+    }
+  ]
 }
