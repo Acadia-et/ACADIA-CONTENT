@@ -1,10 +1,1032 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "Economics",
-    "year":  2015,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_economics_2015_social",
+  "content_type": "past_paper",
+  "title": "Economics - 2015 (Social)",
+  "year": 2015,
+  "subject": "Economics",
+  "stream": "Social",
+  "total_questions": 85,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "econ_2015_social_q1",
+      "question": "Which one of the following represents the increase in the quantity supplied of real GDP due to the increase in the price level?",
+      "options": {
+        "A": "The right wards shifts of the aggregate supply curve",
+        "B": "The left wards shifts of the aggregate supply curve",
+        "C": "The downwards movements along the aggregate supply curve",
+        "D": "The upwards movements along the aggregate supply curve"
+      },
+      "correct_answer": "D",
+      "explanation": "An increase in the price level causes a movement along the aggregate supply curve (not a shift). As the price level rises, firms are willing to supply more goods and services, moving upwards along the curve."
+    },
+    {
+      "id": "econ_2015_social_q2",
+      "question": "When the economy is in the long run, which of the following is correct?",
+      "options": {
+        "A": "Sticky wages and workers misperception still holds true.",
+        "B": "What the economy produces is the full employment real GDP.",
+        "C": "The short run and the long run real GDP will be the same.",
+        "D": "The level of real GDP the economy produces is less than the natural real GDP."
+      },
+      "correct_answer": "B",
+      "explanation": "In the long run, the economy operates at full employment, meaning the real GDP produced is the potential or natural real GDP. Wages and prices are fully flexible in the long run."
+    },
+    {
+      "id": "econ_2015_social_q3",
+      "question": "What is the pressure on price when the quantity demanded of real GDP is greater than the quantity supplied of real GDP during the short run?",
+      "options": {
+        "A": "The price level rises",
+        "B": "The price level drops",
+        "C": "No pressure at all",
+        "D": "Initially downwards"
+      },
+      "correct_answer": "A",
+      "explanation": "When quantity demanded exceeds quantity supplied, there is a shortage of goods. This shortage creates upward pressure on the price level as demand outstrips supply."
+    },
+    {
+      "id": "econ_2015_social_q4",
+      "question": "Which one of the following is correct about the economy when it is in long run equilibrium?",
+      "options": {
+        "A": "The economy produces the real GDP which is called the natural real GDP.",
+        "B": "The short run aggregate demand curve intersects the short run aggregate supply curve.",
+        "C": "The long run aggregate demand curve intersects the short run aggregate supply curve.",
+        "D": "Price temporarily deviates from equilibrium even if aggregate demand and aggregate supply remain unchanged."
+      },
+      "correct_answer": "A",
+      "explanation": "In long-run equilibrium, the economy operates at its potential output (natural real GDP). This occurs where the aggregate demand curve, short-run aggregate supply curve, and long-run aggregate supply curve all intersect."
+    },
+    {
+      "id": "econ_2015_social_q5",
+      "question": "Which of the following represents an economic situation where there is an inefficient distribution of goods and services in the free market?",
+      "options": {
+        "A": "Externalities",
+        "B": "Asymmetric information",
+        "C": "Market failure",
+        "D": "Free riding"
+      },
+      "correct_answer": "C",
+      "explanation": "Market failure occurs when a free market fails to allocate resources efficiently. Externalities, asymmetric information, and free riding are all causes of market failure, but the result is an inefficient distribution of goods and services."
+    },
+    {
+      "id": "econ_2015_social_q6",
+      "question": "What impacts on our aggregate demand do you expect if the level of economic activities in other countries increase?",
+      "options": {
+        "A": "Aggregate demand will increase.",
+        "B": "Aggregate demand will decrease.",
+        "C": "Aggregate demand remains unaffected.",
+        "D": "Aggregate demand first declines and then rises."
+      },
+      "correct_answer": "A",
+      "explanation": "An increase in economic activity in other countries means higher incomes and spending in those countries. This increases the demand for our exports, which is a component of aggregate demand."
+    },
+    {
+      "id": "econ_2015_social_q7",
+      "question": "Among the following, which one differentiates change in quantity demanded from change in aggregate demand?",
+      "options": {
+        "A": "As the price level falls, the quantity demanded of real GDP rises, ceteris paribus.",
+        "B": "It is represented as a movement from one point to another along different demand curve.",
+        "C": "A positive change in any factors causes a rightward shift in the AD curve.",
+        "D": "It is a shift in aggregate demand curve from AD1 to AD2 on different curve."
+      },
+      "correct_answer": "A",
+      "explanation": "A change in quantity demanded is caused only by a change in the price level, represented by movement along the curve. A change in aggregate demand is caused by factors other than the price level (like government spending, investment), represented by a shift of the curve."
+    },
+    {
+      "id": "econ_2015_social_q8",
+      "question": "Which of the following is correct about aggregate demand curve?",
+      "options": {
+        "A": "It represents the inverse relationship between the real GDP demanded and consumption expenditure, all else being equal.",
+        "B": "It is a schedule that represents the amount of real output that sellers collectively desire to sell at each price, ceteris paribus.",
+        "C": "It shows the inverse relationship between the amount of real output buyers desire to buy at each price, all else being equal.",
+        "D": "It shows the inverse relationship between the amount of real output sellers desire to sell at each price, all else being equal."
+      },
+      "correct_answer": "C",
+      "explanation": "The aggregate demand (AD) curve shows the inverse relationship between the price level and the quantity of real GDP demanded by buyers (households, firms, government, and foreign buyers), all else being equal."
+    },
+    {
+      "id": "econ_2015_social_q9",
+      "question": "What is the implication of the Keynesian horizontal aggregate supply curve?",
+      "options": {
+        "A": "Firms can supply whatever amount demanded at the existing price because of unemployment.",
+        "B": "Firms can obtain much labour as they want as long as they pay more.",
+        "C": "As output level changes, the average cost of production increases.",
+        "D": "The labour market is in equilibrium with full employment of the labour force."
+      },
+      "correct_answer": "A",
+      "explanation": "The horizontal (Keynesian) aggregate supply curve implies that in a depressed economy with high unemployment, firms can increase production without raising prices, as there is abundant idle labor and capital."
+    },
+    {
+      "id": "econ_2015_social_q10",
+      "question": "Which one of the following is the main factor that affects the output firms are willing to supply?",
+      "options": {
+        "A": "The price of related goods produced by other firms.",
+        "B": "The price they receive for their goods.",
+        "C": "The level of economic activity in other countries.",
+        "D": "The price they anticipate to prevail in the future."
+      },
+      "correct_answer": "B",
+      "explanation": "The most direct factor that affects the quantity of output firms are willing to supply is the price they receive for their goods. Higher prices generally lead to higher profits and incentivize increased production."
+    },
+    {
+      "id": "econ_2015_social_q11",
+      "question": "Which of the following is NOT the cause of market failure?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Externalities",
+        "C": "Factor immobility",
+        "D": "Private goods"
+      },
+      "correct_answer": "D",
+      "explanation": "Private goods (like food and clothing) are excludable and rivalrous, and markets typically allocate them efficiently. Monopoly, externalities, and factor immobility are all causes of market failure."
+    },
+    {
+      "id": "econ_2015_social_q12",
+      "question": "Suppose Sol-ech company receives positive externalities from COE educated graduates subsidize computer education through scholarship. Which of the following group is this type of solution for market failure listed?",
+      "options": {
+        "A": "Voluntary collective action solutions",
+        "B": "Government-imposed solutions",
+        "C": "Private market solutions",
+        "D": "Non-excludability"
+      },
+      "correct_answer": "C",
+      "explanation": "When a private company provides scholarships due to positive externalities, it is a private market solution. The company acts to internalize the externality without direct government intervention."
+    },
+    {
+      "id": "econ_2015_social_q13",
+      "question": "Which one of the following is an example of public goods?",
+      "options": {
+        "A": "Houses",
+        "B": "Food items",
+        "C": "Wilderness",
+        "D": "Clothes"
+      },
+      "correct_answer": "C",
+      "explanation": "Public goods are non-rivalrous and non-excludable. Wilderness areas (like national parks) are examples because their use by one person does not reduce availability to others, and it is difficult to exclude people from enjoying them."
+    },
+    {
+      "id": "econ_2015_social_q14",
+      "question": "Which of the following characterize Public goods?",
+      "options": {
+        "A": "Rivalry and excludability",
+        "B": "Rivalry and non-excludability",
+        "C": "Non-rivalry and excludability",
+        "D": "Non-rivalry and non-excludability"
+      },
+      "correct_answer": "D",
+      "explanation": "Public goods are defined by two properties: non-rivalry (one person's consumption doesn't reduce another's) and non-excludability (it's impossible to prevent anyone from using the good)."
+    },
+    {
+      "id": "econ_2015_social_q15",
+      "question": "Which one of the following factor is the reason for market inefficiency in the provision of public goods?",
+      "options": {
+        "A": "Externality",
+        "B": "Free riding",
+        "C": "Divisibility",
+        "D": "High marginal cost"
+      },
+      "correct_answer": "B",
+      "explanation": "Free riding occurs when individuals benefit from a good without paying for it. Because public goods are non-excludable, people have an incentive to free ride, leading the market to under-provide these goods."
+    },
+    {
+      "id": "econ_2015_social_q16",
+      "question": "Which of the following macroeconomic policy involves by which the government manipulates its expenditure and revenue side?",
+      "options": {
+        "A": "Monetary policy",
+        "B": "Fiscal policy",
+        "C": "Income policy",
+        "D": "Exchange rate policy"
+      },
+      "correct_answer": "B",
+      "explanation": "Fiscal policy is the use of government spending (expenditure) and taxation (revenue) to influence the economy. Monetary policy involves managing the money supply and interest rates."
+    },
+    {
+      "id": "econ_2015_social_q17",
+      "question": "Which one of the following instrument is considered by the contractionary fiscal policy when there is an excess demand and inflationary pressure in the economy?",
+      "options": {
+        "A": "A decrease in expenditure",
+        "B": "Reduction of taxes",
+        "C": "An increase in expenditure",
+        "D": "Reduction of revenue"
+      },
+      "correct_answer": "A",
+      "explanation": "Contractionary fiscal policy is used to reduce aggregate demand and curb inflation. It involves decreasing government spending and/or increasing taxes."
+    },
+    {
+      "id": "econ_2015_social_q18",
+      "question": "A tight monetary policy is applied in circumstances where there is",
+      "options": {
+        "A": "high inflation.",
+        "B": "high economic growth.",
+        "C": "high unemployment.",
+        "D": "slow economic growth."
+      },
+      "correct_answer": "A",
+      "explanation": "Tight (contractionary) monetary policy is used to combat high inflation. It involves reducing the money supply and raising interest rates to cool down economic activity."
+    },
+    {
+      "id": "econ_2015_social_q19",
+      "question": "If tight fiscal and monetary policies fail to address the problem of rising price level, what is the alternative policy that the government should consider?",
+      "options": {
+        "A": "Exchange rate policy",
+        "B": "Trade policy",
+        "C": "Income policy",
+        "D": "Interest rate policy"
+      },
+      "correct_answer": "C",
+      "explanation": "Income policy directly controls wages and prices. If fiscal and monetary policies are ineffective against inflation, direct wage and price controls (income policy) may be used as a last resort."
+    },
+    {
+      "id": "econ_2015_social_q20",
+      "question": "Which of the following exchange rate regime is the one that is determined by the government political and economic decisions?",
+      "options": {
+        "A": "Floating exchange rate regime",
+        "B": "Fixed exchange rate regime",
+        "C": "Managed floating",
+        "D": "Crawling peg regime"
+      },
+      "correct_answer": "B",
+      "explanation": "In a fixed exchange rate system, the government determines the exchange rate and defends it through foreign exchange reserves. It is a political and economic decision, unlike a floating rate which is determined by market forces."
+    },
+    {
+      "id": "econ_2015_social_q21",
+      "question": "Which one of the following difference is the cause for efficiency loss in the presence of negative externality?",
+      "options": {
+        "A": "Between marginal social benefit and marginal private benefit",
+        "B": "Between marginal social cost and marginal private cost",
+        "C": "Between marginal private cost and marginal external cost",
+        "D": "Between marginal private benefit and marginal external benefit"
+      },
+      "correct_answer": "B",
+      "explanation": "A negative externality occurs when marginal social cost (MSC) exceeds marginal private cost (MPC). This difference (MSC > MPC) causes the market to overproduce, leading to an efficiency loss."
+    },
+    {
+      "id": "econ_2015_social_q22",
+      "question": "When an insurance company provides fringe benefits on the basis of an average rate over a set of employees and guarantee them to participate in the program, then this can be seen as a solution for which one of the following problem?",
+      "options": {
+        "A": "Adverse selection",
+        "B": "Moral hazard",
+        "C": "Signalling",
+        "D": "Screening"
+      },
+      "correct_answer": "A",
+      "explanation": "Offering a uniform insurance pool at an average rate solves the adverse selection problem, where high-risk individuals are more likely to seek insurance. By covering a large group, the insurer pools the risks."
+    },
+    {
+      "id": "econ_2015_social_q23",
+      "question": "Which of the following macroeconomic policies involves management of money supply and interest rate?",
+      "options": {
+        "A": "Fiscal policy",
+        "B": "Exchange rate policy",
+        "C": "Monetary policy",
+        "D": "Income policy"
+      },
+      "correct_answer": "C",
+      "explanation": "Monetary policy is implemented by the central bank and involves managing the money supply and interest rates to achieve economic objectives like price stability and full employment."
+    },
+    {
+      "id": "econ_2015_social_q24",
+      "question": "Which one of the following is the monetary policy tool that involves the purchase and sale of securities by the nation's central bank?",
+      "options": {
+        "A": "Discount rate",
+        "B": "Open market operation",
+        "C": "Required reserve ratio",
+        "D": "Government spending"
+      },
+      "correct_answer": "B",
+      "explanation": "Open market operations (OMO) involve the buying and selling of government securities (bonds) by the central bank to control the money supply and liquidity in the banking system."
+    },
+    {
+      "id": "econ_2015_social_q25",
+      "question": "One of the following is considered to be fiscal policy tool. Which one is it?",
+      "options": {
+        "A": "Taxation",
+        "B": "Investment",
+        "C": "Grants in aid",
+        "D": "Transfer payments"
+      },
+      "correct_answer": "A",
+      "explanation": "Taxation is a primary fiscal policy tool used by the government to influence the economy by adjusting disposable income and aggregate demand."
+    },
+    {
+      "id": "econ_2015_social_q26",
+      "question": "Which one of the following is correct about price ceilings?",
+      "options": {
+        "A": "It is one of the income policies that keeps a price from declining from certain limit.",
+        "B": "It is a maximum price set by law to make basic consumption goods affordable to buyers.",
+        "C": "It should be set above the equilibrium price to make it more effective.",
+        "D": "It discourages consumers from buying goods and services since they are now paying higher price."
+      },
+      "correct_answer": "B",
+      "explanation": "A price ceiling is a legal maximum price set by the government, usually below the equilibrium price, to make essential goods affordable. This creates a shortage."
+    },
+    {
+      "id": "econ_2015_social_q27",
+      "question": "Suppose the value of an Ethiopian birr in terms of Kenyan Shilling is getting higher. What is the impact of this on the Ethiopian export to Kenya?",
+      "options": {
+        "A": "It will make the price of Ethiopian goods in the Kenyan market cheaper.",
+        "B": "It will make the Price of Kenyan import in the Ethiopian market expensive.",
+        "C": "It will increase Ethiopia's export earnings.",
+        "D": "It will reduce Ethiopia's export earnings."
+      },
+      "correct_answer": "D",
+      "explanation": "When the birr appreciates (gets stronger), Ethiopian goods become more expensive for Kenyans to buy, reducing the quantity of exports. This reduces Ethiopia's export earnings."
+    },
+    {
+      "id": "econ_2015_social_q28",
+      "question": "Which one of the following clearly defines taxation?",
+      "options": {
+        "A": "It is a voluntary payment.",
+        "B": "It is the only source of government revenue.",
+        "C": "It is levied without anything in direct return.",
+        "D": "It encourages existence of government."
+      },
+      "correct_answer": "C",
+      "explanation": "Taxation is a compulsory, unrequited payment to the government. It is not voluntary, not the only source of revenue, and is paid without a direct, specific benefit in return."
+    },
+    {
+      "id": "econ_2015_social_q29",
+      "question": "Which one of the following explains the tax principles called 'canon of economy'?",
+      "options": {
+        "A": "Everyone should pay tax according to his ability.",
+        "B": "The amount of tax that we are supposed to pay should be known in advance.",
+        "C": "Every tax payer should pay the tax in his own convenient time.",
+        "D": "The cost of tax collection should be as minimum as possible."
+      },
+      "correct_answer": "D",
+      "explanation": "The canon of economy states that the cost of collecting taxes should be minimal relative to the revenue collected. The tax system should be efficient and not waste resources."
+    },
+    {
+      "id": "econ_2015_social_q30",
+      "question": "Which of the following is the implication of one of a good tax system that is referred to as broad based?",
+      "options": {
+        "A": "The system should impose tax on all people without discrimination.",
+        "B": "The system should ensure that an income inequality is reduced.",
+        "C": "The system should impose tax on income and properties and commodities.",
+        "D": "The system should ascertain that national income and living standard is increasing."
+      },
+      "correct_answer": "C",
+      "explanation": "A broad-based tax system refers to a system that spreads the tax burden across a wide range of sources (income, property, consumption). This avoids over-reliance on one source and makes the system more stable."
+    },
+    {
+      "id": "econ_2015_social_q31",
+      "question": "Which one of the following is the advantage of fiscal decentralization?",
+      "options": {
+        "A": "Provide scale economies in the collection of taxes",
+        "B": "Provide scale economies in the provision of public goods.",
+        "C": "Provision of public goods and services desired by local residents.",
+        "D": "Effective to implement equity measures."
+      },
+      "correct_answer": "C",
+      "explanation": "A key advantage of fiscal decentralization is that local governments are better positioned to provide public goods and services that match the specific preferences and needs of local residents."
+    },
+    {
+      "id": "econ_2015_social_q32",
+      "question": "One of the following is considered to be the aim of fiscal decentralization. Which one is it?",
+      "options": {
+        "A": "Promoting regional partnership",
+        "B": "Enhancing the role of private sector",
+        "C": "Encouraging free movement of labour",
+        "D": "Ensuring equity and efficiency"
+      },
+      "correct_answer": "D",
+      "explanation": "Fiscal decentralization aims to improve equity and efficiency in the provision of public services and the allocation of resources by allowing local governments to make decisions based on local needs."
+    },
+    {
+      "id": "econ_2015_social_q33",
+      "question": "Which one of the following is the reason by the federal government to make fiscal equalization payments to local governments?",
+      "options": {
+        "A": "To enhance intergovernmental cooperation",
+        "B": "To discourage fiscal centralization",
+        "C": "To encourage innovation in those goods and services provided locally",
+        "D": "To narrow regional gaps in the provision of basic public services"
+      },
+      "correct_answer": "D",
+      "explanation": "Fiscal equalization payments are designed to reduce regional disparities by providing funds to poorer regions so they can offer a comparable level of basic public services as wealthier regions."
+    },
+    {
+      "id": "econ_2015_social_q34",
+      "question": "What is the reason for the growing need for conservation of environmental resources?",
+      "options": {
+        "A": "These resources are underutilized.",
+        "B": "These resources are finite.",
+        "C": "Their use is less costly.",
+        "D": "Most of these resources are infinite."
+      },
+      "correct_answer": "B",
+      "explanation": "Most environmental resources are finite (non-renewable or slow to renew). Their growing scarcity and overexploitation have created a pressing need for conservation."
+    },
+    {
+      "id": "econ_2015_social_q35",
+      "question": "What is the cause for rising greenhouse gases in the earth's atmosphere?",
+      "options": {
+        "A": "An increase in afforestation program",
+        "B": "A decrease in deforestation due to government policy",
+        "C": "An increase in hydropower generation",
+        "D": "The decomposition and disposal of waste"
+      },
+      "correct_answer": "D",
+      "explanation": "The decomposition and disposal of waste (especially organic waste in landfills) releases methane and other greenhouse gases into the atmosphere, contributing to the greenhouse effect."
+    },
+    {
+      "id": "econ_2015_social_q36",
+      "question": "Among the following direct taxes, which one is a tax that is imposed on the land and buildings?",
+      "options": {
+        "A": "Income tax",
+        "B": "Property tax",
+        "C": "Transfer tax",
+        "D": "Capital gain tax"
+      },
+      "correct_answer": "B",
+      "explanation": "Property tax is a direct tax levied on real estate, specifically land and buildings, based on their assessed value."
+    },
+    {
+      "id": "econ_2015_social_q37",
+      "question": "Which one of the following is an objective of taxation?",
+      "options": {
+        "A": "Reducing income disparity",
+        "B": "Promoting consumption of harmful products",
+        "C": "Widening regional imbalance",
+        "D": "Encouraging import"
+      },
+      "correct_answer": "A",
+      "explanation": "Taxation is a tool used for income redistribution. Progressive taxes are used to reduce income disparity by taking a larger percentage of income from the wealthy."
+    },
+    {
+      "id": "econ_2015_social_q38",
+      "question": "The burden and incidence is imposed by one of the following tax categories on different individuals. Which one is it?",
+      "options": {
+        "A": "Payroll tax",
+        "B": "Corporate income tax",
+        "C": "Value added tax",
+        "D": "Rental income tax"
+      },
+      "correct_answer": "C",
+      "explanation": "Value Added Tax (VAT) is a tax on consumption. Because it is levied on goods and services at each stage of production and sale, the burden is ultimately passed on to the final consumer, and its incidence can be shifted to different individuals."
+    },
+    {
+      "id": "econ_2015_social_q39",
+      "question": "In Ethiopia, which one of the following institution is responsible to collect tax on behalf of the government?",
+      "options": {
+        "A": "The Ministry of Finance",
+        "B": "The Central Bank",
+        "C": "The Commercial bank",
+        "D": "The Ministry of Revenue"
+      },
+      "correct_answer": "D",
+      "explanation": "The Ministry of Revenue (now the Ministry of Revenues) is the government body responsible for tax administration and collection in Ethiopia."
+    },
+    {
+      "id": "econ_2015_social_q40",
+      "question": "Which one is the type of indirect tax imposed on luxury items and other goods that are demand inelastic when the goods is imported?",
+      "options": {
+        "A": "Value added tax",
+        "B": "Turnover tax",
+        "C": "Excise tax",
+        "D": "Withholding tax"
+      },
+      "correct_answer": "C",
+      "explanation": "Excise tax is an indirect tax imposed on specific goods, often luxury items or goods with inelastic demand (like alcohol, tobacco, and fuel). It is often levied on imported goods and is designed to raise revenue and discourage consumption."
+    },
+    {
+      "id": "econ_2015_social_q41",
+      "question": "Which one of the following explains climate change?",
+      "options": {
+        "A": "It refers to an average weather pattern over many years.",
+        "B": "It is expressed in terms of daily changes in rainfall and humidity.",
+        "C": "It is a short term changes in the atmosphere conditions.",
+        "D": "It is the problem of the developed world only."
+      },
+      "correct_answer": "A",
+      "explanation": "Climate change refers to the long-term average weather patterns of a region or the planet as a whole, observed over many years or decades."
+    },
+    {
+      "id": "econ_2015_social_q42",
+      "question": "Which one of the following indicates the direct health dimension of the impacts of climate change?",
+      "options": {
+        "A": "Drought",
+        "B": "Expansion of desertification",
+        "C": "Water shortages",
+        "D": "Malaria"
+      },
+      "correct_answer": "D",
+      "explanation": "Climate change alters temperature and rainfall patterns, which expands the habitat of disease vectors like mosquitoes, leading to the spread of diseases like malaria. This is a direct health impact."
+    },
+    {
+      "id": "econ_2015_social_q43",
+      "question": "Which one of the following is said to have more than 20% contribution to harmful greenhouse gas emissions in the developing countries?",
+      "options": {
+        "A": "Burning of fossil fuel",
+        "B": "Carbon dioxide emission",
+        "C": "Deforestation",
+        "D": "Nitric oxide emission"
+      },
+      "correct_answer": "C",
+      "explanation": "In many developing countries, deforestation (often for agriculture and fuelwood) is a major source of greenhouse gas emissions, contributing over 20% of total emissions in these regions."
+    },
+    {
+      "id": "econ_2015_social_q44",
+      "question": "The effort that poor developing economies exerts to bring growth and development is jeopardized due to",
+      "options": {
+        "A": "lack of support for adaptation from the developed countries.",
+        "B": "allocation of a good proportion of their budget to finance adaptation.",
+        "C": "high dependence on climate insensitive resources.",
+        "D": "absence of mitigation and adaptation mechanisms."
+      },
+      "correct_answer": "B",
+      "explanation": "Developing countries often have to allocate a significant portion of their limited budgets to finance climate change adaptation measures (like building flood defenses, drought-resistant seeds). This diverts resources from other development goals."
+    },
+    {
+      "id": "econ_2015_social_q45",
+      "question": "What action has been taken by the government to address climate change problems in Ethiopia?",
+      "options": {
+        "A": "Implementation of Climate Resilient Green Economy facility",
+        "B": "Taxes on carbon emission to avoid the problem of climate change",
+        "C": "Provision of incentives to encourage technological progress",
+        "D": "Achieving economic growth and development in any possible ways"
+      },
+      "correct_answer": "A",
+      "explanation": "The government of Ethiopia has implemented the Climate Resilient Green Economy (CRGE) strategy, a comprehensive plan to address climate change by building a green economy and promoting climate resilience."
+    },
+    {
+      "id": "econ_2015_social_q46",
+      "question": "Which one of the following features characterizes the National development plan during the Derg period?",
+      "options": {
+        "A": "The main development strategy was agriculture led development.",
+        "B": "Private commercial farming was encouraged.",
+        "C": "Land tenancy still existed.",
+        "D": "Cooperatives were encouraged."
+      },
+      "correct_answer": "D",
+      "explanation": "During the Derg regime, the government promoted a command economy. It encouraged the formation of cooperatives (producer cooperatives) and state farms, while discouraging private enterprise."
+    },
+    {
+      "id": "econ_2015_social_q47",
+      "question": "Which one of the following is the key priority area that is considered to be the basis for the locally developed economic reform program recently?",
+      "options": {
+        "A": "Sustainable rural development",
+        "B": "Widening the demographic dividend",
+        "C": "Uni-polar source of growth",
+        "D": "Inclusive financial sector development"
+      },
+      "correct_answer": "D",
+      "explanation": "The Home-Grown Economic Reform, developed by Ethiopia, includes 'Inclusive Financial Sector Development' as a key priority area to enhance financial access and leverage the role of the financial sector in development."
+    },
+    {
+      "id": "econ_2015_social_q48",
+      "question": "Which one of the following factor is the one that necessitated the formation of the home-grown economic reform in Ethiopia?",
+      "options": {
+        "A": "The crowding out public investment by private investment",
+        "B": "The failure of gradual transition from private to public sector led growth",
+        "C": "Failure to create additional job opportunities",
+        "D": "Continuous inflow of external finance"
+      },
+      "correct_answer": "C",
+      "explanation": "The need to create additional job opportunities for the growing youth population was a major factor driving the Home-Grown Economic Reform."
+    },
+    {
+      "id": "econ_2015_social_q49",
+      "question": "Which one of the following is duly emphasized in one of the home-grown economic reform called sectoral reform?",
+      "options": {
+        "A": "Service sectors",
+        "B": "External Trade",
+        "C": "Internal trade",
+        "D": "Tourism"
+      },
+      "correct_answer": "A",
+      "explanation": "The sectoral reform component of the Home-Grown Economic Reform focuses on identifying and developing priority sectors, including service sectors, to drive economic transformation."
+    },
+    {
+      "id": "econ_2015_social_q50",
+      "question": "Which one of the three home-grown economic reforms is mainly concerned with minimizing external loan and rescheduling the existing external public debt?",
+      "options": {
+        "A": "Growth and transformation plan",
+        "B": "Macroeconomic reform",
+        "C": "Sectoral reform",
+        "D": "Structural reform"
+      },
+      "correct_answer": "B",
+      "explanation": "The macroeconomic reform component of the Home-Grown Economic Reform aims to maintain macroeconomic stability, which includes managing external debt and minimizing new borrowing."
+    },
+    {
+      "id": "econ_2015_social_q51",
+      "question": "Which of the following indicates the rank of Ethiopia in its human development despite the effort made to reduce the headcount poverty over the past twenty years?",
+      "options": {
+        "A": "Low human development index",
+        "B": "Low Gini coefficient",
+        "C": "Low poverty gap",
+        "D": "Low headcount ratio"
+      },
+      "correct_answer": "A",
+      "explanation": "Despite progress in reducing poverty, Ethiopia still ranks low on the Human Development Index (HDI), which measures life expectancy, education, and income."
+    },
+    {
+      "id": "econ_2015_social_q52",
+      "question": "Which one of the following is the condition feature of both 'Idur' and 'Iqub'?",
+      "options": {
+        "A": "In both, members assist each other on a national basis.",
+        "B": "Both are formal financial institutions.",
+        "C": "'Mutual benefit' is their motto.",
+        "D": "In both, the strong ties among members encourage defaults."
+      },
+      "correct_answer": "C",
+      "explanation": "Both Iddir (mutual aid association) and Iqub (rotating savings and credit association) are community-based institutions whose primary objective is 'mutual benefit' for their members."
+    },
+    {
+      "id": "econ_2015_social_q53",
+      "question": "What was the objectives of the first five year development plan that was formulated during the imperial era from 1957 to 1961?",
+      "options": {
+        "A": "Expansion of educational opportunities",
+        "B": "Promotion of commercial agriculture",
+        "C": "Product diversification",
+        "D": "Promotion of industries aiming towards export"
+      },
+      "correct_answer": "A",
+      "explanation": "The First Five-Year Plan (1957-1961) of Ethiopia focused on expanding educational opportunities and building the infrastructure needed for economic development."
+    },
+    {
+      "id": "econ_2015_social_q54",
+      "question": "Which one of the following development plan of the imperial period had more focus on the agriculture sector to address the problem of increasing food shortages?",
+      "options": {
+        "A": "The First five year plan",
+        "B": "The Second five year plan",
+        "C": "The Third five year plan",
+        "D": "The Fourth Five year plan"
+      },
+      "correct_answer": "C",
+      "explanation": "The Third Five-Year Plan (1968-1973) placed a higher priority on the development of the agricultural sector to address the growing food shortage and increase agricultural productivity."
+    },
+    {
+      "id": "econ_2015_social_q55",
+      "question": "In Ethiopia, which of the following has got particular attention in the past yet characterized as the lowest productive in its performance?",
+      "options": {
+        "A": "Agricultural sector",
+        "B": "Mining sector",
+        "C": "Tourism sector",
+        "D": "Trade sector"
+      },
+      "correct_answer": "A",
+      "explanation": "The agricultural sector is the backbone of Ethiopia's economy, but it is characterized by low productivity due to rain-fed farming, land fragmentation, and the use of traditional technologies."
+    },
+    {
+      "id": "econ_2015_social_q56",
+      "question": "What does the Gini coefficient of 1 represent?",
+      "options": {
+        "A": "Perfect equality of income",
+        "B": "Moderate inequality of income",
+        "C": "Moderate equality of income",
+        "D": "All income owned by one person"
+      },
+      "correct_answer": "D",
+      "explanation": "A Gini coefficient of 1 represents perfect inequality, where one person (or household) owns all the income in the society, and everyone else has zero."
+    },
+    {
+      "id": "econ_2015_social_q57",
+      "question": "Which one of the following country has made great success in lifting millions of people out of poverty in the past three decades?",
+      "options": {
+        "A": "Brazil",
+        "B": "Russia",
+        "C": "China",
+        "D": "Ethiopia"
+      },
+      "correct_answer": "C",
+      "explanation": "China has made the most significant progress in reducing poverty, lifting hundreds of millions of its citizens out of extreme poverty over the past three decades."
+    },
+    {
+      "id": "econ_2015_social_q58",
+      "question": "What is the reason for extreme poverty to remain a challenge in Sub-Saharan African countries?",
+      "options": {
+        "A": "Existence of efficient institutions",
+        "B": "Absence of mitigation policies",
+        "C": "Lack of growth and development plans",
+        "D": "Lack of using indigenous knowledge"
+      },
+      "correct_answer": "C",
+      "explanation": "Many Sub-Saharan African countries face challenges such as political instability, conflict, and a lack of effective growth and development plans, which contribute to the persistence of extreme poverty."
+    },
+    {
+      "id": "econ_2015_social_q59",
+      "question": "What is the reason for women to experience extreme poverty in the developing world?",
+      "options": {
+        "A": "Dominance of male-headed households",
+        "B": "The earning capacity of women is high",
+        "C": "Their control over their spouses' income is limited.",
+        "D": "Their access to the formal sector employment is high."
+      },
+      "correct_answer": "A",
+      "explanation": "Women in developing countries often experience poverty more severely due to limited access to education, healthcare, and formal employment opportunities, compounded by the dominance of male-headed households where resources may not be shared equitably."
+    },
+    {
+      "id": "econ_2015_social_q60",
+      "question": "Which one of the following is among the measures that should not be considered to alleviate the problem of poverty facing women?",
+      "options": {
+        "A": "Adoption of policy that integrates women in various programs and influences their welfare",
+        "B": "Increasing female participation in education and other training programs",
+        "C": "Enhancing female participation in formal sector employment",
+        "D": "Discouraging women activity in agricultural extension programmes"
+      },
+      "correct_answer": "D",
+      "explanation": "Discouraging women from participating in agricultural extension programmes would exacerbate the problem of poverty facing them. The other options are all measures that should be considered to alleviate poverty."
+    },
+    {
+      "id": "econ_2015_social_q61",
+      "question": "Which one of the following expresses the classical view?",
+      "options": {
+        "A": "The economy will move towards full employment of GDP.",
+        "B": "Expansionary fiscal or monetary policy is necessary.",
+        "C": "Demand side policies only affect the real wage, employment and output.",
+        "D": "Monetary policy has effects on the real sphere of the economy."
+      },
+      "correct_answer": "A",
+      "explanation": "Classical economists believe that the economy is self-correcting and will always move towards full employment of its resources in the long run, due to flexible wages and prices."
+    },
+    {
+      "id": "econ_2015_social_q62",
+      "question": "What is the important lesson the world has learnt from the 1930's Great Depression?",
+      "options": {
+        "A": "The self-correcting feature of the market works",
+        "B": "The additional government spending will stimulate unemployment.",
+        "C": "The possibility of real GDP to fall below the potential GDP is nil.",
+        "D": "The importance of active stabilization policies"
+      },
+      "correct_answer": "D",
+      "explanation": "The Great Depression demonstrated the need for active government intervention (Keynesian stabilization policies) to prevent prolonged periods of high unemployment and economic stagnation."
+    },
+    {
+      "id": "econ_2015_social_q63",
+      "question": "Which one of the following school of thoughts suggested that the Central bank should follow a constant growth rule for some monetary aggregate to address macroeconomic problems?",
+      "options": {
+        "A": "Keynesian",
+        "B": "Classical",
+        "C": "Monetarism",
+        "D": "New Keynesian"
+      },
+      "correct_answer": "C",
+      "explanation": "Monetarists, particularly Milton Friedman, advocate that the central bank should follow a fixed monetary rule (a constant growth rate in the money supply) rather than discretionary policy, to ensure price stability."
+    },
+    {
+      "id": "econ_2015_social_q64",
+      "question": "Which one of the following is the component of aggregate demand that includes private purchases of structures, equipment's and accumulation of inventories?",
+      "options": {
+        "A": "Consumption",
+        "B": "Investment",
+        "C": "Government Purchases",
+        "D": "Net Exports"
+      },
+      "correct_answer": "B",
+      "explanation": "Investment is the component of Aggregate Demand that includes spending by firms on capital goods (equipment, structures) and changes in inventories."
+    },
+    {
+      "id": "econ_2015_social_q65",
+      "question": "In macroeconomics, the current consumption expenditure is likely to increase due to",
+      "options": {
+        "A": "expectation of lower price in the future.",
+        "B": "increase in income tax.",
+        "C": "increase in interest rate.",
+        "D": "expectation of higher future income."
+      },
+      "correct_answer": "D",
+      "explanation": "If consumers expect higher income in the future, they are likely to increase their current consumption spending, based on the permanent income hypothesis or life-cycle hypothesis."
+    },
+    {
+      "id": "econ_2015_social_q66",
+      "question": "Which one of the following is a branch of economics that studies about the aggregate behavior of the economy?",
+      "options": {
+        "A": "Microeconomics",
+        "B": "Macroeconomics",
+        "C": "International economics",
+        "D": "Development economics"
+      },
+      "correct_answer": "B",
+      "explanation": "Macroeconomics is the branch of economics that studies the behavior and performance of an economy as a whole, focusing on aggregate variables like national income, inflation, and unemployment."
+    },
+    {
+      "id": "econ_2015_social_q67",
+      "question": "Among the following, which one is a macroeconomic issue?",
+      "options": {
+        "A": "Actions of an individual agent within an economy",
+        "B": "The economic activities of a consumer, a producer or industry",
+        "C": "Resource allocation or price determination as central problem",
+        "D": "Structure and performance of the economy as a whole"
+      },
+      "correct_answer": "D",
+      "explanation": "Macroeconomic issues concern the overall economy, such as national output, general price levels, and total employment. The other options are microeconomic concerns."
+    },
+    {
+      "id": "econ_2015_social_q68",
+      "question": "Which of the following is used to calculate GDP by adding all the incomes accruing to all factors of production used in producing the national output?",
+      "options": {
+        "A": "Product approach",
+        "B": "Expenditure approach",
+        "C": "Income approach",
+        "D": "Value added approach"
+      },
+      "correct_answer": "C",
+      "explanation": "The income approach calculates GDP by summing all the incomes earned by the factors of production: wages (labor), rent (land), interest (capital), and profit (entrepreneurship)."
+    },
+    {
+      "id": "econ_2015_social_q69",
+      "question": "Which one of the following characterizes period of expansion in the business cycle?",
+      "options": {
+        "A": "Unemployment rises at this stage.",
+        "B": "The pressure on prices is upward.",
+        "C": "Economic growth slows down.",
+        "D": "Full employment occurs at this stage."
+      },
+      "correct_answer": "B",
+      "explanation": "During an expansion (boom) phase, aggregate demand grows, causing upward pressure on prices. Unemployment falls, and economic growth accelerates."
+    },
+    {
+      "id": "econ_2015_social_q70",
+      "question": "In which of the following is the market failure of incomplete markets? (Note: The question is poorly phrased in the PDF. The options are not shown clearly. This is a generic explanation based on the question).",
+      "options": {
+        "A": "Private goods",
+        "B": "Public goods",
+        "C": "Merit goods",
+        "D": "Externalities"
+      },
+      "correct_answer": "C",
+      "explanation": "Market failure can arise in markets for merit goods (like education, health) because the market may under-provide these goods due to information asymmetry or positive externalities."
+    },
+    {
+      "id": "econ_2015_social_q71",
+      "question": "Which one of the following is the problem of taxation in Ethiopia that is considered to be legal from the point of view of law but poses problems on the tax administration?",
+      "options": {
+        "A": "Tax evasion",
+        "B": "Tax avoidance",
+        "C": "Tax fraud",
+        "D": "Tax embezzlement"
+      },
+      "correct_answer": "B",
+      "explanation": "Tax avoidance is the legal use of tax loopholes to reduce tax liability. While it is not illegal, it undermines the effectiveness of the tax system and creates problems for tax administration."
+    },
+    {
+      "id": "econ_2015_social_q72",
+      "question": "What remedial solutions do you think should be put in place to alleviate tax collection problem in Ethiopia?",
+      "options": {
+        "A": "Provide client oriented service to tax payers",
+        "B": "Lowering the tax rate far below the current rate",
+        "C": "Following broad based tax system",
+        "D": "Adopting expansionary fiscal policy"
+      },
+      "correct_answer": "A",
+      "explanation": "Improving the relationship between tax authorities and taxpayers, for example by providing client-oriented services, reduces compliance costs and encourages voluntary tax payment."
+    },
+    {
+      "id": "econ_2015_social_q73",
+      "question": "The World Bank defines poverty as 'the pronounced deprivation in wellbeing'. Which one of the following is NOT the implication of wellbeing?",
+      "options": {
+        "A": "The poor are those who do not have any control over commodities.",
+        "B": "It relates poverty with some specific types of consumption.",
+        "C": "It relates to lack of key capability to function in the society.",
+        "D": "Poverty is only about the lack of one thing, food."
+      },
+      "correct_answer": "D",
+      "explanation": "The World Bank's definition of poverty as 'pronounced deprivation in well-being' is multidimensional. It is not only about the lack of food but encompasses a broader lack of capabilities and control over resources."
+    },
+    {
+      "id": "econ_2015_social_q74",
+      "question": "Which one of the following is a Uni-dimensional measure of poverty helps to understand the degree of income inequality among the poor?",
+      "options": {
+        "A": "Total poverty gap",
+        "B": "The Foster-Greer-Thorbeck Index",
+        "C": "Multidimensional poverty index",
+        "D": "Poverty headcount ratio"
+      },
+      "correct_answer": "A",
+      "explanation": "The Total Poverty Gap (or aggregate poverty gap) measures the total shortfall of the poor population's income from the poverty line. It helps to understand the depth of poverty and the degree of income inequality among the poor."
+    },
+    {
+      "id": "econ_2015_social_q75",
+      "question": "One of the following shows the proportion of total national income that factors of production receives. Which one is it?",
+      "options": {
+        "A": "Personal distribution of income",
+        "B": "Size distribution of income",
+        "C": "Functional distribution of income",
+        "D": "Income distribution"
+      },
+      "correct_answer": "C",
+      "explanation": "Functional distribution of income explains the distribution of national income among the factors of production (labor, land, capital, and entrepreneurship) in the form of wages, rent, interest, and profit."
+    },
+    {
+      "id": "econ_2015_social_q76",
+      "question": "Consider a hypothetical economy in which a consumer buys 2kg of apples and 5kg of oranges at the price of birr 150 and 70 per kilogram respectively in 2016 E.C. If in 2015 E.C. the prices of these two goods, apple and orange, were birr 125 and 55 per kilogram respectively, then what is the rate of inflation during the year 2016 E.C. assuming that 2015 E.C. is base year? (For non-visually impaired candidates)",
+      "options": {
+        "A": "10.28%",
+        "B": "17.65%",
+        "C": "23.80%",
+        "D": "21.33%"
+      },
+      "correct_answer": "B",
+      "explanation": "Cost of basket in 2015 = (2*125) + (5*55) = 250 + 275 = 525. Cost of basket in 2016 = (2*150) + (5*70) = 300 + 350 = 650. Inflation rate = (650-525)/525 * 100 = 125/525 * 100 = 23.80%."
+    },
+    {
+      "id": "econ_2015_social_q77",
+      "question": "Suppose that the nominal wage that the firm has agreed to pay for worker is birr 60 per hour. What is the change in the real wage rate if the price level as measured by the price index increases from 2.50 to 3.00? (For non-visually impaired candidates)",
+      "options": {
+        "A": "The real wage rises by 4 birr.",
+        "B": "The real wage declined by 4 birr.",
+        "C": "The real wage declined by 6 birr.",
+        "D": "The real wage rises by 6 birr."
+      },
+      "correct_answer": "B",
+      "explanation": "Real Wage in 1st period = 60 / 2.50 = 24 birr. Real Wage in 2nd period = 60 / 3.00 = 20 birr. Change = 20 - 24 = -4 birr. The real wage declined by 4 birr."
+    },
+    {
+      "id": "econ_2015_social_q78",
+      "question": "Gemechu is employed in an Ethiopian public institution and for poverty gross salary is 18,000 birr. How much is his net income after paying employment income tax? (For non-visually impaired candidates)",
+      "options": {
+        "A": "13,200 birr",
+        "B": "11,700 birr",
+        "C": "6,300 birr",
+        "D": "13,555 birr"
+      },
+      "correct_answer": "D",
+      "explanation": "Using Ethiopian income tax brackets: First 600 = 0, 601-1650 = 105, 1651-3200 = 232.5, 3201-5250 = 410, 5251-7800 = 637.5, 7801-18000 = 3060. Total Tax = 0+105+232.5+410+637.5+3060 = 4445. Net Income = 18000 - 4445 = 13555."
+    },
+    {
+      "id": "econ_2015_social_q79",
+      "question": "Suppose in a given economy the population who are willing and able to work is 5 million and out of this the total number of employed are 2 million. What is the unemployment rate? (For non-visually impaired candidates)",
+      "options": {
+        "A": "40%",
+        "B": "70%",
+        "C": "30%",
+        "D": "60%"
+      },
+      "correct_answer": "D",
+      "explanation": "Labor force = 5 million. Employed = 2 million. Unemployed = 5 - 2 = 3 million. Unemployment rate = (3/5) * 100 = 60%."
+    },
+    {
+      "id": "econ_2015_social_q80",
+      "question": "A census that was conducted in a particular economy shows that the total adult population is 27 million and those who are willing and able to work is 6 million. What is the labour force participation rate in this economy? (For non-visually impaired candidates)",
+      "options": {
+        "A": "12.18%",
+        "B": "15.73%",
+        "C": "22.22%",
+        "D": "25.37%"
+      },
+      "correct_answer": "C",
+      "explanation": "Labor force participation rate = (Labor force / Adult population) * 100 = (6 million / 27 million) * 100 = 22.22%."
+    },
+    {
+      "id": "econ_2015_social_q81",
+      "question": "Which one of the following is the main possible impact in a given economy if it decides to devalue its currency? (For visually impaired candidates)",
+      "options": {
+        "A": "It deteriorates the current account balance.",
+        "B": "Residents will find imports cheap.",
+        "C": "Export will be less expensive.",
+        "D": "It discourages domestic industries"
+      },
+      "correct_answer": "C",
+      "explanation": "A devaluation makes a country's exports cheaper for foreign buyers and its imports more expensive for domestic buyers. Therefore, exports become less expensive."
+    },
+    {
+      "id": "econ_2015_social_q82",
+      "question": "What is the main cause of conflict over natural resources such as the River Nile? (For visually impaired candidates)",
+      "options": {
+        "A": "Legal",
+        "B": "Social",
+        "C": "Administrative",
+        "D": "Political"
+      },
+      "correct_answer": "D",
+      "explanation": "Conflicts over natural resources like the Nile are primarily caused by political issues, such as the desire of sovereign states to control and utilize resources for national development, which can clash with the interests of other states."
+    },
+    {
+      "id": "econ_2015_social_q83",
+      "question": "Which one of the following plays a decisive role to govern natural resources sustainably? (For visually impaired candidates)",
+      "options": {
+        "A": "Encouraging indigenous resource management systems",
+        "B": "Prioritizing the participation of males in resource management",
+        "C": "Fostering top-down decision making in resource management",
+        "D": "Giving exclusive rights to the government in managing resources"
+      },
+      "correct_answer": "A",
+      "explanation": "Encouraging and integrating indigenous resource management systems, which are often locally adapted and sustainable, is crucial for the long-term governance of natural resources."
+    },
+    {
+      "id": "econ_2015_social_q84",
+      "question": "What is the main characteristic of indigenous conflict resolution practices in Ethiopia? (For visually impaired candidates)",
+      "options": {
+        "A": "It passes lengthy processes to bring about reconciliation.",
+        "B": "The issue is concluded in reconciliation and harmony.",
+        "C": "Pastoralists use identical resolution mechanisms.",
+        "D": "Most of them are mainly based on written laws."
+      },
+      "correct_answer": "B",
+      "explanation": "Indigenous conflict resolution systems in Ethiopia (e.g., Gada, Shimglina) primarily aim to restore social harmony and reconciliation between conflicting parties."
+    },
+    {
+      "id": "econ_2015_social_q85",
+      "question": "Which one of the following geographic study is addressed by the Topical Approach? (For visually impaired candidates)",
+      "options": {
+        "A": "Studying the economic activities and climatic conditions of Ethiopia",
+        "B": "Investigating the spatial distribution of rainfall in the world",
+        "C": "Identify the major socio-economic characteristics of African countries",
+        "D": "Studying the physical characteristics of the rift valley of Ethiopia"
+      },
+      "correct_answer": "A",
+      "explanation": "The topical approach focuses on a specific geographic theme, such as climate or economic activities. Studying the economic activities and climatic conditions of a region is a topical study."
+    }
+  ]
 }
