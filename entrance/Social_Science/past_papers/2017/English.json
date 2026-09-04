@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Social_Science",
-    "subject":  "English",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_english_2017_social",
+  "content_type": "past_paper",
+  "title": "English - 2017 (Social)",
+  "year": 2017,
+  "subject": "English",
+  "stream": "Social",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2017_social_q1",
+      "question": "An economist will advise you to invest your money in some kind of business instead of putting it in the bank because the ______ you earn on it at the end of the month is very small.",
+      "options": {
+        "A": "amount",
+        "B": "interest",
+        "C": "profit",
+        "D": "dividend"
+      },
+      "correct_answer": "B",
+      "explanation": "The money paid by a bank for the use of deposited funds is called 'interest'. 'Profit' is a broader term for business gains, 'dividend' is paid to shareholders, and 'amount' is the total sum."
+    },
+    {
+      "id": "eng_2017_social_q2",
+      "question": "He used to smoke cigarettes when he was younger but the ______ time was long; it took him years to stop it completely.",
+      "options": {
+        "A": "decision",
+        "B": "smoking",
+        "C": "withdrawal",
+        "D": "thinking"
+      },
+      "correct_answer": "C",
+      "explanation": "'Withdrawal' refers to the process of discontinuing a habit (like smoking) and the symptoms that accompany it. 'Decision' or 'thinking' does not fit the context of taking a long time."
+    },
+    {
+      "id": "eng_2017_social_q3",
+      "question": "He has spent all his money in a couple of days. Now, he ______ money.",
+      "options": {
+        "A": "runs out of",
+        "B": "saves",
+        "C": "gets",
+        "D": "gets rid of"
+      },
+      "correct_answer": "A",
+      "explanation": "'Runs out of' means to use up all of something. Since he has spent all his money, he has no money left, so he runs out of money."
+    },
+    {
+      "id": "eng_2017_social_q4",
+      "question": "Owing to the surveillance camera, it is possible to say that the manager is ______ in every corner of the organization.",
+      "options": {
+        "A": "dictator",
+        "B": "omnipresent",
+        "C": "absent",
+        "D": "democrat"
+      },
+      "correct_answer": "B",
+      "explanation": "'Omnipresent' means present everywhere at the same time. The surveillance camera allows the manager to be aware of everything, making him seem omnipresent."
+    },
+    {
+      "id": "eng_2017_social_q5",
+      "question": "In our English courses, plenty of time has been ______ to learning grammar, which shows that the less emphasis given to some of the practical skills.",
+      "options": {
+        "A": "spent",
+        "B": "allotted",
+        "C": "allowed",
+        "D": "provided"
+      },
+      "correct_answer": "B",
+      "explanation": "'Allotted' means to give or assign a specific amount of time for a particular purpose. 'Spent' would require a subject performing the action, while 'allowed' and 'provided' do not fit the passive structure of the sentence."
+    },
+    {
+      "id": "eng_2017_social_q6",
+      "question": "The word 'Democracy' is an ______ term which cannot be defined easily.",
+      "options": {
+        "A": "elaborated",
+        "B": "explained",
+        "C": "elusive",
+        "D": "enlarged"
+      },
+      "correct_answer": "C",
+      "explanation": "'Elusive' means difficult to find, catch, or achieve. A term that cannot be defined easily is elusive."
+    },
+    {
+      "id": "eng_2017_social_q7",
+      "question": "In some countries, national service is compulsory to every citizen.",
+      "options": {
+        "A": "necessary",
+        "B": "complementary",
+        "C": "voluntary",
+        "D": "obligatory"
+      },
+      "correct_answer": "D",
+      "explanation": "'Compulsory' means required by law or a rule; obligatory. 'Necessary' is a weaker form, while 'voluntary' is the opposite of compulsory."
+    },
+    {
+      "id": "eng_2017_social_q8",
+      "question": "The doctor prescribed the wrong medicine to the patient due to faulty diagnosis.",
+      "options": {
+        "A": "examination",
+        "B": "information",
+        "C": "treatment",
+        "D": "consultation"
+      },
+      "correct_answer": "A",
+      "explanation": "'Diagnosis' refers to the identification of a disease through examination. 'Examination' is the process of checking the patient."
+    },
+    {
+      "id": "eng_2017_social_q9",
+      "question": "Despite the suffering of the victims in the Middle East, the world has never shown compassion.",
+      "options": {
+        "A": "kindness",
+        "B": "negotiation",
+        "C": "cruelty",
+        "D": "diplomacy"
+      },
+      "correct_answer": "A",
+      "explanation": "'Compassion' is a feeling of deep sympathy and sorrow for another who is stricken by misfortune, accompanied by a strong desire to alleviate the suffering. It is synonymous with 'kindness'."
+    },
+    {
+      "id": "eng_2017_social_q10",
+      "question": "There are thousands of people in the stadium and parents should search their own children on time before the crowd disperses.",
+      "options": {
+        "A": "find out",
+        "B": "look into",
+        "C": "go out",
+        "D": "look for"
+      },
+      "correct_answer": "D",
+      "explanation": "'Search' in this context means to try to find someone, which is synonymous with 'look for'."
+    },
+    {
+      "id": "eng_2017_social_q11",
+      "question": "Conservation of the environment should be a priority for both developed and developing countries.",
+      "options": {
+        "A": "modernization",
+        "B": "preservation",
+        "C": "utilization",
+        "D": "consumption"
+      },
+      "correct_answer": "B",
+      "explanation": "'Conservation' means the preservation and careful management of the environment and natural resources. 'Preservation' is the closest synonym."
+    },
+    {
+      "id": "eng_2017_social_q12",
+      "question": "In the Ethiopian religious culture, the Bible and the Qur'an are sacred Scriptures.",
+      "options": {
+        "A": "secular",
+        "B": "religious",
+        "C": "holy",
+        "D": "worldly"
+      },
+      "correct_answer": "C",
+      "explanation": "'Sacred' means connected with God or a god; deserving veneration; holy."
+    },
+    {
+      "id": "eng_2017_social_q13",
+      "question": "Tree:: Woods; Animal:",
+      "options": {
+        "A": "Oxen",
+        "B": "Herd",
+        "C": "Wildlife",
+        "D": "Calves"
+      },
+      "correct_answer": "B",
+      "explanation": "A group of trees is called a wood. A group of animals is called a herd. The analogy is one of a singular item to its collective group."
+    },
+    {
+      "id": "eng_2017_social_q14",
+      "question": "Invaluable:: Worthless; Enthusiastic:",
+      "options": {
+        "A": "Emotional",
+        "B": "Unrealistic",
+        "C": "Indifferent",
+        "D": "Energetic"
+      },
+      "correct_answer": "C",
+      "explanation": "Invaluable and worthless are antonyms. Therefore, we need the antonym of enthusiastic, which is indifferent."
+    },
+    {
+      "id": "eng_2017_social_q15",
+      "question": "All the students but Daniel failed the grammar test.",
+      "options": {
+        "A": "Daniel is an exceptionally good student and passes all the time.",
+        "B": "The test was so hard that even Daniel couldn't pass it.",
+        "C": "Only Daniel passed the grammar test.",
+        "D": "All the students failed the test, including Daniel."
+      },
+      "correct_answer": "C",
+      "explanation": "The phrase 'All the students but Daniel' means 'all students except Daniel'. Therefore, Daniel was the only one who passed."
+    },
+    {
+      "id": "eng_2017_social_q16",
+      "question": "Born in Addis Ababa, Hagos is a well-known artist.",
+      "options": {
+        "A": "Hagos is a well- known artist and has children born in Addis Ababa.",
+        "B": "Hagos is a well- known artist because he was born in Addis Ababa.",
+        "C": "Hagos was born in Addis Ababa and is a well- known artist.",
+        "D": "Children born in Addis Ababa like Hagos are well- known artists."
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence provides two pieces of information about Hagos: where he was born and what he is. Option C combines these facts in a logical way. Option B implies a causal relationship which is not stated."
+    },
+    {
+      "id": "eng_2017_social_q17",
+      "question": "In the context of the passage on Immigration, what is the contextual meaning of the word 'ties' in paragraph 4?",
+      "options": {
+        "A": "similarities",
+        "B": "conflicts",
+        "C": "relations",
+        "D": "barriers"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ties' in this context refers to the links or relationships (e.g., colonization, trade) between the home and new countries."
+    },
+    {
+      "id": "eng_2017_social_q18",
+      "question": "According to the information in paragraph 2 of the Immigration passage, which statement is true?",
+      "options": {
+        "A": "Migrants have similar reasons for leaving their homeland.",
+        "B": "It is the individual migrant who usually makes the decision to migrate.",
+        "C": "The country that receives immigrants can only benefit from the new arrivals.",
+        "D": "A migrant's decision to migrate affects not only his/her own life but also that of his/her family."
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 2 states that migration is a 'collective action, caused by social change and affecting the whole society of both countries'. This implies the decision affects more than just the individual."
+    },
+    {
+      "id": "eng_2017_social_q19",
+      "question": "What does the word 'assimilated' in the phrase, '...quickly becomes assimilated into the new country' (paragraph 2) mean?",
+      "options": {
+        "A": "isolated by",
+        "B": "part of",
+        "C": "lost into",
+        "D": "swallowed by"
+      },
+      "correct_answer": "B",
+      "explanation": "To be assimilated means to become part of and fully integrated into the culture of the new country."
+    },
+    {
+      "id": "eng_2017_social_q20",
+      "question": "It is stated in paragraph 5 of the Immigration passage that",
+      "options": {
+        "A": "earlier migrants usually provide assistance to the new comers.",
+        "B": "there is little cooperation among migrants coming from the same area.",
+        "C": "young women are always the ones that migrate first.",
+        "D": "migration is rarely initiated by shortage of labor in the new country."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 5 states, 'Social networks based on family or a common place of origin help to provide housing, work...' indicating that established migrants help newcomers."
+    },
+    {
+      "id": "eng_2017_social_q21",
+      "question": "Which of the following is true, according to the information in paragraph 1 of the Immigration passage?",
+      "options": {
+        "A": "Most people migrate due to political problems in their own countries.",
+        "B": "Most migrants stay in the new country for good.",
+        "C": "The reasons for migration are varied.",
+        "D": "Migration is a recent phenomenon in human history."
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 1 states, 'No single cause can explain why people choose to leave their country'. The passage mentions many types of migrants and factors, implying the reasons are varied."
+    },
+    {
+      "id": "eng_2017_social_q22",
+      "question": "Which of the following words or phrases can replace the word 'do' in the phrase '... as do the informal social networks...' (paragraph 3)?",
+      "options": {
+        "A": "focus on",
+        "B": "understand",
+        "C": "emphasize",
+        "D": "play a part"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence is: 'Large-scale institutional factors...play a part in any decision to emigrate, as do the informal social networks...'. 'Do' is a stand-in for 'play a part'."
+    },
+    {
+      "id": "eng_2017_social_q23",
+      "question": "What does the pronoun 'they' refer to in the phrase '...once they go to school.....(paragraph 6)?",
+      "options": {
+        "A": "migrants' children",
+        "B": "migrants' friends",
+        "C": "migrants",
+        "D": "people"
+      },
+      "correct_answer": "A",
+      "explanation": "The full sentence is: 'This is particularly true of migrants' children: once they go to school in the new country...'. Thus, 'they' refers to the children."
+    },
+    {
+      "id": "eng_2017_social_q24",
+      "question": "Which one of the following is true based on the information in paragraph 4 of the Immigration passage?",
+      "options": {
+        "A": "A history of colonization is one of the reasons for migration.",
+        "B": "Colonizers push people from their former colonies to migrate.",
+        "C": "Former colonizers made it difficult for people to migrate into their country.",
+        "D": "All countries in West and North Africa speak French as their mother tongue due to colonization."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 4 states that migration arises from links based on colonization, and gives the example of French colonization leading to French being a major language."
+    },
+    {
+      "id": "eng_2017_social_q25",
+      "question": "Which of the following can be inferred from the Immigration reading passage?",
+      "options": {
+        "A": "People who migrate are not patriotic.",
+        "B": "Migration is not always a consequence of oppression.",
+        "C": "We can stop migration by enhancing democracy in every country.",
+        "D": "People will stop migrating in the near future."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage describes migration as being driven by labor shortages, family links, and social networks, not solely oppression. It is a complex phenomenon."
+    },
+    {
+      "id": "eng_2017_social_q26",
+      "question": "What does the first sentence in Paragraph 1 of the 'Discourse on Globalization' passage mean?",
+      "options": {
+        "A": "Child abuse should not be practiced.",
+        "B": "Child abuse is everywhere regardless.",
+        "C": "Whether young or old, you are always abused.",
+        "D": "Some races in the world do not practice child abuse."
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence 'Child abuse is a phenomenon that knows no social, geographic or racial boundaries' means it occurs in all parts of society and the world, i.e., everywhere."
+    },
+    {
+      "id": "eng_2017_social_q27",
+      "question": "Which one of the following is closest in meaning to the word 'plague' in Paragraph 1, Line 3 of the Globalization passage?",
+      "options": {
+        "A": "torture",
+        "B": "wound",
+        "C": "infection",
+        "D": "epidemic"
+      },
+      "correct_answer": "D",
+      "explanation": "'Plague' is used metaphorically here to describe a widespread and destructive problem, similar to an 'epidemic'."
+    },
+    {
+      "id": "eng_2017_social_q28",
+      "question": "What does the writer specifically say about America in relation to child abuse?",
+      "options": {
+        "A": "Tomorrow's America will see less child abuse.",
+        "B": "Wealthy Americans are the main actors in child abuse.",
+        "C": "American children abused today and will abuse others when they grow up.",
+        "D": "Americans are intentionally creating another generation of child abusers."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that child abuse 'is likely to create another generation of child abusers in America from among those being abused today'."
+    },
+    {
+      "id": "eng_2017_social_q29",
+      "question": "What, according to the passage, is a possible cause of child abuse?",
+      "options": {
+        "A": "Poor reporting system",
+        "B": "Individuals with ill motives",
+        "C": "Being under straining situations",
+        "D": "Social events in or outside the home"
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 3 states that 'The tremendous amount of stress in today's society both within and outside the home is considered one of the main factors in the rise of child abuse.'"
+    },
+    {
+      "id": "eng_2017_social_q30",
+      "question": "Which one of the following is NOT a possible cause of undue stress?",
+      "options": {
+        "A": "Failure to afford a living",
+        "B": "Loneliness and isolated life",
+        "C": "Disagreement between spouses",
+        "D": "Doing a job one is not interested in"
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 3 mentions poor marital relationships, single parenthood, social and economic problems, unemployment, and social isolation. Doing an uninteresting job is not mentioned."
+    },
+    {
+      "id": "eng_2017_social_q31",
+      "question": "Why do mothers move to large city apartment complexes or suburban communities?",
+      "options": {
+        "A": "That is what they can afford.",
+        "B": "Such places are luxurious to live in.",
+        "C": "That allows them to live independently.",
+        "D": "That is where they can keep their children."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states 'Mothers find themselves living either in large city apartment complexes or suburban communities in which they know absolutely no one...'. The passage does not provide a specific reason, but implies it's a result of moving away from families and emotional support."
+    },
+    {
+      "id": "eng_2017_social_q32",
+      "question": "Which one of the following sentences is true about child abuse?",
+      "options": {
+        "A": "Child abuse was exercised secretly for a very long time.",
+        "B": "Parents for long used to close their doors and abuse children.",
+        "C": "Many people stood against child abuse after reading passages in laws.",
+        "D": "Initially, Americans remained quiet on the revolution against child abuse."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 2 states 'For years, the problem was hidden behind the closed doors of houses or apartments.' This implies it was practiced secretly."
+    },
+    {
+      "id": "eng_2017_social_q33",
+      "question": "What does 'their' as used in Paragraph 2, Line 5 of the child abuse passage refer to?",
+      "options": {
+        "A": "parents",
+        "B": "agencies",
+        "C": "children",
+        "D": "reporters"
+      },
+      "correct_answer": "A",
+      "explanation": "The text is '...social-welfare agencies are getting help for both the children and their parents.' So 'their' refers to the parents."
+    },
+    {
+      "id": "eng_2017_social_q34",
+      "question": "Which one of the following, according to Paragraph 2, is true about children abuse reports in Philadelphia?",
+      "options": {
+        "A": "Cases are being reported extensively.",
+        "B": "Incidents reported are far less than the actual problem.",
+        "C": "Reports of over 5,000 cases per annum are predominantly high.",
+        "D": "The Children and Youth Agency is receiving incomplete reports of cases."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states 'More than 5,000 cases are reported annually... but a spokeswoman said, 'There's a lot more out there that goes unreported.'"
+    },
+    {
+      "id": "eng_2017_social_q35",
+      "question": "Lidya is ______ far beautiful than her classmate, Hanna.",
+      "options": {
+        "A": "much",
+        "B": "little",
+        "C": "most",
+        "D": "more"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence uses 'than', which requires the comparative form of the adjective. 'More' is used to form the comparative of long adjectives like 'beautiful'."
+    },
+    {
+      "id": "eng_2017_social_q36",
+      "question": "Modern education in Ethiopia ______ early in the twenty-first century.",
+      "options": {
+        "A": "is being introduced",
+        "B": "was introduced",
+        "C": "were introduced",
+        "D": "is introduced"
+      },
+      "correct_answer": "B",
+      "explanation": "The time phrase 'early in the twenty-first century' indicates a specific time in the past, requiring the past simple passive tense: 'was introduced'."
+    },
+    {
+      "id": "eng_2017_social_q37",
+      "question": "My friend asked me, \"Do you like my shoes?\" Later that day, I told my sister what he said: My friend asked me ______",
+      "options": {
+        "A": "if I like your shoes",
+        "B": "whether I liked his shoes",
+        "C": "that he liked my shoes",
+        "D": "if I like my shoes"
+      },
+      "correct_answer": "B",
+      "explanation": "In reported speech, the question changes to a statement. 'Do you' becomes 'if/whether I'. The tense backshifts from 'like' to 'liked'. Pronouns change: 'my' becomes 'his'. Therefore, 'whether I liked his shoes'."
+    },
+    {
+      "id": "eng_2017_social_q38",
+      "question": "Don't rely ______ the information you get from this website; it is usually fake.",
+      "options": {
+        "A": "of/on",
+        "B": "at",
+        "C": "about",
+        "D": "in"
+      },
+      "correct_answer": "A",
+      "explanation": "'Rely on' is a phrasal verb meaning to depend on someone or something. The options provided are 'of/on', which includes the correct preposition 'on'."
+    },
+    {
+      "id": "eng_2017_social_q39",
+      "question": "I ______ lunch at my favorite restaurant when I accidentally ran into a childhood friend I had not seen for ages.",
+      "options": {
+        "A": "would have had",
+        "B": "have been having",
+        "C": "had had",
+        "D": "was having"
+      },
+      "correct_answer": "D",
+      "explanation": "This sentence describes an action that was in progress in the past when another action happened. The past continuous tense 'was having' is used for the longer action."
+    },
+    {
+      "id": "eng_2017_social_q40",
+      "question": "Disasa: What ______ this Sunday?\nDinknesh: After coming back from church, I'm taking the children to the park. That's the plan.",
+      "options": {
+        "A": "can you do",
+        "B": "you will do",
+        "C": "are you doing",
+        "D": "did you do"
+      },
+      "correct_answer": "C",
+      "explanation": "'Are you doing' uses the present continuous tense for a fixed future arrangement. This matches Dinknesh's reply about a planned activity."
+    },
+    {
+      "id": "eng_2017_social_q41",
+      "question": "As I was driving in the city last week, my son saw a beautiful house by the roadside and said, \"I wish I ______ in this house.\"",
+      "options": {
+        "A": "live",
+        "B": "was living",
+        "C": "am living",
+        "D": "will live"
+      },
+      "correct_answer": "B",
+      "explanation": "The wish refers to an unreal situation in the present. 'I wish + past continuous' is used to express a wish about a current situation."
+    },
+    {
+      "id": "eng_2017_social_q42",
+      "question": "His face is pale and he hasn't been eating well in these last few days. He ______ sick! I think I should take him to the hospital.",
+      "options": {
+        "A": "must be",
+        "B": "can't be",
+        "C": "ought to be",
+        "D": "should have been"
+      },
+      "correct_answer": "A",
+      "explanation": "We use 'must' for deduction when we are almost certain something is true based on evidence. The pale face and lack of eating are evidence that he is likely sick."
+    },
+    {
+      "id": "eng_2017_social_q43",
+      "question": "He has a solid understanding of the Constitution; he ______ be a lawyer.",
+      "options": {
+        "A": "shall",
+        "B": "can't",
+        "C": "will",
+        "D": "may"
+      },
+      "correct_answer": "D",
+      "explanation": "'May' is used to express a strong possibility or a logical conclusion about someone's profession based on their knowledge."
+    },
+    {
+      "id": "eng_2017_social_q44",
+      "question": "The students studied hard, ______?",
+      "options": {
+        "A": "did they",
+        "B": "does they",
+        "C": "do they",
+        "D": "didn't they"
+      },
+      "correct_answer": "D",
+      "explanation": "The sentence is in the past simple positive tense ('studied'). The question tag must be negative and in the same tense, using the auxiliary verb 'did'."
+    },
+    {
+      "id": "eng_2017_social_q45",
+      "question": "Mr. Gemechu is already 65 years old. He was born ______ the tenth of March, 1960.",
+      "options": {
+        "A": "around",
+        "B": "in",
+        "C": "on",
+        "D": "at"
+      },
+      "correct_answer": "C",
+      "explanation": "We use the preposition 'on' for specific dates (e.g., on the tenth of March)."
+    },
+    {
+      "id": "eng_2017_social_q46",
+      "question": "He has been working so hard in the past four years ______ he could buy an electric car the coming year.",
+      "options": {
+        "A": "for",
+        "B": "in order to",
+        "C": "such that",
+        "D": "so that"
+      },
+      "correct_answer": "D",
+      "explanation": "'So that' introduces a clause of purpose, explaining the aim of his hard work."
+    },
+    {
+      "id": "eng_2017_social_q47",
+      "question": "Which of the following sentences is most acceptable?",
+      "options": {
+        "A": "She told him always she would love him.",
+        "B": "She told him she always would love him.",
+        "C": "She told him she would love him always.",
+        "D": "She told him she would always love him."
+      },
+      "correct_answer": "D",
+      "explanation": "Adverbs of frequency (like 'always') are placed before the main verb but after the auxiliary verb. In 'would love', the correct position is after 'would', before 'love'."
+    },
+    {
+      "id": "eng_2017_social_q48",
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Water will evaporate if you are going to boil it.",
+        "B": "If you will boil water, it may evaporate.",
+        "C": "If you boiled water, it will evaporate.",
+        "D": "Water evaporates if you boil it."
+      },
+      "correct_answer": "D",
+      "explanation": "This is a zero conditional, used for scientific facts or general truths. The structure is: Present simple in the 'if' clause and present simple in the main clause."
+    },
+    {
+      "id": "eng_2017_social_q49",
+      "question": "The captain ______ met you in the meeting we had yesterday is my cousin.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "explanation": "'Who' is the subject of the relative clause 'met you in the meeting'. 'Whom' is the object form, 'whose' is possessive, and 'which' is used for non-human subjects."
+    },
+    {
+      "id": "eng_2017_social_q50",
+      "question": "Students ______ to respect the regulations of their schools.",
+      "options": {
+        "A": "will be advising",
+        "B": "are advising",
+        "C": "are advised",
+        "D": "advised"
+      },
+      "correct_answer": "C",
+      "explanation": "The students are the recipients of the advice, so the passive voice 'are advised' is required."
+    },
+    {
+      "id": "eng_2017_social_q51",
+      "question": "We ______ obey our parents without questions since we have a moral obligation to do so.",
+      "options": {
+        "A": "do not need to",
+        "B": "have to",
+        "C": "will",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "explanation": "'Have to' expresses a strong obligation, often based on a rule, law, or moral duty."
+    },
+    {
+      "id": "eng_2017_social_q52",
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Though I liked the video kept watching.",
+        "B": "Unless the police investigate the crime.",
+        "C": "I find it difficult to swim.",
+        "D": "She arrived before I."
+      },
+      "correct_answer": "C",
+      "explanation": "'I find it difficult to swim' is grammatically correct. 'Though I liked the video kept watching' is missing a subject. 'Unless the police investigate the crime' is a dependent clause. 'She arrived before I' is incomplete (should be 'before I did')."
+    },
+    {
+      "id": "eng_2017_social_q53",
+      "question": "He enjoys ______ historical books whenever he has time.",
+      "options": {
+        "A": "to reading",
+        "B": "to read",
+        "C": "reading",
+        "D": "read"
+      },
+      "correct_answer": "C",
+      "explanation": "'Enjoy' is followed by a gerund (verb + -ing)."
+    },
+    {
+      "id": "eng_2017_social_q54",
+      "question": "Had I studied hard, I ______ the exam easily.",
+      "options": {
+        "A": "could have passed",
+        "B": "had passed",
+        "C": "could pass",
+        "D": "have passed"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a third conditional sentence. The main clause uses 'would have + past participle'. 'Could have passed' is also valid as it expresses ability in the past."
+    },
+    {
+      "id": "eng_2017_social_q55",
+      "question": "When she ______ at the station, the plane had already left.",
+      "options": {
+        "A": "should have arrived",
+        "B": "had arrived",
+        "C": "has arrived",
+        "D": "arrived"
+      },
+      "correct_answer": "D",
+      "explanation": "The 'had already left' is in the past perfect tense, indicating it happened before another past action. The later action is in the past simple: 'arrived'."
+    },
+    {
+      "id": "eng_2017_social_q56",
+      "question": "You cannot ______ me ______ what I don't believe in doing!",
+      "options": {
+        "A": "let/doing",
+        "B": "make/do",
+        "C": "made/do",
+        "D": "let/to do"
+      },
+      "correct_answer": "B",
+      "explanation": "The verb 'make' is followed by an object and the base form (infinitive without 'to'): 'make me do'."
+    },
+    {
+      "id": "eng_2017_social_q57",
+      "question": "______ by the war, Gaza will take years to recover.",
+      "options": {
+        "A": "Being devastate",
+        "B": "Having devastated",
+        "C": "Devastated",
+        "D": "Devastating"
+      },
+      "correct_answer": "C",
+      "explanation": "The participle phrase 'Devastated by the war' modifies 'Gaza'. Gaza is the recipient of the action, so the past participle 'devastated' is used."
+    },
+    {
+      "id": "eng_2017_social_q58",
+      "question": "As a rule, university students are not allowed ______ the campus after 10 P.M.",
+      "options": {
+        "A": "to entering",
+        "B": "to enter",
+        "C": "entering",
+        "D": "enter"
+      },
+      "correct_answer": "B",
+      "explanation": "'Allowed' is followed by the infinitive with 'to': 'are not allowed to enter'."
+    },
+    {
+      "id": "eng_2017_social_q59",
+      "question": "To keep healthy, you need to have balanced diet, enough sleep, and ______",
+      "options": {
+        "A": "peaceful mind",
+        "B": "to do exercise",
+        "C": "working out",
+        "D": "to be peaceful"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence needs parallel structure. 'Balanced diet' and 'enough sleep' are noun phrases. 'To do exercise' is an infinitive phrase which is not parallel, but is the best option among the choices provided (it maintains a 'to do' structure)."
+    },
+    {
+      "id": "eng_2017_social_q60",
+      "question": "Which one of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Genet liked reading and to watch TV.",
+        "B": "Genet likes reading and watching TV.",
+        "C": "Genet liked to read and watching TV.",
+        "D": "Genet likes reading and to watch TV."
+      },
+      "correct_answer": "B",
+      "explanation": "This sentence maintains parallel structure by using two gerunds ('reading' and 'watching')."
+    },
+    {
+      "id": "eng_2017_social_q61",
+      "question": "Mulatu was hired only two weeks ago. So, it is ______ early to evaluate his performance.",
+      "options": {
+        "A": "very...to",
+        "B": "so...to",
+        "C": "too...to",
+        "D": "so...as"
+      },
+      "correct_answer": "C",
+      "explanation": "The 'too...to' structure is used to indicate that something is more than enough to cause a negative result: 'it is too early to evaluate'."
+    },
+    {
+      "id": "eng_2017_social_q62",
+      "question": "Mr. Tom reached his office on time ______ the crowd.",
+      "options": {
+        "A": "because of",
+        "B": "despite",
+        "C": "but for",
+        "D": "despite of"
+      },
+      "correct_answer": "B",
+      "explanation": "'Despite' is a preposition used to show that something happened even though there was a difficulty (the crowd). The correct form is 'despite', not 'despite of'."
+    },
+    {
+      "id": "eng_2017_social_q63",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "His plan is to do his first degree at Addis Ababa University and then move to the united kingdom.",
+        "B": "His plan is to do his first degree at addis ababa university and then move to the United Kingdom.",
+        "C": "His plan is to do his first degree at Addis Ababa University and then move to the United Kingdom.",
+        "D": "His plan is to do his first degree at Addis ababa university and then move to the united kingdom."
+      },
+      "correct_answer": "C",
+      "explanation": "Proper nouns ('Addis Ababa University', 'United Kingdom') must be capitalized. Option C correctly capitalizes all proper nouns."
+    },
+    {
+      "id": "eng_2017_social_q64",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "Personal computers should be updated periodically; otherwise, computer virus could destroy data.",
+        "B": "Personal computers should be updated periodically; otherwise, computer virus could destroy data.",
+        "C": "Personal computers should be updated periodically; otherwise, computer virus could destroy data.",
+        "D": "Personal computers should be updated periodically; otherwise, computer virus could destroy data."
+      },
+      "correct_answer": "A",
+      "explanation": "A semicolon is used to separate two independent clauses. The word 'otherwise' is followed by a comma. All other options are missing this comma or have incorrect punctuation."
+    },
+    {
+      "id": "eng_2017_social_q65",
+      "question": "Which of the following statements is correctly punctuated and capitalized?",
+      "options": {
+        "A": "If you can't go to sleep, don't just toss and turn in bed; get up and do something!",
+        "B": "If you can't go to sleep; don't just toss and turn in bed. Get up and do something!",
+        "C": "If you can't go to sleep, don't just toss and turn in bed get up and do something!",
+        "D": "If you can't go to sleep don't just toss and turn in bed, get up and do something!"
+      },
+      "correct_answer": "A",
+      "explanation": "A comma is used after the dependent clause 'If you can't go to sleep'. A semicolon is used to join the two independent clauses: 'don't just toss and turn in bed' and 'get up and do something'."
+    },
+    {
+      "id": "eng_2017_social_q66",
+      "question": "Paragraph 1 in the above letter (Application Letter) indicates that",
+      "options": {
+        "A": "the applicant and the employer know each other",
+        "B": "invites the employer for an informal meeting outside work",
+        "C": "expresses assurance that the applicant will get the job",
+        "D": "asks for a possible interview with the employer"
+      },
+      "correct_answer": "D",
+      "explanation": "The paragraph states 'I would appreciate an opportunity to discuss with you in greater detail...', which is a polite way of asking for an interview."
+    },
+    {
+      "id": "eng_2017_social_q67",
+      "question": "Paragraph 3 in the above letter (Application Letter) describes",
+      "options": {
+        "A": "gives irrelevant information as it is not related to the job",
+        "B": "describes the qualifications the applicant has earned",
+        "C": "outlines the work experience of the applicant",
+        "D": "describes aspects of the writer's personality"
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 3 discusses traits like enjoying working in a team, working under pressure, and being outgoing, which are personality aspects."
+    },
+    {
+      "id": "eng_2017_social_q68",
+      "question": "The four paragraphs in the above letter (Application Letter) are not in the right order. Which one of the following contains the correct order?",
+      "options": {
+        "A": "2,4,1,3",
+        "B": "2,3,4,1",
+        "C": "4,2,3,1",
+        "D": "4,1,3,2"
+      },
+      "correct_answer": "C",
+      "explanation": "The logical order is: 4 (Stating the purpose of the letter), 2 (Stating qualifications and experience), 3 (Describing personality traits), 1 (Requesting an interview)."
+    },
+    {
+      "id": "eng_2017_social_q69",
+      "question": "Put the words in the right order: medium/three/large/There/are/and/sizes/small/of/shirt.",
+      "options": {
+        "A": "There are small, medium and large three sizes of shirt.",
+        "B": "There are three sizes of shirt; small, medium and large.",
+        "C": "There are three shirt of small, medium and large sizes.",
+        "D": "There are small, medium and large three shirt of sizes."
+      },
+      "correct_answer": "B",
+      "explanation": "This option presents the information clearly and correctly: 'There are three sizes of shirt; small, medium and large.'"
+    },
+    {
+      "id": "eng_2017_social_q70",
+      "question": "Put the words in the right order: refused/she/from/where/is/him/she/tell/to.",
+      "options": {
+        "A": "To tell him from where she is she refused.",
+        "B": "She refused to tell him where she is from.",
+        "C": "She refused him to tell from where she is.",
+        "D": "She refused to tell him where is she from."
+      },
+      "correct_answer": "B",
+      "explanation": "This is the only option that uses correct English word order: Subject ('She') + Verb ('refused') + Infinitive phrase ('to tell him where she is from')."
+    },
+    {
+      "id": "eng_2017_social_q71",
+      "question": "Put the words in the right order: is/Mekdonia/for/a/residential/home/the/elderly.",
+      "options": {
+        "A": "A residential home the elderly is for Mekdonia.",
+        "B": "Mekdonia is a residential home for the elderly.",
+        "C": "Home for the elderly Mekdonia is a residential.",
+        "D": "Mekdonia is a residential for the elderly home."
+      },
+      "correct_answer": "B",
+      "explanation": "This sentence correctly follows the Subject-Verb-Object structure: 'Mekdonia is a residential home for the elderly.'"
+    },
+    {
+      "id": "eng_2017_social_q72",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. A lot of people these days will disagree because they see educated people struggling to survive. b. Is education the right path out of poverty? c. A few will still argue that these people are not successful because they are unable to use their expertise creatively. d. Different people will answer this question differently.",
+      "options": {
+        "A": "a b d a",
+        "B": "b d c a",
+        "C": "d b a c",
+        "D": "a c d b"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order is b (Posing the question), d (Saying people answer differently), c (Providing one side of the argument), a (Providing the other side of the argument)."
+    },
+    {
+      "id": "eng_2017_social_q73",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. The house has a bedroom, a living room and a kitchen. b. In the bedroom, there is a big cupboard with doors and shelves. c. Roman lives in Akaki and she has a beautiful house. d. The living room contains dining tables and a sofa whereas the kitchen has an oven, a coal burner, a table and a small kitchen cupboard.",
+      "options": {
+        "A": "a d c b",
+        "B": "c a b d",
+        "C": "d b a c",
+        "D": "c d b a"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct order is c (Introduction), a (General description of the house), b (Specific description of a room), d (Specific description of other rooms)."
+    },
+    {
+      "id": "eng_2017_social_q74",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. These skills are developed by children when they become in the age range of 4-6. b. Before joining primary education, children learn basic social and academic skills in it. c. With regard to teachers, they are advised to be females who are kind-hearted and love children. d. A kindergarten is a place where children are made ready for the formal school system.",
+      "options": {
+        "A": "c d b a",
+        "B": "b d c a",
+        "C": "a d c b",
+        "D": "d b a c"
+      },
+      "correct_answer": "D",
+      "explanation": "The logical order is d (Definition of kindergarten), b (What happens there), a (When skills are developed), c (Teacher advice)."
+    },
+    {
+      "id": "eng_2017_social_q75",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. As you read, you think of the questions and will be able to answer some of them in your first reading. b. Before you start reading the passage, you need to know why you are reading it. c. If you want to get good marks in reading comprehension questions, you need to approach the reading task methodically. d. This means you have to go through the questions first.",
+      "options": {
+        "A": "c d b a",
+        "B": "b d c a",
+        "C": "c b d a",
+        "D": "d b c a"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct order is c (Main idea), d (A step to do this), b (Another step), a (The result of these steps)."
+    },
+    {
+      "id": "eng_2017_social_q76",
+      "question": "The paragraph below is taken from a piece of writing that is most likely: I have a fresh memory of my childhood experience. I traced my history back to my childhood. I was a son of a poor family. I kept a herd of cows in the field. I had to walk a lot of miles to fetch water for my parents. I collected fire wood used for cooking meals.",
+      "options": {
+        "A": "argumentative",
+        "B": "descriptive",
+        "C": "expository",
+        "D": "narrative"
+      },
+      "correct_answer": "D",
+      "explanation": "The paragraph recounts a sequence of personal events from the past, which is the definition of narrative writing."
+    },
+    {
+      "id": "eng_2017_social_q77",
+      "question": "Which of the following statements is most appropriate to serve as a topic sentence for a cause-and-effect paragraph?",
+      "options": {
+        "A": "There are many factors that pave the way for economic development.",
+        "B": "For many people in the village, Jalane is more beautiful than Lalise.",
+        "C": "The term democracy can mean different things for different people.",
+        "D": "People can be classified into four groups by their political views."
+      },
+      "correct_answer": "A",
+      "explanation": "A cause-and-effect paragraph explains why something happens. 'There are many factors that pave the way for economic development' suggests the paragraph will discuss causes (factors) and effects (development)."
+    },
+    {
+      "id": "eng_2017_social_q78",
+      "question": "Which one of the following sentences is most likely taken from an argumentative piece of writing?",
+      "options": {
+        "A": "After mixing the flour, salt and oil, I baked the dough in the oven.",
+        "B": "The teacher claimed that good behaviors are born but not made.",
+        "C": "The beauty of the park, which is surrounded by trees, is so amazing.",
+        "D": "I was born in Hawassa and I was raised in Dire Dawa."
+      },
+      "correct_answer": "B",
+      "explanation": "An argumentative text presents a claim or opinion that can be debated. 'Good behaviors are born but not made' is a debatable claim."
+    },
+    {
+      "id": "eng_2017_social_q79",
+      "question": "Which one of the following is spelt WRONGLY?",
+      "options": {
+        "A": "catastrophi",
+        "B": "liberty",
+        "C": "illicit",
+        "D": "caution"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct spelling is 'catastrophe'. 'Catastrophi' is incorrectly spelled."
+    },
+    {
+      "id": "eng_2017_social_q80",
+      "question": "Which one of the following words is spelt correctly?",
+      "options": {
+        "A": "impateint",
+        "B": "unconscsious",
+        "C": "enormuos",
+        "D": "casualty"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct spellings for the other options are: impatient, unconscious, enormous. 'Casualty' is correct."
+    },
+    {
+      "id": "eng_2017_social_q81",
+      "question": "Fatuma: Could you tell me where the Commercial Bank of Ethiopia is?\nChaltu: Of course!",
+      "options": {
+        "A": "Keep going straight ahead and turn right at the roundabout.",
+        "B": "Are you looking for the manager of the Bank?",
+        "C": "Commercial Bank is the first Bank in Ethiopia.",
+        "D": "Commercial Bank is everywhere in Ethiopia."
+      },
+      "correct_answer": "A",
+      "explanation": "Fatuma is asking for directions, so Chaltu's response should provide directions."
+    },
+    {
+      "id": "eng_2017_social_q82",
+      "question": "Habtamu: Your presentation in the English class today was fantastic!\nZinash:",
+      "options": {
+        "A": "It's not only in English that I do well, actually",
+        "B": "You really should improve your English",
+        "C": "It's not unusual for me",
+        "D": "I'm glad you like it"
+      },
+      "correct_answer": "D",
+      "explanation": "A compliment is typically acknowledged with thanks. 'I'm glad you like it' is a polite and appropriate response."
+    },
+    {
+      "id": "eng_2017_social_q83",
+      "question": "Hana: ______\nSofia: I'm afraid you can't. I promised to take the kids to the new park.",
+      "options": {
+        "A": "Can you tell me why you refuse to lend me your car for one day?",
+        "B": "I have the right to borrow your car as I am your best friend.",
+        "C": "You should give me your car because I am your friend.",
+        "D": "I wonder if I could possibly use your car on Sunday."
+      },
+      "correct_answer": "D",
+      "explanation": "Sofia's response 'I'm afraid you can't' is a polite refusal to a request. Option D is a polite way of asking for a favor."
+    },
+    {
+      "id": "eng_2017_social_q84",
+      "question": "Father: How many times do I tell you not to use TikTok? It's a waste of your valuable time!\nSon:",
+      "options": {
+        "A": "Please forgive me for not obeying your orders.",
+        "B": "What difference does it make to you?",
+        "C": "You have told me several times.",
+        "D": "My time is not valuable at all."
+      },
+      "correct_answer": "C",
+      "explanation": "The father is scolding the son for repeatedly using TikTok. The son's response 'You have told me several times' directly answers the father's rhetorical question 'How many times do I tell you...'."
+    },
+    {
+      "id": "eng_2017_social_q85",
+      "question": "Shemsu: Why did you go to bed unusually early last night?\nGutama: I went to bed early ______",
+      "options": {
+        "A": "so that I would have fewer nightmares than usual",
+        "B": "as I had a very long and tiresome day yesterday",
+        "C": "since going to bed early is good for health",
+        "D": "because I hate staying up late"
+      },
+      "correct_answer": "B",
+      "explanation": "Going to bed early is most logically explained by being tired from a long day."
+    },
+    {
+      "id": "eng_2017_social_q86",
+      "question": "Journalist: ______\nManager: We use social media a lot.",
+      "options": {
+        "A": "Is social media a good way of promoting a firm",
+        "B": "Why do you have to promote your organization",
+        "C": "How do you usually promote your organization",
+        "D": "Do you often promote your organization"
+      },
+      "correct_answer": "C",
+      "explanation": "The manager's response 'We use social media a lot' answers a 'how' question about the methods of promotion."
+    },
+    {
+      "id": "eng_2017_social_q87",
+      "question": "Aseffa: What should I do to lose some weight?\nUjulu:",
+      "options": {
+        "A": "You should do physical exercise.",
+        "B": "You can take appropriate rest.",
+        "C": "You might be diabetic.",
+        "D": "You should visit a doctor."
+      },
+      "correct_answer": "A",
+      "explanation": "Aseffa is asking for advice on how to lose weight. Physical exercise is a direct and relevant recommendation."
+    },
+    {
+      "id": "eng_2017_social_q88",
+      "question": "Thomas: We have got several comments about the contents of the textbook but we can take further comments, if any.\nYenus: I do not have anything more to say.",
+      "options": {
+        "A": "Would you like to add anything Yenus?",
+        "B": "Will you speak louder, please?",
+        "C": "Raise your hand Yenus.",
+        "D": "Yenus doesn't seem to agree."
+      },
+      "correct_answer": "A",
+      "explanation": "Thomas invites further comments, and Yenus replies that he has nothing to say. The prompt 'Would you like to add anything Yenus?' is a direct invitation for a comment."
+    },
+    {
+      "id": "eng_2017_social_q89",
+      "question": "Genet: While raising their children, parents never refuse their children's demands.\nSifan: Children's demands should be questioned.",
+      "options": {
+        "A": "Umm, parents should prohibit the excess use of drugs",
+        "B": "I am afraid I cannot agree with you on this",
+        "C": "I entirely agree with this idea",
+        "D": "I am in a dilemma"
+      },
+      "correct_answer": "B",
+      "explanation": "Sifan's statement ('Children's demands should be questioned') contradicts Genet's statement (parents never refuse their children's demands). Therefore, Sifan disagrees."
+    },
+    {
+      "id": "eng_2017_social_q90",
+      "question": "Marga: Hey, did I tell you that Akllu and I are booked on the same flight, from Addis to Paris?\nTeshome: ______\nMarga: I said Akllu and I are travelling to Paris together.\nTeshome: Oh... that is great. I hope you will have a good time.",
+      "options": {
+        "A": "Excuse me for interrupting, is it to Paris?",
+        "B": "Sorry, could you please say it again?",
+        "C": "Are you travelling to Paris?",
+        "D": "Please, stick to the point."
+      },
+      "correct_answer": "B",
+      "explanation": "Teshome did not understand the first time, so he asks for repetition. Marga then repeats the information in a simpler way."
+    },
+    {
+      "id": "eng_2017_social_q91",
+      "question": "Customer: I would like to change one hundred British pounds into birr. How much is it?\nTeller:",
+      "options": {
+        "A": "That will be fifteen thousand Ethiopian birr.",
+        "B": "The value of birr is falling dramatically.",
+        "C": "What would you do with Ethiopian birr?",
+        "D": "Is it British pounds?"
+      },
+      "correct_answer": "A",
+      "explanation": "The customer is asking for the exchange amount. The teller provides the amount in Ethiopian birr."
+    },
+    {
+      "id": "eng_2017_social_q92",
+      "question": "Samson: At the present time, adolescents prefer watching movies to reading.\nBirtie: I think so.",
+      "options": {
+        "A": "adolescents spend much of their time to become movie stars",
+        "B": "this happens due to the cultural influence of the West",
+        "C": "there are huge libraries hosting many adolescents",
+        "D": "most adolescents are fond of reading books"
+      },
+      "correct_answer": "B",
+      "explanation": "Birtie agrees with the observation about adolescents preferring movies. The most logical follow-up is to provide a reason or explanation for this trend."
+    },
+    {
+      "id": "eng_2017_social_q93",
+      "question": "Kidist: What are you going to do in your spare time tomorrow?\nSelam:",
+      "options": {
+        "A": "I visit my grandmother once a week.",
+        "B": "I am going to fly to London for good.",
+        "C": "No, sorry I have an appointment tomorrow.",
+        "D": "I will be reading the novel I started last week."
+      },
+      "correct_answer": "D",
+      "explanation": "The question asks about plans for a specific future time ('tomorrow'). The future continuous 'will be reading' is used to describe an activity in progress at a specific future time."
+    },
+    {
+      "id": "eng_2017_social_q94",
+      "question": "Bogale: I am planning to join the Department of Pharmacy. What is your advice?\nHaile: Hmmm...",
+      "options": {
+        "A": "There are many departments to choose from.",
+        "B": "There are many drug stores in the city.",
+        "C": "You must consider your interest.",
+        "D": "You might be right."
+      },
+      "correct_answer": "C",
+      "explanation": "When asked for advice on a major choice, the most relevant advice is to consider one's own interests."
+    },
+    {
+      "id": "eng_2017_social_q95",
+      "question": "Tesfaye: I do not want to eat fatty foods.\nBona:",
+      "options": {
+        "A": "Neither am I",
+        "B": "So am I",
+        "C": "Neither do I",
+        "D": "Either do I"
+      },
+      "correct_answer": "C",
+      "explanation": "Tesfaye expresses a negative preference ('do not want'). Bona agrees by using 'Neither do I'."
+    },
+    {
+      "id": "eng_2017_social_q96",
+      "question": "Hussen: The problem is that the man does not try to give up smoking.\nAmanuel: It is a bad habit.",
+      "options": {
+        "A": "I prefer chewing cat to smoking",
+        "B": "I strongly advise against smoking",
+        "C": "He has smoked for fifteen years",
+        "D": "He enjoys smoking"
+      },
+      "correct_answer": "B",
+      "explanation": "Amanuel agrees that smoking is a bad habit. 'I strongly advise against smoking' is a natural follow-up, offering personal advice."
+    },
+    {
+      "id": "eng_2017_social_q97",
+      "question": "Senait: I would like to invite you to my house for lunch tomorrow.\nSoreta:",
+      "options": {
+        "A": "Thank you but I have another engagement.",
+        "B": "Well done! I am very satisfied.",
+        "C": "Is it lunch or dinner?",
+        "D": "I am full."
+      },
+      "correct_answer": "A",
+      "explanation": "Soreta needs to either accept or decline the invitation. Option A is a polite way to decline."
+    },
+    {
+      "id": "eng_2017_social_q98",
+      "question": "Usman: Could I have some basic information about you?\nRoba:",
+      "options": {
+        "A": "My father is a farmer and my mother is a housewife.",
+        "B": "I attended a meeting dealing with basic information.",
+        "C": "I am Roba; I was born in East Wallaga in 1999.",
+        "D": "I have three brothers and two sisters."
+      },
+      "correct_answer": "C",
+      "explanation": "The request is for 'basic information about you'. Option C introduces Roba and provides a key piece of biographical information (place and date of birth)."
+    },
+    {
+      "id": "eng_2017_social_q99",
+      "question": "Customer: I am really sorry to inform you that I have not received the order so far.\nManager:",
+      "options": {
+        "A": "We are really sorry and this will not happen again.",
+        "B": "We are sorry but it happens sometimes.",
+        "C": "Take it easy. You will have it soon.",
+        "D": "Do not complain bitterly."
+      },
+      "correct_answer": "A",
+      "explanation": "As a professional response to a complaint, the manager should apologize and assure the customer that the problem will not recur."
+    },
+    {
+      "id": "eng_2017_social_q100",
+      "question": "Mustefe: Where would you like to live: in your country or abroad?\nMomina:",
+      "options": {
+        "A": "I used to live abroad when I was a child",
+        "B": "The USA is the richest of all countries",
+        "C": "I would rather live in my own country",
+        "D": "Most people prefer to live abroad"
+      },
+      "correct_answer": "C",
+      "explanation": "Momina is asked to choose between two options. 'I would rather live in my own country' is a direct expression of her preference."
+    }
+  ]
 }
