@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "Biology",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_biology_2017_natural",
+  "content_type": "past_paper",
+  "title": "Biology - 2017 (Natural)",
+  "year": 2017,
+  "subject": "Biology",
+  "stream": "Natural",
+  "total_questions": 100,
+  "time_limit_minutes": 150,
+  "questions": [
+    {
+      "id": "bio_2017_natural_q1",
+      "question": "Which one of the following Ethiopian biological research institutes is known for housing a major gene bank in Africa?",
+      "options": {
+        "A": "Addis Ababa University Biology Department",
+        "B": "Institute of Biodiversity Conservation",
+        "C": "Akllu Lemma Institute of Pathobiology",
+        "D": "Armauer Hansen Research Institute"
+      },
+      "correct_answer": "B",
+      "explanation": "The Institute of Biodiversity Conservation (IBC) in Ethiopia is responsible for the conservation of genetic resources and houses the country's major gene bank."
+    },
+    {
+      "id": "bio_2017_natural_q2",
+      "question": "A grade 12 student marked two dots close to each other using a pen on a piece of paper and observed them under a microscope. The two dots appeared well separated under the microscope. This was due to",
+      "options": {
+        "A": "resolution",
+        "B": "magnification.",
+        "C": "staining",
+        "D": "mounting."
+      },
+      "correct_answer": "A",
+      "explanation": "Resolution is the ability of a microscope to distinguish two adjacent objects as separate. Magnification only enlarges the image; it does not necessarily increase the ability to see fine detail."
+    },
+    {
+      "id": "bio_2017_natural_q3",
+      "question": "From the following alternatives select the common features that are found both in animal and plant cells.",
+      "options": {
+        "A": "Cell membrane, nucleus, cytoplasm, lysosome and Golgi apparatus",
+        "B": "Cell membrane, nucleus, cytoplasm, mitochondria and endoplasmic reticulum",
+        "C": "Cell membrane, nucleus, cytoplasm, chloroplast and Golgi apparatus",
+        "D": "Cell membrane, nucleus, cytoplasm, large vacuole and Golgi apparatus"
+      },
+      "correct_answer": "B",
+      "explanation": "Animal and plant cells both have a cell membrane, nucleus, cytoplasm, mitochondria, endoplasmic reticulum, and Golgi apparatus. Lysosomes are common in animal cells, while chloroplasts and large central vacuoles are found in plant cells."
+    },
+    {
+      "id": "bio_2017_natural_q4",
+      "question": "A biology teacher grouped his students in to two groups and ordered group I to place a slice of potato in hypertonic solution and group II in hypotonic solution. What will happen to the potato slice in group I and group II? For group I, the potato slice will be",
+      "options": {
+        "A": "turgid while for group II it will be flaccid.",
+        "B": "haemolyzed while for group II it will be flaccid.",
+        "C": "flaccid while for group II it will be turgid.",
+        "D": "turgid while for group II there will be no change."
+      },
+      "correct_answer": "C",
+      "explanation": "In a hypertonic solution, the potato cells lose water by osmosis, becoming flaccid (limp). In a hypotonic solution, the cells absorb water and become turgid."
+    },
+    {
+      "id": "bio_2017_natural_q5",
+      "question": "A man eats only vegetables, beans, banana and orange for one week continuously in his lunch and dinner. For this man, what nutrients are most likely missed in his meal to be a balanced diet?",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Lipids",
+        "C": "Proteins",
+        "D": "Minerals"
+      },
+      "correct_answer": "B",
+      "explanation": "Vegetables, beans, bananas, and oranges are rich in carbohydrates, proteins, minerals, and vitamins. They are generally low in lipids (fats), so the man is most likely missing lipids in his diet."
+    },
+    {
+      "id": "bio_2017_natural_q6",
+      "question": "Which of the following is correct about the process of digestion or absorption of food in the small intestine?",
+      "options": {
+        "A": "Proteins are converted into amino acids by the action of hydrochloric acid and amylase.",
+        "B": "Bile emulsifies fats to increase the surface area to make it easier for lipase.",
+        "C": "Water is reabsorbed into the small intestine and metabolic wastes are excreted.",
+        "D": "Glucose and non-hydrolyzed starch molecules are absorbed through the lacteal."
+      },
+      "correct_answer": "B",
+      "explanation": "Bile, produced by the liver, emulsifies (breaks down) fats into smaller droplets. This increases the surface area for the enzyme lipase to act on, making digestion more efficient."
+    },
+    {
+      "id": "bio_2017_natural_q7",
+      "question": "In an experiment, students wanted to prove that enzymatic digestion begins in the mouth using certain chewed food coated with their own saliva. In order to get a positive result for their experiment, what type of food sample and testing solution should the students use?",
+      "options": {
+        "A": "Potato and iodine solution",
+        "B": "Meat and Benedict's solution",
+        "C": "Fish and sodium hydroxide solution",
+        "D": "Bread and copper sulphate solution"
+      },
+      "correct_answer": "A",
+      "explanation": "Salivary amylase digests starch. Potatoes contain starch. Iodine is used to test for the presence of starch. If the starch is digested, the iodine will not turn blue-black. This tests for the action of amylase."
+    },
+    {
+      "id": "bio_2017_natural_q8",
+      "question": "Compared to the inhaled air what are the percentage of nitrogen, oxygen and carbon dioxide gases in exhaled air, respectively?",
+      "options": {
+        "A": "80%, 16%, and 4%",
+        "B": "80%, 4%, and 16%",
+        "C": "16%, 4%, and 80%",
+        "D": "4%, 16%, and 80%"
+      },
+      "correct_answer": "A",
+      "explanation": "Exhaled air is typically composed of about 78-80% nitrogen, 16% oxygen, and 4% carbon dioxide."
+    },
+    {
+      "id": "bio_2017_natural_q9",
+      "question": "Three students carried out different experiments in exhaled air as indicted below. Student I - uses cold glass and blue cobalt chloride paper. Student II - uses ice cubes. Student III - uses tube containing lime solution and straw. Based on their setup of their preparation, which student plan to demonstrate the presence of water vapour and carbon dioxide, respectively?",
+      "options": {
+        "A": "II and III",
+        "B": "I and II",
+        "C": "II and I",
+        "D": "I and III"
+      },
+      "correct_answer": "D",
+      "explanation": "Student I uses a cold glass and blue cobalt chloride paper to test for water vapor. Student III uses lime solution (limewater) to test for carbon dioxide. Student II uses ice cubes, which is a less direct test."
+    },
+    {
+      "id": "bio_2017_natural_q10",
+      "question": "If your body cannot make enough red blood cells, which one of the following mineral rich foods can correct this problem? (Note: Question 10 in the PDF refers to a diagram of the heart, but the text provided is this question).",
+      "options": {
+        "A": "Iron-rich food",
+        "B": "Calcium-rich food",
+        "C": "Iodine-rich food",
+        "D": "Sodium-rich food"
+      },
+      "correct_answer": "A",
+      "explanation": "Iron is a key component of hemoglobin, the protein in red blood cells that carries oxygen. A lack of iron can lead to anemia and a shortage of healthy red blood cells."
+    },
+    {
+      "id": "bio_2017_natural_q11",
+      "question": "A biology teacher provided common names of three organisms; human being, dog and housefly to his students to write the correct scientific names of each organism. In which of the following ways should the students write the correct scientific names, respectively?",
+      "options": {
+        "A": "Homo Sapiens, Canis Familiaris and Musca Domestica",
+        "B": "Homo sapiens, Canis familiaris and Musca domestica",
+        "C": "homo sapiens, Canis familiaris and Musca domestica",
+        "D": "Homo sapiens, Canis familiaris and musca domestica"
+      },
+      "correct_answer": "B",
+      "explanation": "In binomial nomenclature, the genus name is capitalized and the species name is lowercase. The entire name is italicized. Thus, Homo sapiens, Canis familiaris, and Musca domestica."
+    },
+    {
+      "id": "bio_2017_natural_q12",
+      "question": "Identify the typical examples for division Gymnospermae and Angiospermae, respectively?",
+      "options": {
+        "A": "Mosses and ferns",
+        "B": "Liverworts and palm trees",
+        "C": "Grasses and legumes",
+        "D": "Juniper and roses"
+      },
+      "correct_answer": "D",
+      "explanation": "Gymnosperms are seed plants with unenclosed seeds (e.g., Junipers, conifers). Angiosperms are flowering plants with seeds enclosed in fruits (e.g., roses, grasses)."
+    },
+    {
+      "id": "bio_2017_natural_q13",
+      "question": "A student made a collection of plants having flowers and seeds from his locality and compared their embryo, leaves and stems using hand lens. He found that all his collections contain a single seed leaf embryo, long and thin with parallel veins of leaves and stem contains scattered vascular bundles. Which option contains plants that can be categorized under his collection?",
+      "options": {
+        "A": "Grasses, orchids, teff and roses",
+        "B": "Grasses, orchids, teff and beans",
+        "C": "Grasses, sunflowers, teff and maize",
+        "D": "Grasses, orchids, teff and maize"
+      },
+      "correct_answer": "D",
+      "explanation": "The characteristics (single seed leaf, parallel veins, scattered vascular bundles) describe monocotyledonous plants. Grasses, orchids, teff, and maize are all monocots. Roses, beans, and sunflowers are dicots."
+    },
+    {
+      "id": "bio_2017_natural_q14",
+      "question": "Consider the following diagram of pyramid of biomass (a classic pyramid with producers at the base). Which one of the following statements is correct about the above pyramid of biomass?",
+      "options": {
+        "A": "The whole organisms at first trophic level is eaten by the organisms above.",
+        "B": "When organisms in stage II eat the producers, most of the producer's materials are turned into new secondary consumers.",
+        "C": "Much of the biomass from stage II is used by stage II to release energy for living.",
+        "D": "At each stage of trophic level, the amount of biomass, which is passed on, supports a large amount of organism in the stage above."
+      },
+      "correct_answer": "C",
+      "explanation": "At each trophic level, a large portion of the biomass is used for respiration (energy release) and is lost as heat. This explains why the pyramid has a stepped shape."
+    },
+    {
+      "id": "bio_2017_natural_q15",
+      "question": "This item is based on the following diagram of simple food chain. Leaves → Grasshoppers → Rodents → Leopards. What will happen if the number of rodents significantly decrease? There will be",
+      "options": {
+        "A": "an increase in the number of leopards.",
+        "B": "fewer grasshoppers in the chain.",
+        "C": "no change in the number of leopard.",
+        "D": "an increase in the number of grasshoppers."
+      },
+      "correct_answer": "D",
+      "explanation": "With fewer rodents preying on them, the grasshopper population would increase."
+    },
+    {
+      "id": "bio_2017_natural_q16",
+      "question": "Which of the following is NOT a key process involved in carbon cycle?",
+      "options": {
+        "A": "Evaporation",
+        "B": "Cellular respiration",
+        "C": "Photosynthesis",
+        "D": "Decomposition"
+      },
+      "correct_answer": "A",
+      "explanation": "Evaporation is part of the water cycle, not the carbon cycle. Photosynthesis, cellular respiration, and decomposition are the key processes that move carbon between the atmosphere and living things."
+    },
+    {
+      "id": "bio_2017_natural_q17",
+      "question": "Which of the following is correct about mitosis? It is a division of",
+      "options": {
+        "A": "somatic cells to make daughter cells with half chromosome.",
+        "B": "sex cells to make identical daughter cells with doubled chromosome.",
+        "C": "somatic cells to make identical daughter cells.",
+        "D": "sex cells to make different daughter cells."
+      },
+      "correct_answer": "C",
+      "explanation": "Mitosis is a type of cell division that produces two genetically identical daughter cells from a single parent cell. It is used for growth and repair in somatic (body) cells."
+    },
+    {
+      "id": "bio_2017_natural_q18",
+      "question": "Which one of the following features is common for mitosis and meiosis? They both involve",
+      "options": {
+        "A": "replication of DNA and the formation of daughter cells.",
+        "B": "production of daughter cells identical to the parent cell.",
+        "C": "formation of cells with the same chromosome number as parent cell.",
+        "D": "spermatogenesis and oogenesis processes in males and females."
+      },
+      "correct_answer": "A",
+      "explanation": "Both mitosis and meiosis are preceded by DNA replication (in the S phase) and result in the formation of daughter cells from a parent cell. The other options are specific to one process."
+    },
+    {
+      "id": "bio_2017_natural_q19",
+      "question": "Which tissues of plant leaves are involved in waterproofing, major photosynthetic and major gas exchange activities, respectively?",
+      "options": {
+        "A": "Guard cells, palisade mesophyll and epidermis",
+        "B": "Guard cells, palisade mesophyll and spongy mesophyll",
+        "C": "Waxy cuticle, palisade mesophyll and spongy mesophyll",
+        "D": "Waxy cuticle, palisade mesophyll and epidermis"
+      },
+      "correct_answer": "C",
+      "explanation": "The waxy cuticle covers the leaf, preventing water loss. The palisade mesophyll contains most of the chloroplasts and is the site of the majority of photosynthesis. The spongy mesophyll has large air spaces for gas exchange."
+    },
+    {
+      "id": "bio_2017_natural_q20",
+      "question": "Which of the following is correct about the movement of water in plants? It moves",
+      "options": {
+        "A": "against a water potential gradient.",
+        "B": "across the phloem tissue by diffusion.",
+        "C": "across the tissues of a plant by osmosis.",
+        "D": "by using energy until it reaches to the xylem."
+      },
+      "correct_answer": "C",
+      "explanation": "Water moves through the plant passively, primarily by osmosis and transpiration pull. It moves down a water potential gradient, not up, and it does not require energy from the plant."
+    },
+    {
+      "id": "bio_2017_natural_q21",
+      "question": "What will happen to the growth of the plant when you remove indole-acetic acid from the main shoot part of the plant?",
+      "options": {
+        "A": "The plant will bush out.",
+        "B": "It stimulates dropping of leaves.",
+        "C": "The main shoot of the plant elongates.",
+        "D": "The growth of side shoots will slow down."
+      },
+      "correct_answer": "A",
+      "explanation": "Indole-acetic acid (IAA) is an auxin that is produced in the apical shoot and inhibits the growth of lateral buds (apical dominance). Removing the main shoot removes this source of auxin, causing lateral buds to grow, and the plant becomes bushy."
+    },
+    {
+      "id": "bio_2017_natural_q22",
+      "question": "In which one of the following alternatives the whole list contains characteristics of animals?",
+      "options": {
+        "A": "Respire, excrete, autotrophic and reproduce",
+        "B": "Unicellular, excrete, heterotrophic and motility",
+        "C": "Heterotrophic, excrete, motility and grow",
+        "D": "Respire, multicellular, autotrophic and reproduce"
+      },
+      "correct_answer": "C",
+      "explanation": "Animals are heterotrophic (they cannot make their own food), they excrete waste, they are capable of movement (motility), and they grow. Option A and D include 'autotrophic', which is a plant characteristic."
+    },
+    {
+      "id": "bio_2017_natural_q23",
+      "question": "A grade 11 student observed and identified some animals group having closed circulatory system, centralized nervous system with brain and sensory organs. Based on their identification select one of the following animals that can belong to this group?",
+      "options": {
+        "A": "Snails",
+        "B": "Earthworm",
+        "C": "Squid",
+        "D": "Snake"
+      },
+      "correct_answer": "D",
+      "explanation": "A snake is a vertebrate, having a closed circulatory system, a centralized nervous system with a brain, and complex sensory organs. Snails have an open circulatory system, earthworms have a simpler nervous system, and squids have a closed circulatory system but are invertebrates."
+    },
+    {
+      "id": "bio_2017_natural_q24",
+      "question": "What does it mean if an animal is poikilothermic? It",
+      "options": {
+        "A": "changes its body temperature with environmental condition.",
+        "B": "increases its metabolic rate during cold and hot conditions.",
+        "C": "keeps its body temperature constant regardless of external changes.",
+        "D": "produces heat when temperature falls by activating the hypothalamus."
+      },
+      "correct_answer": "A",
+      "explanation": "Poikilothermic organisms (cold-blooded animals) do not have a stable internal body temperature. Their body temperature varies with the temperature of their environment."
+    },
+    {
+      "id": "bio_2017_natural_q25",
+      "question": "Which one of the following statements is correct about the catalytic activities of enzymes? They",
+      "options": {
+        "A": "change the overall nature of the products.",
+        "B": "allow reactions in cells to take place quickly.",
+        "C": "alter themselves at the end of biochemical reactions.",
+        "D": "increase the energy required to start a reaction."
+      },
+      "correct_answer": "B",
+      "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy. They do not change the nature of the products, are not altered in the reaction, and they decrease, not increase, the energy required."
+    },
+    {
+      "id": "bio_2017_natural_q26",
+      "question": "Four students draw four different big protein structure posters. The contents of each of their structure are displayed in the following table. Student I: Polypeptide folded into α-helix and β-sheet, and hydrogen bond. Student II: Amino acid sequences and peptide bonds. Student III: Multiple folded protein subunits in a multi-subunit complex and haem group. Student IV: Side chain interaction of amino acids and overall 3-D shape. Based on the above information, which student draw secondary and quaternary structures, respectively?",
+      "options": {
+        "A": "I and IV",
+        "B": "II and III",
+        "C": "I and III",
+        "D": "II and IV"
+      },
+      "correct_answer": "C",
+      "explanation": "Secondary structure refers to the local folding of the polypeptide chain into α-helices and β-sheets (Student I). Quaternary structure refers to the arrangement of multiple polypeptide chains (subunits) into a single functional protein (Student III)."
+    },
+    {
+      "id": "bio_2017_natural_q27",
+      "question": "How does the induced-fit model explain enzyme specificity? They",
+      "options": {
+        "A": "change the shape of active site slightly to fit substrates precisely.",
+        "B": "have a rigid active site that can just bind to single substrate.",
+        "C": "have multiple active sites that can fit to different substrates.",
+        "D": "bind to whatever the shape of substrate that fits to allosteric site."
+      },
+      "correct_answer": "A",
+      "explanation": "The induced-fit model suggests that the active site of an enzyme is flexible. When the substrate enters, the active site changes its shape to fit the substrate precisely, rather than being a rigid lock (the lock-and-key model)."
+    },
+    {
+      "id": "bio_2017_natural_q28",
+      "question": "What happens to the substrate molecule when competitive inhibitor binds with an enzyme? It",
+      "options": {
+        "A": "undergoes conformational change.",
+        "B": "cannot bind with the active site.",
+        "C": "binds to the allosteric site temporarily.",
+        "D": "easily binds with the active site."
+      },
+      "correct_answer": "B",
+      "explanation": "A competitive inhibitor binds directly to the active site, blocking the substrate from entering. The substrate therefore cannot bind to the active site."
+    },
+    {
+      "id": "bio_2017_natural_q29",
+      "question": "What will happen to the reaction if you add a certain inhibitor or activator to the substrate having allosteric enzyme set up?",
+      "options": {
+        "A": "Inhibitor binds to active site to speed up the reaction.",
+        "B": "Inhibitor binds to regulatory site to increase rate of reaction.",
+        "C": "Activator binds to active site to initiate the reaction.",
+        "D": "Activator binds to regulatory site to activate the reaction."
+      },
+      "correct_answer": "D",
+      "explanation": "Allosteric enzymes have regulatory sites separate from the active site. An activator binds to the regulatory site and changes the enzyme's shape to make the active site more available, thus activating the reaction. An inhibitor would do the opposite."
+    },
+    {
+      "id": "bio_2017_natural_q30",
+      "question": "Which one of the following classes of enzyme and type of reactions they catalyze is correctly matched?",
+      "options": {
+        "A": "Oxidoreductases - transfer functional groups from donor to acceptor",
+        "B": "Transfesares - transfer of electrons from one molecule to another",
+        "C": "Ligases - cleave bonds by other means rather than hydrolysis",
+        "D": "Lyases - catalyze the hydrolysis of various bonds"
+      },
+      "correct_answer": "C",
+      "explanation": "Ligases are enzymes that catalyze the joining of two molecules (using ATP). Lyases cleave bonds by means other than hydrolysis (or add groups to double bonds). The matches for Oxidoreductases (electron transfer) and Transferases (functional group transfer) are incorrect in the options."
+    },
+    {
+      "id": "bio_2017_natural_q31",
+      "question": "If a given enzyme works only at temperature range of 20 and 45 °C and the potential of hydrogen ions that ranges from 4 to 9. Which one of the following works best during the optimization of these two factors for the enzyme activity?",
+      "options": {
+        "A": "Adjusting the temperature below 20°C makes the enzyme more active, hence the temperature at this value is optimal.",
+        "B": "Adjusting the pH above 9 can increase the probability of collisions between the enzyme and the substrate.",
+        "C": "Adjusting the temperature between 20°C and 45°C results little denaturation and increased number of collisions.",
+        "D": "The optimum pH under which this enzyme is most active is found below 4."
+      },
+      "correct_answer": "C",
+      "explanation": "Within the range of 20-45°C, the enzyme is active. As temperature increases within this range, the kinetic energy of molecules increases, leading to more collisions, and the enzyme is not denatured. This increases the reaction rate."
+    },
+    {
+      "id": "bio_2017_natural_q32",
+      "question": "All of the following features define a chromosome EXCEPT",
+      "options": {
+        "A": "contains hundreds to thousands of genes.",
+        "B": "exists in pairs in diploid organisms.",
+        "C": "made up of DNA and protein.",
+        "D": "functional unit of inheritance."
+      },
+      "correct_answer": "D",
+      "explanation": "A gene is the functional unit of inheritance, not a chromosome. A chromosome is a structure made of DNA and protein that contains many genes."
+    },
+    {
+      "id": "bio_2017_natural_q33",
+      "question": "Which structural and functional difference is observed between DNA and RNA?",
+      "options": {
+        "A": "Both DNA and RNA have the same nitrogenous bases but differ in pentose sugar.",
+        "B": "RNA produces DNA through the process of transcription.",
+        "C": "RNA stores the genetic material while DNA involves in protein synthesis.",
+        "D": "DNA is very stable molecule while RNA is degraded quickly."
+      },
+      "correct_answer": "D",
+      "explanation": "DNA is a very stable molecule due to its double-helix structure and deoxyribose sugar. RNA is more reactive and is readily degraded by enzymes, making it unstable. DNA stores genetic information, while RNA is involved in protein synthesis."
+    },
+    {
+      "id": "bio_2017_natural_q34",
+      "question": "All of the following events occur during telophase I of meiosis I cell division EXCEPT",
+      "options": {
+        "A": "crossing over takes place.",
+        "B": "each of the spindle fibers disappears.",
+        "C": "set of chromosomes come together.",
+        "D": "nuclear envelope reforms."
+      },
+      "correct_answer": "A",
+      "explanation": "Crossing over is the exchange of genetic material between homologous chromosomes. This process occurs during prophase I, not telophase I. During telophase I, the spindle fibers disappear, chromosomes decondense, and a nuclear envelope reforms."
+    },
+    {
+      "id": "bio_2017_natural_q35",
+      "question": "Suppose there was a cross between pea plants with flower positions axial (AA) and terminal (aa) and produced F1 generation. What will be the most probable number of heterozygous dominant individuals obtained if 1000 offspring were produced by self-crossing of F1 generation?",
+      "options": {
+        "A": "200",
+        "B": "750",
+        "C": "500",
+        "D": "250"
+      },
+      "correct_answer": "C",
+      "explanation": "The F1 generation is all Aa. A self-cross of Aa x Aa produces a 1:2:1 genotypic ratio. Therefore, 50% of the offspring (500 out of 1000) will be heterozygous (Aa)."
+    },
+    {
+      "id": "bio_2017_natural_q36",
+      "question": "If you have a pea plant of unknown genotype with a green pod color, you obtained all green pod colors of offspring phenotype after a test cross. What was the unknown genotype of the parent? It was",
+      "options": {
+        "A": "homozygous dominant.",
+        "B": "homozygous recessive.",
+        "C": "heterozygous dominant.",
+        "D": "incomplete dominant."
+      },
+      "correct_answer": "A",
+      "explanation": "A test cross involves crossing with a homozygous recessive individual. If all offspring show the dominant trait (green), the unknown parent must be homozygous dominant. If it were heterozygous, some offspring would show the recessive trait."
+    },
+    {
+      "id": "bio_2017_natural_q37",
+      "question": "This item is based on the following examples of genetic inheritance patterns. 1. Inflated and pinched pod forms will have inflated pod form. 2. Red cow and white bull will have roan calf. 3. AA and BB blood type people will have a child with AB blood type. 4. Red and white roses will have a pink rose offspring. From the above patterns of inheritance, which of the following are exemplary for non-Mendelian inheritance?",
+      "options": {
+        "A": "1,2,3",
+        "B": "1,3,4",
+        "C": "1,2,4",
+        "D": "2,3,4"
+      },
+      "correct_answer": "D",
+      "explanation": "Non-Mendelian inheritance includes patterns like codominance and incomplete dominance. 2 (Roan calf) and 3 (AB blood type) are codominance. 4 (Pink roses) is incomplete dominance. 1 (Inflated pod) is a simple Mendelian dominant/recessive trait."
+    },
+    {
+      "id": "bio_2017_natural_q38",
+      "question": "This item is based on the following pedigree diagram for color blindness, X-linked recessive trait. (Diagram shows a carrier female and a color-blind male). Based on the above diagram, if the family in the second generation has children, what is the probability that they will have carrier female and color blind male, respectively?",
+      "options": {
+        "A": "25% and 25%",
+        "B": "50% and 50%",
+        "C": "0% and 25%",
+        "D": "25% and 50%"
+      },
+      "correct_answer": "A",
+      "explanation": "A cross between a carrier female (XCXc) and a color-blind male (XcY) results in: 25% normal female (XCXc), 25% color-blind female (XcXc), 25% normal male (XCY), and 25% color-blind male (XcY). The probability of a carrier female (XCXc) is 25%, and a color-blind male (XcY) is 25%."
+    },
+    {
+      "id": "bio_2017_natural_q39",
+      "question": "Farmers want to maintain their sheep with long tails for the next generation through similar sheep from their locality in their breeding program. What process do these farmers apply to keep the desired traits in their program?",
+      "options": {
+        "A": "Inbreeding",
+        "B": "Crossbreeding",
+        "C": "Genetic engineering",
+        "D": "Cloning"
+      },
+      "correct_answer": "A",
+      "explanation": "Inbreeding is the mating of closely related individuals to preserve and concentrate desired traits in a population. This is what the farmers are doing by breeding similar sheep with long tails."
+    },
+    {
+      "id": "bio_2017_natural_q40",
+      "question": "If progesterone remains high after ovulation, what will be the most likely outcome?",
+      "options": {
+        "A": "FSH will be produced rapidly which leads to a new cycle.",
+        "B": "Oestrogen will be decreased, closing down the lining of the uterus.",
+        "C": "Uterus lining will be maintained and prepared for pregnancy.",
+        "D": "Corpus luteum will be regenerated, inhibiting hormone production."
+      },
+      "correct_answer": "C",
+      "explanation": "Progesterone is the hormone responsible for maintaining the lining of the uterus (endometrium) to prepare for implantation. If pregnancy occurs, high levels continue to maintain this lining."
+    },
+    {
+      "id": "bio_2017_natural_q41",
+      "question": "The most reliable contraceptive method that prevents travelling of ovum from the ovaries through the fallopian tubes, but requires surgery is",
+      "options": {
+        "A": "contraceptive injection.",
+        "B": "sterilization.",
+        "C": "condom.",
+        "D": "contraceptive implant."
+      },
+      "correct_answer": "B",
+      "explanation": "Sterilization (tubal ligation for women or vasectomy for men) is a surgical method that permanently prevents the egg from traveling through the fallopian tubes or the sperm from being released."
+    },
+    {
+      "id": "bio_2017_natural_q42",
+      "question": "Among the following, which one increases the risk to be infected by sexually transmitted infections?",
+      "options": {
+        "A": "Have no history of sexually transmitted infections",
+        "B": "Misuse of drugs that inhibit your judgment",
+        "C": "Protective sexual contact and medical treatment",
+        "D": "Consistent use of condoms during intercourse"
+      },
+      "correct_answer": "B",
+      "explanation": "Drug and alcohol misuse can impair judgment, leading to risky sexual behaviors such as unprotected sex, which increases the risk of contracting STIs."
+    },
+    {
+      "id": "bio_2017_natural_q43",
+      "question": "Two women were decided not to have pregnancy in the near future and they were offered two different contraceptive options. In woman I, the material fitted in her uterus did not allow the sperm to fertilize the egg. In woman II, the contraceptive prevented hormone production and the releasing of eggs from the ovaries. Which type of contraceptive methods did woman I and II used, respectively?",
+      "options": {
+        "A": "Sterilization and Injectable contraceptives Depo-Provera",
+        "B": "Post pill and copper-coated intrauterine device",
+        "C": "Contraceptive injection and contraceptive implant",
+        "D": "Copper-coated intrauterine device and contraceptive injection"
+      },
+      "correct_answer": "D",
+      "explanation": "A copper-coated intrauterine device (IUD) works by preventing sperm from reaching the egg and fertilizing it. Contraceptive injections (Depo-Provera) contain hormones that prevent ovulation and thicken cervical mucus."
+    },
+    {
+      "id": "bio_2017_natural_q44",
+      "question": "The finding of the study conducted in two different villages showed that there are harmful practices that affect reproductive health. The common practices in village 1 were forcing underage girls to get married based norms and sexual abuse or harassment. In village 2 abduction to make the girl a wife unwillingly was very common. Which one of the following options is correct about the two villages?",
+      "options": {
+        "A": "In village 1, gender-based violence, kidnapping and female genital mutilation are common.",
+        "B": "In village 1, gender-based violence and early marriage are common.",
+        "C": "In village 2, kidnapping and female genital mutilation are common.",
+        "D": "In village 2, gender-based violence and female genital mutilation are common."
+      },
+      "correct_answer": "B",
+      "explanation": "Village 1 has forced underage marriage (early marriage) and sexual abuse (gender-based violence). Village 2 has abduction (kidnapping), which is also a form of gender-based violence. Option B correctly describes the practices in village 1."
+    },
+    {
+      "id": "bio_2017_natural_q45",
+      "question": "How drinking alcohol can contribute for HIV transmission? By",
+      "options": {
+        "A": "improving the decision making ability of a person",
+        "B": "driving more willingly to participate in risky behaviors",
+        "C": "impotency or loss of sexual drive both in male and female",
+        "D": "increasing rate of the retrovirus multiplication capacity"
+      },
+      "correct_answer": "B",
+      "explanation": "Alcohol impairs judgment and reduces inhibitions. This makes a person more likely to engage in risky behaviors such as unprotected sex, increasing the chance of HIV transmission."
+    },
+    {
+      "id": "bio_2017_natural_q46",
+      "question": "Select the option that the whole list contains renewable natural resources.",
+      "options": {
+        "A": "Coal, oil, natural gas and minerals",
+        "B": "Coal, wind, hydro power and biomass",
+        "C": "Sunlight, wind, hydro power and biomass",
+        "D": "Sunlight, wind, hydro power and natural gas"
+      },
+      "correct_answer": "C",
+      "explanation": "Renewable resources are naturally replenished over a short period. Sunlight, wind, hydro power, and biomass are all renewable. Coal, oil, natural gas, and minerals are non-renewable."
+    },
+    {
+      "id": "bio_2017_natural_q47",
+      "question": "This item is based on the following list of activities. I. Establishing national parks. II. Wild sanctuaries. III. Preparing wild life reserves. IV. Practicing overgrazing. Which of the above activities CANNOT be used for the conservation of wild life?",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "III",
+        "D": "IV"
+      },
+      "correct_answer": "D",
+      "explanation": "Overgrazing degrades land, destroys habitats, and depletes food sources for wildlife. It is harmful to conservation. National parks, wild sanctuaries, and wildlife reserves are all conservation measures."
+    },
+    {
+      "id": "bio_2017_natural_q48",
+      "question": "Among the following options, identify the air pollutants that can cause acid rain and its effects, respectively.",
+      "options": {
+        "A": "Carbon dioxide and methane - melting of ice caps and rising of oceans",
+        "B": "Sulphur dioxides and nitrogen dioxides - damaging plants and water",
+        "C": "Perfluorocarbons - causing skin cancer and cataracts",
+        "D": "Chlorofluorocarbons - increasing UV rays and respiratory disease"
+      },
+      "correct_answer": "B",
+      "explanation": "Acid rain is primarily caused by sulfur dioxide (SO2) and nitrogen oxides (NOx) in the atmosphere. These pollutants cause acidification of soil and water, damaging plants and aquatic life."
+    },
+    {
+      "id": "bio_2017_natural_q49",
+      "question": "Which of the following is the cause and effect of global warming, respectively?",
+      "options": {
+        "A": "Greenhouse gases and dropping of sea levels",
+        "B": "Greenhouse gases and loss of biodiversity",
+        "C": "Burning of fossil fuels and increase in species diversity",
+        "D": "Burning of fossil fuels and dropping of sea level"
+      },
+      "correct_answer": "B",
+      "explanation": "Greenhouse gases (CO2, methane) cause global warming. Global warming leads to loss of biodiversity due to habitat destruction, changing climate patterns, and sea level rise."
+    },
+    {
+      "id": "bio_2017_natural_q50",
+      "question": "What is the primary purpose of creating transgenic organisms? To",
+      "options": {
+        "A": "generate pathogenic organisms that fight against non-pathogenic ones",
+        "B": "produce organisms that mimic human beings in every aspect of behaviors",
+        "C": "promote expression of desired genes that improve nutritional quality of organisms",
+        "D": "produce novel organisms that can affect reproduction across different species"
+      },
+      "correct_answer": "C",
+      "explanation": "Transgenic organisms are created by inserting foreign genes into their genome. This is done to introduce new, desirable traits, such as improved nutritional quality, pest resistance, or disease resistance."
+    },
+    {
+      "id": "bio_2017_natural_q51",
+      "question": "What is the role of biology in the investigation of a criminal case? To",
+      "options": {
+        "A": "detect flavor compounds in food and monitor environmental pollutants",
+        "B": "examine potential sources of evidences using blood, saliva and hair",
+        "C": "sense pathogens and herbicides using immunochemical detection system",
+        "D": "determine the production of complex organic compounds using mold fungus"
+      },
+      "correct_answer": "B",
+      "explanation": "In forensic science, biology is used to analyze biological evidence like blood, saliva, hair, and DNA to identify individuals and link them to a crime scene."
+    },
+    {
+      "id": "bio_2017_natural_q52",
+      "question": "How does biological washing powder save energy? Because they",
+      "options": {
+        "A": "use lipase enzyme without other combination for any stain in clothes.",
+        "B": "are effective in cleaning clothes at lower temperatures without boiling water.",
+        "C": "are effective in removing dirty ores in clothes without spraying acidic water.",
+        "D": "use protease enzyme without other combination for any stain in clothes."
+      },
+      "correct_answer": "B",
+      "explanation": "Biological washing powders contain enzymes (like proteases and lipases) that break down protein and fat stains. These enzymes work effectively at lower temperatures, so water does not need to be heated to remove stains, saving energy."
+    },
+    {
+      "id": "bio_2017_natural_q53",
+      "question": "What is biological warfare? The use of",
+      "options": {
+        "A": "selective genes to produce genetically modified organisms",
+        "B": "cloning technique to make exact genetic copies of an organism",
+        "C": "bacteria, fungi and viruses as a biological agent to control pests",
+        "D": "infectious agents with the intent to kill humans, animals or plants"
+      },
+      "correct_answer": "D",
+      "explanation": "Biological warfare involves the intentional use of biological agents (bacteria, viruses, toxins) to cause disease or death in humans, animals, or plants as a weapon of war."
+    },
+    {
+      "id": "bio_2017_natural_q54",
+      "question": "Which of the following correctly describes the general features of bacteria? They are unicellular microbes with",
+      "options": {
+        "A": "true nucleus and are omnipresent in nature.",
+        "B": "rigid cell wall and a diverse mode of nutrition.",
+        "C": "mitochondria and a special type of chlorophyll.",
+        "D": "Golgi bodies and genetic materials of a cell."
+      },
+      "correct_answer": "B",
+      "explanation": "Bacteria are prokaryotic cells, meaning they lack a true nucleus and membrane-bound organelles (like mitochondria and Golgi bodies). They have a rigid cell wall and a diverse mode of nutrition (autotrophic, heterotrophic, saprophytic)."
+    },
+    {
+      "id": "bio_2017_natural_q55",
+      "question": "Which group of archaea are found in volcanic vents and hot vapors that contain either obligate aerobes, facultative aerobes or obligate anaerobes?",
+      "options": {
+        "A": "Hyperthermophiles",
+        "B": "Acidophiles",
+        "C": "Halophiles",
+        "D": "Psychrophiles"
+      },
+      "correct_answer": "A",
+      "explanation": "Hyperthermophiles are microorganisms, including many archaea, that thrive in extremely hot environments, such as volcanic vents and hot springs."
+    },
+    {
+      "id": "bio_2017_natural_q56",
+      "question": "From the fungal disease given below, which one is transmitted sexually?",
+      "options": {
+        "A": "Candidiasis",
+        "B": "Aspergillosis",
+        "C": "Tineas",
+        "D": "Dermatophytosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Candidiasis (caused by Candida yeasts) can be transmitted through sexual contact, making it a sexually transmitted infection. The others (Aspergillosis, Tineas, Dermatophytosis) are not primarily sexually transmitted."
+    },
+    {
+      "id": "bio_2017_natural_q57",
+      "question": "This item is based on the following choices of feeding habit employed by organisms. I. Using nutrients dissolved in the surrounding medium. II. Manufacturing own nutrients by photosynthesis. III. Depending on other plants or animals for food. Which method/s the protozoan used to get their nutrition? They employed",
+      "options": {
+        "A": "1 only.",
+        "B": "I and II only.",
+        "C": "II and III only.",
+        "D": "I, II and III."
+      },
+      "correct_answer": "A",
+      "explanation": "Protozoa are a diverse group. Some (like Amoeba) ingest food (III). Some (like Paramecium) are heterotrophic. However, many protozoa are saprophytic and absorb nutrients directly from the surrounding medium (I). Some protozoa (like Euglena) are photosynthetic (II). Given the options, 'I only' is a characteristic description of how some protozoa obtain nutrition."
+    },
+    {
+      "id": "bio_2017_natural_q58",
+      "question": "Which one of the following diseases is correctly matched with its symptoms and method of transmission?",
+      "options": {
+        "A": "Chickenpox - runny and stuffy nose - respiratory droplets",
+        "B": "Measles - paralysis and hydrophobia - bite from infected animals",
+        "C": "Polio - commonly no sign and symptoms - fecal-oral-route",
+        "D": "Rabies - swollen and painful protid glands - through infected saliva"
+      },
+      "correct_answer": "C",
+      "explanation": "Polio is often asymptomatic (no signs or symptoms), and it is transmitted via the fecal-oral route. Chickenpox is transmitted by respiratory droplets but does not primarily cause a runny nose. Measles is not transmitted by animal bites. Rabies is transmitted by saliva but does not cause swollen glands."
+    },
+    {
+      "id": "bio_2017_natural_q59",
+      "question": "In order to link a specific microorganism to a specific disease, Koch used mouse as experimental animal. He took a small amount of blood from a diseased mouse and injected into a healthy mouth, the latter quickly developed anthrax. Again he took blood from this second mouse and then injected it into another, again he observed the symptoms of anthrax. What was his first postulate related with this procedure?",
+      "options": {
+        "A": "The same microorganisms are present in every case of the diseases.",
+        "B": "The isolated microorganisms can cause the same disease to susceptible animal.",
+        "C": "The same pathogens are isolated and re-cultivated from experimental animal.",
+        "D": "The microorganisms are isolated from the tissue of a dead animal and pure culture is prepared."
+      },
+      "correct_answer": "A",
+      "explanation": "Koch's first postulate states that the microorganism must be present in every case of the disease. His procedure of taking blood from a diseased mouse and injecting it into a healthy one, which then developed the disease, demonstrates the consistent presence of the microorganism."
+    },
+    {
+      "id": "bio_2017_natural_q60",
+      "question": "Sleeping sickness is transmitted by",
+      "options": {
+        "A": "biting of tsetse flies.",
+        "B": "sexual intercourse.",
+        "C": "eating contaminated food.",
+        "D": "droplet infection."
+      },
+      "correct_answer": "A",
+      "explanation": "Sleeping sickness (African trypanosomiasis) is caused by the parasite Trypanosoma and is transmitted to humans through the bite of the tsetse fly."
+    },
+    {
+      "id": "bio_2017_natural_q61",
+      "question": "Considering the diverse application of microorganisms, which of the following best evaluates their overall importance? They have",
+      "options": {
+        "A": "abundant benefits that are essential for life on Earth.",
+        "B": "a great disadvantage and limited advantage.",
+        "C": "limited impact on the environment.",
+        "D": "few applications in the areas of biotechnology and medicine."
+      },
+      "correct_answer": "A",
+      "explanation": "Microorganisms are essential for life on Earth. They are crucial for nutrient cycling (like nitrogen fixation and decomposition), food production (fermentation), medicine (antibiotics), and biotechnology."
+    },
+    {
+      "id": "bio_2017_natural_q62",
+      "question": "Suppose a clinical nurse used a needle to treat a person with HIV/AIDS. What would be the most appropriate method of controlling such microbial infection?",
+      "options": {
+        "A": "Incineration",
+        "B": "Tyndallization",
+        "C": "Sanitization",
+        "D": "Preservation"
+      },
+      "correct_answer": "A",
+      "explanation": "Incineration is the process of burning waste materials at high temperatures, which is the most effective method for destroying infectious needles and other medical waste. Tyndallization is a sterilization method, sanitization is cleaning, and preservation is for food."
+    },
+    {
+      "id": "bio_2017_natural_q63",
+      "question": "As a clinical microbiologist, suppose you want to collect microbes from a food sample and isolate them via serial dilution. How do you determine the isolated colonies that grow on artificial media? By",
+      "options": {
+        "A": "counting the number of strains on the plate",
+        "B": "cross checking with other preserved specimens",
+        "C": "observing their morphological features",
+        "D": "inoculating them into other infected animals"
+      },
+      "correct_answer": "C",
+      "explanation": "Isolation via serial dilution involves spreading bacteria on a plate so that individual cells separate and grow into discrete colonies. These isolated colonies are then identified by observing their morphological features (size, shape, color, texture)."
+    },
+    {
+      "id": "bio_2017_natural_q64",
+      "question": "What is the main difference between anabolism and catabolism in cellular metabolic pathways? Anabolism",
+      "options": {
+        "A": "absorbs energy while catabolism releases energy.",
+        "B": "is destructive while catabolism is constructive process.",
+        "C": "occurs during respiration while catabolism occurs in photosynthesis.",
+        "D": "breaks down macromolecules while catabolism builds up them."
+      },
+      "correct_answer": "A",
+      "explanation": "Anabolism is the set of constructive metabolic pathways that build complex molecules from simpler ones, requiring energy (endergonic). Catabolism is the set of destructive pathways that break down complex molecules into simpler ones, releasing energy (exergonic)."
+    },
+    {
+      "id": "bio_2017_natural_q65",
+      "question": "In a hypothetical scenario where photosynthesis ceased to occur on the earth, the long-term consequences on the continuity of life would be",
+      "options": {
+        "A": "remained unaffected since other sources of energy exist.",
+        "B": "collapsed that could lead to mass extinction.",
+        "C": "balanced between CO2 and O2 appropriately.",
+        "D": "disordered although animal life would flourish."
+      },
+      "correct_answer": "B",
+      "explanation": "Photosynthesis is the primary source of oxygen and food for almost all life on Earth. If it ceased, the food chain would collapse, oxygen would be depleted, and the planet would face mass extinction."
+    },
+    {
+      "id": "bio_2017_natural_q66",
+      "question": "What are the roles of grana and stroma in the process of photosynthesis? Grana is a site for",
+      "options": {
+        "A": "cyclic pathway while stroma is a site for non-cyclic pathway.",
+        "B": "photolysis of water while stroma is a site for carbon fixation.",
+        "C": "generation of sugar while stroma is a site for photolysis of water.",
+        "D": "production of NADPH while stroma is a site for chemiosmosis."
+      },
+      "correct_answer": "B",
+      "explanation": "The light-dependent reactions, including the photolysis of water, occur in the thylakoid membranes of the grana. The light-independent reactions (Calvin cycle), which include carbon fixation, occur in the stroma."
+    },
+    {
+      "id": "bio_2017_natural_q67",
+      "question": "Which one of the following comparisons between cyclic and non-cyclic photophosphorylation is correct? Non-cyclic photophosphorylation",
+      "options": {
+        "A": "produces ATP, NADPH and O2, but cyclic produces ATP and NADPH.",
+        "B": "uses oxygen as the final electron acceptor, but cyclic uses cytochrome b-c1 complex.",
+        "C": "uses photosystem I as electron donor, but cyclic uses water as an electron donor.",
+        "D": "involves both photosystems I and II, but cyclic uses only photosystem I."
+      },
+      "correct_answer": "D",
+      "explanation": "Non-cyclic photophosphorylation involves both Photosystem I and Photosystem II and produces ATP and NADPH. Cyclic photophosphorylation uses only Photosystem I and produces ATP only."
+    },
+    {
+      "id": "bio_2017_natural_q68",
+      "question": "All of the following events happen in the reduction stages of the Calvin cycle EXCEPT",
+      "options": {
+        "A": "combining of CO2 with RuBP.",
+        "B": "utilization of ATP and NADPH molecules.",
+        "C": "conversion of 3-PGA into a sugar molecule.",
+        "D": "donating of electrons to a 3C-intermediates to form G3P."
+      },
+      "correct_answer": "A",
+      "explanation": "The reduction stage of the Calvin cycle uses ATP and NADPH to convert 3-PGA into G3P. The combining of CO2 with RuBP (carbon fixation) occurs in the first, separate stage. Options B, C, and D all describe the reduction stage."
+    },
+    {
+      "id": "bio_2017_natural_q69",
+      "question": "What happens in the mitochondrion during the reactions of photorespiration?",
+      "options": {
+        "A": "Glycine is converted to serine with the release of CO2 and NH3.",
+        "B": "Glycolate is converted to glyoxylate with the release of H2O2.",
+        "C": "Glycerate is converted to GP with the release of ADP.",
+        "D": "Phosphoglycolate is converted to glycolate with the release of Pi."
+      },
+      "correct_answer": "A",
+      "explanation": "During photorespiration, glycolate is transported to the peroxisome and then to the mitochondrion. In the mitochondrion, two glycine molecules are converted to one serine, releasing CO2 and NH3."
+    },
+    {
+      "id": "bio_2017_natural_q70",
+      "question": "How does photosynthesis ensure the continuity of life? By",
+      "options": {
+        "A": "constantly adding carbon dioxide to the atmosphere",
+        "B": "maintaining carbon dioxide and oxygen balance in the atmosphere",
+        "C": "constantly removing oxygen from the atmosphere",
+        "D": "adding natural gas and absorbing methane from the atmosphere"
+      },
+      "correct_answer": "B",
+      "explanation": "Photosynthesis absorbs carbon dioxide from the atmosphere and releases oxygen. This is a critical process that maintains the balance of these gases, which is essential for life on Earth."
+    },
+    {
+      "id": "bio_2017_natural_q71",
+      "question": "Which of the following is the difference between substrate level phosphorylation and oxidative phosphorylation? Substrate level phosphorylation",
+      "options": {
+        "A": "occurs in the inner mitochondrial membrane while oxidative phosphorylation occurs in the cytosol.",
+        "B": "occurs during glycolysis and Kreb's cycle while oxidative phosphorylation occurs during electron transport chain.",
+        "C": "has the same source of energy as oxidative phosphorylation.",
+        "D": "occurs in aerobic respiration while oxidative phosphorylation in anaerobic respiration."
+      },
+      "correct_answer": "B",
+      "explanation": "Substrate-level phosphorylation (direct ATP synthesis from ADP and a phosphorylated substrate) occurs during glycolysis (cytosol) and the Krebs cycle (matrix). Oxidative phosphorylation (ATP production via chemiosmosis) occurs during the electron transport chain (inner mitochondrial membrane)."
+    },
+    {
+      "id": "bio_2017_natural_q72",
+      "question": "Which one of the following is correct about the energy liberation phase of glycolysis pathway? It",
+      "options": {
+        "A": "hydrolyses two ATP molecules and raises the free energy of glucose.",
+        "B": "breaks six carbon molecules into two glyceraldehyde-3-phosphate molecules.",
+        "C": "releases one water molecule and dihydroxyacetone phosphate molecule.",
+        "D": "produces four ATP, two NADH and two molecules of pyruvate."
+      },
+      "correct_answer": "D",
+      "explanation": "The energy liberation phase (pay-off phase) of glycolysis converts G3P into pyruvate. In this phase, the cell produces 4 ATP (net gain of 2), 2 NADH, and 2 pyruvate molecules. Option A describes the energy investment phase."
+    },
+    {
+      "id": "bio_2017_natural_q73",
+      "question": "Which one of the following statements describes an event of the process of electron transport system correctly?",
+      "options": {
+        "A": "Oxygen serves as a terminal electron acceptor in the production of ATP.",
+        "B": "Thirteen ATP molecules are invested when electrons are transferred from NADH/FADH2 to O2.",
+        "C": "More than 90% of the total ATP is produced by substrate-level phosphorylation.",
+        "D": "It happens due to the difference in pH as the inside mitochondrial membrane is more acidic."
+      },
+      "correct_answer": "A",
+      "explanation": "In the electron transport chain, electrons are transferred from NADH/FADH2 to a series of carriers and finally to oxygen, which is the final electron acceptor. This process drives ATP synthesis."
+    },
+    {
+      "id": "bio_2017_natural_q74",
+      "question": "In a complete oxidation of glucose molecule, how many net ATP molecules are produced by substrate level phosphorylation?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_answer": "B",
+      "explanation": "Substrate-level phosphorylation produces 2 ATP in glycolysis and 2 ATP in the Krebs cycle (per glucose molecule, as 2 pyruvates enter). The total is 4 ATP."
+    },
+    {
+      "id": "bio_2017_natural_q75",
+      "question": "What is the difference between aerobic and anaerobic respirations?",
+      "options": {
+        "A": "Aerobic respiration ends with different products while the same product results in anaerobic respiration.",
+        "B": "Proteins are the main respiratory substrate for both aerobic and anaerobic respiration.",
+        "C": "Aerobic respiration produces much more energy than anaerobic respiration.",
+        "D": "Glycolysis is the first pathway for aerobic while Kreb's cycle is for anaerobic respiration."
+      },
+      "correct_answer": "C",
+      "explanation": "Aerobic respiration is the complete oxidation of glucose in the presence of oxygen, producing about 36-38 ATP. Anaerobic respiration is incomplete, producing only 2 ATP. Aerobic produces much more energy."
+    },
+    {
+      "id": "bio_2017_natural_q76",
+      "question": "Which one of the following statements disproves spontaneous generation theory based on a step wise experimental work?",
+      "options": {
+        "A": "Life is an inherent property of the universe and everlasting.",
+        "B": "Different life forms on the Earth were created by a supreme being within six days.",
+        "C": "Both macro and micro-organisms could arise from pre-existing organisms.",
+        "D": "Life has reached to the Earth in the form of spores with falling meteorite."
+      },
+      "correct_answer": "C",
+      "explanation": "Spontaneous generation was the theory that life could arise from non-living matter. Pasteur's experiments disproved this by showing that life only arises from pre-existing life. Option C states this principle."
+    },
+    {
+      "id": "bio_2017_natural_q77",
+      "question": "Based on comparative anatomy, chimpanzee is the closest relative to humans because of the similarities in their",
+      "options": {
+        "A": "haemoglobin sequence.",
+        "B": "fossil remains.",
+        "C": "DNA sequence.",
+        "D": "pentadactyl limb."
+      },
+      "correct_answer": "C",
+      "explanation": "DNA sequencing shows that humans and chimpanzees share approximately 98.7% of their DNA. This is the most direct and precise evidence of their close evolutionary relationship, making the DNA sequence the correct answer."
+    },
+    {
+      "id": "bio_2017_natural_q78",
+      "question": "Which one of the following causes of variation allows infertile hybrids to become fertile in plant evolution?",
+      "options": {
+        "A": "Reproductive isolation",
+        "B": "Sympatric speciation",
+        "C": "Polyploidy cell",
+        "D": "Geographical separation"
+      },
+      "correct_answer": "C",
+      "explanation": "Polyploidy is a condition in which an organism has more than two complete sets of chromosomes. It can cause an infertile hybrid to become fertile because it can then pair chromosomes correctly during meiosis, allowing it to reproduce."
+    },
+    {
+      "id": "bio_2017_natural_q79",
+      "question": "This item is based on the following course of human evolution. 1. Use of fire and other tools. 2. Increase in brain size. 3. Emergence of Homo sapiens. 4. Bipedal walking and arboreal life. Which of the following is the correct order of the above evolutionary time line markers?",
+      "options": {
+        "A": "2,1,3,4",
+        "B": "1,3,4,2",
+        "C": "3,2,4,1",
+        "D": "4,2,1,3"
+      },
+      "correct_answer": "D",
+      "explanation": "The evolutionary timeline is: 4 (Bipedal walking and arboreal life) → 2 (Increase in brain size) → 1 (Use of fire and other tools) → 3 (Emergence of Homo sapiens)."
+    },
+    {
+      "id": "bio_2017_natural_q80",
+      "question": "This item is based on the following diagram, which illustrates the occurrence of mutation in a certain sequence of nucleotides. (Original sequence: GAC GGG ATT GAG GAG. Mutated sequence: GAC GGG ATG GAG GAG. The ATT became ATG). The type of mutation that occurred in the above sequence of nucleotides is",
+      "options": {
+        "A": "deletion.",
+        "B": "inversion.",
+        "C": "addition.",
+        "D": "substitution."
+      },
+      "correct_answer": "D",
+      "explanation": "The mutation involves the change of a single nucleotide ('T' in ATT changed to 'G' in ATG). This is a point mutation, also known as a substitution."
+    },
+    {
+      "id": "bio_2017_natural_q81",
+      "question": "Which of the following is NOT a common cause of genetic mutation?",
+      "options": {
+        "A": "Exposure to ultra-violet radiation",
+        "B": "Errors in DNA replication",
+        "C": "Extensive physical exercise",
+        "D": "Experiences of using chemical substance"
+      },
+      "correct_answer": "C",
+      "explanation": "Extensive physical exercise is not a mutagenic agent. UV radiation, errors in DNA replication, and chemical substances are all known causes of genetic mutations."
+    },
+    {
+      "id": "bio_2017_natural_q82",
+      "question": "Which genetic phenomenon is common for both bottleneck and founder effects?",
+      "options": {
+        "A": "High mutation rate that enhances adaptation",
+        "B": "Genetic drift that reduces diversity in the population",
+        "C": "Gene flow that increases inbreed and disease's resistance",
+        "D": "Natural selection that results from gradual evolutionary changes"
+      },
+      "correct_answer": "B",
+      "explanation": "Both bottleneck and founder effects are forms of genetic drift. They involve a reduction in population size, which leads to a random change in allele frequencies and a loss of genetic diversity in the new or surviving population."
+    },
+    {
+      "id": "bio_2017_natural_q83",
+      "question": "In a scenario where a male black lion population left its terrestrial territory and joined a white female lion population in an isolated Island to mate, there would be a",
+      "options": {
+        "A": "decrease in black lion population in the isolated Island.",
+        "B": "genetic variation in terrestrial population due to immigration.",
+        "C": "random introduction of new alleles into the Island population.",
+        "D": "change in allele frequencies of terrestrial population but not in Island."
+      },
+      "correct_answer": "C",
+      "explanation": "When the black lion male joins the Island population and mates, it introduces new alleles (for black fur) into the Island population's gene pool. This is a form of gene flow."
+    },
+    {
+      "id": "bio_2017_natural_q84",
+      "question": "Which of the following is an example of anthropogenic driving factor that contributes to species extinction?",
+      "options": {
+        "A": "Earth quack",
+        "B": "Volcanic eruption",
+        "C": "Expansions of agriculture",
+        "D": "Outbreak of wild-fire"
+      },
+      "correct_answer": "C",
+      "explanation": "Anthropogenic factors are caused by human activities. The expansion of agriculture involves clearing forests and habitats, which is a major human-driven cause of species extinction. Earthquakes and volcanic eruptions are natural factors."
+    },
+    {
+      "id": "bio_2017_natural_q85",
+      "question": "Which one of the following statements is correct about nervous system? It",
+      "options": {
+        "A": "takes air into and out of the body to supply oxygen and remove carbon dioxide.",
+        "B": "uses blood vessels to transport blood around the body through the heart.",
+        "C": "consist of cells that produce and secret chemicals into the blood stream via duct.",
+        "D": "receives and processes sensory information from internal and external parts of the body."
+      },
+      "correct_answer": "D",
+      "explanation": "The nervous system's primary function is to receive and process sensory information (from both internal and external stimuli) and coordinate an appropriate response."
+    },
+    {
+      "id": "bio_2017_natural_q86",
+      "question": "What is the best justification for the role of voltage-gated ion channels in nerve impulse transmission? They",
+      "options": {
+        "A": "actively respond to membrane potential changes, leading to depolarization.",
+        "B": "block the ions movement across the membrane to sustain neuron.",
+        "C": "allow potassium ions diffuse to the inside of the membrane, forming repolarization.",
+        "D": "produce energy when the sodium ions move to the inside of the axon."
+      },
+      "correct_answer": "A",
+      "explanation": "Voltage-gated sodium channels open when the membrane potential reaches a certain threshold, allowing sodium ions to rush in. This causes a rapid change in membrane potential (depolarization), which is the basis of the action potential."
+    },
+    {
+      "id": "bio_2017_natural_q87",
+      "question": "Which one of the following ions are used to facilitate the release of neurotransmitters to the synaptic cleft before binding to postsynaptic receptor?",
+      "options": {
+        "A": "Calcium ions",
+        "B": "Magnesium ions",
+        "C": "Potassium ions",
+        "D": "Sodium ions"
+      },
+      "correct_answer": "A",
+      "explanation": "When an action potential reaches the presynaptic terminal, voltage-gated calcium channels open. The influx of calcium ions (Ca2+) triggers the synaptic vesicles to fuse with the presynaptic membrane, releasing neurotransmitters into the synaptic cleft."
+    },
+    {
+      "id": "bio_2017_natural_q88",
+      "question": "Find the correct path way of reflex are that prevents you from physical damage up on the sudden touching of hot plate.",
+      "options": {
+        "A": "Interneuron → receptor → motor neuron → effector",
+        "B": "Sensory neuron → motor neuron → spinal cord → effector",
+        "C": "Sensory neuron → spinal cord → motor neuron → effector",
+        "D": "Interneuron → spinal cord → motor neuron → effector"
+      },
+      "correct_answer": "C",
+      "explanation": "The reflex arc pathway is: Receptor → Sensory Neuron → Spinal Cord (Integration center) → Motor Neuron → Effector. This allows for a rapid response without waiting for the brain."
+    },
+    {
+      "id": "bio_2017_natural_q89",
+      "question": "This item is based on the following diagram of anatomy of human eye. (Diagram shows a human eye with parts labeled I, II, III, IV). Which labeled part is responsible for controlling the diameter of the pupil according to the light source?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "correct_answer": "A",
+      "explanation": "The iris (labeled I in the diagram) is the colored part of the eye. It contains muscles that control the diameter of the pupil, regulating the amount of light that enters the eye."
+    },
+    {
+      "id": "bio_2017_natural_q90",
+      "question": "Select the option that contains the correct match of human ear structure and its function.",
+      "options": {
+        "A": "Eustachian tube - balancing air pressure of the middle ear and throat",
+        "B": "Semicircular canals - concerned with production of nerve impulse",
+        "C": "Ear ossicles - concerned with the detection of motion",
+        "D": "Cochlea - transmits sound from the incus to the auditory nerve"
+      },
+      "correct_answer": "A",
+      "explanation": "The Eustachian tube connects the middle ear to the back of the throat. It equalizes the air pressure on both sides of the eardrum, allowing it to vibrate freely."
+    },
+    {
+      "id": "bio_2017_natural_q91",
+      "question": "This item is based on the following list of events that happen during hearing. I. Transmission of amplified sound waves to the ear ossicles. II. Movement of sensory hair as a result of vibration of the fluid in the cochlea. III. Transmission of nerve impulse into the brain and response to the sound stimulus. IV. The pinna directs sound waves into the eardrum. Based on the above lists, which alternative shows the correct steps of the events of hearing?",
+      "options": {
+        "A": "IV -> III -> II -> I",
+        "B": "I -> II -> III -> IV",
+        "C": "IV -> I -> II -> III",
+        "D": "III -> IV -> I -> II"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct order is: IV (Pinna collects sound) → I (Ossicles amplify) → II (Hair cells in cochlea move) → III (Nerve impulse sent to brain)."
+    },
+    {
+      "id": "bio_2017_natural_q92",
+      "question": "Suppose low metabolic rate, cretinism and retarded mental and physical development are common problems of infants and childhood in a small village. Which condition in the endocrine system results in these problems?",
+      "options": {
+        "A": "Extreme hypothyroidism",
+        "B": "Malfunction of adrenal cortex",
+        "C": "Over production of parathyroid hormone",
+        "D": "Lack of adrenalin production"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypothyroidism in infants and children leads to cretinism, which is characterized by stunted physical growth, intellectual disability, and a low metabolic rate."
+    },
+    {
+      "id": "bio_2017_natural_q93",
+      "question": "If a woman is admitted to hospital for giving birth, which hormone is helping her in the delivery of her baby and releasing of milk?",
+      "options": {
+        "A": "Vasopressin",
+        "B": "Aldosterone",
+        "C": "Oxytocin",
+        "D": "Progesterone"
+      },
+      "correct_answer": "C",
+      "explanation": "Oxytocin is the hormone that stimulates uterine contractions during labor and is also responsible for the let-down reflex, which releases milk from the mammary glands for breastfeeding."
+    },
+    {
+      "id": "bio_2017_natural_q94",
+      "question": "How ultrafiltration takes place in the human kidney? By",
+      "options": {
+        "A": "increasing the concentration of urine in the muscular sac using a collecting duct",
+        "B": "building the pressure of the knot of blood vessels in the Bowman's capsule",
+        "C": "diffusing of glucose molecules into the first coiled tubule of microvilli",
+        "D": "reabsorbing of water into the blood in the second coiled tubule using ADH"
+      },
+      "correct_answer": "B",
+      "explanation": "Ultrafiltration occurs in the glomerulus, a knot of capillaries within Bowman's capsule. The high blood pressure in the glomerulus forces small molecules (like water, salts, glucose, and urea) out of the blood and into Bowman's capsule."
+    },
+    {
+      "id": "bio_2017_natural_q95",
+      "question": "Assume a patient with type II diabetes gets an advice to practice regular exercise to raise the number of insulin receptors. Then, how does insulin regulate the blood glucose level if it is high in this patient? It stimulates",
+      "options": {
+        "A": "glycolysis, which converts glucose into pyruvate.",
+        "B": "glycogenesis, which converts glucose into glycogen.",
+        "C": "lipolysis that converts fatty acid into glucose.",
+        "D": "gluconeogenesis that creates glucose from amino acids."
+      },
+      "correct_answer": "B",
+      "explanation": "Insulin lowers blood glucose by promoting the uptake of glucose by cells and stimulating glycogenesis (the storage of glucose as glycogen in the liver and muscles). This effectively removes glucose from the bloodstream."
+    },
+    {
+      "id": "bio_2017_natural_q96",
+      "question": "Imagine the water content of the blood is low when you take in much salt with your food. What would happen in your kidney to regulate this situation? Osmoreceptor stimulates the",
+      "options": {
+        "A": "adrenal gland to release adrenalin that increases conversion of glycogen to glucose in the blood.",
+        "B": "hypothalamus that release aldosterone and sodium ions to reabsorb back into the blood.",
+        "C": "pituitary gland to release ADH to reabsorb water back into the blood.",
+        "D": "ADH to release cortisone that promotes resistance to water stress."
+      },
+      "correct_answer": "C",
+      "explanation": "When blood osmotic pressure increases (high salt), osmoreceptors in the hypothalamus are stimulated. The hypothalamus signals the pituitary gland to release Antidiuretic Hormone (ADH). ADH causes the kidneys to reabsorb more water, concentrating the urine."
+    },
+    {
+      "id": "bio_2017_natural_q97",
+      "question": "Several current studies point out that very large quantity of greenhouse gases have been added into Earth's atmosphere due to human activities. What would be the most likely responsible gas and its major sources, respectively?",
+      "options": {
+        "A": "Methane - aluminum smelting and semiconductor manufacturing",
+        "B": "Carbon dioxide - fossil fuel combustion, deforestation, oil and gas usage",
+        "C": "Sulphur hexafluoride - landfills, rice paddies, digestive tracts of cattle",
+        "D": "Perfluorocarbons - electric transmission, magnesium and aluminum production"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbon dioxide (CO2) is the most significant greenhouse gas emitted by human activities. Its major sources are the burning of fossil fuels (coal, oil, natural gas) for energy and deforestation (which reduces the amount of CO2 absorbed by plants)."
+    },
+    {
+      "id": "bio_2017_natural_q98",
+      "question": "The effect of increased climate change on agricultural productivity is associated with",
+      "options": {
+        "A": "land use change and expansion of monoculture farming that yields high productivity.",
+        "B": "agroforestry system that increases the mixture of multipurpose trees and crops.",
+        "C": "drought that triggers wild fire, which can consume millions of acres of forest.",
+        "D": "reduction of available water that leads to decrease in biological resources."
+      },
+      "correct_answer": "D",
+      "explanation": "Climate change disrupts the water cycle, leading to reduced available water for irrigation. This leads to decreased crop yields and a reduction in biological resources, thereby decreasing agricultural productivity."
+    },
+    {
+      "id": "bio_2017_natural_q99",
+      "question": "Which one of the following local community practices in Ethiopia is considered as an environmental action that addresses climate change mitigation? Culture of",
+      "options": {
+        "A": "respecting humanity that promotes eco-tourism industry",
+        "B": "negotiating mechanism that is led by elders to reduce social unrest",
+        "C": "planting millions of seedlings following the green legacy initiative",
+        "D": "treating different diseases with herbal remedies by traditional healers"
+      },
+      "correct_answer": "C",
+      "explanation": "Planting trees (afforestation/reforestation) is a key climate change mitigation strategy. The Green Legacy Initiative in Ethiopia, which involves planting billions of seedlings, directly combats climate change by sequestering carbon dioxide."
+    },
+    {
+      "id": "bio_2017_natural_q100",
+      "question": "Which of the following best describes the outcome of meiosis in human cells?",
+      "options": {
+        "A": "Two diploid daughter cells identical to the parent cell",
+        "B": "Four haploid daughter cells, each with half the chromosome number of the parent cell",
+        "C": "Two haploid cells that immediately fuse to form a zygote",
+        "D": "Four diploid cells that undergo further division"
+      },
+      "correct_answer": "B",
+      "explanation": "Meiosis is a reduction division process. It produces four genetically unique haploid daughter cells, each containing half the number of chromosomes (23 in humans) as the original diploid parent cell."
+    }
+  ]
 }
