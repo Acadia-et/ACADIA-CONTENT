@@ -1,10 +1,1212 @@
-﻿{
-    "stream":  "Natural_Science",
-    "subject":  "English",
-    "year":  2017,
-    "timeAllowed":  "60 minutes",
-    "questions":  [
-
-                  ],
-    "totalQuestions":  50
+{
+  "id": "entrance_english_2017_natural",
+  "content_type": "past_paper",
+  "title": "English - 2017 (Natural)",
+  "year": 2017,
+  "subject": "English",
+  "stream": "Natural",
+  "total_questions": 100,
+  "time_limit_minutes": 120,
+  "questions": [
+    {
+      "id": "eng_2017_natural_q1",
+      "question": "Homeless people are everywhere-on the street, in public buildings, on the evening news and at the corner parking lot. You can hardly step out of your house these days without meeting some haggard character who asks you for a cigarette or begs for \"a little change\". The homeless are not just constant symbols of wasted lives and social programs-they have become a danger to public safety. (Passage I, Paragraph 1) - Which one of the following statements is true according to paragraph 4?",
+      "options": {
+        "A": "Some homeless who are victims of circumstances deserve help to recognize their lives again.",
+        "B": "None of those in the street deserves any effort to help them back on their feet.",
+        "C": "A woman fleeing an abusive husband is right away homeless.",
+        "D": "Everyone who finds themselves out of a job is homeless."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 4 states that some homeless people are victims of tragic circumstances (e.g., abusive spouses, layoffs) and \"deserve every effort to help them back on their feet.\" Option A directly reflects this."
+    },
+    {
+      "id": "eng_2017_natural_q2",
+      "question": "Which of the following best describes this passage writer's tone? (Passage I)",
+      "options": {
+        "A": "Appreciation",
+        "B": "Appeasement",
+        "C": "Praise",
+        "D": "Criticism"
+      },
+      "correct_answer": "D",
+      "explanation": "The writer criticizes chronically homeless people for choosing their lifestyle (Paragraphs 3, 6) and blames them for their situation. Words like \"unwilling,\" \"content to remain,\" and \"prefer a life of no responsibility\" show disapproval."
+    },
+    {
+      "id": "eng_2017_natural_q3",
+      "question": "What does the expression 'I would rather report otherwise' indicate in the context it is used in paragraph 3? (Passage I)",
+      "options": {
+        "A": "The need to tell the public about the homeless",
+        "B": "The fear to hide the true cause of homelessness",
+        "C": "The need to explain the troubles facing the homeless",
+        "D": "The fear to condemn the government for the problem"
+      },
+      "correct_answer": "B",
+      "explanation": "\"I would rather report otherwise\" (Paragraph 3) expresses the writer's reluctance to admit an uncomfortable truth: many homeless choose their lifestyle. It implies fear of revealing this unpopular cause."
+    },
+    {
+      "id": "eng_2017_natural_q4",
+      "question": "What purpose does the writer's reference to personal experience in paragraph 3 serve? (Passage I)",
+      "options": {
+        "A": "It served as evidence for political involvement.",
+        "B": "It clarified the actual cause of homelessness.",
+        "C": "It served as evidence of social disintegration.",
+        "D": "It showed the ugly lifestyle of the homeless."
+      },
+      "correct_answer": "B",
+      "explanation": "The writer uses personal volunteering experience (Paragraph 3) as evidence to support the argument that many homeless individuals choose their lifestyle."
+    },
+    {
+      "id": "eng_2017_natural_q5",
+      "question": "Which of the following words is closest in meaning to haggard as used in paragraph 1? (Passage I)",
+      "options": {
+        "A": "a person who looks trustful",
+        "B": "a person who commits crime",
+        "C": "a person with no home",
+        "D": "a person who looks suspicious"
+      },
+      "correct_answer": "D",
+      "explanation": "\"Haggard\" (Paragraph 1) describes someone appearing exhausted, disheveled, or unwell—often perceived as suspicious or untrustworthy."
+    },
+    {
+      "id": "eng_2017_natural_q6",
+      "question": "Which of the following words can be synonymous with the word content as used in paragraph 6? (Passage I)",
+      "options": {
+        "A": "satisfied",
+        "B": "outrageous",
+        "C": "naked",
+        "D": "confident"
+      },
+      "correct_answer": "A",
+      "explanation": "In Paragraph 6, \"content\" means satisfied with their homeless state."
+    },
+    {
+      "id": "eng_2017_natural_q7",
+      "question": "What does the word there in paragraph 4, refer to? (Passage I)",
+      "options": {
+        "A": "at a soup kitchen",
+        "B": "in the street",
+        "C": "at the Salvation Army",
+        "D": "in the court"
+      },
+      "correct_answer": "B",
+      "explanation": "\"There\" in Paragraph 4 refers to \"in the street\" from the previous sentence: \"Not everyone who finds himself out of a job and in the street is there because he wants to be.\""
+    },
+    {
+      "id": "eng_2017_natural_q8",
+      "question": "What does the word 'so' in paragraph 6, refer to? (Passage I)",
+      "options": {
+        "A": "beggar",
+        "B": "every person",
+        "C": "drug addict",
+        "D": "homeless"
+      },
+      "correct_answer": "D",
+      "explanation": "\"So\" in Paragraph 6 refers to \"homeless\" from the first sentence: \"For every person temporarily homeless, though, there are many who are chronically so [homeless].\""
+    },
+    {
+      "id": "eng_2017_natural_q9",
+      "question": "According to the passage, which of the following is to blame for the life of a homeless person? (Passage I)",
+      "options": {
+        "A": "The homeless themselves",
+        "B": "The Republicans",
+        "C": "The bureaucratic infrastructure",
+        "D": "The government policy"
+      },
+      "correct_answer": "A",
+      "explanation": "The writer argues that homeless individuals bear the greatest blame for their troubles (Paragraphs 2-3, 6). While others are mentioned as scapegoats, the passage emphasizes personal responsibility."
+    },
+    {
+      "id": "eng_2017_natural_q10",
+      "question": "What does 'These' in paragraph 2 refer to? (Passage II: Environmental Protection)",
+      "options": {
+        "A": "soil conservation",
+        "B": "improper terracing",
+        "C": "preservation of forests",
+        "D": "poor agricultural practices"
+      },
+      "correct_answer": "D",
+      "explanation": "In Paragraph 2, the sentence begins: \"Soil degradation has been aggravated by poor agricultural practices. These include improper terracing...\" The word \"These\" directly refers back to \"poor agricultural practices.\""
+    },
+    {
+      "id": "eng_2017_natural_q11",
+      "question": "What does the word 'desolation' mean in paragraph 1? (Passage II)",
+      "options": {
+        "A": "disappearance",
+        "B": "destruction",
+        "C": "desertion",
+        "D": "enrichment"
+      },
+      "correct_answer": "C",
+      "explanation": "In Paragraph 1, \"desolation\" describes land becoming \"unfit for cultivation\" due to neglect. \"Desertion\" implies abandonment and barrenness."
+    },
+    {
+      "id": "eng_2017_natural_q12",
+      "question": "Which of the following best replaces the word 'aggravated' in paragraph 2? (Passage II)",
+      "options": {
+        "A": "worsened",
+        "B": "supplemented",
+        "C": "regulated",
+        "D": "improved"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Aggravated\" means made more severe. In Paragraph 2, soil degradation is \"aggravated by poor agricultural practices,\" meaning these practices worsened the problem."
+    },
+    {
+      "id": "eng_2017_natural_q13",
+      "question": "The prolonged erosion of the soil is followed by (Passage II)",
+      "options": {
+        "A": "rapid reproduction of wild animals.",
+        "B": "enrichment of the soil by various nutrients.",
+        "C": "the total absence of plants.",
+        "D": "the leveling of the mountains."
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 2 states that severe erosion causes soil to be \"washed away,\" making land \"increasingly poor in quality\" and impossible to reclaim. Trees cannot survive because the soil is too shallow for roots, leading to a complete loss of vegetation."
+    },
+    {
+      "id": "eng_2017_natural_q14",
+      "question": "In highly eroded and desolated areas, trees fail to survive because (Passage II)",
+      "options": {
+        "A": "their roots are too short to suck up water from the ground.",
+        "B": "the sun will be too scorching for them to survive.",
+        "C": "they do not get nutrients from the soil.",
+        "D": "they do not get sufficient sunshine."
+      },
+      "correct_answer": "A",
+      "explanation": "Paragraph 2 explicitly states: \"Trees cannot be planted... because the earth is no longer deep enough to support long roots.\" Shallow soil prevents roots from accessing water/nutrients."
+    },
+    {
+      "id": "eng_2017_natural_q15",
+      "question": "Which of the following, according to paragraph 1, is a result of preserving forest areas? (Passage II)",
+      "options": {
+        "A": "Devastation of irreplaceable natural resources",
+        "B": "Ruins of the land through processes",
+        "C": "Reproduction of wildlife",
+        "D": "Serious loss of income"
+      },
+      "correct_answer": "C",
+      "explanation": "Paragraph 1 emphasizes that preserving forests, wildlife, and soil prevents \"destruction of replaceable natural resources\" and \"desolation.\" Preserving forests directly supports wildlife habitats and reproduction."
+    },
+    {
+      "id": "eng_2017_natural_q16",
+      "question": "Which of the following, according to paragraph 2, can be a cause of soil erosion? (Passage II)",
+      "options": {
+        "A": "Planting trees and using modern farming",
+        "B": "Cultivating easily eroded hillsides",
+        "C": "Using poor quality of fertilizer",
+        "D": "Losing valuable nutrients"
+      },
+      "correct_answer": "B",
+      "explanation": "Paragraph 2 lists \"cultivation of steep and easily eroded hillsides\" as a poor agricultural practice that aggravates soil erosion."
+    },
+    {
+      "id": "eng_2017_natural_q17",
+      "question": "According to paragraph 2, which of the following is true? (Passage II)",
+      "options": {
+        "A": "Plants can be planted to suck up water and hold soil even if the earth is too shallow to support long roots.",
+        "B": "When the soil is washed away to neighboring countries, land productivity increases.",
+        "C": "The preservation of forest areas is not the concern of Ethiopians.",
+        "D": "Erosion of the soil is worse than destruction of trees."
+      },
+      "correct_answer": "D",
+      "explanation": "Paragraph 2 states: \"The destruction of trees... is not themselves as bad as the erosion of the soil which may follow them.\" Erosion is explicitly called worse."
+    },
+    {
+      "id": "eng_2017_natural_q18",
+      "question": "What does 'its' in paragraph 1 refer to? (Passage II)",
+      "options": {
+        "A": "preservation of natural resources",
+        "B": "destruction of natural resources",
+        "C": "the wild life and soil",
+        "D": "the forest areas"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence reads: \"The preservation of forest areas, wildlife and soil... since its neglect means...\" \"Its\" refers to the noun phrase \"preservation of forest areas, wildlife and soil,\" which collectively constitute \"natural resources.\""
+    },
+    {
+      "id": "eng_2017_natural_q19",
+      "question": "You should not be so ______ to these late comers, once punished, they should be allowed to attend class.",
+      "options": {
+        "A": "generous",
+        "B": "cruel",
+        "C": "modest",
+        "D": "kind"
+      },
+      "correct_answer": "B",
+      "explanation": "The context implies that after punishment, latecomers should be treated fairly. \"Cruel\" (excessively harsh) contrasts with the expectation of leniency post-punishment."
+    },
+    {
+      "id": "eng_2017_natural_q20",
+      "question": "Ethiopia will enjoy a period of peace and ______ in the next few years, this happens if the country ensures law and gives priority to science, technology and innovation.",
+      "options": {
+        "A": "prosperity",
+        "B": "nationality",
+        "C": "protest",
+        "D": "disparity"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Peace and prosperity\" is a standard collocation meaning economic success and stability. Prioritizing innovation aligns with prosperity."
+    },
+    {
+      "id": "eng_2017_natural_q21",
+      "question": "The weather in Addis Ababa is ______ these days. You cannot tell whether it rains in the morning or in the afternoon.",
+      "options": {
+        "A": "invisible",
+        "B": "immaterial",
+        "C": "unpredictable",
+        "D": "unimaginable"
+      },
+      "correct_answer": "C",
+      "explanation": "The inability to forecast rain indicates unpredictability."
+    },
+    {
+      "id": "eng_2017_natural_q22",
+      "question": "______ by the speech of the new leader, all the people of the Zone elected him to be Member of Parliament.",
+      "options": {
+        "A": "Offended",
+        "B": "Demotivated",
+        "C": "Discouraged",
+        "D": "Inspired"
+      },
+      "correct_answer": "D",
+      "explanation": "Positive influence from a speech leads to election. \"Inspired\" (motivated) fits, while negative options would discourage support."
+    },
+    {
+      "id": "eng_2017_natural_q23",
+      "question": "On my way home from office, there was high traffic ______. It took me two hours to get home.",
+      "options": {
+        "A": "congestion",
+        "B": "freeway",
+        "C": "path way",
+        "D": "speed"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Traffic congestion\" means overcrowding on roads, causing delays."
+    },
+    {
+      "id": "eng_2017_natural_q24",
+      "question": "In the annual festival they hold, the villagers in my area always ______ to fight against the criminals that disturb the people.",
+      "options": {
+        "A": "meditate",
+        "B": "resolve",
+        "C": "remember",
+        "D": "think"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Resolve\" means to make a firm decision (to fight criminals). \"Meditate,\" \"remember,\" and \"think\" lack the connotation of committed action."
+    },
+    {
+      "id": "eng_2017_natural_q25",
+      "question": "Houses in cities are not affordable for the great majority of the people in Ethiopia.",
+      "options": {
+        "A": "comfortable",
+        "B": "cheap",
+        "C": "available",
+        "D": "suitable"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Affordable\" means low-cost, so \"cheap\" is the closest synonym."
+    },
+    {
+      "id": "eng_2017_natural_q26",
+      "question": "He asked her to turn round several times before he gave her his opinion of her new dress.",
+      "options": {
+        "A": "rotate",
+        "B": "display",
+        "C": "hold on",
+        "D": "pose"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Turn round\" means to spin or revolve. \"Rotate\" is a direct synonym."
+    },
+    {
+      "id": "eng_2017_natural_q27",
+      "question": "Thanks to science and technology, many of our organs are replaceable.",
+      "options": {
+        "A": "removable",
+        "B": "curable",
+        "C": "exchangeable",
+        "D": "avoidable"
+      },
+      "correct_answer": "C",
+      "explanation": "\"Replaceable\" means substitutable, so \"exchangeable\" fits best."
+    },
+    {
+      "id": "eng_2017_natural_q28",
+      "question": "The teacher announced that the mathematics examination has been put off for next week.",
+      "options": {
+        "A": "forgotten",
+        "B": "postponed",
+        "C": "prepared",
+        "D": "cancelled"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Put off\" means delayed, so \"postponed\" is correct."
+    },
+    {
+      "id": "eng_2017_natural_q29",
+      "question": "If you go to a new place, your behavior and manner should harmonize with that of the people you meet there.",
+      "options": {
+        "A": "go against",
+        "B": "consider",
+        "C": "contradict",
+        "D": "integrate"
+      },
+      "correct_answer": "D",
+      "explanation": "\"Harmonize with\" means to blend in or match. \"Integrate\" (combine smoothly) is synonymous."
+    },
+    {
+      "id": "eng_2017_natural_q30",
+      "question": "Tensions between the two countries are rising quickly. We cannot rule out the possibility that war breaks out.",
+      "options": {
+        "A": "assume",
+        "B": "exclude",
+        "C": "predict",
+        "D": "imagine"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Rule out\" means to eliminate or disregard. \"Exclude\" is the closest synonym."
+    },
+    {
+      "id": "eng_2017_natural_q31",
+      "question": "Mouse is to computer as steering wheel is to",
+      "options": {
+        "A": "thermo-flask",
+        "B": "refrigerator",
+        "C": "vehicle",
+        "D": "television"
+      },
+      "correct_answer": "C",
+      "explanation": "A mouse is a tool to control a computer. Similarly, a steering wheel controls a vehicle."
+    },
+    {
+      "id": "eng_2017_natural_q32",
+      "question": "Bed: Sleep; Stove:",
+      "options": {
+        "A": "Clean",
+        "B": "Wash",
+        "C": "Cook",
+        "D": "Utensil"
+      },
+      "correct_answer": "C",
+      "explanation": "A bed is used for sleeping. A stove is used for cooking. \"Cook\" (verb) matches the function-based relationship."
+    },
+    {
+      "id": "eng_2017_natural_q33",
+      "question": "All students but one got above average marks in English.",
+      "options": {
+        "A": "Only one student failed to get above average marks in English.",
+        "B": "Only one student got the above average mark in English.",
+        "C": "All students did not get above average marks in English.",
+        "D": "Everybody got above average mark in English."
+      },
+      "correct_answer": "A",
+      "explanation": "\"All students but one\" means \"all except one.\" Thus, one student did NOT get above average marks."
+    },
+    {
+      "id": "eng_2017_natural_q34",
+      "question": "Addis Ababa University, which is the oldest university in the country, has changed its admission policy.",
+      "options": {
+        "A": "Addis Ababa University admits students based on new rules and regulations.",
+        "B": "Addis Ababa University has grown old with its admission policy.",
+        "C": "Addis Ababa University has a conducive learning atmosphere.",
+        "D": "Joining Addis Ababa University has now become easy."
+      },
+      "correct_answer": "A",
+      "explanation": "The head sentence focuses on a change in admission policy. Option A directly reflects this by mentioning \"new rules and regulations.\""
+    },
+    {
+      "id": "eng_2017_natural_q35",
+      "question": "At first, the suspect did not realize ______ during the interview. Later on, he saw the voice recorder and refused to continue the interview.",
+      "options": {
+        "A": "he was being recording",
+        "B": "he was recording",
+        "C": "he had recorded",
+        "D": "he was being recorded"
+      },
+      "correct_answer": "D",
+      "explanation": "Passive voice (\"was being recorded\") is needed because the suspect was the object of recording."
+    },
+    {
+      "id": "eng_2017_natural_q36",
+      "question": "Unlike last year, only ______ students needed extra help this year; last year we helped almost everyone in the class.",
+      "options": {
+        "A": "many",
+        "B": "most",
+        "C": "a few",
+        "D": "a little"
+      },
+      "correct_answer": "C",
+      "explanation": "\"A few\" indicates a small number (for countable nouns like \"students\"), contrasting with \"almost everyone\" last year."
+    },
+    {
+      "id": "eng_2017_natural_q37",
+      "question": "We should be involved in sports activities to keep ______ fit and healthy.",
+      "options": {
+        "A": "oneself",
+        "B": "ourselves",
+        "C": "yourselves",
+        "D": "ourself"
+      },
+      "correct_answer": "B",
+      "explanation": "The reflexive pronoun \"ourselves\" agrees with the subject \"we.\""
+    },
+    {
+      "id": "eng_2017_natural_q38",
+      "question": "I ______ my homework when you knocked at the door.",
+      "options": {
+        "A": "had been",
+        "B": "have been doing",
+        "C": "have done",
+        "D": "was doing"
+      },
+      "correct_answer": "D",
+      "explanation": "Past continuous (\"was doing\") describes an action in progress interrupted by another action."
+    },
+    {
+      "id": "eng_2017_natural_q39",
+      "question": "______ I do not complain much; my friends often take me for a fool.",
+      "options": {
+        "A": "As a result of",
+        "B": "Because of",
+        "C": "In spite of",
+        "D": "Because"
+      },
+      "correct_answer": "C",
+      "explanation": "\"In spite of\" introduces contrast: despite not complaining, friends mistake the speaker for a fool."
+    },
+    {
+      "id": "eng_2017_natural_q40",
+      "question": "My English is not good, I ______ advised to study English when I was younger.",
+      "options": {
+        "A": "wish I had been",
+        "B": "wished I was",
+        "C": "wished I had been",
+        "D": "wish I have been"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Wish + past perfect\" (had been) expresses regret about the past. \"Wish\" (present) is used for current feelings."
+    },
+    {
+      "id": "eng_2017_natural_q41",
+      "question": "I ______ much today if I had learned about money management at my young age.",
+      "options": {
+        "A": "did not worry",
+        "B": "would not worry",
+        "C": "will not worry",
+        "D": "would not have worried"
+      },
+      "correct_answer": "D",
+      "explanation": "Third conditional (\"would not have worried\") is used for unreal past conditions. The if-clause (\"had learned\") is past perfect, so the main clause must match."
+    },
+    {
+      "id": "eng_2017_natural_q42",
+      "question": "______ you ever ______ a chance to visit any historical site in Ethiopia?",
+      "options": {
+        "A": "Had/have",
+        "B": "Did/have",
+        "C": "Have/had",
+        "D": "Have/have"
+      },
+      "correct_answer": "C",
+      "explanation": "Present perfect (\"Have you ever had\") asks about life experiences. \"Had\" is the past participle of \"have.\""
+    },
+    {
+      "id": "eng_2017_natural_q43",
+      "question": "The road project ______ by the construction company next year.",
+      "options": {
+        "A": "will be completing",
+        "B": "was completed",
+        "C": "will completed",
+        "D": "will be complete"
+      },
+      "correct_answer": "D",
+      "explanation": "Future passive (\"will be complete\") is correct. \"Complete\" is an adjective meaning \"finished.\""
+    },
+    {
+      "id": "eng_2017_natural_q44",
+      "question": "If I had enough money, I ______ schools with elevators for visually impaired children.",
+      "options": {
+        "A": "will have built",
+        "B": "would build",
+        "C": "would have built",
+        "D": "will build"
+      },
+      "correct_answer": "B",
+      "explanation": "Second conditional (\"would build\") describes a hypothetical present/future situation. The if-clause (\"had\") is simple past, so the main clause uses \"would + base verb.\""
+    },
+    {
+      "id": "eng_2017_natural_q45",
+      "question": "Next year this time, I ______ the freshman program.",
+      "options": {
+        "A": "will have almost completed",
+        "B": "had nearly completed",
+        "C": "will be nearly complete",
+        "D": "would have nearly completed"
+      },
+      "correct_answer": "A",
+      "explanation": "Future perfect (\"will have almost completed\") indicates an action finished by a specific future time (\"next year this time\")."
+    },
+    {
+      "id": "eng_2017_natural_q46",
+      "question": "This year's examination is as good as the one given last year, ______?",
+      "options": {
+        "A": "hasn't it",
+        "B": "doesn't it",
+        "C": "isn't it",
+        "D": "wasn't it"
+      },
+      "correct_answer": "C",
+      "explanation": "Question tags mirror the main verb (\"is\"). \"Isn't it?\" matches the present tense."
+    },
+    {
+      "id": "eng_2017_natural_q47",
+      "question": "I met the girl ______ phone number I was asking for.",
+      "options": {
+        "A": "whom",
+        "B": "whose",
+        "C": "that",
+        "D": "which"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Whose\" shows possession (the girl's phone number)."
+    },
+    {
+      "id": "eng_2017_natural_q48",
+      "question": "When you acknowledge people's contribution to your work, you need not refer ______ his/her name.",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "with",
+        "D": "at"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Refer to\" is a fixed phrase meaning \"mention.\""
+    },
+    {
+      "id": "eng_2017_natural_q49",
+      "question": "______ listening ______ reading are important academic skills students need to develop.",
+      "options": {
+        "A": "Neither/nor",
+        "B": "Either/nor",
+        "C": "Both/and",
+        "D": "Either/or"
+      },
+      "correct_answer": "C",
+      "explanation": "\"Both/and\" includes both skills. \"Neither/nor\" excludes, \"either/or\" offers a choice."
+    },
+    {
+      "id": "eng_2017_natural_q50",
+      "question": "He ______ his children to school five days a week.",
+      "options": {
+        "A": "drives",
+        "B": "has driven",
+        "C": "drove",
+        "D": "drive"
+      },
+      "correct_answer": "A",
+      "explanation": "Present simple (\"drives\") describes habitual actions."
+    },
+    {
+      "id": "eng_2017_natural_q51",
+      "question": "My father is not old ______ yours; he is only 53 years old.",
+      "options": {
+        "A": "such...as",
+        "B": "such...so",
+        "C": "as...so",
+        "D": "as...as"
+      },
+      "correct_answer": "D",
+      "explanation": "\"As...as\" compares equality (\"not as old as yours\")."
+    },
+    {
+      "id": "eng_2017_natural_q52",
+      "question": "Lojo is ______ tall girl ______ she can easily touch the ceiling of her classroom.",
+      "options": {
+        "A": "such...as",
+        "B": "such a...that",
+        "C": "as such...that",
+        "D": "so...that"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Such a...that\" shows result (\"such a tall girl that\")."
+    },
+    {
+      "id": "eng_2017_natural_q53",
+      "question": "Some students did well on the last week's English test, ______ others scored unsatisfactory marks. I am designing an action research to study the case.",
+      "options": {
+        "A": "when",
+        "B": "despite",
+        "C": "whereas",
+        "D": "if"
+      },
+      "correct_answer": "C",
+      "explanation": "\"Whereas\" contrasts two groups."
+    },
+    {
+      "id": "eng_2017_natural_q54",
+      "question": "My English teacher ______ me repeat the correct answer ten times.",
+      "options": {
+        "A": "wanted",
+        "B": "forced",
+        "C": "told",
+        "D": "made"
+      },
+      "correct_answer": "D",
+      "explanation": "\"Made\" + base verb (\"repeat\") means \"compelled.\" Other options require \"to\" (e.g., \"wanted/told/forced me to repeat\")."
+    },
+    {
+      "id": "eng_2017_natural_q55",
+      "question": "My history teacher asked me what is your nationality?",
+      "options": {
+        "A": "what my nationality is",
+        "B": "what is my nationality.",
+        "C": "what is your nationality?",
+        "D": "what was my nationality?"
+      },
+      "correct_answer": "A",
+      "explanation": "Reported speech uses statement word order (\"what my nationality is\") and changes \"your\" to \"my\" from the teacher's perspective."
+    },
+    {
+      "id": "eng_2017_natural_q56",
+      "question": "You ______ go to bed before midnight if you have the habit of getting up late.",
+      "options": {
+        "A": "will not",
+        "B": "may not",
+        "C": "must not",
+        "D": "cannot"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Will not\" implies a natural consequence: if you get up late, you will not go to bed early."
+    },
+    {
+      "id": "eng_2017_natural_q57",
+      "question": "You will start running ______ the bell rings. Otherwise, you will be disqualified from the competition.",
+      "options": {
+        "A": "till",
+        "B": "while",
+        "C": "during",
+        "D": "after"
+      },
+      "correct_answer": "B",
+      "explanation": "\"While\" means \"at the same time as.\" The action (running) starts precisely when the bell rings."
+    },
+    {
+      "id": "eng_2017_natural_q58",
+      "question": "The afternoon sun is ______ hot ______ school children play outside. They had better stay in their class.",
+      "options": {
+        "A": "such/for",
+        "B": "too/to",
+        "C": "very/for",
+        "D": "to/to"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Too + adjective + for someone + to verb\" (\"too hot for children to play\") shows excessive heat preventing the action."
+    },
+    {
+      "id": "eng_2017_natural_q59",
+      "question": "The lady ______ next to our English teacher is my mother's close friend.",
+      "options": {
+        "A": "sitting",
+        "B": "sit",
+        "C": "sat",
+        "D": "sits"
+      },
+      "correct_answer": "A",
+      "explanation": "A reduced relative clause (\"sitting\") replaces \"who is sitting.\""
+    },
+    {
+      "id": "eng_2017_natural_q60",
+      "question": "Unlike my friends, who dislike drinking coffee, I ______ go to bed at night without coffee.",
+      "options": {
+        "A": "never",
+        "B": "mostly",
+        "C": "always",
+        "D": "ever"
+      },
+      "correct_answer": "A",
+      "explanation": "\"Never\" emphasizes contrast: friends dislike coffee, but the speaker never goes to bed without it (i.e., always drinks it)."
+    },
+    {
+      "id": "eng_2017_natural_q61",
+      "question": "Committing corruption ______ life imprisonment in several countries in the world.",
+      "options": {
+        "A": "impacts",
+        "B": "arises from",
+        "C": "affects",
+        "D": "leads to"
+      },
+      "correct_answer": "D",
+      "explanation": "\"Leads to\" means \"results in.\" Corruption causes imprisonment."
+    },
+    {
+      "id": "eng_2017_natural_q62",
+      "question": "I always have much work to do; that is why I have ______ time to listen to music.",
+      "options": {
+        "A": "definitely",
+        "B": "mainly",
+        "C": "scarcely",
+        "D": "exactly"
+      },
+      "correct_answer": "C",
+      "explanation": "\"Scarcely\" (hardly any) indicates a near-total lack of time due to busyness."
+    },
+    {
+      "id": "eng_2017_natural_q63",
+      "question": "Which one of the following words is correctly spelt?",
+      "options": {
+        "A": "expenditure",
+        "B": "traditional",
+        "C": "particularly",
+        "D": "fotograph"
+      },
+      "correct_answer": "A",
+      "explanation": "'Expenditure' is the correct spelling. Option D is 'photograph'."
+    },
+    {
+      "id": "eng_2017_natural_q64",
+      "question": "Which one of the following words is correctly spelt?",
+      "options": {
+        "A": "paralism",
+        "B": "suffcation",
+        "C": "intelligibility",
+        "D": "repetition"
+      },
+      "correct_answer": "C",
+      "explanation": "'Intelligibility' is the correct spelling. Option A is 'parallelism', B is 'suffocation', D is 'repetition'."
+    },
+    {
+      "id": "eng_2017_natural_q65",
+      "question": "Which one of the following sentences is correctly punctuated and capitalized?",
+      "options": {
+        "A": "Tadesse and Fanuel are good friends. They study their lessons together and help each other.",
+        "B": "Tadesse and Fanuel are good friends; They study their lessons together and help each other.",
+        "C": "Tadesse and Fanuel are good friends, they study their lessons together and help each other.",
+        "D": "Tadesse and Fanuel are good friends They study their lessons together and help each other!"
+      },
+      "correct_answer": "A",
+      "explanation": "Two independent sentences separated by a period; capitalization is proper. B has a semicolon misuse ('They' should not be capitalized). C has a comma splice. D has no punctuation between clauses."
+    },
+    {
+      "id": "eng_2017_natural_q66",
+      "question": "Which one of the following sentences is correctly punctuated and capitalized?",
+      "options": {
+        "A": "Ethiopia is a rich country endowed with many natural resources. In addition it has many diversified cultures and very friendly people.",
+        "B": "Ethiopia is a rich country endowed with many natural resources. In addition, it has many diversified cultures and very friendly people.",
+        "C": "Ethiopia is a rich country endowed with many natural resources. In addition it has many diversified cultures and very friendly people.",
+        "D": "Ethiopia is a rich country endowed with many natural resources. In addition, it has many diversified cultures and very friendly people."
+      },
+      "correct_answer": "D",
+      "explanation": "Correct. Comma after introductory phrase \"In addition\"; period ends the sentence. A/C are missing the comma after 'In addition'. B is missing a period at the end."
+    },
+    {
+      "id": "eng_2017_natural_q67",
+      "question": "Which one of the following sentences is correctly punctuated and capitalized?",
+      "options": {
+        "A": "Hello Kenyan National Hotel, can I help you?",
+        "B": "Hello, Kenyan National Hotel. can I help you?",
+        "C": "Hello Kenyan National Hotel. Can I help you?",
+        "D": "Hello, Kenyan National Hotel! Can I help you?"
+      },
+      "correct_answer": "D",
+      "explanation": "Correct. Comma after \"Hello\"; exclamation for emphasis; \"Can\" capitalized."
+    },
+    {
+      "id": "eng_2017_natural_q68",
+      "question": "Put the words in the right order: am/as/think/I/not/I/you/stupid/am/as.",
+      "options": {
+        "A": "I am not as I think am stupid as you.",
+        "B": "As you think I am not stupid as I am.",
+        "C": "I am not as you think as I am.",
+        "D": "I am not as stupid as you think I am."
+      },
+      "correct_answer": "D",
+      "explanation": "Correct comparative structure: \"not as [adjective] as [clause].\" Other options are grammatically incoherent."
+    },
+    {
+      "id": "eng_2017_natural_q69",
+      "question": "Put the words in the right order: who/a/clever/teacher/in/school/our/Ato Tadesse/got/has/a/scholarship/is.",
+      "options": {
+        "A": "Ato Tadesse, in our school, has got a scholarship who is a clever teacher.",
+        "B": "Ato Tadesse, who is a clever teacher in our school, has got a scholarship.",
+        "C": "Ato Tadesse is a clever teacher in school who has got our a scholarship.",
+        "D": "Ato Tadesse has got a scholarship, who is a clever teacher, in our school."
+      },
+      "correct_answer": "B",
+      "explanation": "Relative clause (\"who is...\") correctly modifies \"Ato Tadesse\"; main clause (\"has got...\") is clear."
+    },
+    {
+      "id": "eng_2017_natural_q70",
+      "question": "Put the words in the right order: in/the/science/laboratory/teacher/and/students/both/together/working/the/are.",
+      "options": {
+        "A": "The students and the teacher together are both working in the science laboratory.",
+        "B": "The students are working and both the teacher together in the science laboratory.",
+        "C": "Both in the science laboratory are working together the teacher and the students.",
+        "D": "Both the teacher and the students are working together in the science laboratory."
+      },
+      "correct_answer": "D",
+      "explanation": "\"Both...and\" pairs subjects correctly; word order is logical."
+    },
+    {
+      "id": "eng_2017_natural_q71",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. Arable farming refers to growing crops. b. This farming type refers to keeping sheep and cattle. c. The second farming type is pastoral farming. d. Arable and pastoral farming are commonly known farming types.",
+      "options": {
+        "A": "a d c b",
+        "B": "b a d c",
+        "C": "c b a d",
+        "D": "d a c b"
+      },
+      "correct_answer": "D",
+      "explanation": "Logical flow: (d) Introduces farming types. (a) Defines arable farming. (c) Introduces pastoral farming. (b) Defines pastoral farming. Order: d → a → c → b."
+    },
+    {
+      "id": "eng_2017_natural_q72",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. Hanna is a very charming and sociable girl whom everybody likes. b. Finally, she works in an international supermarket as a saleswoman. She is always smiling and appears to be happy with her job. c. She is only in her late twenties. She usually wears jeans that visibly show the shape of her body. Above her waist, she wears a white nylon T-shirt that makes her breasts appear more visible and attractive. d. To begin with, she is tall and has a slim waist that makes her quite attractive.",
+      "options": {
+        "A": "a d c b",
+        "B": "a c d b",
+        "C": "d a b c",
+        "D": "d a c b"
+      },
+      "correct_answer": "A",
+      "explanation": "Logical flow: (a) General introduction to Hanna. (d) Starts physical description (\"To begin with\"). (c) Continues description (clothing/age). (b) Concludes with job (\"Finally\"). Order: a → d → c → b."
+    },
+    {
+      "id": "eng_2017_natural_q73",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. Many people believe education is the key to success in life. b. These people list names of several intellectuals who struggle to make in the end to breath on their salaries. c. As examples, they mention highly educated people who have become rich. d. Others contend that education only leads people to poverty.",
+      "options": {
+        "A": "a b c d",
+        "B": "a c b d",
+        "C": "c b d a",
+        "D": "c b a d"
+      },
+      "correct_answer": "B",
+      "explanation": "Logical flow: (a) Presents viewpoint 1 (education = success). (c) Supports viewpoint 1 (examples of rich educated people). (b) Supports viewpoint 1 (counterargument: struggling intellectuals). (d) Presents opposing viewpoint (education = poverty)."
+    },
+    {
+      "id": "eng_2017_natural_q74",
+      "question": "When put in the correct order, sentences (a - d) make up a complete paragraph. a. Three of their children are girls. b. His wife Wizero Mulu, is younger than him by 2 years. c. Ato Lemma and Wiro Mulu have four children. d. Ato Lemma is a thirty-year-old person in my community.",
+      "options": {
+        "A": "c b d a",
+        "B": "d b c a",
+        "C": "a c d b",
+        "D": "d c a b"
+      },
+      "correct_answer": "B",
+      "explanation": "Logical flow: (d) Introduces Ato Lemma. (b) Introduces his wife. (c) Discusses their children. (a) Details the children. Order: d → b → c → a."
+    },
+    {
+      "id": "eng_2017_natural_q75",
+      "question": "\"First of all, the death penalty should be only resort to killing people and spend the rest of their lives in jail. Moreover, if the death penalty committed against them would like to take revenge on the criminal and this makes chaos in society\". This is a paragraph writing that is most likely:",
+      "options": {
+        "A": "argumentative",
+        "B": "expository",
+        "C": "descriptive",
+        "D": "narrative"
+      },
+      "correct_answer": "A",
+      "explanation": "The paragraph argues against the death penalty with reasoning (revenge, chaos), aiming to persuade."
+    },
+    {
+      "id": "eng_2017_natural_q76",
+      "question": "\"Digestion begins in the mouth. This is called mechanical digestion as there is not any kind of chemical involved in the process. It is simply as the saliva is broken down into smaller pieces and the food is swallowed. The other type of digestion is chemical digestion. It is in the stomach that this digestion takes place.\" This paragraph is most likely taken from:",
+      "options": {
+        "A": "argumentative",
+        "B": "expository",
+        "C": "descriptive",
+        "D": "narrative"
+      },
+      "correct_answer": "B",
+      "explanation": "The paragraph explains a process (digestion) factually without persuasion or description."
+    },
+    {
+      "id": "eng_2017_natural_q77",
+      "question": "\"Eden is in her late twenties. She is of medium height. She has an average weight that fits her height. She respects people, and she is very polite and friendly.\" Which of the following paragraph writing types is the above sentences most likely?",
+      "options": {
+        "A": "Descriptive",
+        "B": "Argumentative",
+        "C": "Expository",
+        "D": "Narrative"
+      },
+      "correct_answer": "A",
+      "explanation": "The paragraph describes Eden's physical traits and personality (height, weight, politeness)."
+    },
+    {
+      "id": "eng_2017_natural_q78",
+      "question": "The part indicated by number 3 is: (Application Letter: 'I am looking forward to hearing from you. Sincerely, Dewit Hibru')",
+      "options": {
+        "A": "a greeting",
+        "B": "closing statement",
+        "C": "salutation",
+        "D": "body of the letter"
+      },
+      "correct_answer": "B",
+      "explanation": "\"I am looking forward to hearing from you\" is a standard closing line before the sign-off."
+    },
+    {
+      "id": "eng_2017_natural_q79",
+      "question": "The part indicated by number 2 is: (Application Letter: 'I am a polytechnic graduate... I have worked as a mechanic... I am now applying for the post...')",
+      "options": {
+        "A": "greeting",
+        "B": "closing statement",
+        "C": "salutation",
+        "D": "body of the letter"
+      },
+      "correct_answer": "D",
+      "explanation": "This section contains the main content (qualifications, experience, job application)."
+    },
+    {
+      "id": "eng_2017_natural_q80",
+      "question": "The part indicated by number 1 is: (Application Letter: 'Dear sir,')",
+      "options": {
+        "A": "closing statement",
+        "B": "salutation",
+        "C": "body of the letter",
+        "D": "subject"
+      },
+      "correct_answer": "B",
+      "explanation": "\"Dear sir,\" is the greeting addressing the recipient."
+    },
+    {
+      "id": "eng_2017_natural_q81",
+      "question": "Lensa: My spoken English is really horrible; ______\nZemzem: Practice speaking every day in front of your friends.",
+      "options": {
+        "A": "why you learn English",
+        "B": "do you like English",
+        "C": "what is yours like",
+        "D": "what should I do"
+      },
+      "correct_answer": "D",
+      "explanation": "Lensa expresses a problem (\"My spoken English is horrible\") and seeks advice. Zemzem responds with a solution (\"Practice speaking...\")."
+    },
+    {
+      "id": "eng_2017_natural_q82",
+      "question": "Student: ______\nTeacher: Yes. This will be our tomorrow's lesson.",
+      "options": {
+        "A": "Could you explain to me about active and passive voices?",
+        "B": "When do you teach us about active and passive voices?",
+        "C": "Who knows about active and passive voices?",
+        "D": "You could learn active and passive voices."
+      },
+      "correct_answer": "B",
+      "explanation": "The teacher confirms the topic will be covered tomorrow. Option B asks about timing, aligning with the response."
+    },
+    {
+      "id": "eng_2017_natural_q83",
+      "question": "Friend: What do you think unemployment will be like in the future?\nYou:",
+      "options": {
+        "A": "I am sure today's children won't expect a job from the government",
+        "B": "In my opinion, none of a working age will be unemployed",
+        "C": "I think unemployment is a universal problem these days",
+        "D": "Think about today; tomorrow is another day"
+      },
+      "correct_answer": "B",
+      "explanation": "The friend asks about the future of unemployment. Option B gives a direct, optimistic prediction about the future (\"none will be unemployed\")."
+    },
+    {
+      "id": "eng_2017_natural_q84",
+      "question": "Teacher: ______\nParent: You are right, wearing a uniform should be compulsory for class attendance.",
+      "options": {
+        "A": "Isn't it very disappointing to see students in the classroom without their uniform",
+        "B": "Is it very disappointing to see students in the classroom without their uniform",
+        "C": "When do we see students in the classroom without their uniform",
+        "D": "Why do we see students in the classroom without their uniform"
+      },
+      "correct_answer": "A",
+      "explanation": "The parent agrees with the teacher (\"You are right\"). Option A uses a rhetorical question to express disapproval, prompting agreement."
+    },
+    {
+      "id": "eng_2017_natural_q85",
+      "question": "Husband: Six people died and three were injured in a car accident today.\nWife: Has the cause been known? ______",
+      "options": {
+        "A": "Look after yourself on the road.",
+        "B": "Never trust a car driver.",
+        "C": "What a terrible news!",
+        "D": "I am sorry."
+      },
+      "correct_answer": "C",
+      "explanation": "The wife reacts to tragic news and asks for details. Option C shows shock/sympathy (\"What terrible news!\"), fitting the context."
+    },
+    {
+      "id": "eng_2017_natural_q86",
+      "question": "Abeya: I think that education is the only way to live a better life?\nTemesgen: True, but I should say ______",
+      "options": {
+        "A": "going to college is not mandatory",
+        "B": "perhaps we need to learn further",
+        "C": "perhaps it is one among the few",
+        "D": "going to college is simple"
+      },
+      "correct_answer": "C",
+      "explanation": "Temesgen agrees (\"True\") but challenges Abeya's claim that education is the \"only\" way. Option C suggests there are multiple paths (\"one among the few\")."
+    },
+    {
+      "id": "eng_2017_natural_q87",
+      "question": "Neighbor: Today's youths have a much wider access to information than those who lived in the past.\nFather: Yes, but ______",
+      "options": {
+        "A": "it's good to remember those who lived in the past were less intelligent",
+        "B": "the trouble is they are indiscriminate in their choice of information",
+        "C": "we should appreciate the unlimited interest of today's youth",
+        "D": "the main point is they do not read all that comes their way"
+      },
+      "correct_answer": "B",
+      "explanation": "The father agrees (\"Yes\") but adds a drawback (\"but...\"). Option B criticizes youths' lack of discernment, balancing the neighbor's praise."
+    },
+    {
+      "id": "eng_2017_natural_q88",
+      "question": "Teacher: Tell me the reasons why learning English is important to you.\nStudent: ______",
+      "options": {
+        "A": "To begin with, English is a compulsory school subject",
+        "B": "As a matter of fact, we learn English five days a week",
+        "C": "Believe it or not, my written English is very good",
+        "D": "Firstly, English is not my favourite school subject"
+      },
+      "correct_answer": "A",
+      "explanation": "The teacher asks for reasons. Option A starts a logical list (\"To begin with...\") and gives a valid reason (compulsory subject)."
+    },
+    {
+      "id": "eng_2017_natural_q89",
+      "question": "Mother: Why are you going so early today?\nDaughter: Mom. ______",
+      "options": {
+        "A": "Nobody said it is early",
+        "B": "Mind your own business",
+        "C": "In order to get a front seat",
+        "D": "It is not very early"
+      },
+      "correct_answer": "C",
+      "explanation": "The mother asks for a reason (\"Why...?\"). Option C explains the purpose (\"In order to...\")."
+    },
+    {
+      "id": "eng_2017_natural_q90",
+      "question": "Husband: Where would you like us to go for dinner?\nWife: I like their French toast.",
+      "options": {
+        "A": "How about trying Haile Grand Hotel?",
+        "B": "I do not have enough money for dinner.",
+        "C": "I do not care about dinner tonight.",
+        "D": "Is your sister going with us?"
+      },
+      "correct_answer": "A",
+      "explanation": "The wife suggests a place and mentions liking their French toast (\"their\" implies a specific venue). Option A proposes a hotel, fitting her follow-up comment."
+    },
+    {
+      "id": "eng_2017_natural_q91",
+      "question": "Ararso: What is your opinion about the need for college education?\nJirata: ______",
+      "options": {
+        "A": "What is the requirement to join college?",
+        "B": "I feel certain that it's absolutely necessary.",
+        "C": "None of my children joined college.",
+        "D": "I think I've a good idea about it."
+      },
+      "correct_answer": "B",
+      "explanation": "Ararso asks for an opinion. Option B gives a clear, confident view (\"absolutely necessary\")."
+    },
+    {
+      "id": "eng_2017_natural_q92",
+      "question": "Mother: Tell me why schools are closed in Kiremt in Ethiopia.\nDaughter: ______",
+      "options": {
+        "A": "Did you learn year- long yourself?",
+        "B": "Nobody likes going to school.",
+        "C": "I hate Kiremt, Mom.",
+        "D": "I haven't any clue, Mom."
+      },
+      "correct_answer": "D",
+      "explanation": "The mother asks for a reason. Option D honestly admits lack of knowledge."
+    },
+    {
+      "id": "eng_2017_natural_q93",
+      "question": "Ahmed: ______\nSamson: You know why? He is such a funny boy that he makes everyone laugh.",
+      "options": {
+        "A": "Do you like to sit next to Solomon in the classroom",
+        "B": "Where do many students like to sit in the classroom",
+        "C": "Why do many students like to sit next to Solomon",
+        "D": "Is Solomon a funny boy"
+      },
+      "correct_answer": "C",
+      "explanation": "Samson explains why students sit next to Solomon (\"he makes everyone laugh\"). Option C asks for the reason (\"Why?\")."
+    },
+    {
+      "id": "eng_2017_natural_q94",
+      "question": "Kidist: ______\nHana: With sugar, please.",
+      "options": {
+        "A": "Would you prefer your coffee with or without sugar",
+        "B": "How much sugar do you like in your coffee",
+        "C": "Is it good to drink coffee without sugar",
+        "D": "Do you like your coffee with sugar"
+      },
+      "correct_answer": "A",
+      "explanation": "Hana chooses an option (\"With sugar\"). Option A offers a choice (\"with or without\")."
+    },
+    {
+      "id": "eng_2017_natural_q95",
+      "question": "Student: Today, I'm interviewing Business Managers to give me some idea about the field. Let me begin by ______\nManager: To put it simply, I joined the department because I wanted to learn how to run my own business.",
+      "options": {
+        "A": "asking you how you decided to study business management",
+        "B": "telling you the history of the field in our context",
+        "C": "telling you a few important things about the field",
+        "D": "explaining job opportunities in the field"
+      },
+      "correct_answer": "A",
+      "explanation": "The manager explains their personal reason for joining the field (\"I joined because...\"). Option A asks about their decision."
+    },
+    {
+      "id": "eng_2017_natural_q96",
+      "question": "Father: ______\nMother: He did not get full mark on his English exam.",
+      "options": {
+        "A": "Why is Zena crying",
+        "B": "How is Zena crying",
+        "C": "Who is crying Zena",
+        "D": "When is Zena crying"
+      },
+      "correct_answer": "A",
+      "explanation": "The mother gives a reason (\"He did not get full marks\"). Option A asks for a reason (\"Why?\")."
+    },
+    {
+      "id": "eng_2017_natural_q97",
+      "question": "Lilu: ______\nMaria: I'm sorry; I'm a stranger too.",
+      "options": {
+        "A": "Could you tell me where the director's office is?",
+        "B": "Hi, you know the director's office, don't you?",
+        "C": "Where is the director's office, if I may ask?",
+        "D": "I am sorry to say that, but I got lost."
+      },
+      "correct_answer": "A",
+      "explanation": "Maria cannot help because she is a \"stranger.\" Option A is a polite request for directions, justifying her apologetic response."
+    },
+    {
+      "id": "eng_2017_natural_q98",
+      "question": "Nuru: Well done, Daniel! You got an A grade on your Maths.\nDaniel: Really? ______",
+      "options": {
+        "A": "A good achievement, isn't it",
+        "B": "Thank you for the good news.",
+        "C": "I'm glad you liked it.",
+        "D": "Nice work, isn't it?"
+      },
+      "correct_answer": "B",
+      "explanation": "Daniel reacts to praise and good news. Option B thanks Nuru appropriately."
+    },
+    {
+      "id": "eng_2017_natural_q99",
+      "question": "Friend: I'm almost blind in the dark. ______\nYou: Don't worry about it.",
+      "options": {
+        "A": "Will you forgive me for stepping on your foot?",
+        "B": "I shouldn't have stepped on your foot.",
+        "C": "Excuse me for stepping on your foot.",
+        "D": "Did I step on your foot?"
+      },
+      "correct_answer": "C",
+      "explanation": "The friend apologizes for an accident (stepping on a foot) and explains (\"blind in the dark\"). Option C is a direct apology."
+    },
+    {
+      "id": "eng_2017_natural_q100",
+      "question": "Daughter: I think brilliant students should be exempted from cost-sharing.\nMother: ______ money shouldn't be a reward for good work.",
+      "options": {
+        "A": "No, I don't accept this foolish idea",
+        "B": "I am afraid I can't agree",
+        "C": "This is stupid",
+        "D": "Shut up"
+      },
+      "correct_answer": "B",
+      "explanation": "The mother disagrees politely and gives a reason (\"money shouldn't be a reward\"). Option B is respectful disagreement."
+    }
+  ]
 }
