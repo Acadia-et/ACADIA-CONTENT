@@ -1,305 +1,891 @@
 {
-  "metadata": {
-    "grade": "Grade 11",
-    "subject": "biology",
-    "unit_title": "Unit 1  BIOLOGY AND TECHNOLOGY"
-  },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Unit 1  BIOLOGY AND TECHNOLOGY",
-      "paragraphs": [
-        "The design and adaptation of many technologies   we utilize today imitated natural working systems. Many technologies have been imitating birds, bats, termites, spiders,",
-        "bees, ants and parts of human body since timeless.  The successful design of technologies This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 1  BIOLOGY AND TECHNOLOGY. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the biology curriculum.",
-        "from robotics to material sciences   was through imitating nature (Figure1.1). Figure 1.1 Nature imitated technologies and architectures Nature inspires scientists and engineers and serves as a reliable source of knowledge, ideas and",
-        "concepts from which technologies can be developed. Buildings were made through the imitation of the mound architecture of termites that have chimneys, constant temperature and humidity. Examples of technology that imitates nature: 1. Swallow nests have inspired the house building design. 2. Weaving technologies have been developed by studying the formation of spider webs. 3. Buildings have been made through the imitation of the mound architecture of termites. These buildings mimic termite mound architecture that has chimneys with constant temperature and humidity. An example is The East gate Center in Harare (Figure 1.2).",
-        "What are the technologies imitated from nature? Figure 1.2 Mound inspired architecture for the East Gate Building 4. The first heavy aircraft technology was designed by imitating birds. Aircraft engineers designed aircraft wings and their flight techniques by imitating the wings of birds and bats 5. Engineers imitating human eyes made the technology of photograph camera. 6. The movement of bio-robots was designed from the movement of kangaroo. 7. Injection needle technology was copied from mosquito proboscis (Figure 1.3).",
-        "Figure 1.3 Injection needle imitated from a mosquito’s proboscis 8. The sensors of electrical devices   were imitations of biological neurons. 9. A cutting saw was imitated from the nature of the sharp teeth of animals. 10.Synthetic bulletproof vests are imitations of the spin silks of spiders. 11.Ceramics are an imitation of the nature of crack-resistant shellfish exoskeleton. 12.A robotic arm was imitated from an elephant trunk (Figure 1.4). Termite’s mound East Gate Building",
-        "Proboscis Injection needle This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Unit 1  BIOLOGY AND TECHNOLOGY. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the biology curriculum."
-      ],
-      "definitions": [
-        [
-          "An example",
-          "concepts from which technologies can be developed. Buildings were made through the imitation of the mound architecture of termites that have chimneys, constant temperature and humidity. Examples of technology that imitates nature: 1. Swallow nests have inspired the house building design. 2. Weaving technologies have been developed by studying the formation of spider webs. 3. Buildings have been made through the imitation of the mound architecture of termites. These buildings mimic termite mound architecture that has chimneys with constant temperature and humidity. An example is The East gate Center in Harare (Figure 1.2)."
-        ],
-        [
-          "What",
-          "What are the technologies imitated from nature? Figure 1.2 Mound inspired architecture for the East Gate Building 4. The first heavy aircraft technology was designed by imitating birds. Aircraft engineers designed aircraft wings and their flight techniques by imitating the wings of birds and bats 5. Engineers imitating human eyes made the technology of photograph camera. 6. The movement of bio-robots was designed from the movement of kangaroo. 7. Injection needle technology was copied from mosquito proboscis (Figure 1.3)."
-        ],
-        [
-          "Synthetic bulletproof vests",
-          "Figure 1.3 Injection needle imitated from a mosquito’s proboscis 8. The sensors of electrical devices   were imitations of biological neurons. 9. A cutting saw was imitated from the nature of the sharp teeth of animals. 10.Synthetic bulletproof vests are imitations of the spin silks of spiders. 11.Ceramics are an imitation of the nature of crack-resistant shellfish exoskeleton. 12.A robotic arm was imitated from an elephant trunk (Figure 1.4). Termite’s mound East Gate Building"
+  "subject": "English",
+  "chapter": "Chapter 1: Study Skills",
+  "stream": "Common (Natural & Social Science)",
+  "shortNote": {
+    "section1": {
+      "title": "Note-Taking Skills",
+      "introduction": "Note-taking is a critical academic skill that transforms spoken information into a permanent record for learning and revision. This section provides detailed strategies, techniques, and language tools for effective note-taking.",
+      
+      "howTo": {
+        "title": "HOW TO TAKE EFFECTIVE NOTES: A Step-by-Step Guide",
+        "steps": [
+          {
+            "step": "Step 1: Prepare Before the Lecture",
+            "actions": [
+              "Read the assigned material in advance to build background knowledge",
+              "Review previous notes to connect new information",
+              "Bring necessary materials: notebook, pens, highlighters",
+              "Arrive early to choose a seat near the front",
+              "Set specific goals: 'Today I will understand the main argument'"
+            ],
+            "example": "Before a psychology lecture on memory, read the textbook chapter on memory models and prepare questions like 'How does short-term memory work?'"
+          },
+          {
+            "step": "Step 2: Listen Actively During the Lecture",
+            "actions": [
+              "Focus on the introduction to understand the lecture structure",
+              "Watch for verbal and non-verbal cues from the lecturer",
+              "Identify the main argument and supporting evidence",
+              "Pay attention to repetition, tone changes, and pauses",
+              "Write down the topic, lecturer name, and date"
+            ],
+            "example": "When the lecturer says 'This is important' or 'The key point is...' immediately note that information. Watch for changes in voice volume or writing on the board."
+          },
+          {
+            "step": "Step 3: Record Key Information Efficiently",
+            "actions": [
+              "Write main points only - not everything said",
+              "Use words and phrases instead of complete sentences",
+              "Employ abbreviations and symbols to write faster",
+              "Leave space between sections for later additions",
+              "Number main points and indent sub-points",
+              "Use bullet points, arrows, or diagrams to show relationships"
+            ],
+            "example": "Instead of writing 'The professor said that memory is divided into three main types,' write '3 memory types: sensory, short-term, long-term'"
+          },
+          {
+            "step": "Step 4: Review and Revise After the Lecture",
+            "actions": [
+              "Review notes within 24 hours while memory is fresh",
+              "Fill in missing details while you still remember them",
+              "Highlight key concepts and important definitions",
+              "Summarize the main points in your own words",
+              "Add questions for further clarification",
+              "Organize notes into a logical structure"
+            ],
+            "example": "After a psychology lecture, add a diagram showing the relationship between sensory, short-term, and long-term memory. Write a one-sentence summary: 'Memory has three main stages.'"
+          }
         ]
-      ],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Unit 1  BIOLOGY AND TECHNOLOGY: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how biology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Unit 1  BIOLOGY AND TECHNOLOGY",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in biology",
-            "Explanatory Context"
+      },
+      
+      "abbreviationSystem": {
+        "title": "Note-Taking Abbreviation System",
+        "description": "Develop a consistent system of abbreviations to increase note-taking speed.",
+        "table": {
+          "headers": ["Category", "Symbol", "Meaning", "Example"],
+          "rows": [
+            ["Mathematics/Logic", "=", "Equals, is the same as", "Learning = knowledge acquisition"],
+            ["Mathematics/Logic", "≠", "Does not equal, different from", "Hearing ≠ listening"],
+            ["Mathematics/Logic", "→", "Leads to, causes, results in", "Practice → improvement"],
+            ["Mathematics/Logic", "↑", "Increase, go up", "Distractions ↑ → notes ↓"],
+            ["Mathematics/Logic", "↓", "Decrease, go down", "Focus ↓ → understanding ↓"],
+            ["Mathematics/Logic", "&", "And", "Reading & note-taking"],
+            ["Mathematics/Logic", "+", "Plus, in addition", "Review + practice = success"],
+            ["Mathematics/Logic", ">", "Greater than, more important", "Main points > details"],
+            ["Mathematics/Logic", "<", "Less than, less important", "Minor details < main points"],
+            ["Standard Abbreviations", "e.g.", "For example", "Many subjects, e.g., biology, chemistry"],
+            ["Standard Abbreviations", "i.e.", "That is, in other words", "Active reading, i.e., reading with purpose"],
+            ["Standard Abbreviations", "vs.", "Versus, against", "Active listening vs. passive listening"],
+            ["Standard Abbreviations", "w/", "With", "Study w/ a group"],
+            ["Standard Abbreviations", "w/o", "Without", "Study w/o distractions"],
+            ["Standard Abbreviations", "info", "Information", "Important info"],
+            ["Standard Abbreviations", "ex.", "Example", "Ex.: note-taking"],
+            ["Text-Based", "→", "Therefore, so", "Review often → remember more"],
+            ["Text-Based", "??", "Question, unclear", "?? memory model unclear"],
+            ["Text-Based", "!", "Important, key point", "! Don't write everything"],
+            ["Text-Based", "*", "Key definition", "* memory: retention of info"]
           ]
-        ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_1.jpeg",
-      "image_caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 1"
+        },
+        "passage": "Developing a personal abbreviation system dramatically increases your note-taking speed. The most effective systems combine standard abbreviations (like 'e.g.' and 'vs.') with symbols you create yourself. Consistency is key: once you decide that → means 'leads to,' always use it that way. In academic settings, common abbreviations include 'w/' for 'with,' 'w/o' for 'without,' and 'info' for 'information.' Mathematics symbols like '=' and '≠' can also represent comparative relationships. The goal is not to create a new language but to save enough time to capture the main ideas without falling behind the lecturer's speaking pace. Remember that your notes must be understandable to you, so personalize your abbreviation system based on what works best for your learning style."
+      },
+      
+      "lectureCues": {
+        "title": "Recognizing Lecture Cues",
+        "description": "Lecturers often provide verbal and non-verbal cues to indicate what information is important.",
+        "table": {
+          "headers": ["Type of Cue", "Examples", "What It Signals", "How to Respond"],
+          "rows": [
+            ["Verbal Cues", "\"This is important\", \"Remember this\", \"The key point is\"", "Critical information for exams", "Write it down clearly, mark with an asterisk (*)"],
+            ["Verbal Cues", "\"First\", \"Second\", \"Finally\"", "Structured sequence of ideas", "Number these items in your notes"],
+            ["Verbal Cues", "\"In contrast\", \"Similarly\"", "Comparisons or contrasts", "Note the relationship between ideas"],
+            ["Verbal Cues", "\"For example\", \"For instance\"", "Illustration of a concept", "Include the example to understand the concept better"],
+            ["Verbal Cues", "\"To conclude\", \"In summary\"", "Summary of main ideas", "This is the most important information - write it down completely"],
+            ["Verbal Cues", "Repetition of a phrase", "High importance", "Repetition usually indicates something you need to know"],
+            ["Non-Verbal Cues", "Writing on the board", "Key information", "Copy everything the lecturer writes"],
+            ["Non-Verbal Cues", "Changing tone/volume", "Emphasis", "Adjust to the shift - the emphasized part is important"],
+            ["Non-Verbal Cues", "Pausing", "Letting information sink in", "This information deserves special attention"],
+            ["Non-Verbal Cues", "Hand gestures", "Emphasis on key points", "Watch for gestures that draw attention"]
+          ]
+        },
+        "passage": "Effective note-takers are skilled at recognizing cues from the lecturer. Verbal cues include explicit statements like 'This is important' or implicit ones like repetition. When a lecturer repeats a concept in different words, this is a strong signal that the idea is significant. Non-verbal cues are equally important: writing on the board, changing tone, pausing for emphasis, or using hand gestures all indicate key points. Expert note-takers actively watch for these cues and adjust their note-taking accordingly. For example, when the lecturer pauses after stating a concept, this suggests that the idea deserves special attention. Students who are aware of these cues can write notes that are more complete and better organized, focusing their effort on what really matters rather than trying to record everything the lecturer says."
+      }
     },
-    {
-      "title": "UNIT 1: BIOLOGY & TECHNOLOGY",
-      "paragraphs": [
-        "Figure 1.4 Robotic arms imitated from elephant trunk Lab activity 1.1 Construction of models imitating nature Construct a model of a human hand to imitate nature. Materials  Locally available resources Procedure Construct a human hand model with jointed finger structures",
-        "Paint the model with pertinent color Assessments 1. How closely does your model hand match a natural human hand?' 2. What is missing in imitating the model to full function of human hand? 3. What other technologies could be developed by imitating the nature and produce other technologies?",
-        "1.2 Biology and technology Biology is the study of life: the structures, functions, growth, origins, evolution and distribution of living organisms. Technology is the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations. The blend of biology and technology forms biotechnology, which is a technology that utilizes biological systems to develop useful products. Biotechnology is the integration of natural and",
-        "engineering sciences to achieve the application of organisms, cells, parts and molecular analogues for products and services. Examples: people use yeasts to produce bread and beer. 1.2.1 The benefits of biology to technology There are many benefits of biology to technology. Biology is a source of materials that enable us to imitate, design, adapt and develop modern technologies and solve complex human problems. The diversity of nature stimulates the development of new technologies. Scientists and engineers imitate nature to innovate, problem solve and expand their scientific understanding. Here are just a few examples of the benefits of biology to technology:",
-        "1. Medicinal plants: Many biochemical substances in plants have been used to develop medicines. Scientists have imitated nature to develop artificial versions of the these biochemical substances. 2. Gene engineering and biosynthetic materials: Scientists have imitated the nature of human, animal and plant genes. The uses of imitating genes include gene engineering to After the successful completion of this section, the student will be able to: Describe the use of technology in",
-        "biology Explain biology and technology Explain the benefits of biology to technology What does the coupling of biology and technology form? Self-questioning Before starting this section, ask",
-        "yourself this question “What do I know about the role of biology in technology and technology in biology, and what do I want to learn from this section?” What does the blend of biology and technology form?"
-      ],
-      "definitions": [
-        [
-          "What",
-          "Paint the model with pertinent color Assessments 1. How closely does your model hand match a natural human hand?' 2. What is missing in imitating the model to full function of human hand? 3. What other technologies could be developed by imitating the nature and produce other technologies?"
-        ],
-        [
-          "Biology and technology Biology",
-          "1.2 Biology and technology Biology is the study of life: the structures, functions, growth, origins, evolution and distribution of living organisms. Technology is the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations. The blend of biology and technology forms biotechnology, which is a technology that utilizes biological systems to develop useful products. Biotechnology is the integration of natural and"
-        ],
-        [
-          "of biology to technology There",
-          "engineering sciences to achieve the application of organisms, cells, parts and molecular analogues for products and services. Examples: people use yeasts to produce bread and beer. 1.2.1 The benefits of biology to technology There are many benefits of biology to technology. Biology is a source of materials that enable us to imitate, design, adapt and develop modern technologies and solve complex human problems. The diversity of nature stimulates the development of new technologies. Scientists and engineers imitate nature to innovate, problem solve and expand their scientific understanding. Here are just a few examples of the benefits of biology to technology:"
-        ]
-      ],
-      "key_points": [
-        "Primary takeaway for UNIT 1: BIOLOGY & TECHNOLOGY: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how biology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of UNIT 1: BIOLOGY & TECHNOLOGY",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in biology",
-            "Explanatory Context"
+    
+    "section2": {
+      "title": "Grammar: Modals and Infinitives for Giving Advice",
+      "introduction": "Modals are auxiliary verbs that express attitude, possibility, necessity, or obligation. Infinitives are the base form of verbs. This section provides a comprehensive guide to using modals and infinitives for giving advice, with detailed explanations and numerous examples.",
+      
+      "grammarOverview": {
+        "definition": "Modals are special verbs that do not change form (no -s, -ed, -ing) and are followed by the base form of the main verb. They express the speaker's attitude toward the action or situation.",
+        "structure": "Subject + Modal + Base Verb (infinitive without 'to')",
+        "example": "You should study. (NOT: You should to study.)"
+      },
+      
+      "modalComparison": {
+        "title": "Detailed Modal Comparison: Strength and Usage",
+        "table": {
+          "headers": ["Modal", "Strength", "Meaning", "Usage Context", "Example"],
+          "rows": [
+            ["Must", "Very Strong", "Absolute necessity or requirement", "Rules, laws, essential obligations", "\"You must submit your assignment on time.\""],
+            ["Had Better", "Very Strong", "Strong advice with warning of consequences", "Serious consequences, urgent situations", "\"You had better start studying or you will fail.\""],
+            ["Ought To", "Strong", "Moral obligation or what is right", "Advice about what is correct or expected", "\"You ought to respect your professors.\""],
+            ["Should", "Strong", "Best action or recommendation", "General advice, common recommendations", "\"You should review your notes after lectures.\""],
+            ["Need To", "Strong", "Necessity", "Important requirements", "\"You need to attend all laboratory sessions.\""],
+            ["Be Supposed To", "Medium", "Expected or required", "What is customary or expected", "\"You are supposed to read before the lecture.\""],
+            ["Could", "Medium", "Possibility or suggestion", "Possible actions, polite suggestions", "\"You could try studying in the library.\""],
+            ["Might Want To", "Weak", "Suggestion or option", "Gentle, non-pressuring advice", "\"You might want to discuss this with the instructor.\""]
           ]
+        }
+      },
+      
+      "modalUsageGuide": {
+        "title": "MODAL USAGE GUIDE: Detailed Explanation and Examples",
+        
+        "should": {
+          "title": "SHOULD: General Recommendation",
+          "definition": "Used to give advice that is generally recommended. It expresses what is best or right to do in most situations.",
+          "structure": "Subject + should + base verb",
+          "negative": "Subject + should not (shouldn't) + base verb",
+          "question": "Should + subject + base verb?",
+          "examples": [
+            {"sentence": "Students should attend all lectures to understand the material fully.", "explanation": "This is a general recommendation for all students."},
+            {"sentence": "You should not procrastinate your assignments.", "explanation": "This advises against a common mistake."},
+            {"sentence": "Should I take notes on everything the lecturer says?", "explanation": "This asks for advice on the appropriate action."}
+          ],
+          "passage": "'Should' is the most common modal for giving advice in academic contexts. It suggests that the speaker has considered the situation and has concluded that a particular action is the most appropriate. Unlike 'must,' which expresses absolute requirement, 'should' allows for some flexibility. Students might hear 'should' in various contexts: instructors advising on study practices ('Students should review their notes daily'), peers giving advice ('You should join the study group'), and in written guidance ('Reading materials should be read before class'). Understanding this distinction helps students interpret advice correctly. While 'should' represents the ideal action, it acknowledges that there may be exceptions or alternative approaches."
+        },
+        
+        "oughtTo": {
+          "title": "OUGHT TO: Moral Obligation and Expectation",
+          "definition": "Similar to 'should' but slightly more formal and often used when discussing moral obligation, expectations, or what is socially appropriate.",
+          "structure": "Subject + ought to + base verb",
+          "negative": "Subject + ought not to + base verb (less common)",
+          "question": "Ought + subject + to + base verb? (rare in modern English)",
+          "examples": [
+            {"sentence": "You ought to treat your classmates with respect.", "explanation": "This expresses a moral expectation in academic settings."},
+            {"sentence": "Students ought to arrive on time for lectures.", "explanation": "This expresses what is expected and appropriate."},
+            {"sentence": "You ought not to plagiarize your assignments.", "explanation": "This expresses the expected ethical standard."}
+          ],
+          "passage": "'Ought to' is a formal alternative to 'should' that carries a slightly stronger sense of obligation or moral duty. In academic settings, it is often used to discuss ethical standards, institutional expectations, and professional behavior. For example, a university handbook might state that 'Students ought to maintain academic integrity' to emphasize the moral imperative. Unlike 'should,' which is used in everyday conversation, 'ought to' appears more frequently in formal contexts like academic writing, official policies, and professional guidance. The phrase 'ought to' can also express what is expected due to circumstances, as in 'You ought to understand this by now,' suggesting that the listener has had enough time or instruction to reach a particular level of understanding."
+        },
+        
+        "hadBetter": {
+          "title": "HAD BETTER: Urgent Advice with Consequences",
+          "definition": "Used when the advice is very important and there will be negative consequences if the advice is not followed. It expresses urgency and necessity.",
+          "structure": "Subject + had better + base verb",
+          "negative": "Subject + had better not + base verb",
+          "question": "Had + subject + better + base verb? (rare)",
+          "examples": [
+            {"sentence": "You had better start revising for your final exams.", "explanation": "This is urgent advice because exams are coming soon."},
+            {"sentence": "You had better not miss the submission deadline.", "explanation": "There will be negative consequences if you submit late."},
+            {"sentence": "We had better arrive early to get good seats.", "explanation": "This expresses the importance and urgency of arriving early."}
+          ],
+          "passage": "'Had better' is the strongest form of advice, conveying urgency and warning of potential negative outcomes. Students should understand that 'had better' is not just a recommendation but a warning: if you don't follow the advice, you will face consequences. In academic contexts, this might apply to deadlines ('You had better submit your assignment on time'), attendance policies ('You had better attend the mandatory sessions'), or exam preparation ('You had better study the chapters that will be covered'). The negative form, 'had better not,' is used to emphasize what should be avoided, as in 'You had better not plagiarize or you will face serious consequences.' Because of its strength, 'had better' is often used in conversations between people who have a relationship where strong advice is appropriate, such as between advisors and students, or among close peers."
+        },
+        
+        "needTo": {
+          "title": "NEED TO: Expressing Necessity",
+          "definition": "Used to express that something is necessary or essential. It can function as both a modal and a main verb.",
+          "structure": "Subject + need to + base verb",
+          "negative": "Subject + do not (don't) need to + base verb",
+          "question": "Do/Does + subject + need to + base verb?",
+          "examples": [
+            {"sentence": "You need to complete all required courses to graduate.", "explanation": "This expresses a graduation requirement."},
+            {"sentence": "We don't need to attend the optional workshop.", "explanation": "The workshop is not mandatory."},
+            {"sentence": "Do I need to register for the exam separately?", "explanation": "This asks if registration is required."}
+          ],
+          "passage": "'Need to' expresses necessity and is often interchangeable with 'must' but is more common in modern English. While 'must' is often used for rules and laws, 'need to' is frequently used for personal or situational necessity. In academic contexts, 'need to' is used for requirements, prerequisites, and essential actions. For example, 'You need to have completed the prerequisite course before taking this one.' The negative form, 'don't need to,' indicates something is not necessary, as opposed to 'must not,' which is a prohibition. Unlike modals, 'need' can change form for third person singular ('needs to') and can be used in past tense ('needed to'), making it more versatile in academic writing."
+        },
+        
+        "infinitives": {
+          "title": "INFINITIVES: Direct Instructions",
+          "definition": "Infinitives are the base form of verbs, often with 'to' but sometimes without. They can give direct, clear advice without using a modal.",
+          "structure": "Base verb (without 'to') for direct instructions",
+          "examples": [
+            {"sentence": "Sit near the front during lectures.", "explanation": "This is a direct instruction for better visibility and focus."},
+            {"sentence": "Review your notes as soon as possible after the lecture.", "explanation": "A direct instruction to improve retention."},
+            {"sentence": "Write down the main points only, not everything said.", "explanation": "A direct instruction for effective note-taking."},
+            {"sentence": "Use abbreviations to increase note-taking speed.", "explanation": "A direct instruction for efficiency."}
+          ],
+          "passage": "Infinitives provide direct, clear advice without the need for a modal verb. They are common in instruction manuals, guidelines, and lists of recommendations. The structure is simple: use the base form of the verb to give a direct instruction. In academic contexts, infinitives are often used in handouts, guidelines, and classroom instructions. For example, a professor might say 'Read chapter three before the next class' or 'Complete the assignment by Friday.' Infinitives are particularly effective when giving a series of instructions, as they create a clear, concise list of actions to follow. Unlike modals, which express the speaker's attitude, infinitives simply state what should be done, making them ideal for procedural guidance."
+        }
+      },
+      
+      "practiceExercises": {
+        "title": "PRACTICE EXERCISES: Modals and Infinitives",
+        
+        "exercise1": {
+          "title": "Fill in the Blanks",
+          "instructions": "Complete each sentence with the most appropriate modal: should, ought to, had better, need to, or an infinitive.",
+          "questions": [
+            {
+              "sentence": "You ________ complete your registration before the deadline.",
+              "answer": "need to / had better",
+              "explanation": "'Need to' expresses necessity; 'had better' expresses urgency with consequences."
+            },
+            {
+              "sentence": "Students ________ attend all laboratory sessions to pass the course.",
+              "answer": "must / need to",
+              "explanation": "'Must' or 'need to' express the requirement."
+            },
+            {
+              "sentence": "________ (Take) notes during lectures to improve retention.",
+              "answer": "Take",
+              "explanation": "Infinitive without 'to' gives a direct instruction."
+            },
+            {
+              "sentence": "You ________ not plagiarize or you will face serious consequences.",
+              "answer": "had better",
+              "explanation": "'Had better not' expresses a warning with consequences."
+            },
+            {
+              "sentence": "We ________ submit our assignments by Friday.",
+              "answer": "need to / should",
+              "explanation": "'Need to' expresses the requirement; 'should' expresses the expected action."
+            },
+            {
+              "sentence": "You ________ review your notes within 24 hours of the lecture.",
+              "answer": "should / ought to",
+              "explanation": "'Should' or 'ought to' gives a general recommendation."
+            },
+            {
+              "sentence": "________ (Bring) your textbook to class every day.",
+              "answer": "Bring",
+              "explanation": "Infinitive without 'to' gives a direct instruction."
+            },
+            {
+              "sentence": "Students ________ respect their instructors and classmates.",
+              "answer": "ought to / should",
+              "explanation": "'Ought to' expresses moral obligation; 'should' gives a recommendation."
+            }
+          ]
+        },
+        
+        "exercise2": {
+          "title": "Create Your Own Sentences",
+          "instructions": "Write original sentences giving advice on the following topics.",
+          "scenarios": [
+            {
+              "scenario": "A student is struggling with time management",
+              "modelAnswer": "You should create a study schedule. You had better stop procrastinating. You need to prioritize your assignments.",
+              "explanation": "Three different modals showing various levels of advice."
+            },
+            {
+              "scenario": "A student wants to improve their grades",
+              "modelAnswer": "You should review your notes daily. You ought to attend all tutorials. You had better start studying earlier for exams.",
+              "explanation": "Three different modals showing various advice approaches."
+            },
+            {
+              "scenario": "A student is distracted while studying",
+              "modelAnswer": "Find a quiet place to study. You should turn off your phone. You had better create a distraction-free environment.",
+              "explanation": "Combining infinitives and modals for complete advice."
+            },
+            {
+              "scenario": "A student wants to improve their English",
+              "modelAnswer": "You should practice speaking every day. You ought to read English newspapers. You need to learn new vocabulary regularly. Join an English club.",
+              "explanation": "Combining multiple modals and an infinitive for comprehensive advice."
+            }
+          ]
+        }
+      },
+      
+      "conversationalContexts": {
+        "title": "Modals in Academic Conversations",
+        "dialogues": [
+          {
+            "context": "Two students discussing exam preparation",
+            "dialogue": [
+              {"speaker": "Aman", "text": "I'm really worried about the final exam next week."},
+              {"speaker": "Muna", "text": "You should start reviewing now. You had better not wait until the last minute."},
+              {"speaker": "Aman", "text": "But I don't know where to begin."},
+              {"speaker": "Muna", "text": "You ought to start with the chapters that were emphasized in class. Also, you could form a study group."}
+            ],
+            "analysis": "This dialogue demonstrates how different modals are used in real conversation: 'should' for general advice, 'had better not' for a warning, 'ought to' for a recommendation, and 'could' for a suggestion."
+          },
+          {
+            "context": "A professor giving advice to a student",
+            "dialogue": [
+              {"speaker": "Professor", "text": "You need to improve your note-taking skills. The exams are very detailed."},
+              {"speaker": "Student", "text": "What should I do differently?"},
+              {"speaker": "Professor", "text": "You should focus on main ideas, not every word. You had better review your notes within 24 hours. Also, develop a system of abbreviations."}
+            ],
+            "analysis": "This dialogue shows formal advice in an academic setting: 'need to' emphasizes necessity, 'should' gives a general recommendation, and 'had better' expresses urgency about an important strategy."
+          },
+          {
+            "context": "A peer giving practical tips",
+            "dialogue": [
+              {"speaker": "Chaltu", "text": "I can't seem to understand the lecture material."},
+              {"speaker": "Tsedey", "text": "Read the chapter before the lecture. You'll understand much more."},
+              {"speaker": "Chaltu", "text": "That's a good idea. Anything else?"},
+              {"speaker": "Tsedey", "text": "You should sit near the front and turn off your phone. Also, you might want to record the lectures."}
+            ],
+            "analysis": "This dialogue shows informal peer advice: an infinitive gives a direct instruction, 'should' gives a general recommendation, and 'might want to' offers a gentle suggestion."
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_2.png",
-      "image_caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 2"
+      },
+      
+      "commonMistakes": {
+        "title": "Common Mistakes with Modals",
+        "table": {
+          "headers": ["Mistake", "Incorrect", "Correct", "Explanation"],
+          "rows": [
+            ["Using 'to' after modals", "\"You should to study.\"", "\"You should study.\"", "Modals are always followed by the base verb without 'to'"],
+            ["Using modals in all persons", "He musts study.", "He must study.", "Modals do not add -s or -ed"],
+            ["Using 'had better' without 'had'", "You better study.", "You had better study.", "The 'had' is always used in 'had better'"],
+            ["Confusing 'should' and 'must'", "\"You should submit by 5 PM.\" (when it's required)", "\"You must submit by 5 PM.\"", "'Must' is for absolute requirements; 'should' is for recommendations"],
+            ["Using 'ought to' in questions incorrectly", "Ought I to study?", "Should I study?", "'Ought to' is rarely used in questions"],
+            ["Using 'had better' in positive questions", "Had I better study?", "Should I study?", "Questions with 'had better' are uncommon and sound awkward"]
+          ]
+        }
+      }
     },
-    {
-      "title": "UNIT 1: BIOLOGY & TECHNOLOGY",
-      "paragraphs": [
-        "cure genetic conditions and the creation of biosynthetic materials to repair damaged body tissues. 3. Building design: Engineers have imitated the mound architecture of termites in the design of buildings with chimneys which have a constant temperature and humidity. 4. Bullet train design: The noses (front) of bullet trains have been designed by engineers imitating the shape of the beaks of kingfishers when they dive into water (Figure 1.5). Figure 1.5 Bullet train noses imitate the beak of a kingfisher",
-        "Inquiry activity This foundational concept establishes the governing principles of UNIT 1: BIOLOGY & TECHNOLOGY. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the biology curriculum."
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for UNIT 1: BIOLOGY & TECHNOLOGY: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how biology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
+    
+    "section3": {
+      "title": "Grammar: Present Perfect Tense",
+      "introduction": "The present perfect tense connects past actions to the present. This comprehensive guide covers formation, uses, contrast with past simple, and common applications in academic writing.",
+      
+      "grammarOverview": {
+        "definition": "The present perfect tense describes actions or states that occurred at some time in the past but have relevance to the present moment.",
+        "structure": "Subject + have/has + past participle (verb's third form)",
+        "timeExpressions": ["ever", "never", "already", "yet", "just", "since", "for", "recently", "lately"],
+        "example": "I have studied English for five years. (I started studying in the past and am still studying now.)"
+      },
+      
+      "formation": {
+        "title": "Present Perfect Formation: The Complete Guide",
+        "regularVerbs": [
+          {"verb": "work", "pastParticiple": "worked", "example": "I have worked hard this semester."},
+          {"verb": "study", "pastParticiple": "studied", "example": "She has studied every day."},
+          {"verb": "play", "pastParticiple": "played", "example": "They have played football after class."}
+        ],
+        "irregularVerbs": [
+          {"verb": "go", "pastParticiple": "gone", "example": "I have gone to the library."},
+          {"verb": "read", "pastParticiple": "read", "example": "You have read this book before."},
+          {"verb": "write", "pastParticiple": "written", "example": "He has written three essays."},
+          {"verb": "take", "pastParticiple": "taken", "example": "We have taken notes on the topic."},
+          {"verb": "see", "pastParticiple": "seen", "example": "I have seen that film."},
+          {"verb": "make", "pastParticiple": "made", "example": "She has made a schedule."},
+          {"verb": "know", "pastParticiple": "known", "example": "We have known each other for years."},
+          {"verb": "do", "pastParticiple": "done", "example": "They have done the assignment."}
+        ],
+        "passage": "The formation of the present perfect requires understanding both the auxiliary verb (have/has) and the past participle. The past participle of regular verbs is formed by adding -ed to the base form. Irregular verbs, however, have unique past participle forms that must be memorized. The choice between 'have' and 'has' depends on the subject: 'have' is used with I, you, we, they, and plural nouns; 'has' is used with he, she, it, and singular nouns. Contractions are common in spoken English: 'I've,' 'you've,' 'he's,' 'she's,' 'we've,' 'they've.' The negative form uses 'not' after the auxiliary verb: 'I have not (haven't) finished,' 'She has not (hasn't) started.' Questions invert the subject and auxiliary: 'Have you finished?' 'Has she arrived?'"
+      },
+      
+      "uses": {
+        "title": "Five Essential Uses of the Present Perfect Tense",
+        
+        "use1": {
+          "name": "Action with Present Result",
+          "description": "An action that happened in the past but has a result or consequence in the present.",
+          "structure": "Subject + have/has + past participle",
+          "examples": [
+            {"sentence": "I have lost my keys.", "explanation": "I lost them in the past, and the result is that I can't open the door now."},
+            {"sentence": "She has broken her leg.", "explanation": "She broke it in the past, and the result is that she can't walk now."},
+            {"sentence": "They have finished their assignment.", "explanation": "They finished it, and the result is that they can submit it now."},
+            {"sentence": "We have run out of time.", "explanation": "We ran out of time, and the result is that we can't finish now."},
+            {"sentence": "He has passed the exam.", "explanation": "He passed, and the result is that he can move to the next level now."}
           ],
-          [
-            "Core Component",
-            "Primary structural feature of UNIT 1: BIOLOGY & TECHNOLOGY",
-            "High Priority"
+          "passage": "This use emphasizes the present relevance of a past action. The focus is not on when the action happened but on its impact on the present moment. When students say 'I have finished my essay,' they are not just reporting a past action but indicating that the essay is now ready. Similarly, 'The teacher has posted the grades' means the grades are now available for viewing. This use is common when reporting current information or answering questions about present situations."
+        },
+        
+        "use2": {
+          "name": "Action Continuing to the Present",
+          "description": "Actions that started in the past and are still happening in the present.",
+          "structure": "Subject + have/has + past participle + (since/for + time)",
+          "examples": [
+            {"sentence": "I have lived in Addis for ten years.", "explanation": "I started living there ten years ago and still live there now."},
+            {"sentence": "She has studied English since 2015.", "explanation": "She started studying in 2015 and is still studying."},
+            {"sentence": "We have attended all lectures.", "explanation": "We started attending and are still continuing."},
+            {"sentence": "They have worked at the university for five years.", "explanation": "They started working there five years ago and still work there."},
+            {"sentence": "He has been a student since September.", "explanation": "He became a student in September and still is a student."}
           ],
-          [
-            "Secondary Mechanism",
-            "Associated process in biology",
-            "Explanatory Context"
+          "passage": "This use emphasizes the duration of an ongoing action or state. 'Since' is used with a specific point in time (since 2015, since Monday, since I was a child), while 'for' is used with a period of time (for ten years, for three weeks, for a long time). The action is still true in the present and continues into the future. In academic contexts, this use appears frequently: 'I have studied biology for two semesters' (I am still studying it), 'The professor has taught here since 2000' (she continues to teach), 'They have been in the same study group for months' (they are still together)."
+        },
+        
+        "use3": {
+          "name": "Experience at Some Time",
+          "description": "Experiences that have happened at some point in the past, with no specific time mentioned.",
+          "structure": "Subject + have/has + past participle + (ever/never/before)",
+          "examples": [
+            {"sentence": "I have never been to Lalibela.", "explanation": "This is an experience I have never had in my life so far."},
+            {"sentence": "Have you ever visited the National Museum?", "explanation": "This asks about a past experience without asking when."},
+            {"sentence": "She has traveled to many countries.", "explanation": "This describes an experience in her life."},
+            {"sentence": "We have seen this movie before.", "explanation": "This describes a previous experience."},
+            {"sentence": "They have never missed a lecture.", "explanation": "This describes their experience so far."}
+          ],
+          "passage": "This use focuses on life experiences rather than specific events. When asking questions like 'Have you ever studied abroad?' the speaker is asking about an experience at any time in the past, not about a specific event on a particular date. If the answer is 'Yes, I studied abroad in 2018,' the speaker switches to past simple because they are now providing the specific time. 'Ever' is used in questions and negative sentences ('Have you ever...?' 'I haven't ever...'), while 'never' is used in affirmative sentences with a negative meaning ('I have never...'). 'Before' is also common: 'I have read this book before.' In academic contexts, this use appears when discussing experiences: 'I have participated in research,' 'She has presented at conferences,' 'They have received various awards.'"
+        },
+        
+        "use4": {
+          "name": "Recently Completed Action",
+          "description": "Actions that were completed in the recent past, often with words like 'just,' 'already,' or 'yet.'",
+          "structure": "Subject + have/has + just/already + past participle",
+          "examples": [
+            {"sentence": "Ujulu has just cooked dinner.", "explanation": "She finished cooking very recently."},
+            {"sentence": "I have already finished my assignment.", "explanation": "I finished earlier than expected."},
+            {"sentence": "They have not submitted their project yet.", "explanation": "They haven't submitted up to now, but are expected to."},
+            {"sentence": "She has just arrived at the university.", "explanation": "She arrived very recently."},
+            {"sentence": "We have already completed the reading.", "explanation": "We finished it earlier than necessary."}
+          ],
+          "passage": "This use emphasizes the recency of an action or its completion ahead of expectation. 'Just' indicates that the action happened a very short time ago ('I've just finished my exam'). 'Already' indicates that the action happened earlier than expected ('He's already submitted his application'). 'Yet' is used in negative sentences and questions to indicate something that hasn't happened but is expected ('Have you finished yet?' 'I haven't started yet'). In academic contexts, this use is common in everyday conversation: 'I've just handed in my paper,' 'The professor has already graded the exams,' 'The results haven't been posted yet.'"
+        },
+        
+        "use5": {
+          "name": "Actions with Indefinite Frequency",
+          "description": "Actions that have happened multiple times or at various times in the past, with no specific dates.",
+          "structure": "Subject + have/has + past participle + (often/several times/many times)",
+          "examples": [
+            {"sentence": "I have read this book many times.", "explanation": "I've read it on multiple occasions."},
+            {"sentence": "She has visited the library several times this week.", "explanation": "She has made multiple visits this week."},
+            {"sentence": "We have discussed this topic frequently.", "explanation": "We've had this discussion multiple times."},
+            {"sentence": "They have attended conferences annually.", "explanation": "Attendance has happened each year."},
+            {"sentence": "He has asked that question before.", "explanation": "The question has been asked on a previous occasion."}
+          ],
+          "passage": "This use describes actions that have occurred multiple times or with some frequency over a period leading to the present. The emphasis is on the repeated nature of the action rather than specific instances. Expressions like 'many times,' 'several times,' 'frequently,' and 'often' are common with this use. For example, 'I have visited the lab many times this month' suggests multiple visits without specifying when each occurred. This is different from 'I visited the lab on Tuesday' (past simple, one specific time). In academic contexts, this use is common when discussing research findings: 'Researchers have studied this topic extensively,' 'The theory has been tested numerous times,' 'Students have raised this concern repeatedly.'"
+        }
+      },
+      
+      "presentPerfectVsPastSimple": {
+        "title": "Present Perfect vs. Past Simple: The Complete Comparison",
+        
+        "comparisonTable": {
+          "headers": ["Aspect", "Present Perfect", "Past Simple"],
+          "rows": [
+            ["Focus", "Action itself (not when)", "Specific time in the past"],
+            ["Connection to Present", "Action has present relevance", "Action is finished and in the past"],
+            ["Specific Time", "Cannot be used with specific past times", "Used with specific past times"],
+            ["Time Expressions", "ever, never, already, yet, since, for, just", "yesterday, last week, in 2019, ago"],
+            ["Question Example", "\"Have you ever visited Lalibela?\"", "\"When did you visit Lalibela?\""],
+            ["Answer Example", "\"I have visited Lalibela.\"", "\"I visited Lalibela in 2019.\""],
+            ["Duration Example", "\"I have studied here for two years.\"", "\"I studied here in 2020.\""],
+            ["Finished Action", "\"I have lost my keys.\" (still lost)", "\"I lost my keys yesterday.\" (lost then, perhaps found now)"],
+            ["News/Information", "\"The university has announced new policies.\"", "\"The university announced new policies last week.\""]
           ]
-        ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_3.png",
-      "image_caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 3"
+        },
+        
+        "detailedExplanation": {
+          "title": "When to Use Each Tense",
+          "passage": "The choice between present perfect and past simple depends on how the speaker views the action. Consider the speaker's perspective:\n\nUse Present Perfect when:\n1. The time is not important or not mentioned ('I have read this book.')\n2. The action has a result in the present ('I have lost my keys.')\n3. The action continues to the present ('I have lived here for five years.')\n4. You are talking about experiences ('Have you ever been to Lalibela?')\n5. You are giving news ('The results have been announced.')\n\nUse Past Simple when:\n1. The time is specific and mentioned ('I read this book last year.')\n2. The action happened at a specific time ('I went to Lalibela in 2019.')\n3. The action is completely finished ('I lived there for five years. [I don't live there now]')\n4. You are telling a story with a sequence of events ('I woke up, ate breakfast, and went to class.')\n5. You are asked about a specific time ('When did you meet her?')\n\nUnderstanding this distinction is crucial for academic writing. Research papers often use present perfect to describe previous studies ('Researchers have found that...') and past simple to describe the current study's specific procedures ('The participants were asked to...')"
+        },
+        
+        "timeExpressionGuide": {
+          "title": "Common Time Expressions",
+          "presentPerfect": {
+            "title": "Used with Present Perfect",
+            "expressions": [
+              {"expression": "already", "example": "I have already submitted my assignment."},
+              {"expression": "yet", "example": "I haven't submitted my assignment yet."},
+              {"expression": "just", "example": "I have just submitted my assignment."},
+              {"expression": "ever", "example": "Have you ever submitted a late assignment?"},
+              {"expression": "never", "example": "I have never submitted a late assignment."},
+              {"expression": "so far", "example": "I have submitted three assignments so far."},
+              {"expression": "up to now", "example": "Up to now, I have submitted three assignments."},
+              {"expression": "recently", "example": "I have recently started studying more."},
+              {"expression": "lately", "example": "I have been very busy lately."},
+              {"expression": "since (point in time)", "example": "I have studied since 2020."},
+              {"expression": "for (duration)", "example": "I have studied for two years."}
+            ]
+          },
+          "pastSimple": {
+            "title": "Used with Past Simple",
+            "expressions": [
+              {"expression": "yesterday", "example": "I submitted my assignment yesterday."},
+              {"expression": "last week", "example": "I submitted my assignment last week."},
+              {"expression": "last month", "example": "I submitted my assignment last month."},
+              {"expression": "last year", "example": "I submitted my assignment last year."},
+              {"expression": "in 2020", "example": "I submitted my assignment in 2020."},
+              {"expression": "two days ago", "example": "I submitted my assignment two days ago."},
+              {"expression": "when I was in high school", "example": "I submitted assignments when I was in high school."},
+              {"expression": "on Monday", "example": "I submitted my assignment on Monday."},
+              {"expression": "at 3 PM", "example": "I submitted my assignment at 3 PM."}
+            ]
+          }
+        }
+      },
+      
+      "practiceExercises": {
+        "title": "PRACTICE EXERCISES: Present Perfect",
+        
+        "exercise1": {
+          "title": "Complete the Sentences",
+          "instructions": "Use the correct form of the verb (present perfect or past simple) in the following sentences.",
+          "questions": [
+            {
+              "sentence": "I ________ (study) English for five years. I ________ (start) studying in 2018.",
+              "answer": "have studied, started",
+              "explanation": "'Have studied' describes ongoing study; 'started' is the specific past event."
+            },
+            {
+              "sentence": "She ________ (never, visit) the National Museum, but she ________ (go) to the Science Museum last week.",
+              "answer": "has never visited, went",
+              "explanation": "'Has never visited' is an experience; 'went' is a specific past action."
+            },
+            {
+              "sentence": "We ________ (already, complete) our project. We ________ (finish) it yesterday.",
+              "answer": "have already completed, finished",
+              "explanation": "'Have already completed' emphasizes present result; 'finished' is the specific past action."
+            },
+            {
+              "sentence": "They ________ (not, submit) their assignment yet. They ________ (submit) it last week.",
+              "answer": "haven't submitted, submitted",
+              "explanation": "'Haven't submitted yet' describes current status; 'submitted last week' is a specific past action."
+            },
+            {
+              "sentence": "I ________ (read) this book before. I ________ (read) it in 2019.",
+              "answer": "have read, read",
+              "explanation": "'Have read before' describes a previous experience; 'read in 2019' is a specific past action."
+            },
+            {
+              "sentence": "The professor ________ (give) us three assignments so far. He ________ (give) the first one in September.",
+              "answer": "has given, gave",
+              "explanation": "'Has given' describes a series so far; 'gave in September' is a specific past action."
+            }
+          ]
+        },
+        
+        "exercise2": {
+          "title": "Choose the Correct Tense",
+          "instructions": "Decide whether to use present perfect or past simple based on the context.",
+          "questions": [
+            {
+              "sentence": "The exams ________ (start) at 9 AM this morning.",
+              "answer": "started",
+              "explanation": "Past simple because 'this morning' is a specific past time."
+            },
+            {
+              "sentence": "The exams ________ (start). We need to be quiet.",
+              "answer": "have started",
+              "explanation": "Present perfect because the start has present relevance."
+            },
+            {
+              "sentence": "I ________ (never, see) such a difficult exam before.",
+              "answer": "have never seen",
+              "explanation": "Present perfect describes a life experience up to now."
+            },
+            {
+              "sentence": "I ________ (see) a difficult exam in 2018.",
+              "answer": "saw",
+              "explanation": "Past simple because 'in 2018' is a specific past time."
+            },
+            {
+              "sentence": "She ________ (work) at this university since 2010.",
+              "answer": "has worked",
+              "explanation": "Present perfect because the action continues to the present."
+            },
+            {
+              "sentence": "She ________ (work) at this university from 2010 to 2015.",
+              "answer": "worked",
+              "explanation": "Past simple because the time frame is completely in the past."
+            }
+          ]
+        },
+        
+        "exercise3": {
+          "title": "Create Your Own Sentences",
+          "instructions": "Write sentences using the present perfect tense with the given prompts.",
+          "scenarios": [
+            {
+              "prompt": "Read the book / before",
+              "modelAnswer": "I have read this book before.",
+              "explanation": "This describes a previous experience."
+            },
+            {
+              "prompt": "Study at this university / for three years",
+              "modelAnswer": "I have studied at this university for three years.",
+              "explanation": "This describes an action continuing to the present."
+            },
+            {
+              "prompt": "Finish the assignment / already",
+              "modelAnswer": "I have already finished the assignment.",
+              "explanation": "This describes a recently completed action."
+            },
+            {
+              "prompt": "Never / visit the new library",
+              "modelAnswer": "I have never visited the new library.",
+              "explanation": "This describes a life experience."
+            },
+            {
+              "prompt": "The professor / announce the exam date / just",
+              "modelAnswer": "The professor has just announced the exam date.",
+              "explanation": "This describes a very recent action."
+            }
+          ]
+        }
+      },
+      
+      "commonMistakes": {
+        "title": "Common Mistakes with Present Perfect",
+        "table": {
+          "headers": ["Mistake", "Incorrect", "Correct", "Explanation"],
+          "rows": [
+            ["Using present perfect with specific time", "\"I have seen her yesterday.\"", "\"I saw her yesterday.\"", "Use past simple with specific past time expressions"],
+            ["Using past simple for experience", "\"I ever studied abroad.\"", "\"I have ever studied abroad.\" or \"Have you ever studied abroad?\"", "Use present perfect for experiences, not past simple"],
+            ["Forgetting the auxiliary verb", "\"I finished the assignment.\" (when meaning current status)", "\"I have finished the assignment.\"", "You need 'have/has' for present perfect meaning"],
+            ["Using the past tense instead of past participle", "\"I have went to the library.\"", "\"I have gone to the library.\"", "Use the past participle (third form), not past tense"],
+            ["Using 'since' with duration", "\"I have studied since two years.\"", "\"I have studied for two years.\" or \"I have studied since 2020.\"", "'Since' needs a point in time; 'for' needs a duration"],
+            ["Using 'yet' in positive statements", "\"I have finished yet.\"", "\"I have already finished.\" or \"I haven't finished yet.\"", "'Yet' is used in negatives and questions, not positive statements"]
+          ]
+        }
+      }
     },
-    {
-      "title": "1.2",
-      "paragraphs": [
-        "Technologies imitating nature For each technology, identify the natural source(s) that was imitated: 1. Hexagonal structures 2. A brand new drone design 3. Techniques for preserving live vaccines 4. Powerful repellent spray 5. Cutting saws",
-        "Research the natural source(s) using the internet and/or available textbooks. 1.2.2Uses of technology in biology The uses of technology in biology are the ways in which technological tools can be applied to solve various human problems. It is the practical application of biotechnological instruments (products) in providing required human services and investigations of new biological questions.",
-        "Biological studies that use technological tools include: 1. Biochemical studies are helpful to investigate information on carbohydrates, proteins, lipids and nucleic acids. 2. Biomedical studies deal with providing detailed of information on the chemical components of medicinal plants. 3. Biophysical studies are the science of using physical devices to gather biological information at all scales of biological organization (molecular, organismic, and populations). 4. Environmental studies are a multidisciplinary system dealing with the interactions of humans",
-        "with the environment. 5. Bioinformatics is a scientific discipline involving computer technology to collect, store, analyze, and disseminate biological data and information (DNA and amino acid sequences). 6. Biogeographical information is the study of the distribution of species along with geographic ecosystems through geological periods. The following are examples of technological devices: 1. A digital thermometer is an instrument used for measuring body temperatures (Figure 1.6). A pregnancy urine test is a tool that checks if a woman is pregnant or not by detecting the",
-        "amount of the hormone Human Chorionic Gonadotropin (HCG), produced in the placenta around six to ten days after fertilization in either the urine (pee) or blood. The test result in one line is a control line showing negative (no pregnancy) and the other line (two lines) confirms the existence pregnancy (Figure 1.7). What are the uses of technology in biology?"
-      ],
-      "definitions": [
-        [
-          "uses of technology in biology",
-          "Research the natural source(s) using the internet and/or available textbooks. 1.2.2Uses of technology in biology The uses of technology in biology are the ways in which technological tools can be applied to solve various human problems. It is the practical application of biotechnological instruments (products) in providing required human services and investigations of new biological questions."
-        ],
-        [
-          "Biochemical studies",
-          "Biological studies that use technological tools include: 1. Biochemical studies are helpful to investigate information on carbohydrates, proteins, lipids and nucleic acids. 2. Biomedical studies deal with providing detailed of information on the chemical components of medicinal plants. 3. Biophysical studies are the science of using physical devices to gather biological information at all scales of biological organization (molecular, organismic, and populations). 4. Environmental studies are a multidisciplinary system dealing with the interactions of humans"
-        ],
-        [
-          "Bioinformatics",
-          "with the environment. 5. Bioinformatics is a scientific discipline involving computer technology to collect, store, analyze, and disseminate biological data and information (DNA and amino acid sequences). 6. Biogeographical information is the study of the distribution of species along with geographic ecosystems through geological periods. The following are examples of technological devices: 1. A digital thermometer is an instrument used for measuring body temperatures (Figure 1.6). A pregnancy urine test is a tool that checks if a woman is pregnant or not by detecting the"
-        ],
-        [
-          "The test result in one line",
-          "amount of the hormone Human Chorionic Gonadotropin (HCG), produced in the placenta around six to ten days after fertilization in either the urine (pee) or blood. The test result in one line is a control line showing negative (no pregnancy) and the other line (two lines) confirms the existence pregnancy (Figure 1.7). What are the uses of technology in biology?"
-        ]
-      ],
-      "key_points": [
-        "Primary takeaway for 1.2: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how biology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard Grade_11 examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1.2",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in biology",
-            "Explanatory Context"
+    
+    "section4": {
+      "title": "Vocabulary Building",
+      "introduction": "Building a strong academic vocabulary is essential for university success. This section provides comprehensive vocabulary development strategies, word lists, and practical application exercises.",
+      
+      "vocabularyList": {
+        "title": "Core Academic Vocabulary for Study Skills",
+        "table": {
+          "headers": ["Word", "Part of Speech", "Definition", "Example Sentence", "Synonyms"],
+          "rows": [
+            ["Transient", "Adjective", "Temporary; not lasting; staying for a short time", "Spoken language is more transient than written text.", "temporary, momentary, fleeting"],
+            ["Distraction", "Noun", "Something that takes attention away from what you should be doing", "Turn off your phone to avoid distractions while studying.", "interruption, diversion, disturbance"],
+            ["Verbatim", "Adverb/Adjective", "Word for word; exactly as spoken or written", "Do not try to write down everything verbatim; focus on main ideas.", "word-for-word, literally, exactly"],
+            ["Cue", "Noun", "A signal or hint that tells you what to do or what is important", "Look for verbal and non-verbal cues from the lecturer.", "signal, prompt, indication"],
+            ["Discriminating", "Adjective", "Showing good judgment; able to recognize differences", "Develop a discriminating approach to identify main ideas.", "selective, discerning, perceptive"],
+            ["Invaluable", "Adjective", "Extremely valuable; worth more than can be measured", "Good note-taking skills are invaluable for academic success.", "priceless, essential, indispensable"],
+            ["Scan", "Verb", "To look quickly through something without reading every word", "Scan the newspaper headlines to get the main news.", "skim, browse, glance through"],
+            ["Skim", "Verb", "To read quickly to get the main idea", "Skim through the textbook chapter before reading it in detail.", "scan, browse, glance over"],
+            ["Assimilate", "Verb", "To absorb and integrate information into your understanding", "Read to assimilate new knowledge into your worldview.", "absorb, integrate, incorporate"],
+            ["Repertoire", "Noun", "A set of skills, techniques, or knowledge", "Use the repertoire of reading skills you have developed.", "range, collection, inventory"],
+            ["Perception", "Noun", "A belief or opinion formed from understanding", "Reading requires a positive perception that books are opportunities.", "view, perspective, understanding"],
+            ["Extract", "Verb", "To remove or take out information from a source", "Study the text carefully to extract essential knowledge.", "derive, obtain, draw out"],
+            ["Vary", "Verb", "To change or differ according to circumstances", "Your reading approach should vary depending on your purpose.", "differ, change, fluctuate"],
+            ["Theme", "Noun", "A main idea or subject in a text or discussion", "Identify key themes and issues in the reading material.", "topic, subject, idea"],
+            ["Neglect", "Verb", "To fail to give proper attention or care to something", "Do not neglect the reading skills you already possess.", "ignore, overlook, disregard"]
           ]
+        }
+      },
+      
+      "vocabularyStrategies": {
+        "title": "HOW TO BUILD VOCABULARY: Effective Strategies",
+        "strategies": [
+          {
+            "strategy": "Contextual Learning",
+            "description": "Learn vocabulary in context by focusing on how words are used in real texts rather than memorizing lists.",
+            "steps": [
+              "When you encounter a new word, read the entire sentence carefully",
+              "Try to guess the meaning from the context before looking it up",
+              "Read the surrounding sentences for additional clues",
+              "Note the part of speech and how the word is used grammatically",
+              "Create your own sentence using the word in a similar context"
+            ],
+            "example": "In 'Do not neglect the reading skills you already possess,' 'neglect' likely means 'fail to pay attention to' because it's about skills people have but might not use."
+          },
+          {
+            "strategy": "Word Families",
+            "description": "Learn vocabulary in word families to expand your knowledge efficiently.",
+            "steps": [
+              "When you learn a new word, also learn its forms: noun, verb, adjective, adverb",
+              "Learn the different prefixes and suffixes that change the meaning",
+              "Practice using all forms in different contexts",
+              "Create a word family chart for each new word"
+            ],
+            "examples": [
+              {"word": "vary", "forms": ["vary (verb)", "variation (noun)", "various (adjective)", "variously (adverb)"]},
+              {"word": "perceive", "forms": ["perceive (verb)", "perception (noun)", "perceptive (adjective)", "perceptively (adverb)"]},
+              {"word": "apply", "forms": ["apply (verb)", "application (noun)", "applicable (adjective)", "applied (adjective)"]},
+              {"word": "assimilate", "forms": ["assimilate (verb)", "assimilation (noun)", "assimilative (adjective)"]}
+            ]
+          },
+          {
+            "strategy": "Collocation Learning",
+            "description": "Learn words that often appear together in natural language.",
+            "steps": [
+              "Note which words commonly appear with new vocabulary",
+              "Learn phrases rather than isolated words",
+              "Pay attention to collocations in academic writing",
+              "Use collocation dictionaries and corpora"
+            ],
+            "examples": [
+              {"word": "gain", "collocations": ["gain knowledge", "gain an understanding", "gain access", "gain insights"]},
+              {"word": "academic", "collocations": ["academic study", "academic success", "academic writing", "academic skills"]},
+              {"word": "skills", "collocations": ["develop skills", "improve skills", "practice skills", "essential skills"]}
+            ]
+          },
+          {
+            "strategy": "Academic Word List (AWL)",
+            "description": "Focus on the most commonly used words in academic texts.",
+            "steps": [
+              "Obtain a list of academic word families",
+              "Learn the most frequent academic words first",
+              "Practice using these words in your writing",
+              "Look for these words in your textbooks"
+            ],
+            "examples": [
+              {"word": "analyze", "example": "Let's analyze the results of the study."},
+              {"word": "approach", "example": "This approach to reading is more effective."},
+              {"word": "assess", "example": "Assess your learning progress regularly."},
+              {"word": "concept", "example": "Understanding the concept is essential."}
+            ]
+          },
+          {
+            "strategy": "Spaced Repetition",
+            "description": "Review vocabulary at increasing intervals to move it to long-term memory.",
+            "steps": [
+              "Review new words after 1 day, then after 3 days, then after 1 week",
+              "Use flashcards with spaced repetition software (e.g., Anki)",
+              "Recycle vocabulary in your writing and speaking",
+              "Test yourself regularly on previously learned words"
+            ],
+            "example": "Day 1: Learn 10 new words. Day 2: Review. Day 4: Review again. Day 7: Review. Day 14: Final review."
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_4.png",
-      "image_caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 4"
+      },
+      
+      "collocationGuide": {
+        "title": "COLLOCATION GUIDE: Words That Go Together",
+        "definition": "Collocations are words that frequently appear together in natural language. Learning them improves fluency and accuracy.",
+        
+        "commonCollocations": {
+          "title": "Common Collocations for Academic Contexts",
+          "table": {
+            "headers": ["Word", "Common Collocations", "Example Sentence"],
+            "rows": [
+              ["Take", "take notes, take a lecture, take a test, take part in, take responsibility", "\"You should take careful notes during lectures.\""],
+              ["Make", "make notes, make an effort, make progress, make a difference, make a decision", "\"Make a point of reviewing your notes after each lecture.\""],
+              ["Do", "do research, do assignments, do well, do homework, do your best", "\"Do your research before writing the paper.\""],
+              ["Gain", "gain knowledge, gain understanding, gain access, gain experience, gain insights", "\"Reading helps you gain a deeper understanding of the subject.\""],
+              ["Develop", "develop skills, develop understanding, develop strategies, develop confidence", "\"Develop effective reading strategies for academic success.\""],
+              ["Improve", "improve reading, improve writing, improve comprehension, improve performance", "\"Practice regularly to improve your English proficiency.\""],
+              ["Review", "review notes, review material, review chapters, review concepts", "\"Review your notes within 24 hours of the lecture.\""],
+              ["Academic", "academic success, academic study, academic writing, academic skills, academic performance", "\"Academic success requires effective study habits.\""],
+              ["Study", "study skills, study habits, study methods, study techniques", "\"Study skills are essential for university students.\""],
+              ["Learning", "learning process, learning goals, learning strategies, learning outcomes", "\"Effective learning strategies lead to better outcomes.\""]
+            ]
+          }
+        },
+        
+        "practiceExercises": {
+          "title": "Collocation Practice",
+          "exercise1": {
+            "title": "Match the Words",
+            "instructions": "Match the words in column A with their common partners in column B.",
+            "questions": [
+              {"wordA": "take", "matches": ["notes", "lecture", "test", "part", "responsibility"]},
+              {"wordA": "make", "matches": ["effort", "progress", "decision", "notes", "difference"]},
+              {"wordA": "do", "matches": ["research", "assignments", "homework", "well", "best"]},
+              {"wordA": "gain", "matches": ["knowledge", "understanding", "access", "experience", "insights"]},
+              {"wordA": "develop", "matches": ["skills", "understanding", "strategies", "confidence"]}
+            ]
+          },
+          "exercise2": {
+            "title": "Complete the Sentences",
+            "instructions": "Complete the sentences with the correct collocation.",
+            "questions": [
+              {
+                "sentence": "You should ________ notes during every lecture.",
+                "answer": "take",
+                "explanation": "The correct collocation is 'take notes'."
+              },
+              {
+                "sentence": "Reading helps students ________ a deeper understanding of the material.",
+                "answer": "gain",
+                "explanation": "The correct collocation is 'gain understanding'."
+              },
+              {
+                "sentence": "Effective students ________ good study habits from their first semester.",
+                "answer": "develop",
+                "explanation": "The correct collocation is 'develop habits'."
+              },
+              {
+                "sentence": "You need to ________ your notes as soon as possible after the lecture.",
+                "answer": "review",
+                "explanation": "The correct collocation is 'review notes'."
+              },
+              {
+                "sentence": "To ________ good grades, you must study consistently.",
+                "answer": "get",
+                "explanation": "The correct collocation is 'get grades'."
+              }
+            ]
+          }
+        }
+      },
+      
+      "wordFormation": {
+        "title": "WORD FORMATION: Building Vocabulary Through Affixes",
+        
+        "prefixes": {
+          "title": "Common Academic Prefixes",
+          "table": {
+            "headers": ["Prefix", "Meaning", "Example", "Definition"],
+            "rows": [
+              ["pre-", "before", "prerequisite", "a course required before another"],
+              ["post-", "after", "postgraduate", "after graduation"],
+              ["re-", "again", "review", "to look at again"],
+              ["co-", "together", "coexist", "to exist together"],
+              ["inter-", "between", "interdisciplinary", "between disciplines"],
+              ["intra-", "within", "intrapersonal", "within oneself"],
+              ["sub-", "under/below", "subheadings", "headings below main headings"],
+              ["super-", "above/over", "superior", "higher in rank"],
+              ["trans-", "across", "transient", "lasting across a short time"],
+              ["mis-", "wrongly", "misinterpret", "to interpret wrongly"],
+              ["dis-", "not/opposite", "disagree", "not agree"]
+            ]
+          }
+        },
+        
+        "suffixes": {
+          "title": "Common Academic Suffixes",
+          "table": {
+            "headers": ["Suffix", "Part of Speech", "Meaning", "Example"],
+            "rows": [
+              ["-tion/-sion", "Noun", "action or state", "education, comprehension"],
+              ["-ment", "Noun", "action or result", "development, improvement"],
+              ["-ness", "Noun", "state or quality", "effectiveness, readiness"],
+              ["-ity/-ty", "Noun", "state or quality", "activity, ability"],
+              ["-tion/-sion", "Noun", "action or state", "education, comprehension"],
+              ["-al", "Adjective", "relating to", "academic, natural"],
+              ["-able/-ible", "Adjective", "capable of", "readable, comprehensible"],
+              ["-ive", "Adjective", "tending to", "active, attentive"],
+              ["-ful", "Adjective", "full of", "useful, hopeful"],
+              ["-ous", "Adjective", "having", "continuous, famous"]
+            ]
+          }
+        },
+        
+        "wordFamilyPractice": {
+          "title": "Word Family Examples",
+          "examples": [
+            {
+              "root": "academic",
+              "forms": [
+                {"word": "academic", "type": "Noun", "example": "Academics study various disciplines."},
+                {"word": "academic", "type": "Adjective", "example": "Academic writing requires formal language."},
+                {"word": "academically", "type": "Adverb", "example": "She is academically prepared for university."}
+              ]
+            },
+            {
+              "root": "comprehend",
+              "forms": [
+                {"word": "comprehend", "type": "Verb", "example": "Students must comprehend the material."},
+                {"word": "comprehension", "type": "Noun", "example": "Reading comprehension is a key skill."},
+                {"word": "comprehensive", "type": "Adjective", "example": "Take comprehensive notes from the lecture."},
+                {"word": "comprehensively", "type": "Adverb", "example": "Review the topic comprehensively."}
+              ]
+            },
+            {
+              "root": "apply",
+              "forms": [
+                {"word": "apply", "type": "Verb", "example": "Apply these strategies to your studies."},
+                {"word": "application", "type": "Noun", "example": "The application of these skills is important."},
+                {"word": "applicable", "type": "Adjective", "example": "These principles are applicable to all subjects."},
+                {"word": "applicably", "type": "Adverb", "example": "Use the knowledge applicable to your field."}
+              ]
+            },
+            {
+              "root": "assimilate",
+              "forms": [
+                {"word": "assimilate", "type": "Verb", "example": "Assimilate new information into your knowledge."},
+                {"word": "assimilation", "type": "Noun", "example": "Knowledge assimilation takes time."},
+                {"word": "assimilative", "type": "Adjective", "example": "Develop assimilative learning strategies."}
+              ]
+            }
+          ]
+        }
+      }
     }
-  ],
-  "exercises": [
-    {
-      "question": "1. Swallow nests have inspired the house building design.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "2. Weaving technologies have been developed by studying the formation of spider webs.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "3. Buildings have been made through the imitation of the mound architecture of termites. These",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "4. The first heavy aircraft technology was designed by imitating birds. Aircraft engineers",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "5. Engineers imitating human eyes made the technology of photograph camera.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "6. The movement of bio-robots was designed from the movement of kangaroo.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "7. Injection needle technology was copied from mosquito proboscis (Figure 1.3).",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "8. The sensors of electrical devices   were imitations of biological neurons.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "9. A cutting saw was imitated from the nature of the sharp teeth of animals.",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    },
-    {
-      "question": "Lab activity 1.1 Construction of models imitating",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Unit 1  BIOLOGY AND TECHNOLOGY in biology.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for Grade_11."
-    }
-  ],
-  "summary": "UNIT SUMMARY — UNIT 1  BIOLOGY AND TECHNOLOGY (Grade_11 biology):\nThis complete study document covers all topics in Unit 1  BIOLOGY AND TECHNOLOGY, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": [
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_1.jpeg",
-      "filename": "figure_1.jpeg",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 1"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_2.png",
-      "filename": "figure_2.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 2"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_3.png",
-      "filename": "figure_3.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 3"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_4.png",
-      "filename": "figure_4.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 4"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_5.png",
-      "filename": "figure_5.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 5"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_6.png",
-      "filename": "figure_6.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 6"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_7.png",
-      "filename": "figure_7.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 7"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_8.png",
-      "filename": "figure_8.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 8"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_9.png",
-      "filename": "figure_9.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 9"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_10.png",
-      "filename": "figure_10.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 10"
-    },
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\Grade_11\\Natural_Science\\biology\\Unit 1_ BIOLOGY AND TECHNOLOGY\\short_note\\images\\figure_11.png",
-      "filename": "figure_11.png",
-      "caption": "Unit 1  BIOLOGY AND TECHNOLOGY — Visual Figure 11"
-    }
-  ]
+  }
 }
