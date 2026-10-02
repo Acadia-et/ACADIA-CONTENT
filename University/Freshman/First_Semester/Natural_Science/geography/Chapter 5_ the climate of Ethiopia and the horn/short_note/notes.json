@@ -1,69 +1,612 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "geography",
-    "unit_title": "Chapter 5  the climate of Ethiopia and the horn"
+    "grade": "University Freshman",
+    "subject": "Geography",
+    "unit_title": "Chapter 5: The Climate of Ethiopia and the Horn",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/geography/Chapter_5_climate",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation",
+    "total_sections": 6,
+    "total_tables": 12,
+    "total_diagrams": 6
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 5  the climate of Ethiopia and the horn",
-      "paragraphs": [
-        "1. Dr. Teferi Mekonnen, Addis Ababa University 2. Mr. Nigatu Gebremedhin, Wolkite University 3. Dr. Alem-meta Assefa, Wollo University 4. Dr. Binyam Moreda, Hawassa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 5  the climate of Ethiopia and the horn: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how geography principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 5  the climate of Ethiopia and the horn",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in geography",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "5",
+    "chapter_title": "The Climate of Ethiopia and the Horn",
+    "chapter_subtitle": "Weather, Climate Controls, Temperature, Rainfall, Agro-ecological Zones, and Climate Change",
+    "chapter_introduction": "Welcome to Chapter 5 of Geography. Climate is one of the most important factors shaping life in Ethiopia and the Horn. From the cool highlands of the Simen Mountains to the scorching Danakil Depression, Ethiopia's climate is remarkably diverse. This chapter explores the difference between weather and climate, the elements and controls of weather and climate, the spatiotemporal distribution of temperature and rainfall, the agro-ecological zones of Ethiopia, and the critical issue of climate change — its causes, consequences, and response mechanisms.",
+    "sections": [
+      {
+        "section_number": "5.1",
+        "section_title": "Introduction to Weather and Climate",
+        "section_introduction": "Before exploring Ethiopia's climate in detail, it is essential to understand the fundamental difference between weather and climate. These two terms are often confused, but they describe different aspects of atmospheric conditions.",
+        "subsections": [
+          {
+            "subtitle": "5.1.1. Weather vs. Climate",
+            "paragraphs": [
+              "**Weather:** Is the daily conditions of the atmosphere elements like temperature, atmospheric pressure, humidity, wind speed and direction, cloudiness and precipitation in the troposphere.",
+              "**Climate:** The average conditions of the atmosphere over long time periods. Climate is what you expect; weather is what you get.",
+              "The troposphere is the lowest layer of the atmosphere where all weather phenomena occur. It extends from the Earth's surface up to about 8-16 km depending on latitude."
+            ],
+            "key_points": [
+              "Weather: daily atmospheric conditions.",
+              "Climate: average atmospheric conditions over long periods.",
+              "Weather elements: temperature, pressure, humidity, wind, cloudiness, precipitation.",
+              "Weather occurs in the troposphere.",
+              "Climate is what you expect; weather is what you get."
+            ],
+            "tables": [
+              [
+                ["Aspect", "Weather", "Climate"],
+                ["Definition", "Daily conditions of the atmosphere", "Average conditions over long time periods"],
+                ["Time Scale", "Short-term (hours to days)", "Long-term (decades to centuries)"],
+                ["Elements", "Temperature, pressure, humidity, wind, cloudiness, precipitation", "Same elements but averaged over time"],
+                ["Predictability", "Difficult to predict beyond a few days", "Can be predicted with statistical confidence"],
+                ["Example", "It is raining today in Addis Ababa", "Addis Ababa has a temperate highland climate"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Weather vs. Climate",
+                "diagram_type": "comparison",
+                "diagram_data": {
+                  "weather": {
+                    "time_scale": "Short-term",
+                    "focus": "Daily conditions",
+                    "example": "Today's temperature and rainfall"
+                  },
+                  "climate": {
+                    "time_scale": "Long-term",
+                    "focus": "Average conditions",
+                    "example": "Ethiopia's tropical highland climate"
+                  }
+                }
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 5_ the climate of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "image_caption": "Chapter 5  the climate of Ethiopia and the horn — Visual Figure 1"
-    }
-  ],
+      },
+      {
+        "section_number": "5.2",
+        "section_title": "Elements and Controls of Weather and Climate",
+        "section_introduction": "The variations in weather and climate between places are determined by a set of controlling factors. Understanding these controls is essential for explaining why Ethiopia has such diverse climatic conditions.",
+        "subsections": [
+          {
+            "subtitle": "5.2.1. Controls of Weather and Climate",
+            "paragraphs": [
+              "The determining factors for the variations of weather and climate between places are called **controls of weather and climate**.",
+              "The major controls include:",
+              "**a) Latitude/Angle of the Sun**",
+              "**b) Inclination of the Earth's Axis**",
+              "**c) Altitude**",
+              "**d) Distance from the Sea**",
+              "**e) Ocean Currents**",
+              "**f) Prevailing Winds**",
+              "**g) Relief (Topography)**",
+              "**h) Vegetation Cover**"
+            ],
+            "key_points": [
+              "Controls of weather and climate determine variations between places.",
+              "Major controls: latitude, Earth's inclination, altitude, distance from sea, ocean currents, prevailing winds, relief, vegetation.",
+              "Ethiopia's climate is primarily controlled by latitude and altitude."
+            ],
+            "tables": [
+              [
+                ["Control", "Description", "Effect on Ethiopian Climate"],
+                ["Latitude/Angle of the Sun", "Determines the strength of solar radiation", "Ethiopia's location near the equator gives high average temperatures"],
+                ["Inclination of Earth's Axis", "23½° tilt from axis; 66½° from orbit", "Causes seasonal variations"],
+                ["Altitude", "Height above sea level", "Modifies temperature (lapse rate 6.5°C/km)"],
+                ["Distance from Sea", "Proximity to oceans", "Influences moisture and rainfall patterns"],
+                ["Ocean Currents", "Warm/cold currents affecting coastal areas", "Indian Ocean affects rainfall"],
+                ["Prevailing Winds", "Direction and origin of winds", "Monsoon winds bring seasonal rainfall"],
+                ["Relief", "Topography and elevation", "Creates rain shadows and orographic rainfall"],
+                ["Vegetation", "Plant cover", "Affects local moisture and temperature"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.2.2. Latitude/Angle of the Sun",
+            "paragraphs": [
+              "**Equatorial area** has low angle & **polar areas** has slanting angle determine the strength of sun shines.",
+              "Ethiopia found around the equator has:",
+              "- High average temperatures and sun shines.",
+              "- High daily and small annual ranges of temperature.",
+              "- No significant variation in length of day and night between summer and winter."
+            ],
+            "key_points": [
+              "Equatorial areas receive more direct sunlight.",
+              "Ethiopia's equatorial location gives high average temperatures.",
+              "Small annual temperature range.",
+              "No significant variation in day/night length between seasons."
+            ],
+            "tables": [
+              [
+                ["Latitude Zone", "Sun Angle", "Temperature Characteristics"],
+                ["Equatorial (Ethiopia)", "Low angle (direct)", "High average temperatures; small annual range"],
+                ["Tropical", "Moderate angle", "Warm; moderate seasonal variation"],
+                ["Temperate", "Slanting angle", "Cooler; large seasonal variation"],
+                ["Polar", "Very slanting angle", "Cold; extreme seasonal variation"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.2.3. Inclination of the Earth's Axis",
+            "paragraphs": [
+              "The Earth's inclination is **23½° from its axis** and also **66½° from its orbit**. This brings the difference in solar distance between polar & equatorial areas.",
+              "The Earth rotates on its axis determines day and night and also revolves on its orbit around the sun determine the seasons.",
+              "**a) Equinox:** Overhead sun appears around the equator when the position of the sun seen across equator. Equal length of day and night. High sun light reaches around equatorial areas. Equinox appears twice a year.",
+              "**i. The Vernal (spring) equinox: March 21st** — Appears when the Sun's rays cross the equator and directly reach the Northern Hemisphere, marking the onset of the vernal equinox.",
+              "**ii. The Autumn equinox: September 23rd** — Appears when the sun crosses the equator on 23rd of September, marking the onset of the Autumn equinox.",
+              "**b) Solstice:** Overhead sun appears either northern or southern hemisphere.",
+              "**i. The Summer Solstice: June 21st** — Sun is directly overhead on Tropic of Cancer 23½°N. The northern hemisphere has maximum tilt towards the sun, experiencing the longest daylight of the year.",
+              "**ii. The Winter Solstice: December 22nd** — Overhead sun directly above 23½°S on the Tropic of Capricorn. Maximum insolation reaches the Southern Hemisphere."
+            ],
+            "key_points": [
+              "Earth's axis tilted 23½° from vertical; 66½° from orbit.",
+              "Equinox: equal day and night; sun over equator; occurs twice a year.",
+              "Vernal equinox: March 21st.",
+              "Autumn equinox: September 23rd.",
+              "Summer solstice: June 21st; sun over Tropic of Cancer.",
+              "Winter solstice: December 22nd; sun over Tropic of Capricorn."
+            ],
+            "tables": [
+              [
+                ["Event", "Date", "Sun Position", "Effect"],
+                ["Vernal Equinox", "March 21st", "Equator", "Equal day and night; onset of spring"],
+                ["Summer Solstice", "June 21st", "Tropic of Cancer (23½°N)", "Longest daylight in Northern Hemisphere"],
+                ["Autumn Equinox", "September 23rd", "Equator", "Equal day and night; onset of autumn"],
+                ["Winter Solstice", "December 22nd", "Tropic of Capricorn (23½°S)", "Longest daylight in Southern Hemisphere"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Earth's Annual Revolution and Seasons",
+                "diagram_type": "circular_diagram",
+                "diagram_data": {
+                  "positions": [
+                    {"date": "March 21", "event": "Vernal Equinox", "sun_position": "Equator"},
+                    {"date": "June 21", "event": "Summer Solstice", "sun_position": "Tropic of Cancer"},
+                    {"date": "September 23", "event": "Autumn Equinox", "sun_position": "Equator"},
+                    {"date": "December 22", "event": "Winter Solstice", "sun_position": "Tropic of Capricorn"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.2.4. Altitude and Lapse Rates",
+            "paragraphs": [
+              "**Altitude:** The height of location above the sea level. When increasing elevation temperature will decrease.",
+              "**Lapse rate:** Is the average rate of temperature changes per unit of altitudinal change. The normal lapse rate is **6.5°C/km** per rise in altitude.",
+              "**Types of lapse rate:** Three types of lapse rates are identified:",
+              "**i. Dry adiabatic lapse rate/rise dry air (unsaturated):** Temperature changes occur not only by the result of heat addition or withdrawal from outside sources, but rather are the consequence of internal processes of expansion and contraction of air parcel. Adiabatic lapse rate is the rate at which the temperature of an air parcel changes in response to the expansion or compression process associated with a change in altitude. The major cause of adiabatic is vertical displacements of unsaturated air. When unsaturated air rises, it expands (covers large volume) because it has less weight & pressure in air parcel. Unsaturated air has the rate of **10°C/1000m** to heating or cooling in every change in elevation.",
+              "**ii. Wet Adiabatic lapse rate/rise wet air (saturated):** Saturated or precipitating air rising or sinking that changes its temperature. This process is called wet adiabatic temperature change.",
+              "**iii. Environmental lapse rate or Atmospheric lapse rate:** The actual change of temperature with altitude increase or decrease. Lower layer of atmosphere is more warmer than upper layers because: atmospheric heat is received directly from the earth's surface and only indirectly from the sun; high density of the air; more water vapor and dust particle exist."
+            ],
+            "key_points": [
+              "Altitude: height above sea level; temperature decreases with altitude.",
+              "Normal lapse rate: 6.5°C/km.",
+              "Dry adiabatic lapse rate: 10°C/1000m for unsaturated air.",
+              "Wet adiabatic lapse rate: for saturated/precipitating air.",
+              "Environmental lapse rate: actual temperature change with altitude.",
+              "Lower atmosphere is warmer due to direct heating from Earth's surface."
+            ],
+            "tables": [
+              [
+                ["Lapse Rate Type", "Rate", "Conditions", "Description"],
+                ["Normal/Environmental", "6.5°C/km", "Actual atmosphere", "Average temperature decrease with altitude"],
+                ["Dry Adiabatic", "10°C/1000m", "Unsaturated air", "Temperature change due to expansion/compression"],
+                ["Wet Adiabatic", "Variable (less than dry)", "Saturated/precipitating air", "Temperature change during condensation"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Lapse Rates and Altitude",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Altitude (m)",
+                  "y_axis": "Temperature (°C)",
+                  "lines": [
+                    {"label": "Normal Lapse Rate (6.5°C/km)", "slope": -6.5},
+                    {"label": "Dry Adiabatic (10°C/km)", "slope": -10},
+                    {"label": "Wet Adiabatic", "slope": -5}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.3",
+        "section_title": "Spatiotemporal Patterns and Distribution of Temperature and Rainfall in Ethiopia",
+        "section_introduction": "Ethiopia's temperature and rainfall patterns vary significantly across space and time. Understanding these patterns is essential for agriculture, water management, and development planning.",
+        "subsections": [
+          {
+            "subtitle": "5.3.1. Spatiotemporal Distribution of Temperature",
+            "paragraphs": [
+              "**Altitude and Latitude** are the two most important elements in determining temperature in Ethiopia.",
+              "The table below shows the relationship between altitude, temperature, and local climatic zones."
+            ],
+            "key_points": [
+              "Altitude and latitude determine temperature in Ethiopia.",
+              "Temperature decreases with increasing altitude.",
+              "Five local climatic zones: Wurch, Dega, Woina Dega, Kola, Bereha."
+            ],
+            "tables": [
+              [
+                ["Altitude (meter)", "Mean annual Temp °C", "Description", "Local Equivalent"],
+                ["3,300 and above", "10", "Cool", "Wurch"],
+                ["2,300 - 3,300", "10", "Cool Temperate", "Dega"],
+                ["1,500 - 2,300", "15", "Temperate", "Woina Dega"],
+                ["500 - 1,500", "20", "Warm Temperate", "Kola"],
+                ["below 500", "25 and above", "Hot", "Bereha"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Temperature Distribution by Altitude in Ethiopia",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": [
+                    {"label": "Wurch (>3,300m)", "value": 10},
+                    {"label": "Dega (2,300-3,300m)", "value": 10},
+                    {"label": "Woina Dega (1,500-2,300m)", "value": 15},
+                    {"label": "Kola (500-1,500m)", "value": 20},
+                    {"label": "Bereha (<500m)", "value": 25}
+                  ],
+                  "unit": "Mean annual temperature (°C)"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.3.2. Spatiotemporal Distribution of Rainfall",
+            "paragraphs": [
+              "Rainfall system in Ethiopia needs an understanding of the position of **Inter Tropical Convergence Zone (ITCZ)**, pressure cells and Westerlies & Trade Winds. Thus, the rainfall system in Ethiopia is characterized by spatial and temporal variabilities.",
+              "**Inter Tropical Convergence Zone (ITCZ):** Convergence of Northeast Trade winds and the Equatorial Westerlies. It is a low-pressure zone. Oscillation of ITCZ position is a cause for variation in rainfall."
+            ],
+            "key_points": [
+              "Rainfall patterns depend on ITCZ, pressure cells, and winds.",
+              "ITCZ: convergence of Northeast Trade winds and Equatorial Westerlies.",
+              "ITCZ is a low-pressure zone.",
+              "Oscillation of ITCZ causes rainfall variability."
+            ],
+            "tables": [
+              [
+                ["Concept", "Description", "Effect on Ethiopian Rainfall"],
+                ["ITCZ", "Convergence of Northeast Trade winds and Equatorial Westerlies", "Determines rainfall distribution"],
+                ["Pressure Cells", "High and low pressure systems", "Drive wind patterns"],
+                ["Westerlies & Trade Winds", "Prevailing wind systems", "Bring moisture from oceans"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.3.3. Seasonal or Temporal Variabilities",
+            "paragraphs": [
+              "**i. Summer (June, July, August):** Sun overheads north of the equator (Tropic of Cancer 23½°N). High pressure cells develop on the Atlantic and Indian Oceans around the tropic of Capricorn. Equatorial Westerlies (Guinea monsoon) winds from southwest Atlantic Ocean and South easterly from Indian Ocean blow to Ethiopia except lowlands in Afar and Southeast most parts of Ethiopia receive rainfall.",
+              "**ii. Autumn (September, October and November):** ITCZ shifts towards the equator weakening the equatorial westerlies. Weak south easterlies from Indian Ocean showers.",
+              "**iii. Winter (December, January and February):** ITCZ shifts towards farther to Capricorn 23½°S. High pressure cells develop on Arabian Land. Northeasterly winds originating from the landmass of Asia crossing the Red Sea carry very little moisture and supplies rain only to the Afar lowlands and the Red Sea coastal but most parts of Ethiopia stay drying.",
+              "**iv. Spring (March, April and May):** ITCZ again shifts to equator twice a year. South-easterlies from the Indian Ocean provide rain to the highlands of Somalia and to the central and eastern highlands of Ethiopia."
+            ],
+            "key_points": [
+              "Summer (Jun-Aug): Equatorial Westerlies bring rainfall to most of Ethiopia.",
+              "Autumn (Sep-Nov): ITCZ shifts to equator; weak south-easterlies bring showers.",
+              "Winter (Dec-Feb): ITCZ shifts south; dry northeasterlies; only Afar and Red Sea coast get rain.",
+              "Spring (Mar-May): ITCZ shifts to equator; south-easterlies bring rain to central and eastern highlands."
+            ],
+            "tables": [
+              [
+                ["Season", "Months", "ITCZ Position", "Wind System", "Rainfall Pattern"],
+                ["Summer", "June-August", "North of equator (Tropic of Cancer)", "Equatorial Westerlies (Guinea monsoon)", "Most of Ethiopia receives rainfall except Afar and Southeast lowlands"],
+                ["Autumn", "September-November", "Shifts towards equator", "Weak south-easterlies", "Showers in some areas"],
+                ["Winter", "December-February", "Farther south (Tropic of Capricorn)", "Northeasterlies from Asia", "Only Afar lowlands and Red Sea coast receive rain; most of Ethiopia dry"],
+                ["Spring", "March-May", "Shifts to equator", "South-easterlies from Indian Ocean", "Rain to central and eastern highlands"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Seasonal Rainfall Patterns in Ethiopia",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "seasons": ["Summer (Jun-Aug)", "Autumn (Sep-Nov)", "Winter (Dec-Feb)", "Spring (Mar-May)"],
+                  "rainfall": ["High (most areas)", "Moderate", "Low (except Afar/Red Sea)", "Moderate to High"]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.3.4. Rainfall Regions of Ethiopia",
+            "paragraphs": [
+              "**i. Summer rainfall region:** Except lowlands in Afar and Southeast parts of Ethiopia, other parts receive rainfall. Having rainfall of 1,000 mm or more/year.",
+              "**ii. All year-round rainfall region:** Southwestern Highlands and windward side Mountain. Average rainfall varies from 1,400 to over 2,200 mm/year.",
+              "**iii. Autumn and Spring rainfall regions:** South eastern lowlands of Ethiopia receive rain during autumn and spring seasons. Varies from less than 500 to 1,000 mm/year.",
+              "**iv. Winter rainfall region:** Red Sea coastal areas and Afar lowlands."
+            ],
+            "key_points": [
+              "Summer rainfall region: most of Ethiopia; 1,000+ mm/year.",
+              "All year-round rainfall: southwestern highlands; 1,400-2,200+ mm/year.",
+              "Autumn and Spring rainfall: southeastern lowlands; <500-1,000 mm/year.",
+              "Winter rainfall: Red Sea coast and Afar lowlands."
+            ],
+            "tables": [
+              [
+                ["Rainfall Region", "Location", "Annual Rainfall (mm)", "Season"],
+                ["Summer Rainfall", "Most of Ethiopia except Afar and Southeast lowlands", "1,000+", "June-August"],
+                ["All Year-Round Rainfall", "Southwestern Highlands and windward mountains", "1,400-2,200+", "All year"],
+                ["Autumn and Spring Rainfall", "Southeastern lowlands", "<500-1,000", "September-November and March-May"],
+                ["Winter Rainfall", "Red Sea coast and Afar lowlands", "Variable", "December-February"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.4",
+        "section_title": "Agro-ecological Zones of Ethiopia",
+        "section_introduction": "Ethiopia's diverse climate and topography create a range of agro-ecological zones. These zones determine what crops can be grown, where livestock can be raised, and how land is used.",
+        "subsections": [
+          {
+            "subtitle": "5.4.1. Classification of Agro-ecological Zones",
+            "paragraphs": [
+              "Ethiopia's agro-ecological zones are classified based on altitude, mean annual rainfall, length of growing periods, and mean annual temperature. The table below summarizes the five major zones."
+            ],
+            "tables": [
+              [
+                ["Zones", "Altitude (m)", "Mean annual rainfall (mm)", "Length of growing periods (days)", "Mean annual temperature (°C)", "Area share (%)"],
+                ["Wurch (cold to moist)", ">3,200", "900-2,200", "211-365", "Below 10", "0.98"],
+                ["Dega (cool to humid)", "2,300 - 3,200", "900-1,200", "121-210", "≥11.5-17.5", "9.94"],
+                ["Weyna Dega (cool sub humid)", "1,500 - 2,300", "800-1,200", "91-120", ">17.5 - 20.0", "26.75"],
+                ["Kola (Warm semiarid)", "500 - 1,500", "200-800", "46-90", ">20.0 - 27.5", "52.94"],
+                ["Berha (Hot arid)", "<500", "Below 200", "0-45", ">27.5", "9.39"]
+              ]
+            ],
+            "key_points": [
+              "Five agro-ecological zones: Wurch, Dega, Weyna Dega, Kola, Berha.",
+              "Wurch: highest, coldest, smallest area (0.98%).",
+              "Kola: largest area (52.94%).",
+              "Berha: hottest, driest (9.39%).",
+              "Growing periods vary from 0-45 days (Berha) to 211-365 days (Wurch)."
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Area Share of Agro-ecological Zones in Ethiopia",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "slices": [
+                    {"label": "Wurch (0.98%)", "value": 0.98},
+                    {"label": "Dega (9.94%)", "value": 9.94},
+                    {"label": "Weyna Dega (26.75%)", "value": 26.75},
+                    {"label": "Kola (52.94%)", "value": 52.94},
+                    {"label": "Berha (9.39%)", "value": 9.39}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.5",
+        "section_title": "Climate Change: Causes, Consequences and Response Mechanisms",
+        "section_introduction": "Climate change is one of the most pressing global challenges of our time. Ethiopia is particularly vulnerable due to its dependence on rain-fed agriculture. This section explores the current trends, causes, consequences, and response mechanisms to climate change.",
+        "subsections": [
+          {
+            "subtitle": "5.5.1. Current Trends of Climate in Ethiopia",
+            "paragraphs": [
+              "Ethiopia ranked **5th out of 184 countries** in terms of its risk of drought.",
+              "**12 extreme drought events** were recorded between 1900 and 2010. Seven of them occurred since 1980.",
+              "These have resulted in famines, harvest failures, livestock deaths.",
+              "**Trends in Temperature Variability:** Rise in mean annual temperature from **0.2°C to 0.28°C/decade** over the last 40-50 years. **1.3°C** has been observed between 1960 and 2006. Consequently, the country's minimum temperature.",
+              "**Trends in Rainfall Variability:** Spring and Summer rainfall have shown decline by **15-20%** between 1975 and 2010. The average Precipitation has remained fairly stable over the last 50 years but Rainfall variability is increasing that has strong implications for crop production & husbandry."
+            ],
+            "key_points": [
+              "Ethiopia ranked 5th out of 184 countries for drought risk.",
+              "12 extreme drought events between 1900 and 2010; 7 since 1980.",
+              "Temperature rise: 0.2-0.28°C/decade; 1.3°C between 1960-2006.",
+              "Spring and Summer rainfall declined by 15-20% (1975-2010).",
+              "Rainfall variability increasing, affecting crop production."
+            ],
+            "tables": [
+              [
+                ["Trend", "Observation", "Implication"],
+                ["Drought Risk", "5th out of 184 countries", "High vulnerability"],
+                ["Drought Events", "12 extreme events (1900-2010); 7 since 1980", "Famines, harvest failures, livestock deaths"],
+                ["Temperature Rise", "0.2-0.28°C/decade; 1.3°C (1960-2006)", "Warming trend"],
+                ["Rainfall Decline", "15-20% decline in Spring/Summer (1975-2010)", "Water stress, crop failure"],
+                ["Rainfall Variability", "Increasing variability", "Unpredictable growing seasons"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Temperature Rise in Ethiopia (1960-2006)",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Year",
+                  "y_axis": "Temperature Anomaly (°C)",
+                  "data_points": [
+                    {"year": 1960, "value": 0},
+                    {"year": 2006, "value": 1.3}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.5.2. Causes of Climate Change",
+            "paragraphs": [
+              "**A. Natural Causes:**",
+              "**Earth orbital changes:** The earth is tilted at an angle of 23.5°.",
+              "**Energy Budget:** Sun's energy output small changes over an extended period of time can lead to climate changes.",
+              "**Sun spot:** Varied from 80 km² (dark) to 80,000 km² (light). Each spot has varies life cycle in every 50 years, 1°C change in sun energy.",
+              "**Volcanic eruptions:** Releases large volumes of sulphur dioxide, carbon dioxide, water vapor, dust, and ash into the atmosphere. Can increase planetary reflectivity causing atmospheric cooling.",
+              "**B. Anthropogenic Causes:**",
+              "Industrial activities, construction, transportation, buildings, decomposition of wastes in landfills, agriculture, ruminant digestion and manure management, synthetic compounds manufacturing, clearing of land for agriculture, industrial activities, and other human activities have increased concentrations of greenhouse gases.",
+              "**Greenhouse gases and its effects:** Gases that have an ability to absorb heat are called greenhouse gases. Such gases: Methane, Water vapor, CO₂, CO, NO₂, CFC etc. GHs bring global warming."
+            ],
+            "key_points": [
+              "Natural causes: orbital changes, energy budget, sun spots, volcanic eruptions.",
+              "Anthropogenic causes: industrial activities, transport, agriculture, deforestation, waste decomposition.",
+              "Greenhouse gases: Methane, Water vapor, CO₂, CO, NO₂, CFC.",
+              "Greenhouse gases cause global warming."
+            ],
+            "tables": [
+              [
+                ["Cause Type", "Specific Cause", "Mechanism"],
+                ["Natural", "Earth orbital changes", "Tilt of 23.5° affects solar distribution"],
+                ["Natural", "Energy Budget", "Small changes in sun's output over time"],
+                ["Natural", "Sun spots", "Variation in solar energy (1°C change every 50 years)"],
+                ["Natural", "Volcanic eruptions", "Release of SO₂, CO₂, ash; can cause cooling"],
+                ["Anthropogenic", "Industrial activities", "Release of greenhouse gases"],
+                ["Anthropogenic", "Transportation", "Burning of fossil fuels"],
+                ["Anthropogenic", "Agriculture", "Ruminant digestion, manure management"],
+                ["Anthropogenic", "Deforestation", "Clearing of land for agriculture"],
+                ["Anthropogenic", "Waste decomposition", "Landfill methane emissions"],
+                ["Anthropogenic", "Synthetic compounds", "CFC and other industrial gases"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.5.3. Consequences of Climate Change",
+            "paragraphs": [
+              "Climate change has far-reaching consequences for Ethiopia:",
+              "- Impacts on human health",
+              "- Impact on water resources",
+              "- Impact on Agriculture",
+              "- Impact on Ecosystem",
+              "- Global warming, increase in sea level, desertification, drought, shift of tropics, tropical diseases, loss of biodiversity etc."
+            ],
+            "key_points": [
+              "Consequences: health impacts, water resource impacts, agricultural impacts, ecosystem impacts.",
+              "Global warming, sea level rise, desertification, drought.",
+              "Shift of tropics, tropical diseases, loss of biodiversity."
+            ],
+            "tables": [
+              [
+                ["Consequence", "Description", "Impact on Ethiopia"],
+                ["Human Health", "Spread of tropical diseases; heat stress", "Increased malaria risk; heat-related illnesses"],
+                ["Water Resources", "Changes in availability and quality", "Water scarcity; reduced hydropower potential"],
+                ["Agriculture", "Crop failures; reduced yields", "Food insecurity; loss of livelihoods"],
+                ["Ecosystems", "Loss of biodiversity; habitat changes", "Species extinction; ecosystem degradation"],
+                ["Global Warming", "Increase in global temperatures", "Rising temperatures; heat waves"],
+                ["Sea Level Rise", "Coastal flooding", "Indirect impact (Ethiopia is landlocked)"],
+                ["Desertification", "Expansion of deserts", "Loss of arable land"],
+                ["Drought", "Prolonged dry periods", "Famines; water shortages"],
+                ["Tropical Diseases", "Expansion of disease vectors", "Malaria, dengue, etc."]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.5.4. Climate Response Mechanisms",
+            "paragraphs": [
+              "There are three major response mechanisms to climate change namely:",
+              "**1) Mitigation:** Taken an actions to reduce and control greenhouse gas emissions or avoid significant human interference with the climate system.",
+              "Some mitigation measures are:",
+              "- Practice Energy efficiency",
+              "- Increase the use of renewable energy such as solar",
+              "- Efficient means of transport implementation (electric public transport, bicycle, shared cars etc).",
+              "**2) Adaptation:** Adjusted to actual or expected future climate and coped with changes in climate.",
+              "Some of the major adaptation strategies include:",
+              "- Building flood defenses",
+              "- Plan for heat waves and higher temperatures",
+              "- Installing water-permeable pavements to better deal with floods and storm water",
+              "- Improve water storage and use",
+              "- Landscape restoration and reforestation",
+              "- Flexible and diverse cultivation to be prepared for natural catastrophes",
+              "- Preventive and precautionary measures (evacuation plans, health issues, etc.)"
+            ],
+            "key_points": [
+              "Three response mechanisms: Mitigation, Adaptation, and (implicitly) Resilience.",
+              "Mitigation: reduce greenhouse gas emissions.",
+              "Adaptation: adjust to actual or expected climate changes.",
+              "Mitigation strategies: energy efficiency, renewable energy, efficient transport.",
+              "Adaptation strategies: flood defenses, water storage, reforestation, flexible cultivation."
+            ],
+            "tables": [
+              [
+                ["Response Mechanism", "Definition", "Strategies"],
+                ["Mitigation", "Reduce and control greenhouse gas emissions", "Energy efficiency; renewable energy (solar); efficient transport (electric public transport, bicycle, shared cars)"],
+                ["Adaptation", "Adjust to actual or expected future climate", "Flood defenses; heat wave planning; water-permeable pavements; improved water storage; landscape restoration; reforestation; flexible cultivation; preventive measures"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Climate Response Mechanisms",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "nodes": [
+                    {"id": "1", "label": "Climate Response Mechanisms"},
+                    {"id": "2", "label": "Mitigation", "description": "Reduce greenhouse gas emissions"},
+                    {"id": "3", "label": "Adaptation", "description": "Adjust to climate change"},
+                    {"id": "4", "label": "Energy Efficiency", "parent": "Mitigation"},
+                    {"id": "5", "label": "Renewable Energy", "parent": "Mitigation"},
+                    {"id": "6", "label": "Efficient Transport", "parent": "Mitigation"},
+                    {"id": "7", "label": "Flood Defenses", "parent": "Adaptation"},
+                    {"id": "8", "label": "Water Storage", "parent": "Adaptation"},
+                    {"id": "9", "label": "Reforestation", "parent": "Adaptation"}
+                  ],
+                  "edges": [
+                    {"from": "1", "to": "2"},
+                    {"from": "1", "to": "3"},
+                    {"from": "2", "to": "4"},
+                    {"from": "2", "to": "5"},
+                    {"from": "2", "to": "6"},
+                    {"from": "3", "to": "7"},
+                    {"from": "3", "to": "8"},
+                    {"from": "3", "to": "9"}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "1. Dr. Teferi Mekonnen, Addis Ababa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 5  the climate of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Differentiate between weather and climate, giving examples of each.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Weather is the daily conditions of the atmosphere; climate is the average conditions over long time periods.\n• Explanation & Derivation: Weather includes temperature, pressure, humidity, wind, cloudiness, and precipitation in the troposphere. Climate is the average of these conditions over decades. Example: 'It is raining today in Addis Ababa' is weather; 'Addis Ababa has a temperate highland climate' is climate.\n• Final Answer: Weather is short-term atmospheric conditions; climate is long-term average conditions. Weather: today's rain; Climate: Ethiopia's tropical highland climate."
     },
     {
-      "question": "2. Mr. Nigatu Gebremedhin, Wolkite University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 5  the climate of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Explain the major controls of weather and climate in Ethiopia.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Controls of weather and climate determine variations between places.\n• Explanation & Derivation: Major controls include latitude/angle of the sun, inclination of Earth's axis, altitude, distance from sea, ocean currents, prevailing winds, relief, and vegetation. For Ethiopia, latitude and altitude are the most important.\n• Final Answer: Controls include latitude, Earth's inclination, altitude, distance from sea, ocean currents, prevailing winds, relief, and vegetation. Latitude and altitude are most important for Ethiopia."
     },
     {
-      "question": "3. Dr. Alem-meta Assefa, Wollo University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 5  the climate of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Describe the seasonal distribution of rainfall in Ethiopia and explain the role of the ITCZ.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Rainfall in Ethiopia is controlled by the ITCZ, pressure cells, and wind systems.\n• Explanation & Derivation:\n  - Summer (Jun-Aug): Equatorial Westerlies bring rain to most of Ethiopia.\n  - Autumn (Sep-Nov): ITCZ shifts to equator; weak south-easterlies bring showers.\n  - Winter (Dec-Feb): ITCZ shifts south; dry northeasterlies; only Afar and Red Sea coast get rain.\n  - Spring (Mar-May): ITCZ shifts to equator; south-easterlies bring rain to central and eastern highlands.\n• Final Answer: Rainfall is seasonal, controlled by ITCZ movement. Summer: most rain; Winter: dry except Afar/Red Sea; Spring and Autumn: transitional rains."
     },
     {
-      "question": "4. Dr. Binyam Moreda, Hawassa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 5  the climate of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Identify the agro-ecological zones of Ethiopia and describe their characteristics.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia has five agro-ecological zones based on altitude, rainfall, growing period, and temperature.\n• Explanation & Derivation:\n  - Wurch: >3,200m; coldest; 0.98% of area.\n  - Dega: 2,300-3,200m; cool; 9.94%.\n  - Weyna Dega: 1,500-2,300m; temperate; 26.75%.\n  - Kola: 500-1,500m; warm; 52.94% (largest).\n  - Berha: <500m; hot and arid; 9.39%.\n• Final Answer: The five zones are Wurch (cold, 0.98%), Dega (cool, 9.94%), Weyna Dega (temperate, 26.75%), Kola (warm, 52.94%), and Berha (hot, 9.39%)."
+    },
+    {
+      "question": "Discuss the current trends of climate change in Ethiopia and their consequences.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia is highly vulnerable to climate change.\n• Explanation & Derivation:\n  - Drought risk: 5th out of 184 countries.\n  - 12 extreme droughts (1900-2010); 7 since 1980.\n  - Temperature rise: 0.2-0.28°C/decade; 1.3°C (1960-2006).\n  - Rainfall decline: 15-20% in Spring/Summer (1975-2010).\n  - Consequences: health impacts, water scarcity, crop failures, ecosystem degradation, biodiversity loss.\n• Final Answer: Ethiopia faces increasing drought, temperature rise, and rainfall decline, leading to food insecurity, water scarcity, and ecosystem degradation."
+    },
+    {
+      "question": "Explain the causes and response mechanisms of climate change.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Climate change has natural and anthropogenic causes; responses include mitigation and adaptation.\n• Explanation & Derivation:\n  - Natural causes: orbital changes, energy budget, sun spots, volcanic eruptions.\n  - Anthropogenic causes: industrial activities, transport, agriculture, deforestation, waste decomposition, synthetic compounds.\n  - Greenhouse gases: Methane, Water vapor, CO₂, CO, NO₂, CFC.\n  - Mitigation: energy efficiency, renewable energy, efficient transport.\n  - Adaptation: flood defenses, water storage, reforestation, flexible cultivation, preventive measures.\n• Final Answer: Climate change is caused by natural and human factors. Responses include mitigation (reducing emissions) and adaptation (adjusting to changes)."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 5  THE CLIMATE OF ETHIOPIA AND THE HORN (university geography):\nThis complete study document covers all topics in Chapter 5  the climate of Ethiopia and the horn, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": [
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 5_ the climate of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "filename": "figure_1.jpeg",
-      "caption": "Chapter 5  the climate of Ethiopia and the horn — Visual Figure 1"
-    }
-  ]
+  "summary": "CHAPTER SUMMARY — CHAPTER 5: THE CLIMATE OF ETHIOPIA AND THE HORN (University Freshman Geography):\nThis complete study document covers all topics in Chapter 5, including the difference between weather and climate, the elements and controls of weather and climate (latitude, Earth's inclination, altitude, lapse rates), the spatiotemporal distribution of temperature and rainfall (ITCZ, seasonal variabilities, rainfall regions), the agro-ecological zones of Ethiopia (Wurch, Dega, Weyna Dega, Kola, Berha), and climate change — its current trends, causes (natural and anthropogenic), consequences, and response mechanisms (mitigation and adaptation). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 5: The Climate of Ethiopia and the Horn — © Acadia",
+    "footer": "Page {page_number} | Acadia Geography Series",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
