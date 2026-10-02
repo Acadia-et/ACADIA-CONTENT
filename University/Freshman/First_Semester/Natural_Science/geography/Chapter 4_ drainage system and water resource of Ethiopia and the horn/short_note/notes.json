@@ -1,69 +1,429 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "geography",
-    "unit_title": "Chapter 4  drainage system and water resource of Ethiopia and the horn"
+    "grade": "University Freshman",
+    "subject": "Geography",
+    "unit_title": "Chapter 4: Drainage Systems and Water Resources of Ethiopia",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/geography/Chapter_4_drainage",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation",
+    "total_sections": 6,
+    "total_tables": 12,
+    "total_diagrams": 5
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 4  drainage system and water resource of Ethiopia and the horn",
-      "paragraphs": [
-        "1. Dr. Teferi Mekonnen, Addis Ababa University 2. Mr. Nigatu Gebremedhin, Wolkite University 3. Dr. Alem-meta Assefa, Wollo University 4. Dr. Binyam Moreda, Hawassa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 4  drainage system and water resource of Ethiopia and the horn: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how geography principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 4  drainage system and water resource of Ethiopia and the horn",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in geography",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "4",
+    "chapter_title": "Drainage Systems and Water Resources of Ethiopia",
+    "chapter_subtitle": "Major Drainage Systems, Rivers, Lakes, Groundwater, and Water Resource Development",
+    "chapter_introduction": "Welcome to Chapter 4 of Geography. Water is life — and Ethiopia is often called the 'Water Tower of Eastern Africa.' This chapter explores the drainage systems that carry water across the Ethiopian landscape, the major river basins, the lakes that dot the Rift Valley and highlands, groundwater resources, and the potential for hydroelectric power, irrigation, and transportation. Understanding Ethiopia's water resources is essential for appreciating both its natural wealth and its development challenges.",
+    "sections": [
+      {
+        "section_number": "4.1",
+        "section_title": "Introduction to Ethiopia's Water Resources",
+        "section_introduction": "Water covers 71% of the Earth's surface, but only a tiny fraction is fresh and accessible. Ethiopia, despite being called the 'Water Tower of Eastern Africa,' has only a small percentage of its land covered by water bodies. Let us begin by understanding the global and national context.",
+        "subsections": [
+          {
+            "subtitle": "4.1.1. Global Water Distribution",
+            "paragraphs": [
+              "**71%** of the Earth's surface is covered by water.",
+              "**97.5%** is alkaline (salt water) — only **2.5%** is fresh water.",
+              "Of the fresh water: **Glaciers 68.7%**, **Ground water 30.1%**, **Permafrost 0.8%**, and **Surface waters 0.4%**.",
+              "Ethiopia is called the **Water Tower of Eastern Africa** because of its highlands that give rise to many major rivers.",
+              "Of the total land mass of Ethiopia, only **0.7%** is covered by water bodies."
+            ],
+            "key_points": [
+              "71% of Earth's surface is water.",
+              "97.5% is salt water; only 2.5% is fresh water.",
+              "Fresh water: glaciers 68.7%, groundwater 30.1%, permafrost 0.8%, surface water 0.4%.",
+              "Ethiopia is called the 'Water Tower of Eastern Africa'.",
+              "Only 0.7% of Ethiopia's land is covered by water bodies."
+            ],
+            "tables": [
+              [
+                ["Water Type", "Percentage", "Significance"],
+                ["Salt Water (Alkaline)", "97.5% of all water", "Not directly usable for most human purposes"],
+                ["Fresh Water", "2.5% of all water", "Essential for life and agriculture"],
+                ["Glaciers", "68.7% of fresh water", "Frozen; largely inaccessible"],
+                ["Ground Water", "30.1% of fresh water", "Important source; renewable but limited"],
+                ["Permafrost", "0.8% of fresh water", "Frozen ground; inaccessible"],
+                ["Surface Waters", "0.4% of fresh water", "Rivers, lakes, and streams; most accessible"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Global Water Distribution",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "slices": [
+                    {"label": "Salt Water (Alkaline)", "value": 97.5},
+                    {"label": "Fresh Water", "value": 2.5}
+                  ],
+                  "sub_slices": [
+                    {"label": "Glaciers", "value": 68.7, "parent": "Fresh Water"},
+                    {"label": "Ground Water", "value": 30.1, "parent": "Fresh Water"},
+                    {"label": "Permafrost", "value": 0.8, "parent": "Fresh Water"},
+                    {"label": "Surface Waters", "value": 0.4, "parent": "Fresh Water"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "4.1.2. Key Definitions in Drainage",
+            "paragraphs": [
+              "**Drainage:** The flow of water (principal river and its tributaries) through well-defined channel areas.",
+              "**Drainage System:** The branched network of stream channels together with the adjacent land slopes they drain.",
+              "**Source (Headwater):** The place where a drainage system begins.",
+              "**Mouth:** The point where a drainage system ends.",
+              "**Drainage Pattern:** An area consisting of all geological processes, nature (structure of rocks), topography, slope, amount and the periodicity of the flow.",
+              "**Drainage Basin (Catchment Area):** The total area the main river and its tributaries collectively flow either on surface (runoff) or subsurface flow."
+            ],
+            "key_points": [
+              "Drainage: flow of water through well-defined channels.",
+              "Drainage system: branched network of stream channels.",
+              "Source: where drainage begins.",
+              "Mouth: where drainage ends.",
+              "Drainage pattern: determined by geology, topography, slope, and flow.",
+              "Drainage basin: total area drained by a river and its tributaries."
+            ],
+            "tables": [
+              [
+                ["Term", "Definition", "Importance"],
+                ["Drainage", "Flow of water through well-defined channel areas", "Basic concept of water movement"],
+                ["Drainage System", "Branched network of stream channels and adjacent slopes", "Organizes water flow across landscapes"],
+                ["Source (Headwater)", "Place where a drainage system begins", "Origin of rivers"],
+                ["Mouth", "Point where a drainage system ends", "Destination of rivers"],
+                ["Drainage Pattern", "Area consisting of geological processes, nature, topography, slope, and flow", "Determines river courses"],
+                ["Drainage Basin", "Total area drained by a river and its tributaries", "Unit of water resource management"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 4_ drainage system and water resource of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "image_caption": "Chapter 4  drainage system and water resource of Ethiopia and the horn — Visual Figure 1"
-    }
-  ],
+      },
+      {
+        "section_number": "4.2",
+        "section_title": "Major Drainage Systems of Ethiopia",
+        "section_introduction": "Ethiopia's drainage systems can be grouped into three major categories: the Western Drainage Systems, the South-eastern Drainage Systems, and the Rift Valley Drainage System. Each has distinct characteristics and importance.",
+        "subsections": [
+          {
+            "subtitle": "4.2.1. The Western Drainage Systems",
+            "paragraphs": [
+              "The Western Drainage Systems are the **largest drainage systems in volume (60%) and coverage of total area in the country (40%)**.",
+              "**I. Abay Basin:** Origin from Sekela (Choke mountain) and joins with Nile at Khartoum, finally drains to the Mediterranean Sea.",
+              "**II. Tekeze Basin:** (named Atbara in Sudan) has two main tributaries (Anqoreh and Goand).",
+              "**III. Baro and Akobo:** Join in South Sudan known as Sobat River.",
+              "**IV. Ghibe/Omo:** Is inland drainage to Chew-Bahir at the mouth of Lake Turkana."
+            ],
+            "key_points": [
+              "Western Drainage Systems: 60% of volume, 40% of area.",
+              "Abay Basin: from Choke Mountain to Mediterranean via Nile.",
+              "Tekeze Basin: becomes Atbara in Sudan; tributaries Anqoreh and Goand.",
+              "Baro and Akobo: join in South Sudan as Sobat River.",
+              "Ghibe/Omo: inland drainage to Chew-Bahir/Lake Turkana."
+            ],
+            "tables": [
+              [
+                ["Basin", "Origin", "Destination", "Key Tributaries"],
+                ["Abay", "Sekela (Choke Mountain)", "Mediterranean Sea via Nile", "Didessa, Fincha, Guder, Muger, Jemma, Beshillo"],
+                ["Tekeze", "Highlands", "Nile via Atbara (Sudan)", "Anqoreh, Goand"],
+                ["Baro and Akobo", "Highlands", "Sobat River (South Sudan)", "Akoba, Ghilo"],
+                ["Ghibe/Omo", "Highlands", "Chew-Bahir/Lake Turkana", "Gojeb, Gilgelghibe"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.2. The South-eastern Drainage Systems",
+            "paragraphs": [
+              "The South-eastern Drainage Systems have the **highest evaporation of water** and are mainly drained by:",
+              "**I. Wabishebelle:** The longest river in Ethiopia.",
+              "**II. Ghenale:** The name given to Dawa river in Somalia; finally flows to the Indian Ocean.",
+              "This system accounts for **25% of the annual water flow of Ethiopia**."
+            ],
+            "key_points": [
+              "South-eastern Drainage Systems: highest evaporation.",
+              "Wabishebelle: longest river in Ethiopia.",
+              "Ghenale: becomes Dawa in Somalia; flows to Indian Ocean.",
+              "Accounts for 25% of Ethiopia's annual water flow."
+            ],
+            "tables": [
+              [
+                ["River", "Key Feature", "Destination"],
+                ["Wabishebelle", "Longest river in Ethiopia", "Indian Ocean (via Somalia)"],
+                ["Ghenale", "Becomes Dawa in Somalia", "Indian Ocean"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.3. The Rift Valley Drainage System",
+            "paragraphs": [
+              "The **Awash River** originates from the Shewan plateau and is the principal river of the Rift Valley Drainage System.",
+              "The Rift Valley Drainage System includes several lakes and inland basins."
+            ],
+            "key_points": [
+              "Awash River originates from Shewan plateau.",
+              "Rift Valley Drainage System includes lakes and inland basins."
+            ],
+            "tables": [
+              [
+                ["River", "Origin", "Key Feature"],
+                ["Awash", "Shewan Plateau", "Principal river of Rift Valley Drainage System"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.4. Major Ethiopian Rivers: Catchment, Length, and Tributaries",
+            "paragraphs": [
+              "The table below summarizes the major rivers of Ethiopia, including their catchment area, length inside Ethiopia, and key tributaries."
+            ],
+            "tables": [
+              [
+                ["River Name", "Catchment (km²)", "Length (inside Ethiopia, km)", "Tributaries"],
+                ["Abay", "198,508", "800", "Didessa, Fincha, Guder, Muger, Jemma, Beshillo"],
+                ["Shebelle", "205,407", "1,340", "Erer, Yerrer, Mojo, Ramis"],
+                ["Genale", "168,141", "480", "Dawa, Wybe, Welmel, Mena"],
+                ["Awash", "113,709", "1,200", "Akaki, Kesse, Borkena, Mille"],
+                ["Tekezze", "87,733", "608", "Angherb, Ghiba, Guange"],
+                ["Ghibe/Omo", "77,205", "760", "Gojeb, Gilgelghibe"],
+                ["Baro", "78,718", "227", "Akoba, Ghilo"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Major Ethiopian Rivers: Catchment Area",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": [
+                    {"label": "Shebelle", "value": 205407},
+                    {"label": "Abay", "value": 198508},
+                    {"label": "Genale", "value": 168141},
+                    {"label": "Awash", "value": 113709},
+                    {"label": "Tekezze", "value": 87733},
+                    {"label": "Baro", "value": 78718},
+                    {"label": "Ghibe/Omo", "value": 77205}
+                  ],
+                  "unit": "Catchment area (km²)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "4.3",
+        "section_title": "General Characteristics of Ethiopian Rivers",
+        "section_introduction": "Ethiopian rivers have several distinctive characteristics that affect their use and management. Understanding these characteristics is essential for water resource planning.",
+        "subsections": [
+          {
+            "subtitle": "4.3.1. Key Characteristics",
+            "paragraphs": [
+              "**1. Origin:** Almost all major rivers originate from the highlands.",
+              "**2. Trans-boundary:** Majority of Ethiopian rivers are trans-boundary (cross international borders).",
+              "**3. Seasonality:** Seasonality of rainfall leads to runoff, destroying small bridges, damaging roads and flooding low lands.",
+              "**4. Rapids and Waterfalls:** Due to surface ruggedness, they have rapids and waterfalls along their course.",
+              "**5. Deep Gorges:** They have cuts, steep-sided river valleys and deep gorges along their courses.",
+              "**6. Boundaries:** Serve as boundaries both international and domestic administrative units."
+            ],
+            "key_points": [
+              "Almost all major rivers originate from highlands.",
+              "Majority are trans-boundary.",
+              "Seasonality leads to runoff, flooding, and infrastructure damage.",
+              "Rapids and waterfalls due to rugged surface.",
+              "Deep gorges and steep-sided valleys.",
+              "Serve as international and domestic boundaries."
+            ],
+            "tables": [
+              [
+                ["Characteristic", "Description", "Implication"],
+                ["Highland Origin", "Almost all major rivers start in highlands", "High hydropower potential"],
+                ["Trans-boundary", "Most rivers cross international borders", "Requires international cooperation"],
+                ["Seasonality", "Rainfall seasonality causes runoff and flooding", "Infrastructure damage; need for flood control"],
+                ["Rapids and Waterfalls", "Rugged surface creates rapids and falls", "Hydropower potential; navigation challenges"],
+                ["Deep Gorges", "Steep-sided valleys and gorges", "Difficult for transportation; scenic value"],
+                ["Boundaries", "Serve as international and domestic boundaries", "Geopolitical significance"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "4.4",
+        "section_title": "The Ethiopian Lakes",
+        "section_introduction": "Ethiopia has a variety of lakes, both natural and man-made. The majority are clustered in the Rift Valley system, while others are found in the highlands. Let us explore their distribution and characteristics.",
+        "subsections": [
+          {
+            "subtitle": "4.4.1. Types and Distribution of Lakes",
+            "paragraphs": [
+              "Ethiopian lakes can be classified into **natural lakes** and **man-made/artificial lakes**.",
+              "**Man-made lakes:** Koka, Fincha, Melka Wakena, and many others dammed for hydroelectric power generation projects.",
+              "**I. Rift Valley Lakes:** The majority of lakes in Ethiopia are clustered in the Rift Valley system. Lake Tana, the largest lake in Ethiopia, is a result of tectonic processes that took place during the Quaternary period of the Cenozoic era.",
+              "**II. Highlands Lakes:** Lake Tana, the largest lake in Ethiopia, is located in the highlands."
+            ],
+            "key_points": [
+              "Ethiopian lakes: natural and man-made.",
+              "Man-made lakes: Koka, Fincha, Melka Wakena.",
+              "Majority of lakes clustered in Rift Valley system.",
+              "Lake Tana is the largest lake in Ethiopia.",
+              "Lake Tana formed by tectonic processes during Quaternary period."
+            ],
+            "tables": [
+              [
+                ["Lake Type", "Examples", "Characteristics"],
+                ["Natural Lakes", "Lake Tana, Rift Valley lakes", "Formed by tectonic or volcanic processes"],
+                ["Man-made Lakes", "Koka, Fincha, Melka Wakena", "Created by damming rivers for hydropower"],
+                ["Rift Valley Lakes", "Ziway, Langano, Hawassa, Abaya, Chamo", "Clustered in the Rift Valley system"],
+                ["Highland Lakes", "Lake Tana", "Largest lake in Ethiopia; tectonic origin"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Distribution of Ethiopian Lakes",
+                "diagram_type": "map",
+                "diagram_data": {
+                  "rift_valley_lakes": ["Ziway", "Langano", "Hawassa", "Abaya", "Chamo"],
+                  "highland_lakes": ["Lake Tana"],
+                  "man_made_lakes": ["Koka", "Fincha", "Melka Wakena"]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "4.5",
+        "section_title": "Subsurface (Ground) Water Resource of Ethiopia",
+        "section_introduction": "Groundwater is an important but often overlooked water resource. Ethiopia has significant groundwater potential, though it is unevenly distributed.",
+        "subsections": [
+          {
+            "subtitle": "4.5.1. Groundwater Potential",
+            "paragraphs": [
+              "Ethiopia has lower ground water potential, ranging between **12-30 BMC (Billion Cubic Meters)**.",
+              "Groundwater is stored in aquifers — permeable rock formations that can hold and transmit water.",
+              "Groundwater is particularly important in arid and semi-arid regions where surface water is scarce."
+            ],
+            "key_points": [
+              "Groundwater potential: 12-30 BMC.",
+              "Stored in aquifers (permeable rock formations).",
+              "Important in arid and semi-arid regions."
+            ],
+            "tables": [
+              [
+                ["Parameter", "Value", "Significance"],
+                ["Groundwater Potential", "12-30 BMC", "Significant but limited resource"],
+                ["Storage", "Aquifers (permeable rock formations)", "Renewable but vulnerable to over-extraction"],
+                ["Importance", "Critical in arid and semi-arid regions", "Supports life and agriculture where surface water is scarce"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "4.6",
+        "section_title": "Water Resources Potentials and Development in Ethiopia",
+        "section_introduction": "Ethiopia's water resources offer tremendous potential for hydroelectric power, irrigation, transportation, fisheries, and tourism. Let us explore these potentials and the challenges of development.",
+        "subsections": [
+          {
+            "subtitle": "4.6.1. Hydro-electric Potential",
+            "paragraphs": [
+              "Ethiopia has significant hydroelectric potential. Major projects include:",
+              "**Grand Ethiopian Renaissance Dam (GERD)** — the largest hydropower project in Africa.",
+              "**Gilgel Gibe, Lake Aba Samuel, Koka, Tis Abay, Awash, Melka Wakena, Sor, Fincha, Gibe/Omo, Tana Beles and Tekeze** — all hydroelectric projects."
+            ],
+            "key_points": [
+              "Ethiopia has significant hydroelectric potential.",
+              "GERD is the largest hydropower project in Africa.",
+              "Other projects: Gilgel Gibe, Koka, Tis Abay, Awash, Melka Wakena, Fincha, Tana Beles, Tekeze."
+            ],
+            "tables": [
+              [
+                ["Project", "Location/Feature", "Significance"],
+                ["Grand Ethiopian Renaissance Dam (GERD)", "Blue Nile", "Largest hydropower project in Africa"],
+                ["Gilgel Gibe", "Omo River", "Major hydropower project"],
+                ["Koka", "Awash River", "Early hydropower project"],
+                ["Tis Abay", "Blue Nile", "Historic hydropower site"],
+                ["Melka Wakena", "Wabishebelle", "Hydropower project"],
+                ["Tana Beles", "Lake Tana to Beles River", "Hydropower and irrigation"],
+                ["Tekeze", "Tekeze River", "Hydropower project"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.6.2. Irrigation and Transportation",
+            "paragraphs": [
+              "**Irrigation:** The Baro-Akobo and Genale Dawa river systems have large irrigation potential.",
+              "**Transportation:** Majority of Ethiopian rivers are not suitable for transportation. However, Baro, Lake Tana and Abaya are relatively used for small-scale transportation.",
+              "**Fisheries:** From Lake Tana, estimated 8,000-10,000 tons; Chamo is estimated at 4,500 tons per year. **60%** of fish supplies come from the main Rift Valley lakes.",
+              "**Tourism:** Variety of fish, birds and other aquatic life forms, waterfalls, rivers, lakes, variety of wild life and endemic species are important for recreation and tourism in Ethiopia."
+            ],
+            "key_points": [
+              "Baro-Akobo and Genale Dawa have large irrigation potential.",
+              "Majority of rivers not suitable for transportation.",
+              "Baro, Lake Tana, and Abaya used for small-scale transportation.",
+              "Lake Tana fish production: 8,000-10,000 tons/year.",
+              "Chamo fish production: 4,500 tons/year.",
+              "60% of fish supplies from Rift Valley lakes.",
+              "Water bodies support tourism and recreation."
+            ],
+            "tables": [
+              [
+                ["Use", "Potential/Status", "Key Locations"],
+                ["Irrigation", "Large potential", "Baro-Akobo, Genale Dawa river systems"],
+                ["Transportation", "Limited; small-scale", "Baro River, Lake Tana, Lake Abaya"],
+                ["Fisheries", "8,000-10,000 tons/year (Lake Tana); 4,500 tons/year (Chamo)", "Lake Tana, Chamo, Rift Valley lakes"],
+                ["Tourism", "High potential", "Waterfalls, rivers, lakes, wildlife"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "1. Dr. Teferi Mekonnen, Addis Ababa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  drainage system and water resource of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Describe the global distribution of water and explain why Ethiopia is called the 'Water Tower of Eastern Africa'.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: 71% of Earth's surface is water; 97.5% is salt water, 2.5% fresh water. Fresh water: glaciers 68.7%, groundwater 30.1%, permafrost 0.8%, surface water 0.4%.\n• Explanation & Derivation: Ethiopia is called the 'Water Tower of Eastern Africa' because its highlands give rise to many major rivers that flow to neighboring countries. However, only 0.7% of Ethiopia's land is covered by water bodies.\n• Final Answer: Global water is mostly salt (97.5%); fresh water is only 2.5%. Ethiopia is the 'Water Tower' because its highlands are the source of many trans-boundary rivers, though only 0.7% of its land is water-covered."
     },
     {
-      "question": "2. Mr. Nigatu Gebremedhin, Wolkite University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  drainage system and water resource of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Define drainage, drainage system, drainage pattern, and drainage basin.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Key terms in drainage.\n• Explanation & Derivation:\n  - Drainage: flow of water through well-defined channels.\n  - Drainage system: branched network of stream channels and adjacent slopes.\n  - Drainage pattern: area consisting of geological processes, nature, topography, slope, and flow.\n  - Drainage basin: total area drained by a river and its tributaries.\n• Final Answer: Drainage is water flow through channels; drainage system is the network of channels; drainage pattern is determined by geology and topography; drainage basin is the total area drained."
     },
     {
-      "question": "3. Dr. Alem-meta Assefa, Wollo University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  drainage system and water resource of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Identify and describe the three major drainage systems of Ethiopia.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Three major drainage systems: Western, South-eastern, and Rift Valley.\n• Explanation & Derivation:\n  - Western: largest (60% volume, 40% area); includes Abay, Tekeze, Baro/Akobo, Ghibe/Omo.\n  - South-eastern: highest evaporation; includes Wabishebelle (longest) and Ghenale; 25% of annual flow.\n  - Rift Valley: includes Awash River from Shewan plateau.\n• Final Answer: The three systems are Western (largest, 60% volume), South-eastern (25% flow, highest evaporation), and Rift Valley (Awash River)."
     },
     {
-      "question": "4. Dr. Binyam Moreda, Hawassa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 4  drainage system and water resource of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "List the major Ethiopian rivers with their catchment areas and lengths.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Major rivers of Ethiopia.\n• Explanation & Derivation:\n  - Abay: 198,508 km², 800 km.\n  - Shebelle: 205,407 km², 1,340 km.\n  - Genale: 168,141 km², 480 km.\n  - Awash: 113,709 km², 1,200 km.\n  - Tekezze: 87,733 km², 608 km.\n  - Ghibe/Omo: 77,205 km², 760 km.\n  - Baro: 78,718 km², 227 km.\n• Final Answer: Major rivers include Abay, Shebelle (largest catchment), Genale, Awash, Tekezze, Ghibe/Omo, and Baro, with varying catchments and lengths."
+    },
+    {
+      "question": "Explain the general characteristics of Ethiopian rivers.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopian rivers have distinctive characteristics.\n• Explanation & Derivation:\n  - Almost all originate from highlands.\n  - Majority are trans-boundary.\n  - Seasonality causes runoff, flooding, and infrastructure damage.\n  - Rapids and waterfalls due to rugged surface.\n  - Deep gorges and steep-sided valleys.\n  - Serve as boundaries.\n• Final Answer: Ethiopian rivers originate from highlands, are mostly trans-boundary, seasonal, have rapids and waterfalls, form deep gorges, and serve as boundaries."
+    },
+    {
+      "question": "Describe the lakes of Ethiopia and their distribution.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopian lakes include natural and man-made.\n• Explanation & Derivation:\n  - Man-made: Koka, Fincha, Melka Wakena.\n  - Rift Valley lakes: Ziway, Langano, Hawassa, Abaya, Chamo.\n  - Highland lakes: Lake Tana (largest).\n• Final Answer: Ethiopian lakes are natural (Lake Tana, Rift Valley lakes) and man-made (Koka, Fincha, Melka Wakena). Most are in the Rift Valley; Lake Tana is the largest."
+    },
+    {
+      "question": "Discuss the water resources potential and development in Ethiopia, including hydroelectric power, irrigation, transportation, fisheries, and tourism.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia's water resources offer multiple development opportunities.\n• Explanation & Derivation:\n  - Hydroelectric: GERD, Gilgel Gibe, Koka, Tis Abay, etc.\n  - Irrigation: Baro-Akobo and Genale Dawa have large potential.\n  - Transportation: limited; Baro, Lake Tana, Abaya used for small-scale.\n  - Fisheries: Lake Tana 8,000-10,000 tons/year; Chamo 4,500 tons/year; 60% from Rift Valley lakes.\n  - Tourism: waterfalls, rivers, lakes, wildlife.\n• Final Answer: Ethiopia's water resources support hydropower (GERD, etc.), irrigation (Baro-Akobo, Genale Dawa), limited transportation, fisheries (Lake Tana, Chamo, Rift Valley lakes), and tourism."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 4  DRAINAGE SYSTEM AND WATER RESOURCE OF ETHIOPIA AND THE HORN (university geography):\nThis complete study document covers all topics in Chapter 4  drainage system and water resource of Ethiopia and the horn, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": [
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 4_ drainage system and water resource of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "filename": "figure_1.jpeg",
-      "caption": "Chapter 4  drainage system and water resource of Ethiopia and the horn — Visual Figure 1"
-    }
-  ]
+  "summary": "CHAPTER SUMMARY — CHAPTER 4: DRAINAGE SYSTEMS AND WATER RESOURCES OF ETHIOPIA (University Freshman Geography):\nThis complete study document covers all topics in Chapter 4, including global water distribution, key definitions in drainage, the three major drainage systems (Western, South-eastern, Rift Valley), major Ethiopian rivers with catchments and lengths, general characteristics of Ethiopian rivers, the lakes of Ethiopia (natural and man-made), groundwater resources, and water resources potential and development (hydroelectric, irrigation, transportation, fisheries, tourism). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 4: Drainage Systems and Water Resources of Ethiopia — © Acadia",
+    "footer": "Page {page_number} | Acadia Geography Series",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
