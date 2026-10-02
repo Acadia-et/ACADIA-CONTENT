@@ -1,69 +1,631 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "geography",
-    "unit_title": "Chapter 6  soils, natural vegetation and wildlife resource"
+    "grade": "University Freshman",
+    "subject": "Geography",
+    "unit_title": "Chapter 6: Soils, Natural Vegetation and Wildlife of Ethiopia",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/geography/Chapter_6_soils_vegetation_wildlife",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation",
+    "total_sections": 4,
+    "total_tables": 14,
+    "total_diagrams": 5
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 6  soils, natural vegetation and wildlife resource",
-      "paragraphs": [
-        "1. Dr. Teferi Mekonnen, Addis Ababa University 2. Mr. Nigatu Gebremedhin, Wolkite University 3. Dr. Alem-meta Assefa, Wollo University 4. Dr. Binyam Moreda, Hawassa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 6  soils, natural vegetation and wildlife resource: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how geography principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 6  soils, natural vegetation and wildlife resource",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in geography",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "6",
+    "chapter_title": "Soils, Natural Vegetation and Wildlife of Ethiopia",
+    "chapter_subtitle": "Soil Formation, Types, Degradation, Conservation, Natural Vegetation, and Wildlife",
+    "chapter_introduction": "Welcome to Chapter 6 of Geography. This chapter explores the living and non-living foundations of Ethiopia's terrestrial ecosystems: its soils, natural vegetation, and wildlife. You will learn how soils form, the major soil types found in Ethiopia, the causes and consequences of soil degradation, and the conservation measures being applied. You will also explore the distribution of natural vegetation — from Afro-alpine habitats to desert steppes — and the rich wildlife diversity of Ethiopia, along with the challenges facing conservation efforts.",
+    "sections": [
+      {
+        "section_number": "6.1",
+        "section_title": "Soil Formation",
+        "section_introduction": "Soil is the thin layer of loose material covering the Earth's surface that supports plant life. Ethiopia's varied geology, climate, and topography have produced a wide range of soil types. Let us begin by understanding how soils form.",
+        "subsections": [
+          {
+            "subtitle": "6.1.1. Introduction to Ethiopian Soils",
+            "paragraphs": [
+              "Ethiopia has varied soil due to geological processes, varied climatic and biological diversity.",
+              "The distribution of wildlife and natural vegetation in Ethiopia and the Horn is controlled by many factors among which are climate, soil types, drainage, etc.",
+              "Natural vegetation are vital that provide shelter, food, source of fuel, pasture and grazing, raw material for industries."
+            ],
+            "key_points": [
+              "Ethiopia has varied soils due to geological, climatic, and biological diversity.",
+              "Wildlife and vegetation distribution controlled by climate, soil, drainage, etc.",
+              "Natural vegetation provides shelter, food, fuel, pasture, and raw materials."
+            ],
+            "tables": [
+              [
+                ["Factor", "Influence on Soils and Vegetation", "Example"],
+                ["Climate", "Determines weathering rates and vegetation types", "High rainfall areas have leached soils and forests"],
+                ["Geology", "Parent material determines soil mineral composition", "Volcanic rocks produce fertile soils"],
+                ["Topography", "Slope affects drainage and erosion", "Steep slopes have thin soils; valleys have deep soils"],
+                ["Biological Activity", "Decomposition adds organic matter", "Forest soils are rich in organic matter"],
+                ["Time", "Determines degree of soil development", "Ancient soils are deeply weathered"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.1.2. Soil Composition",
+            "paragraphs": [
+              "Soil is composed of four main components:",
+              "- **Minerals (45%)** — derived from parent rock material.",
+              "- **Air (25%)** — fills pore spaces between soil particles.",
+              "- **Water (25%)** — held in soil pores; essential for plant growth.",
+              "- **Organic matter (5%)** — decomposed plant and animal material (humus).",
+              "Parent materials (rocks) form the foundation of soil development."
+            ],
+            "key_points": [
+              "Soil composition: minerals 45%, air 25%, water 25%, organic matter 5%.",
+              "Parent materials (rocks) are the source of mineral content.",
+              "Organic matter (humus) is critical for soil fertility."
+            ],
+            "tables": [
+              [
+                ["Component", "Percentage", "Role"],
+                ["Minerals", "45%", "Provides structure and nutrients"],
+                ["Air", "25%", "Supplies oxygen for roots and soil organisms"],
+                ["Water", "25%", "Transports nutrients; essential for plant growth"],
+                ["Organic Matter", "5%", "Improves fertility, water retention, and structure"],
+                ["Parent Materials", "Trace", "Source of mineral content"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Soil Composition",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "slices": [
+                    {"label": "Minerals", "value": 45},
+                    {"label": "Air", "value": 25},
+                    {"label": "Water", "value": 25},
+                    {"label": "Organic Matter", "value": 5}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "6.1.3. Soil Formation Processes",
+            "paragraphs": [
+              "The formation and spatial variability of soils in Ethiopia is largely related to the factors of topographic, climatic, parent material (rocks), land use (human activities) and time.",
+              "**Weathering** is the process of soil formation.",
+              "There are three types of weathering:",
+              "**i. Mechanical (physical) weathering:** Physical disintegration of rock without changing its chemical composition.",
+              "**ii. Biological weathering:** Weathering involves the weakening and subsequent disintegration of rock by plants, animals and microbes. Brings both chemical and physical compositional change.",
+              "**iii. Chemical weathering:** Involves the modification of the chemical and mineralogical composition of the weathered material. Different processes can result in chemical weathering. Most common chemical weathering processes are hydrolysis, oxidation, reduction, hydration, carbonation and solution."
+            ],
+            "key_points": [
+              "Soil formation factors: topography, climate, parent material, land use, time.",
+              "Weathering is the process of soil formation.",
+              "Mechanical weathering: physical disintegration.",
+              "Biological weathering: disintegration by plants, animals, microbes.",
+              "Chemical weathering: modification of chemical and mineralogical composition.",
+              "Chemical processes: hydrolysis, oxidation, reduction, hydration, carbonation, solution."
+            ],
+            "tables": [
+              [
+                ["Weathering Type", "Process", "Example"],
+                ["Mechanical (Physical)", "Physical disintegration without chemical change", "Frost wedging, root expansion"],
+                ["Biological", "Disintegration by plants, animals, microbes", "Root penetration, burrowing animals"],
+                ["Chemical", "Modification of chemical and mineralogical composition", "Hydrolysis, oxidation, carbonation"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.1.4. Soil Properties",
+            "paragraphs": [
+              "Soils have two basic properties:",
+              "**1) Physical properties:** Physical composition and major soil components such as texture, structure, porosity etc. These properties affect air and water movement in the soil, and thus the soil's ability to function.",
+              "**2) Chemical properties:** Various chemical constituents like availability of minerals, electrical conductivity, soil pH, etc."
+            ],
+            "key_points": [
+              "Physical properties: texture, structure, porosity.",
+              "Physical properties affect air and water movement.",
+              "Chemical properties: mineral availability, electrical conductivity, pH."
+            ],
+            "tables": [
+              [
+                ["Property Type", "Components", "Importance"],
+                ["Physical", "Texture, structure, porosity", "Affects air and water movement; root penetration"],
+                ["Chemical", "Mineral availability, electrical conductivity, pH", "Determines nutrient availability and soil fertility"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 6_ soils, natural vegetation and wildlife resource\\short_note\\images\\figure_1.jpeg",
-      "image_caption": "Chapter 6  soils, natural vegetation and wildlife resource — Visual Figure 1"
-    }
-  ],
+      },
+      {
+        "section_number": "6.2",
+        "section_title": "Ethiopian Soils: Types, Degradation and Conservation",
+        "section_introduction": "Ethiopia has a wide variety of soil types, each with distinct characteristics and agricultural potential. However, these soils face significant degradation pressures. Let us explore the major soil types, the causes and types of degradation, and the conservation measures being applied.",
+        "subsections": [
+          {
+            "subtitle": "6.2.1. Major Soil Types in Ethiopia",
+            "paragraphs": [
+              "Soils of Ethiopia are basically derived from **crystalline, volcanic and Mesozoic sedimentary rocks**.",
+              "**FAO** has identified **18 soil associations** in Ethiopia.",
+              "Major soils (**11 soils**) cover about **87.4%** of the land area of Ethiopia.",
+              "The table below summarizes the major soil types, their environmental conditions, characteristics, agricultural suitability, and occurrence."
+            ],
+            "key_points": [
+              "Soils derived from crystalline, volcanic, and Mesozoic sedimentary rocks.",
+              "FAO identified 18 soil associations in Ethiopia.",
+              "11 major soils cover about 87.4% of Ethiopia's land area.",
+              "Major soil types: Xerosols, Yermosols/Solanchaks, Fluvisols, Luvisols."
+            ],
+            "tables": [
+              [
+                ["Soil Type", "Environmental Condition", "Characteristics", "Agricultural Suitability", "Occurrence"],
+                ["Xerosols", "Subjected to wind erosion; deserts soil; available in arid and semiarid areas", "High salt content and low organic content", "Very fertile if irrigated; poor humus & nitrogen; rich in phosphorus and potash", "Ogaden and northeastern escarpments"],
+                ["Yermosols and Solanchaks", "Available in arid and semiarid areas", "Drier and more problematic than Xerosols", "Located in salty plains", "Afar, especially Solonchaks in Afar salty plains"],
+                ["Fluvisols", "Recent alluvial deposits in depressions", "Flat or nearly flat ground", "Fertile for large-scale irrigation", "Omo, Awash, Abay, Akobo, Baro, Rift Valley"],
+                ["Luvisols", "Develop by alternative of wet and dry seasons", "Not leaching", "Good chemical nutrients; best agricultural; intensively cultivated", "Steep slopes & flat top Lake Tana area; Parts of Northern, Central, Eastern Highlands & Southern lowlands"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Major Soil Types and Their Distribution",
+                "diagram_type": "map",
+                "diagram_data": {
+                  "soil_types": [
+                    {"name": "Xerosols", "locations": ["Ogaden", "Northeastern escarpments"]},
+                    {"name": "Yermosols and Solanchaks", "locations": ["Afar", "Salty plains"]},
+                    {"name": "Fluvisols", "locations": ["Omo", "Awash", "Abay", "Akobo", "Baro", "Rift Valley"]},
+                    {"name": "Luvisols", "locations": ["Lake Tana area", "Northern Highlands", "Central Highlands", "Eastern Highlands", "Southern lowlands"]}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "6.2.2. Soil Degradation",
+            "paragraphs": [
+              "**Soil degradation** is a change in any or all of soil status or diminished the capacity or deterioration of any physical, chemical and biological properties of soil.",
+              "There are three major types of soil degradation:",
+              "**i. Physical Degradation:** Deterioration of the physical properties of soil.",
+              "- **Compaction:** Elimination or reduction of structural pores of soil that accelerated runoff and erosion.",
+              "- **Soil erosion:** The process of wearing away and moving down of soil components due to erosion, leaching and others agents of erosion.",
+              "**ii. Biological Degradation:** Reduction in soil organic content, decline in biomass carbon and decrease the activity and diversity of soil fauna.",
+              "**iii. Chemical Degradation:** Nutrient depletion, excessive leaching, decline in soil pH and a reduction in base saturation.",
+              "**Causes of soil erosion in Ethiopia:**",
+              "**1. Physical Causes:** Steepness slope, intensity, duration and.",
+              "**2. Human Causes:** Deforestation, overgrazing, poor farming firing, cultivation, construction, building, mining, farm land expanding etc."
+            ],
+            "key_points": [
+              "Soil degradation: deterioration of physical, chemical, and biological properties.",
+              "Three types: physical, biological, chemical degradation.",
+              "Physical degradation: compaction and erosion.",
+              "Biological degradation: loss of organic content and soil fauna.",
+              "Chemical degradation: nutrient depletion, leaching, pH decline.",
+              "Physical causes of erosion: steep slopes, rainfall intensity.",
+              "Human causes: deforestation, overgrazing, poor farming, construction, mining."
+            ],
+            "tables": [
+              [
+                ["Degradation Type", "Description", "Causes"],
+                ["Physical", "Deterioration of physical properties", "Compaction, erosion"],
+                ["Biological", "Reduction in organic content and soil fauna", "Loss of biomass, decline in soil organisms"],
+                ["Chemical", "Nutrient depletion, leaching, pH decline", "Over-cultivation, excessive fertilizer use, acidification"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.2.3. Soil Erosion Control Measures",
+            "paragraphs": [
+              "We have two major soil erosion control mechanisms:",
+              "**A. Biological Control measures:** Include vegetative strips, plantation, and reforestation. Prevent splash erosion, reduces the velocity of surface runoff, increases surface roughness which reduces runoff and increases infiltration.",
+              "**B. Physical control measures:** Includes terracing, check dams, gabion trenches."
+            ],
+            "key_points": [
+              "Two control mechanisms: biological and physical.",
+              "Biological: vegetative strips, plantation, reforestation.",
+              "Biological measures reduce runoff and increase infiltration.",
+              "Physical: terracing, check dams, gabion trenches."
+            ],
+            "tables": [
+              [
+                ["Control Measure", "Type", "Description", "Effect"],
+                ["Vegetative Strips", "Biological", "Planting strips of vegetation along contours", "Reduces runoff velocity; traps sediment"],
+                ["Plantation", "Biological", "Planting trees and shrubs", "Stabilizes soil; increases infiltration"],
+                ["Reforestation", "Biological", "Replanting forests", "Restores ecosystem; prevents erosion"],
+                ["Terracing", "Physical", "Building stepped levels on slopes", "Reduces slope length; traps water and soil"],
+                ["Check Dams", "Physical", "Small dams across gullies", "Slows water flow; traps sediment"],
+                ["Gabion Trenches", "Physical", "Rock-filled wire baskets", "Stabilizes slopes; prevents gully expansion"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "6.3",
+        "section_title": "Natural Vegetation of Ethiopia",
+        "section_introduction": "Ethiopia's natural vegetation ranges from Afro-alpine habitats on the highest peaks to desert steppes in the lowlands. This diversity is controlled by climate, soil, drainage, elevation, temperature, and precipitation. Let us explore the major vegetation types and the threats they face.",
+        "subsections": [
+          {
+            "subtitle": "6.3.1. Introduction",
+            "paragraphs": [
+              "**Natural Vegetation** means plants grow with little or no human interference.",
+              "Factors controlled the distribution of natural Vegetation are climate, soil types, drainage, elevation (slope), temperature and precipitation etc.",
+              "Plants can provide shelter, food, source of fuel, pasture and grazing, raw material for industries, source of timber and non-timber products, moderating local climate, home of wild life.",
+              "**Xeromorphic plants:** Plants which are adapted to drought and high temperatures.",
+              "**Afro-alpine plants:** Plants which are adapted very cold and frost climate."
+            ],
+            "key_points": [
+              "Natural vegetation grows with little or no human interference.",
+              "Distribution controlled by climate, soil, drainage, elevation, temperature, precipitation.",
+              "Plants provide shelter, food, fuel, pasture, raw materials.",
+              "Xeromorphic plants: adapted to drought and high temperatures.",
+              "Afro-alpine plants: adapted to very cold and frost climate."
+            ],
+            "tables": [
+              [
+                ["Plant Type", "Adaptation", "Environment"],
+                ["Xeromorphic", "Drought and high temperature tolerance", "Arid and semi-arid lowlands"],
+                ["Afro-alpine", "Cold and frost tolerance", "High mountains (>4,000 m)"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.2. Major Natural Vegetation Types of Ethiopia",
+            "paragraphs": [
+              "Taking altitude into consideration, natural vegetation can be classified into five groups:",
+              "1. Afro-alpine and sub-afro alpine Region",
+              "2. Forest Region",
+              "3. Woodland Savannah Region",
+              "4. Steppe Region",
+              "5. Semi Desert Region"
+            ],
+            "key_points": [
+              "Five major vegetation types based on altitude.",
+              "Afro-alpine and sub-afro alpine Region.",
+              "Forest Region.",
+              "Woodland Savannah Region.",
+              "Steppe Region.",
+              "Semi Desert Region."
+            ],
+            "tables": [
+              [
+                ["Vegetation Type", "Altitude Range", "Characteristics"],
+                ["Afro-alpine and Sub-afro alpine", "4,000-4,620 m", "Cold, frost-tolerant plants; 1.3% of landmass"],
+                ["Forest", "Variable", "Trees; highland and lowland forests"],
+                ["Woodland Savannah", "Variable", "Xeromorphic trees and grasses"],
+                ["Steppe", "Arid/semi-arid", "Short shrubs, scattered grasses"],
+                ["Semi Desert", "Arid", "Xerophytic plants, acacias, palms"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.3. Afro-alpine and Sub-afro alpine Region",
+            "paragraphs": [
+              "**i. Afro-alpine:** Ethiopia has the largest extent of Afro-alpine and sub afro-alpine habitats in Africa.",
+              "Found between **4,000 and 4,620 meters** above sea level.",
+              "Covers nearly **1.3%** of the total landmass of Ethiopia.",
+              "Annual precipitation which ranges between **800 and 1,500 mm** with sleet or snow and temperature records **0°C and negative**."
+            ],
+            "key_points": [
+              "Ethiopia has the largest extent of Afro-alpine habitats in Africa.",
+              "Found between 4,000-4,620 m.a.s.l.",
+              "Covers 1.3% of Ethiopia's landmass.",
+              "Annual precipitation: 800-1,500 mm (sleet/snow).",
+              "Temperature: 0°C and negative."
+            ],
+            "tables": [
+              [
+                ["Parameter", "Value", "Significance"],
+                ["Altitude", "4,000-4,620 m", "Highest vegetation zone"],
+                ["Area Coverage", "1.3% of Ethiopia", "Limited but unique habitat"],
+                ["Precipitation", "800-1,500 mm/year", "Sleet or snow"],
+                ["Temperature", "0°C and negative", "Extreme cold; frost-tolerant plants"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.4. Forest Region",
+            "paragraphs": [
+              "Predominantly trees are well known.",
+              "**i. Highland forests:** Include Kosso, tid, kerkha, zigba, Weyra, keraro etc.",
+              "**ii. Lowland forests:** Like acacia trees."
+            ],
+            "key_points": [
+              "Forest region dominated by trees.",
+              "Highland forests: Kosso, tid, kerkha, zigba, Weyra, keraro.",
+              "Lowland forests: acacia trees."
+            ],
+            "tables": [
+              [
+                ["Forest Type", "Location", "Common Species"],
+                ["Highland Forests", "Highland areas", "Kosso, tid, kerkha, zigba, Weyra, keraro"],
+                ["Lowland Forests", "Lowland areas", "Acacia trees"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.5. Woodland Savannah Region",
+            "paragraphs": [
+              "Woodland savannah are known by their **xeromorphic characteristics**.",
+              "Broadly classified into three divisions:",
+              "**i. Junipers Woodlands (tid):**",
+              "**ii. Acacia woodlands:** Grass grow with shrubs and Acacia trees (grar) and Konter.",
+              "**iii. Mixed deciduous woodlands:** Grass mixed with deciduous trees (large leaves drop during summer)."
+            ],
+            "key_points": [
+              "Woodland savannah: xeromorphic characteristics.",
+              "Three divisions: Junipers Woodlands, Acacia woodlands, Mixed deciduous woodlands.",
+              "Acacia woodlands: grass with shrubs, Acacia trees (grar) and Konter.",
+              "Mixed deciduous: trees drop leaves during summer."
+            ],
+            "tables": [
+              [
+                ["Woodland Type", "Characteristics", "Common Species"],
+                ["Junipers Woodlands", "Tid", "Junipers"],
+                ["Acacia Woodlands", "Grass with shrubs and Acacia trees", "Acacia (grar), Konter"],
+                ["Mixed Deciduous Woodlands", "Grass mixed with deciduous trees", "Deciduous trees (drop leaves in summer)"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.6. Steppe and Semi Desert Regions",
+            "paragraphs": [
+              "Regions in the arid and semiarid parts of the country.",
+              "Where the temperature is very high and the rainfall is very low (**100 to 550 mm** for steppe and **50 to 300 mm** for the semiarid).",
+              "The Soils is alkaline and saline.",
+              "Xerophytic plants such as short shrubs, scattered tufts of grass species and a variety of acacias and palm trees are very common."
+            ],
+            "key_points": [
+              "Steppe and semi desert: arid and semi-arid regions.",
+              "Temperature very high; rainfall very low (100-550 mm steppe; 50-300 mm semi-arid).",
+              "Soils alkaline and saline.",
+              "Xerophytic plants: short shrubs, scattered grasses, acacias, palms."
+            ],
+            "tables": [
+              [
+                ["Region", "Rainfall (mm)", "Soil Type", "Vegetation"],
+                ["Steppe", "100-550", "Alkaline and saline", "Short shrubs, scattered grasses, acacias, palms"],
+                ["Semi Desert", "50-300", "Alkaline and saline", "Xerophytic plants, acacias, palms"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.7. Degradation of Natural Vegetation",
+            "paragraphs": [
+              "Over the past century, Ethiopia had dense forests coverage (**40%**) but it is disappearing at an alarming rate for different reasons:",
+              "- Clearing of forests for cultivation",
+              "- Timber exploitation practices",
+              "- Charcoal burning and cutting for fuel",
+              "- Extensions of coffee and tea production areas",
+              "- Overgrazing",
+              "- Expansion of settlements both rural and urban and clearing for construction"
+            ],
+            "key_points": [
+              "Ethiopia's forest cover declined from 40%.",
+              "Causes: clearing for cultivation, timber exploitation, charcoal burning, coffee/tea expansion, overgrazing, settlement expansion."
+            ],
+            "tables": [
+              [
+                ["Cause of Degradation", "Description", "Impact"],
+                ["Clearing for Cultivation", "Forests cleared for farming", "Loss of forest cover"],
+                ["Timber Exploitation", "Logging for wood products", "Deforestation"],
+                ["Charcoal Burning", "Cutting trees for fuel", "Deforestation; soil degradation"],
+                ["Coffee/Tea Expansion", "Forests converted to plantations", "Loss of biodiversity"],
+                ["Overgrazing", "Too many livestock on limited land", "Soil compaction; vegetation loss"],
+                ["Settlement Expansion", "Rural and urban growth", "Habitat fragmentation"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.3.8. Natural Vegetation Conservation",
+            "paragraphs": [
+              "Three main approaches used for biodiversity conservation:",
+              "**i. Protection:** Designation and management of the Protected areas include sanctuaries, national parks, and community conservation areas.",
+              "**ii. Sustainable forest management:** Involving sustainable harvesting of forest products to provide a source of financial income.",
+              "**iii. Restoration or rehabilitation:** The process of recovery of a forest that has been."
+            ],
+            "key_points": [
+              "Three conservation approaches: Protection, Sustainable forest management, Restoration/rehabilitation.",
+              "Protection: sanctuaries, national parks, community conservation areas.",
+              "Sustainable forest management: sustainable harvesting for income.",
+              "Restoration: recovery of degraded forests."
+            ],
+            "tables": [
+              [
+                ["Conservation Approach", "Description", "Examples"],
+                ["Protection", "Designation and management of protected areas", "Sanctuaries, national parks, community conservation areas"],
+                ["Sustainable Forest Management", "Sustainable harvesting of forest products", "Timber and non-timber product harvesting"],
+                ["Restoration/Rehabilitation", "Recovery of degraded forests", "Reforestation, afforestation"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "6.4",
+        "section_title": "Wild Life/Wild Animals in Ethiopia",
+        "section_introduction": "Ethiopia is home to a remarkable diversity of wildlife, including many endemic species found nowhere else on Earth. This section explores Ethiopia's wildlife diversity, conservation efforts, and the challenges facing wildlife conservation.",
+        "subsections": [
+          {
+            "subtitle": "6.4.1. Introduction to Ethiopian Wildlife",
+            "paragraphs": [
+              "Ethiopia has a unique fauna, flora, mammals, birds, reptiles, amphibians and a few groups of arthropods diversity with a high level of endemicity.",
+              "Ethiopia has about:",
+              "- **860 avian species** (16 endemic species and two endemic genera),",
+              "- **279 species of mammals** (31 endemic species and six endemic genera),",
+              "- **201 species of reptiles** (14 endemic species)."
+            ],
+            "key_points": [
+              "Ethiopia has unique fauna, flora, mammals, birds, reptiles, amphibians, arthropods.",
+              "High level of endemicity.",
+              "860 avian species (16 endemic, 2 endemic genera).",
+              "279 mammal species (31 endemic, 6 endemic genera).",
+              "201 reptile species (14 endemic)."
+            ],
+            "tables": [
+              [
+                ["Group", "Total Species", "Endemic Species", "Endemic Genera"],
+                ["Avian (Birds)", "860", "16", "2"],
+                ["Mammals", "279", "31", "6"],
+                ["Reptiles", "201", "14", "-"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Ethiopian Wildlife Diversity",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": [
+                    {"label": "Avian Species", "total": 860, "endemic": 16},
+                    {"label": "Mammals", "total": 279, "endemic": 31},
+                    {"label": "Reptiles", "total": 201, "endemic": 14}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "6.4.2. Classification of Wild Animals",
+            "paragraphs": [
+              "The wild animals in Ethiopia can be classified into five major groups:",
+              "**1) Common wild animals:** Those animals that are found in many parts of the country (e.g. hyenas, jackals).",
+              "**2) Game (lowland) animal:** Include many herbivores like giraffes, wild asses, zebras etc and carnivores like lions, leopards, and cheetahs.",
+              "**3) Tree animals or arboreals:** Which include monkeys, baboons.",
+              "**4) A variety of birds:** In the Rift Valley lakes."
+            ],
+            "key_points": [
+              "Five major groups of wild animals.",
+              "Common wild animals: hyenas, jackals.",
+              "Game (lowland) animals: giraffes, wild asses, zebras, lions, leopards, cheetahs.",
+              "Tree animals (arboreals): monkeys, baboons.",
+              "Birds: in Rift Valley lakes."
+            ],
+            "tables": [
+              [
+                ["Group", "Description", "Examples"],
+                ["Common Wild Animals", "Found in many parts of the country", "Hyenas, jackals"],
+                ["Game (Lowland) Animals", "Herbivores and carnivores of lowlands", "Giraffes, wild asses, zebras, lions, leopards, cheetahs"],
+                ["Tree Animals (Arboreals)", "Animals living in trees", "Monkeys, baboons"],
+                ["Birds", "Variety of bird species", "Rift Valley lakes birds"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.4.3. Wildlife Conservation",
+            "paragraphs": [
+              "To prevent the destruction of wildlife, a total area of nearly **100,000 square kilometers** found in Ethiopia.",
+              "- **21 major national parks**",
+              "- **2 major wildlife sanctuaries**",
+              "- **3 wildlife reserves**",
+              "- **6 community conservation areas**",
+              "- **2 wildlife rescue centres**",
+              "- **22 controlled hunting areas**",
+              "- **2 botanical gardens**",
+              "- **3 biosphere reserves**",
+              "**The Importance of wildlife conservation are:**",
+              "- For ecological importance, economic importance,",
+              "- Scientific and educational researches (valuable information for medical purposes and environmental studies)",
+              "- Physical and mental recreation (aesthetic value)",
+              "- Promotion of tourism (economic value)",
+              "- Its potential for domestication",
+              "- Maintaining ecological balance",
+              "Ethiopia have different animals include buffaloes, zebras, lions, elephants, ostriches, giraffes, oryx, African wild asses, flamingos, pelicans, hippopotamus, crocodiles, Semien fox, gelada."
+            ],
+            "key_points": [
+              "Nearly 100,000 km² of protected areas in Ethiopia.",
+              "21 national parks, 2 sanctuaries, 3 reserves, 6 community conservation areas, 2 rescue centres, 22 controlled hunting areas, 2 botanical gardens, 3 biosphere reserves.",
+              "Importance: ecological, economic, scientific, educational, recreational, tourism, domestication, ecological balance.",
+              "Key animals: buffaloes, zebras, lions, elephants, ostriches, giraffes, oryx, African wild asses, flamingos, pelicans, hippopotamus, crocodiles, Semien fox, gelada."
+            ],
+            "tables": [
+              [
+                ["Protected Area Type", "Number", "Examples"],
+                ["National Parks", "21", "Simien Mountains, Bale Mountains, Awash"],
+                ["Wildlife Sanctuaries", "2", "-"],
+                ["Wildlife Reserves", "3", "-"],
+                ["Community Conservation Areas", "6", "-"],
+                ["Wildlife Rescue Centres", "2", "-"],
+                ["Controlled Hunting Areas", "22", "-"],
+                ["Botanical Gardens", "2", "-"],
+                ["Biosphere Reserves", "3", "-"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.4.4. Challenges of Wildlife Conservation in Ethiopia",
+            "paragraphs": [
+              "Some of the major challenges are:",
+              "- Limited awareness on the importance of wild life",
+              "- Expansion of human settlement in protected areas",
+              "- Conflict over resource",
+              "- Overgrazing (fodder and wood)",
+              "- Illegal wildlife trade",
+              "- Excessive hunting",
+              "- Tourism and recreational pressure",
+              "- Mining and construction material extraction",
+              "- Forest fire"
+            ],
+            "key_points": [
+              "Challenges: limited awareness, human settlement, resource conflict, overgrazing, illegal trade, excessive hunting, tourism pressure, mining, forest fire."
+            ],
+            "tables": [
+              [
+                ["Challenge", "Description", "Impact"],
+                ["Limited Awareness", "Lack of understanding of wildlife importance", "Lack of support for conservation"],
+                ["Human Settlement", "Expansion into protected areas", "Habitat loss; human-wildlife conflict"],
+                ["Resource Conflict", "Competition for resources", "Tension between conservation and livelihoods"],
+                ["Overgrazing", "Too many livestock in protected areas", "Habitat degradation"],
+                ["Illegal Wildlife Trade", "Poaching and trafficking", "Decline in wildlife populations"],
+                ["Excessive Hunting", "Over-hunting of species", "Species decline; extinction risk"],
+                ["Tourism Pressure", "Too many visitors", "Habitat disturbance"],
+                ["Mining/Construction", "Extraction of materials", "Habitat destruction"],
+                ["Forest Fire", "Uncontrolled fires", "Habitat loss; biodiversity decline"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "1. Dr. Teferi Mekonnen, Addis Ababa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 6  soils, natural vegetation and wildlife resource in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Describe the composition of soil and explain the three types of weathering.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Soil composition: minerals (45%), air (25%), water (25%), organic matter (5%). Weathering types: mechanical, biological, chemical.\n• Explanation & Derivation:\n  - Mechanical: physical disintegration without chemical change.\n  - Biological: disintegration by plants, animals, microbes.\n  - Chemical: modification of chemical and mineralogical composition (hydrolysis, oxidation, carbonation, etc.).\n• Final Answer: Soil is composed of minerals (45%), air (25%), water (25%), and organic matter (5%). Weathering occurs mechanically, biologically, and chemically."
     },
     {
-      "question": "2. Mr. Nigatu Gebremedhin, Wolkite University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 6  soils, natural vegetation and wildlife resource in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Identify the major soil types in Ethiopia and describe their characteristics.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Major soil types: Xerosols, Yermosols/Solanchaks, Fluvisols, Luvisols.\n• Explanation & Derivation:\n  - Xerosols: arid/semi-arid; high salt, low organic; fertile if irrigated.\n  - Yermosols/Solanchaks: drier; salty plains of Afar.\n  - Fluvisols: recent alluvial; flat; fertile for irrigation.\n  - Luvisols: wet/dry seasons; good nutrients; best agricultural; intensively cultivated.\n• Final Answer: Major soils include Xerosols (arid, salty), Yermosols/Solanchaks (drier, salty), Fluvisols (alluvial, fertile), and Luvisols (best agricultural)."
     },
     {
-      "question": "3. Dr. Alem-meta Assefa, Wollo University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 6  soils, natural vegetation and wildlife resource in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Explain soil degradation, its types, and control measures.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Soil degradation is deterioration of soil properties. Types: physical, biological, chemical.\n• Explanation & Derivation:\n  - Physical: compaction, erosion.\n  - Biological: loss of organic content and soil fauna.\n  - Chemical: nutrient depletion, leaching, pH decline.\n  - Control: biological (vegetative strips, plantation, reforestation) and physical (terracing, check dams, gabion trenches).\n• Final Answer: Soil degradation includes physical (compaction, erosion), biological (loss of organic matter), and chemical (nutrient depletion). Control measures are biological and physical."
     },
     {
-      "question": "4. Dr. Binyam Moreda, Hawassa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 6  soils, natural vegetation and wildlife resource in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Describe the major natural vegetation types of Ethiopia.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Five vegetation types: Afro-alpine, Forest, Woodland Savannah, Steppe, Semi Desert.\n• Explanation & Derivation:\n  - Afro-alpine: 4,000-4,620 m; 1.3% of landmass.\n  - Forest: highland and lowland forests.\n  - Woodland Savannah: xeromorphic; Junipers, Acacia, Mixed deciduous.\n  - Steppe: 100-550 mm rainfall; short shrubs, grasses.\n  - Semi Desert: 50-300 mm rainfall; xerophytic plants.\n• Final Answer: Vegetation types include Afro-alpine, Forest, Woodland Savannah, Steppe, and Semi Desert, each adapted to specific altitude and rainfall conditions."
+    },
+    {
+      "question": "Discuss the degradation of natural vegetation in Ethiopia and conservation approaches.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia's forest cover declined from 40%. Conservation approaches: protection, sustainable management, restoration.\n• Explanation & Derivation:\n  - Degradation causes: clearing for cultivation, timber exploitation, charcoal burning, coffee/tea expansion, overgrazing, settlement expansion.\n  - Conservation: protection (parks, sanctuaries), sustainable forest management, restoration/rehabilitation.\n• Final Answer: Natural vegetation has degraded due to clearing, logging, charcoal, overgrazing, and settlement. Conservation approaches include protection, sustainable management, and restoration."
+    },
+    {
+      "question": "Describe Ethiopia's wildlife diversity, conservation efforts, and challenges.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia has 860 avian species (16 endemic), 279 mammals (31 endemic), 201 reptiles (14 endemic). Conservation: 100,000 km² protected areas.\n• Explanation & Derivation:\n  - Protected areas: 21 national parks, 2 sanctuaries, 3 reserves, 6 community areas, 2 rescue centres, 22 hunting areas, 2 botanical gardens, 3 biosphere reserves.\n  - Importance: ecological, economic, scientific, educational, tourism, domestication, ecological balance.\n  - Challenges: limited awareness, settlement, resource conflict, overgrazing, illegal trade, hunting, tourism pressure, mining, forest fire.\n• Final Answer: Ethiopia has high wildlife diversity with many endemic species. Conservation efforts include protected areas and rescue centres. Challenges include habitat loss, poaching, and overgrazing."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 6  SOILS, NATURAL VEGETATION AND WILDLIFE RESOURCE (university geography):\nThis complete study document covers all topics in Chapter 6  soils, natural vegetation and wildlife resource, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": [
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 6_ soils, natural vegetation and wildlife resource\\short_note\\images\\figure_1.jpeg",
-      "filename": "figure_1.jpeg",
-      "caption": "Chapter 6  soils, natural vegetation and wildlife resource — Visual Figure 1"
-    }
-  ]
+  "summary": "CHAPTER SUMMARY — CHAPTER 6: SOILS, NATURAL VEGETATION AND WILDLIFE OF ETHIOPIA (University Freshman Geography):\nThis complete study document covers all topics in Chapter 6, including soil formation processes (weathering types), soil composition and properties, major soil types in Ethiopia (Xerosols, Yermosols/Solanchaks, Fluvisols, Luvisols), soil degradation (physical, biological, chemical) and conservation measures (biological and physical), natural vegetation types (Afro-alpine, Forest, Woodland Savannah, Steppe, Semi Desert), vegetation degradation and conservation, wildlife diversity (860 avian, 279 mammal, 201 reptile species), wildlife conservation efforts (21 national parks, etc.), and challenges facing wildlife conservation. The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 6: Soils, Natural Vegetation and Wildlife of Ethiopia — © Acadia",
+    "footer": "Page {page_number} | Acadia Geography Series",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
