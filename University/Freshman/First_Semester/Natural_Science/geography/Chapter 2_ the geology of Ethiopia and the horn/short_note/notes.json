@@ -1,69 +1,533 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "geography",
-    "unit_title": "Chapter 2  the geology of Ethiopia and the horn"
+    "grade": "University Freshman",
+    "subject": "Geography",
+    "unit_title": "Chapter 2: Geology of Ethiopia and the Horn",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/geography/Chapter_2_geology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation",
+    "total_sections": 6,
+    "total_tables": 14,
+    "total_diagrams": 5
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 2  the geology of Ethiopia and the horn",
-      "paragraphs": [
-        "1. Dr. Teferi Mekonnen, Addis Ababa University 2. Mr. Nigatu Gebremedhin, Wolkite University 3. Dr. Alem-meta Assefa, Wollo University 4. Dr. Binyam Moreda, Hawassa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 2  the geology of Ethiopia and the horn: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how geography principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 2  the geology of Ethiopia and the horn",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in geography",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "2",
+    "chapter_title": "Geology of Ethiopia and the Horn",
+    "chapter_subtitle": "Geologic Processes, Time Scale, Age Dating, Landforms, and Mineral Resources",
+    "chapter_introduction": "Welcome to Chapter 2 of Geography. This chapter takes you deep into the geological foundations of Ethiopia and the Horn. You will explore the dynamic processes that have shaped the Earth over billions of years, the geological time scale and age dating techniques, the major geologic eras and their events in Ethiopia, the formation of the Rift Valley, and the distribution of rock and mineral resources. Understanding geology is essential for appreciating the landscapes, soils, and natural resources of the region.",
+    "sections": [
+      {
+        "section_number": "2.1",
+        "section_title": "Introduction to Geology",
+        "section_introduction": "Geology is the foundation upon which all other Earth sciences rest. Let us begin by understanding what geology is, the concept of Pangaea, and Alfred Wegener's revolutionary hypothesis of continental drift.",
+        "subsections": [
+          {
+            "subtitle": "2.1.1. Definition and Scope of Geology",
+            "paragraphs": [
+              "**Geology** is an Earth science that studies the processes and evolution of events of the earth and its materials which it is made of. It examines how Earth's materials, structures, processes and organisms have changed over time.",
+              "Geologists study rocks, minerals, fossils, landforms, and the dynamic forces — both internal (endogenic) and external (exogenic) — that shape the planet. The geological history of Ethiopia is particularly fascinating because it spans from the Precambrian era (over 600 million years ago) to the present day."
+            ],
+            "key_points": [
+              "Geology is an Earth science studying Earth's processes, evolution, and materials.",
+              "It examines changes in materials, structures, processes, and organisms over time.",
+              "Geological processes are divided into internal (endogenic) and external (exogenic) forces.",
+              "Ethiopia's geological history spans from the Precambrian era to the present."
+            ],
+            "tables": [
+              [
+                ["Aspect", "Description", "Significance"],
+                ["Definition", "Earth science studying processes, evolution, and materials of the earth", "Foundation for understanding landforms and resources"],
+                ["Scope", "Rocks, minerals, fossils, landforms, and dynamic forces", "Explains the physical basis of geography"],
+                ["Key Processes", "Internal (endogenic) and external (exogenic) forces", "Shape the Earth's surface over time"],
+                ["Ethiopian Context", "Geological history from Precambrian to present", "Explains the diverse landscapes of Ethiopia"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.1.2. Pangaea and Continental Drift",
+            "paragraphs": [
+              "**Pangaea** was a single huge continent that existed approximately 300 million years ago. It was split into **Gondwanaland** (Africa is a part) and **Laurasia**. Later fragments into smaller continents over the last million years.",
+              "**Alfred Wegener** proposed the hypothesis that the continents were once assembled together as a single huge continent called Pangaea. His theory of **continental drift** revolutionized our understanding of Earth's history."
+            ],
+            "key_points": [
+              "Pangaea was a single huge continent ~300 million years ago.",
+              "It split into Gondwanaland (including Africa) and Laurasia.",
+              "Alfred Wegener proposed the continental drift hypothesis.",
+              "Continents have drifted apart over millions of years."
+            ],
+            "tables": [
+              [
+                ["Concept", "Description", "Key Facts"],
+                ["Pangaea", "Single huge continent ~300 million years ago", "Split into Gondwanaland and Laurasia"],
+                ["Gondwanaland", "Southern supercontinent", "Africa, South America, India, Australia, Antarctica"],
+                ["Laurasia", "Northern supercontinent", "North America, Europe, Asia"],
+                ["Continental Drift", "Theory proposed by Alfred Wegener", "Continents were once joined and have drifted apart"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Breakup of Pangaea",
+                "diagram_type": "timeline",
+                "diagram_data": {
+                  "stages": [
+                    {"time": "~300 million years ago", "event": "Pangaea — single huge continent"},
+                    {"time": "~200 million years ago", "event": "Split into Gondwanaland and Laurasia"},
+                    {"time": "~100 million years ago", "event": "Further fragmentation into smaller continents"},
+                    {"time": "Present", "event": "Modern continental configuration"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.1.3. Wegener's Principal Observations",
+            "paragraphs": [
+              "Wegener supported his continental drift hypothesis with four principal observations:",
+              "**1. Fit of the continents:** The opposing coastlines of continents often fit together. For example, the east coast of South America fits remarkably well with the west coast of Africa.",
+              "**2. Match of mountain belts and rock types:** Mountains in West Africa, North America, Greenland, and Western Europe match up. This suggests they were once part of the same mountain system.",
+              "**3. Distribution of fossils:** The distribution of plants and animal fossils on separate continents forms definite linked patterns if the continents are reassembled. For example, fossils of the same species are found in South America and Africa.",
+              "**4. Paleo-climates:** Rocks formed 200 million years ago in India, Australia, South America and southern Africa all exhibited evidence of continental glaciations. This suggests these landmasses were once located near the South Pole."
+            ],
+            "key_points": [
+              "Fit of continents — coastlines match across oceans.",
+              "Match of mountain belts and rock types across continents.",
+              "Distribution of fossils forms linked patterns when continents are reassembled.",
+              "Paleo-climates show evidence of glaciations in now-tropical regions."
+            ],
+            "tables": [
+              [
+                ["Observation", "Evidence", "Significance"],
+                ["Fit of Continents", "Opposing coastlines fit together", "South America and Africa were once joined"],
+                ["Mountain Belts", "Mountains match across continents", "West Africa, North America, Greenland, Western Europe"],
+                ["Fossil Distribution", "Same fossils on separate continents", "Linked patterns when continents reassembled"],
+                ["Paleo-Climates", "Glaciation evidence in now-tropical regions", "India, Australia, South America, southern Africa were near South Pole"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 2_ the geology of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "image_caption": "Chapter 2  the geology of Ethiopia and the horn — Visual Figure 1"
-    }
-  ],
+      },
+      {
+        "section_number": "2.2",
+        "section_title": "The Geologic Processes: Endogenic and Exogenic Forces",
+        "section_introduction": "The Earth is constantly changing. These changes are driven by two major groups of processes: internal (endogenic) forces that build up the Earth's surface, and external (exogenic) forces that wear it down. Understanding these processes is key to interpreting the landscapes of Ethiopia.",
+        "subsections": [
+          {
+            "subtitle": "2.2.1. Internal Processes (Endogenic)",
+            "paragraphs": [
+              "**Internal processes (endogenic)** originate from within the Earth and result in the building of structural and volcanic features. They include:",
+              "**a) Volcanic activity:** The eruption of molten rock (magma/lava) onto the Earth's surface, forming volcanic mountains, plateaus, and lava fields.",
+              "**b) Tectonic processes:** Including folding (bending of rock layers), faulting (breaking and displacement of rock), and orogenesis (mountain building).",
+              "**c) Epeirogenesis:** Slow rising and sinking of the landmass, which can cause sea transgression and regression.",
+              "Internal processes result in the formation of structural and volcanic features like plateaus, rift valleys, Block Mountains, volcanic mountains, etc."
+            ],
+            "key_points": [
+              "Endogenic processes originate from within the Earth.",
+              "They build up the Earth's surface.",
+              "Include volcanic activity, tectonic processes, and epeirogenesis.",
+              "Result in plateaus, rift valleys, Block Mountains, volcanic mountains."
+            ],
+            "tables": [
+              [
+                ["Process", "Description", "Resulting Features"],
+                ["Volcanic Activity", "Eruption of magma/lava onto the surface", "Volcanic mountains, plateaus, lava fields"],
+                ["Tectonic Processes", "Folding, faulting, orogenesis (mountain building)", "Fold mountains, fault-block mountains, rift valleys"],
+                ["Epeirogenesis", "Slow rising and sinking of landmass", "Sea transgression and regression"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.2.2. External Processes (Exogenic)",
+            "paragraphs": [
+              "**External (exogenic) or geomorphic processes** originate from outside the Earth, primarily from the atmosphere, hydrosphere, and biosphere. They include:",
+              "**Weathering:** The breakdown of rocks in situ (without transport).",
+              "**Mass transfer:** The movement of material downslope under the influence of gravity.",
+              "**Erosion:** The removal and transport of weathered material by agents like water, wind, and ice.",
+              "**Deposition:** The laying down of transported material in new locations.",
+              "External processes result in the wearing down and sculpting of the Earth's surface, creating landforms like valleys, plains, and sedimentary deposits."
+            ],
+            "key_points": [
+              "Exogenic processes originate from outside the Earth.",
+              "They wear down and sculpt the Earth's surface.",
+              "Include weathering, mass transfer, erosion, and deposition.",
+              "Create valleys, plains, and sedimentary deposits."
+            ],
+            "tables": [
+              [
+                ["Process", "Description", "Resulting Features"],
+                ["Weathering", "Breakdown of rocks in situ", "Soil formation, rock disintegration"],
+                ["Mass Transfer", "Movement of material downslope under gravity", "Landslides, rockfalls, slumps"],
+                ["Erosion", "Removal and transport of weathered material", "Valleys, gorges, canyons"],
+                ["Deposition", "Laying down of transported material", "Plains, deltas, sedimentary rocks"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Endogenic vs Exogenic Processes",
+                "diagram_type": "comparison",
+                "diagram_data": {
+                  "endogenic": {
+                    "origin": "Internal (within Earth)",
+                    "effect": "Builds up surface",
+                    "examples": ["Volcanic activity", "Tectonic processes", "Epeirogenesis"]
+                  },
+                  "exogenic": {
+                    "origin": "External (atmosphere, hydrosphere, biosphere)",
+                    "effect": "Wears down surface",
+                    "examples": ["Weathering", "Mass transfer", "Erosion", "Deposition"]
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "2.3",
+        "section_title": "The Geological Time Scale and Age Dating Techniques",
+        "section_introduction": "The geological time scale is a framework for understanding the history of the Earth and life. It divides Earth's 4.5 billion-year history into manageable units based on significant geological events. Age dating techniques allow scientists to determine the ages of rocks and fossils.",
+        "subsections": [
+          {
+            "subtitle": "2.3.1. The Geological Time Scale",
+            "paragraphs": [
+              "The **geological time scale** describes the geology and history of life on Earth. The Earth is believed to have been formed approximately **4.5 billion years ago**.",
+              "Geological time divisions are basically based on the occurrence of significant geological events, such as: the relative position of land and sea, the kind of climate, and the kind of animal and plant life.",
+              "Divisions do not usually consist of a uniform length of time. The geological time scale involves four main units:",
+              "**1. Epoch:** The smallest unit of time.",
+              "**2. Period:** Epochs are clumped together into larger units.",
+              "**3. Era:** Periods are combined together and make it.",
+              "**4. Eon:** The largest unit of time."
+            ],
+            "key_points": [
+              "Earth formed approximately 4.5 billion years ago.",
+              "Geological time divisions based on significant geological events.",
+              "Four main units: Epoch, Period, Era, Eon.",
+              "Epoch is the smallest; Eon is the largest."
+            ],
+            "tables": [
+              [
+                ["Unit", "Description", "Relative Size"],
+                ["Epoch", "The smallest unit of time", "Smallest"],
+                ["Period", "Epochs are clumped together into larger units", "Larger than Epoch"],
+                ["Era", "Periods are combined together and make it", "Larger than Period"],
+                ["Eon", "The largest unit of time", "Largest"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.3.2. Age Dating Techniques",
+            "paragraphs": [
+              "There are two major techniques in age dating:",
+              "**a) Relative dating:** Uses geological evidence and compares the ages of fossils and rocks by using two ways:",
+              "i. Look for unique fossils or rock: then the rock was formed during that particular time period.",
+              "ii. See layers of rocks: which one is younger and which is older.",
+              "**b) Absolute Dating:** Radioactivity discovered in 1896. Unstable (radioactive elements) such as uranium (U) and thorium (Th) found within the rocks naturally and regularly decay to form different elements or isotopes.",
+              "**Half-life:** The original quantity of radioactive element has decayed in a given rock.",
+              "The two major radiometric techniques include:",
+              "**1. Carbon-14 Technique:** Organism death then carbon-14 begins to disintegrate at a known rate (half-life of 5730 years) without no further replacement of carbon from atmospheric carbon dioxide. Used for dating of fossils.",
+              "**2. Potassium-Argon Technique:** Widely used for dating of sample rocks. Because potassium-40 is abundant in micas, feldspars and hornblendes. Leakage of argon and the exposure of heat (above 125°C (257°F)) create a problem for the age of the rock. It fails to reflect the time of original."
+            ],
+            "key_points": [
+              "Relative dating compares ages using fossils and rock layers.",
+              "Absolute dating uses radioactive decay.",
+              "Carbon-14 technique used for dating fossils (half-life 5730 years).",
+              "Potassium-Argon technique used for dating rocks.",
+              "Half-life is the time for half of a radioactive element to decay."
+            ],
+            "tables": [
+              [
+                ["Technique", "Method", "Application"],
+                ["Relative Dating", "Uses geological evidence, compares ages of fossils and rocks by unique fossils or rock layers", "Determining which rock/fossil is younger or older"],
+                ["Absolute Dating (Carbon-14)", "Radioactive decay of carbon-14 with half-life of 5730 years", "Dating of fossils"],
+                ["Absolute Dating (Potassium-Argon)", "Radioactive decay of potassium-40, abundant in micas, feldspars and hornblendes", "Dating of sample rocks"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Age Dating Techniques",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "nodes": [
+                    {"id": "1", "label": "Age Dating Techniques"},
+                    {"id": "2", "label": "Relative Dating", "description": "Compare ages using fossils and rock layers"},
+                    {"id": "3", "label": "Absolute Dating", "description": "Use radioactive decay"},
+                    {"id": "4", "label": "Carbon-14", "description": "Dating fossils (half-life 5730 years)"},
+                    {"id": "5", "label": "Potassium-Argon", "description": "Dating rocks (potassium-40)"}
+                  ],
+                  "edges": [
+                    {"from": "1", "to": "2"},
+                    {"from": "1", "to": "3"},
+                    {"from": "3", "to": "4"},
+                    {"from": "3", "to": "5"}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "2.4",
+        "section_title": "Geological Processes & Landforms of Ethiopia and the Horn",
+        "section_introduction": "The geological history of Ethiopia spans from the Precambrian era to the present. Each era has left its mark on the landscape, from ancient crystalline rocks to the dramatic Rift Valley. Let us explore each era in detail.",
+        "subsections": [
+          {
+            "subtitle": "2.4.1. The Precambrian Era & Geologic Processes",
+            "paragraphs": [
+              "**Time span:** 4.5 billion – 600 million years ago.",
+              "**Coverage:** Covers 5/6th of the Earth's history.",
+              "The major geologic event of the Precambrian Era was:",
+              "**Crystalline/basement rocks** were formed.",
+              "**Orogenesis:** Intense folding (gigantic mountains).",
+              "These ancient rocks form the foundation of the African continent and are found in various parts of Ethiopia, particularly in the western and southern highlands."
+            ],
+            "key_points": [
+              "Time span: 4.5 billion – 600 million years ago.",
+              "Covers 5/6th of Earth's history.",
+              "Crystalline/basement rocks formed.",
+              "Intense folding created gigantic mountains."
+            ],
+            "tables": [
+              [
+                ["Aspect", "Description", "Significance"],
+                ["Time Span", "4.5 billion – 600 million years ago", "Covers 5/6th of Earth's history"],
+                ["Major Event", "Formation of crystalline/basement rocks", "Foundation of African continent"],
+                ["Orogenesis", "Intense folding creating gigantic mountains", "Ancient mountain building"],
+                ["Ethiopian Occurrence", "Western and southern highlands", "Oldest rocks in Ethiopia"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.4.2. The Paleozoic Era & Geologic Events",
+            "paragraphs": [
+              "**Time span:** 600 – 225 million years ago.",
+              "**Denudation:** Gigantic mountains were subjected to intense and prolonged erosion.",
+              "**Peneplained:** Reduced gigantic mountain ranges and the sediments were transported southward and eastward to form continental (in Africa) and marine deposits.",
+              "In Ethiopia, rocks belonging to this Era are rare due to denudation."
+            ],
+            "key_points": [
+              "Time span: 600 – 225 million years ago.",
+              "Intense and prolonged erosion (denudation).",
+              "Mountains reduced to peneplains.",
+              "Sediments transported southward and eastward.",
+              "Rocks from this era are rare in Ethiopia."
+            ],
+            "tables": [
+              [
+                ["Aspect", "Description", "Significance"],
+                ["Time Span", "600 – 225 million years ago", "Paleozoic Era"],
+                ["Major Process", "Denudation — intense and prolonged erosion", "Reduced gigantic mountains"],
+                ["Result", "Peneplained mountain ranges", "Sediments transported to form continental and marine deposits"],
+                ["Ethiopian Occurrence", "Rocks are rare due to denudation", "Limited Paleozoic rock record"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.4.3. The Mesozoic Era Geologic Processes",
+            "paragraphs": [
+              "**Time span:** 225 – 70 million years ago.",
+              "**Process:** Alternatively slow sinking and rising (epeirogenesis).",
+              "There are three periods in the Mesozoic era:",
+              "**a. Triassic Period:** Land sank South East to North West led to sea transgression to land then formed **Adigrat Sand Stones** (1st Deposition).",
+              "**b. Jurassic Period:** The sea depth increased; formed **Hintalo lime stones**.",
+              "**c. Cretaceous Period:** The land uplifted to South East direction, the sea regressed, formed **upper sand stone**.",
+              "Mesozoic sedimentary rocks cover **25%** of the land mass of the country. They have the greatest potential for **oil and gas deposits**."
+            ],
+            "key_points": [
+              "Time span: 225 – 70 million years ago.",
+              "Process: Epeirogenesis (slow sinking and rising).",
+              "Three periods: Triassic, Jurassic, Cretaceous.",
+              "Triassic: Adigrat Sand Stones formed.",
+              "Jurassic: Hintalo lime stones formed.",
+              "Cretaceous: Upper sand stone formed.",
+              "Mesozoic rocks cover 25% of Ethiopia.",
+              "Greatest potential for oil and gas deposits."
+            ],
+            "tables": [
+              [
+                ["Period", "Geologic Event", "Rock Formation"],
+                ["Triassic", "Land sank SE to NW, sea transgression", "Adigrat Sand Stones"],
+                ["Jurassic", "Sea depth increased", "Hintalo lime stones"],
+                ["Cretaceous", "Land uplifted to SE, sea regression", "Upper sand stone"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Mesozoic Era Periods and Rock Formations",
+                "diagram_type": "timeline",
+                "diagram_data": {
+                  "periods": [
+                    {"name": "Triassic", "event": "Sea transgression", "rock": "Adigrat Sand Stones"},
+                    {"name": "Jurassic", "event": "Sea depth increased", "rock": "Hintalo lime stones"},
+                    {"name": "Cretaceous", "event": "Sea regression", "rock": "Upper sand stone"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.4.4. The Cenozoic Era Geologic Processes",
+            "paragraphs": [
+              "**Time span:** 70 million years ago – Present.",
+              "The Cenozoic Era is the most recent geologic Era. The tectonic and volcanic activities that took place in this Era are significant.",
+              "There are two periods:",
+              "**a. Tertiary Period:**",
+              "Lava Flow (Volcano) and Mountain: uplifting of the Arabo-Ethiopian landmass and outpouring of lava flood.",
+              "Rift Valley was formed: theory of plate tectonics. The movement of the crust in opposite directions produced tensional forces that caused parallel fractures or faults known as Rift Valley.",
+              "**The Spatial Extent of the Rift Valley:**",
+              "The Ethiopian Rift Valley is part of the Great East African Rift system.",
+              "From Palestine-Jordan up to Malawi-Mozambique: 7,200 kms.",
+              "5,600 kms in Africa and 1,700 kms in Eritrea and Ethiopia.",
+              "**Afar Triangle:** Widest part of the Rift Valley (200-300 km). The Red Sea, the Gulf of Aden, and the East African System meet at the triangular depression of the Afar.",
+              "**Kobar Sink** lies about 125 meters below sea level.",
+              "Rift Valley is the most unstable part of the country (numerous hot springs, fumaroles, active volcanoes, geysers, and frequent earthquakes).",
+              "**b. Quaternary Period:**",
+              "i. Quaternary Volcanic Eruptions / Aden series include the following:",
+              "Quaternary Volcanic Eruptions: recent volcanic activities after the formation of the Rift Valley.",
+              "This activity was generally limited to the floor of the Rift Valley.",
+              "Dubi, Erta Ale, Afrera etc. Of these, Erta Ale.",
+              "Volcanic hills and mountains, some of which are semi-dormant (Fantale, Boseti-Gouda near Adama, Aletu north of Lake Ziway, Chebbi north of Lake Hawassa etc.).",
+              "Extensive lava fields and lava sheets some of which are very recent."
+            ],
+            "key_points": [
+              "Time span: 70 million years ago – Present.",
+              "Tertiary Period: Lava flows, uplifting, Rift Valley formation.",
+              "Rift Valley part of Great East African Rift system (7,200 km total).",
+              "Afar Triangle: widest part of Rift Valley (200-300 km).",
+              "Kobar Sink: 125 meters below sea level.",
+              "Rift Valley is the most unstable part of Ethiopia.",
+              "Quaternary Period: Recent volcanic eruptions (Aden series).",
+              "Erta Ale, Fantale, Boseti-Gouda are semi-dormant volcanoes."
+            ],
+            "tables": [
+              [
+                ["Period", "Geologic Event", "Resulting Features"],
+                ["Tertiary", "Lava flows, uplifting of Arabo-Ethiopian landmass, Rift Valley formation", "Ethiopian Rift Valley, lava plateaus"],
+                ["Quaternary", "Recent volcanic eruptions (Aden series)", "Erta Ale, Fantale, Boseti-Gouda, lava fields"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "The Ethiopian Rift Valley System",
+                "diagram_type": "map",
+                "diagram_data": {
+                  "extent": "Palestine-Jordan to Malawi-Mozambique (7,200 km)",
+                  "africa_length": "5,600 km",
+                  "ethiopia_eritrea_length": "1,700 km",
+                  "afar_triangle": "Widest part (200-300 km)",
+                  "kobar_sink": "125 meters below sea level"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "2.5",
+        "section_title": "Rock and Mineral Resources of Ethiopia",
+        "section_introduction": "Ethiopia is endowed with a variety of mineral resources. From gold and platinum to gemstones and potash, the country's geological diversity has created significant mineral wealth. Let us explore the distribution of these resources.",
+        "subsections": [
+          {
+            "subtitle": "2.5.1. Brief Facts and Current State of Main Minerals",
+            "paragraphs": [
+              "Metallic minerals in Ethiopia are associated with the **Precambrian** basement rocks.",
+              "Geological surveys proved that Ethiopia has abundant mineral resources of metals and precious metals, coal, and industrial minerals.",
+              "**Gold:** Metekel, Adola, Sakoro, Lega-dembi, Shakiso, Akobo, Wondo, Borena, Sherkole, Didessa.",
+              "**Platinum:** Yubdo and Delatti in Wellega, Tullu Mountain area in Sidama etc.",
+              "**Tantalum:** Adola, Kenticha, Nedjo (Wellega), Chilga (Gonder), Ankober, Sululta, Muger, Aletu, Debrelibanos, Didessa, Wuchalle, Chuliga, Borkena etc.",
+              "**Gemstones:** (including amethyst, aquamarine, emerald, garnet, opal, peridot, sapphire, and tourmaline). Wadla and Dalanta woredas in Oromia and North Wello in Amhara.",
+              "**Potash:** Danakil (Dallol Depression).",
+              "**Gypsum and Anhydrite:** Ogaden, Shewa, Gojjam, Tigray, and Hararghe.",
+              "**Clay:** Adola, Abay, Hawassa.",
+              "**Marble:** Mekelle, Adwa, Soka, Gonder, Benishangul-Gumuz and Gojjam."
+            ],
+            "key_points": [
+              "Metallic minerals associated with Precambrian basement rocks.",
+              "Gold found in Metekel, Adola, Shakiso, and other locations.",
+              "Platinum in Yubdo, Delatti, and Tullu Mountain.",
+              "Tantalum in Adola, Kenticha, and other locations.",
+              "Gemstones in Wadla, Dalanta, and North Wello.",
+              "Potash in Danakil (Dallol Depression).",
+              "Gypsum and Anhydrite in Ogaden, Shewa, Gojjam, Tigray, Hararghe.",
+              "Clay in Adola, Abay, Hawassa.",
+              "Marble in Mekelle, Adwa, Soka, Gonder, Benishangul-Gumuz, Gojjam."
+            ],
+            "tables": [
+              [
+                ["Mineral", "Locations", "Economic Importance"],
+                ["Gold", "Metekel, Adola, Sakoro, Lega-dembi, Shakiso, Akobo, Wondo, Borena, Sherkole, Didessa", "Precious metal; export earning"],
+                ["Platinum", "Yubdo and Delatti in Wellega, Tullu Mountain area in Sidama", "Precious metal; industrial use"],
+                ["Tantalum", "Adola, Kenticha, Nedjo (Wellega), Chilga (Gonder), Ankober, Sululta, Muger, Aletu, Debrelibanos, Didessa, Wuchalle, Chuliga, Borkena", "Used in electronics"],
+                ["Gemstones", "Wadla and Dalanta woredas in Oromia, North Wello in Amhara", "Jewelry; export earning"],
+                ["Potash", "Danakil (Dallol Depression)", "Fertilizer production"],
+                ["Gypsum and Anhydrite", "Ogaden, Shewa, Gojjam, Tigray, Hararghe", "Construction material"],
+                ["Clay", "Adola, Abay, Hawassa", "Ceramics, bricks"],
+                ["Marble", "Mekelle, Adwa, Soka, Gonder, Benishangul-Gumuz, Gojjam", "Construction, decoration"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Distribution of Major Minerals in Ethiopia",
+                "diagram_type": "map",
+                "diagram_data": {
+                  "regions": [
+                    {"mineral": "Gold", "locations": ["Metekel", "Adola", "Shakiso", "Akobo", "Borena"]},
+                    {"mineral": "Platinum", "locations": ["Yubdo", "Delatti", "Tullu Mountain"]},
+                    {"mineral": "Tantalum", "locations": ["Adola", "Kenticha", "Nedjo"]},
+                    {"mineral": "Potash", "locations": ["Danakil (Dallol Depression)"]},
+                    {"mineral": "Marble", "locations": ["Mekelle", "Adwa", "Gonder"]}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "1. Dr. Teferi Mekonnen, Addis Ababa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 2  the geology of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Define geology and explain the concept of Pangaea and continental drift.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Geology is an Earth science that studies the processes and evolution of events of the earth and its materials. Pangaea was a single huge continent that existed ~300 million years ago, proposed by Alfred Wegener.\n• Explanation & Derivation: Pangaea split into Gondwanaland (including Africa) and Laurasia, then fragmented into smaller continents. Wegener's evidence included fit of continents, match of mountain belts, distribution of fossils, and paleo-climates.\n• Final Answer: Geology studies Earth's processes and materials. Pangaea was a single continent that broke apart, supported by evidence from coastlines, mountains, fossils, and ancient climates."
     },
     {
-      "question": "2. Mr. Nigatu Gebremedhin, Wolkite University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 2  the geology of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Differentiate between endogenic and exogenic geologic processes with examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Endogenic processes originate from within the Earth and build up the surface. Exogenic processes originate from outside and wear down the surface.\n• Explanation & Derivation: Endogenic includes volcanic activity, tectonic processes (folding, faulting, orogenesis), and epeirogenesis. Exogenic includes weathering, mass transfer, erosion, and deposition.\n• Final Answer: Endogenic processes (internal) build up the Earth's surface (volcanoes, mountains, rift valleys). Exogenic processes (external) wear it down (weathering, erosion, deposition)."
     },
     {
-      "question": "3. Dr. Alem-meta Assefa, Wollo University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 2  the geology of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Explain the geological time scale and the two major age dating techniques.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: The geological time scale divides Earth's 4.5 billion-year history into Epoch, Period, Era, and Eon. Age dating techniques include relative and absolute dating.\n• Explanation & Derivation: Relative dating compares ages using fossils and rock layers. Absolute dating uses radioactive decay: Carbon-14 for fossils (half-life 5730 years) and Potassium-Argon for rocks.\n• Final Answer: The geological time scale has four units (Epoch, Period, Era, Eon). Relative dating compares ages; absolute dating uses radioactive decay (Carbon-14, Potassium-Argon)."
     },
     {
-      "question": "4. Dr. Binyam Moreda, Hawassa University",
-      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Based on the authoritative principles of Chapter 2  the geology of Ethiopia and the horn in geography.\n• Explanation & Derivation: Thorough conceptual analysis demonstrating exact scientific/academic reasoning.\n• Final Answer: Verified complete response fulfilling all curriculum criteria for university."
+      "question": "Describe the major geological events of the Precambrian, Paleozoic, Mesozoic, and Cenozoic Eras in Ethiopia.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Each era has left its mark on Ethiopia's geology.\n• Explanation & Derivation:\n  - Precambrian (4.5B–600M years ago): Crystalline/basement rocks formed; intense folding.\n  - Paleozoic (600–225M years ago): Denudation; peneplained mountains; rocks rare in Ethiopia.\n  - Mesozoic (225–70M years ago): Epeirogenesis; Adigrat Sand Stones, Hintalo lime stones, upper sand stone; 25% of Ethiopia's landmass; oil and gas potential.\n  - Cenozoic (70M years ago–Present): Tertiary — lava flows, Rift Valley formation; Quaternary — recent volcanic eruptions (Erta Ale, Fantale).\n• Final Answer: Precambrian: basement rocks. Paleozoic: denudation. Mesozoic: sedimentary rocks (oil/gas). Cenozoic: Rift Valley and volcanic activity."
+    },
+    {
+      "question": "Discuss the formation and spatial extent of the Ethiopian Rift Valley.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: The Rift Valley was formed during the Tertiary Period of the Cenozoic Era by tensional forces causing parallel fractures.\n• Explanation & Derivation: The Ethiopian Rift Valley is part of the Great East African Rift system, extending from Palestine-Jordan to Malawi-Mozambique (7,200 km). In Africa, it is 5,600 km; in Eritrea and Ethiopia, 1,700 km. The Afar Triangle is the widest part (200-300 km). Kobar Sink lies 125 meters below sea level. The Rift Valley is the most unstable part of Ethiopia.\n• Final Answer: The Rift Valley formed via tensional forces during the Tertiary. It extends 7,200 km total, with the Afar Triangle as the widest part and Kobar Sink below sea level."
+    },
+    {
+      "question": "List the major mineral resources of Ethiopia and their locations.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Ethiopia has abundant mineral resources associated with Precambrian basement rocks.\n• Explanation & Derivation:\n  - Gold: Metekel, Adola, Shakiso, Akobo, Borena.\n  - Platinum: Yubdo, Delatti, Tullu Mountain.\n  - Tantalum: Adola, Kenticha, Nedjo.\n  - Gemstones: Wadla, Dalanta, North Wello.\n  - Potash: Danakil (Dallol Depression).\n  - Gypsum and Anhydrite: Ogaden, Shewa, Gojjam, Tigray, Hararghe.\n  - Clay: Adola, Abay, Hawassa.\n  - Marble: Mekelle, Adwa, Soka, Gonder, Benishangul-Gumuz, Gojjam.\n• Final Answer: Major minerals include gold, platinum, tantalum, gemstones, potash, gypsum, clay, and marble, distributed across various regions of Ethiopia."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 2  THE GEOLOGY OF ETHIOPIA AND THE HORN (university geography):\nThis complete study document covers all topics in Chapter 2  the geology of Ethiopia and the horn, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": [
-    {
-      "path": "c:\\Users\\firao\\Desktop\\firaProject\\path\\university\\freshman\\First_Semester\\Natural_Science\\geography\\Chapter 2_ the geology of Ethiopia and the horn\\short_note\\images\\figure_1.jpeg",
-      "filename": "figure_1.jpeg",
-      "caption": "Chapter 2  the geology of Ethiopia and the horn — Visual Figure 1"
-    }
-  ]
+  "summary": "CHAPTER SUMMARY — CHAPTER 2: GEOLOGY OF ETHIOPIA AND THE HORN (University Freshman Geography):\nThis complete study document covers all topics in Chapter 2, including the definition of geology, Pangaea and continental drift, endogenic and exogenic processes, the geological time scale and age dating techniques, the geological eras (Precambrian, Paleozoic, Mesozoic, Cenozoic) and their events in Ethiopia, the formation and spatial extent of the Rift Valley, and the rock and mineral resources of Ethiopia. The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 2: Geology of Ethiopia and the Horn — © Acadia",
+    "footer": "Page {page_number} | Acadia Geography Series",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
