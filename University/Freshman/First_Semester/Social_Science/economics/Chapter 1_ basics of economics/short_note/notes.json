@@ -1,65 +1,901 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "economics",
-    "unit_title": "Chapter 1  basics of economics"
+    "grade": "University Freshman",
+    "subject": "Economics",
+    "course_code": "Econ 1011",
+    "academic_path": "university/freshman/First_Semester/Social_Science/economics",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 1  basics of economics",
-      "paragraphs": [
-        "Introduction to Economics September 2019 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Chapter 1  basics of economics. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the economics curriculum."
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 1  basics of economics: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how economics principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [
-        {
-          "eq": "Formula / Equation: Parameter = f(economics)",
-          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
-          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 1  basics of economics."
-        }
-      ],
-      "tables": [
-        [
-          [
-            "Parameter / Variable",
-            "Description & Definition",
-            "SI Unit / Expression"
-          ],
-          [
-            "Primary Constant",
-            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 1  basics of economics",
-            "Standard Units"
-          ],
-          [
-            "Variable Parameter",
-            "Dependent variable analyzed in economics",
-            "Derived Units"
-          ]
+  "chapter": {
+    "chapter_number": "1",
+    "chapter_title": "Basics of Economics",
+    "chapter_subtitle": "Definition, Scope, Scarcity, Choice, Opportunity Cost, PPF, Economic Systems, and the Circular Flow Model — A Complete Student Guide",
+    "chapter_introduction": "Welcome to Chapter 1 of Introduction to Economics. Economics is one of the most exciting and relevant disciplines in the social sciences. It touches every aspect of your daily life — from the prices you pay for goods and services, to the jobs you seek, to the policies your government enacts. This chapter introduces you to the nature of economics: what it is, why we study it, how economists analyze problems, and how societies answer the fundamental economic questions. You will explore the concepts of scarcity, choice, opportunity cost, and the production possibilities frontier. You will also learn about the three main economic systems — capitalism, command economy, and mixed economy — and how decision-making units interact in the circular flow model. By the end of this chapter, you will have a solid foundation for understanding the rest of the course.",
+    "sections": [
+      {
+        "section_number": "1.1",
+        "section_title": "Definition of Economics",
+        "section_introduction": "Before we dive into the details of economic analysis, let us understand what economics is and how its definition has evolved over time.",
+        "subsections": [
+          {
+            "subtitle": "1.1.1. Etymology and Historical Origin",
+            "paragraphs": [
+              "The word **economy** comes from the Greek phrase **'one who manages a household'**. The science of economics in its current form is about two hundred years old.",
+              "**Adam Smith** — generally known as the **father of economics** — brought out his famous book, **'An Inquiry into the Nature and Causes of Wealth of Nations'**, in the year **1776**. Though many other writers expressed important economic ideas before Adam Smith, economics as a distinct subject started with his book.",
+              "There is **no universally accepted definition of economics** (its definition is controversial). This is because different economists defined economics from different perspectives:",
+              "- **Wealth definition**",
+              "- **Welfare definition**",
+              "- **Scarcity definition**",
+              "- **Growth definition**",
+              "Hence, its definition varies as the nature and scope of the subject grow over time. But the formal and commonly accepted definition is as follows."
+            ],
+            "definitions": [
+              ["Economics", "A social science which studies about efficient allocation of scarce resources so as to attain the maximum fulfillment of unlimited human needs."],
+              ["Adam Smith", "The father of economics; author of 'An Inquiry into the Nature and Causes of Wealth of Nations' (1776)."],
+              ["Economy", "From the Greek phrase 'one who manages a household'."]
+            ],
+            "key_points": [
+              "The word 'economy' comes from Greek — 'one who manages a household'.",
+              "Adam Smith is the father of economics.",
+              "His famous book was published in 1776.",
+              "There is no universally accepted definition of economics.",
+              "Four perspectives: wealth, welfare, scarcity, growth.",
+              "Formal definition: economics studies efficient allocation of scarce resources."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Perspective", "Key Idea", "Representative Economist"],
+                ["Wealth Definition", "Economics is the science of wealth", "Adam Smith"],
+                ["Welfare Definition", "Economics studies human welfare", "Alfred Marshall"],
+                ["Scarcity Definition", "Economics studies scarce resources and choice", "Lionel Robbins"],
+                ["Growth Definition", "Economics studies growth and development over time", "Paul Samuelson"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.1.2. Formal and Commonly Accepted Definition",
+            "paragraphs": [
+              "**Economics is a social science which studies about efficient allocation of scarce resources so as to attain the maximum fulfillment of unlimited human needs.**",
+              "As economics is a science of choice, it studies how people choose to use scarce or limited productive resources (land, labour, equipment, technical knowledge and the like) to produce various commodities.",
+              "**The following statements are derived from the above definition:**",
+              "- Economics studies about scarce resources;",
+              "- It studies about allocation of resources;",
+              "- Allocation should be efficient;",
+              "- Human needs are unlimited",
+              "- The aim (objective) of economics is to study how to satisfy the unlimited human needs up to the maximum possible degree by allocating the resources efficiently."
+            ],
+            "definitions": [
+              ["Scarce Resources", "Resources whose amount available is less than what people want to have at zero price."],
+              ["Allocation", "The process of distributing resources among different uses."],
+              ["Efficiency", "Getting the maximum output from the available resources."]
+            ],
+            "key_points": [
+              "Economics is a social science.",
+              "It studies efficient allocation of scarce resources.",
+              "It aims to maximize fulfillment of unlimited human needs.",
+              "Economics is a science of choice.",
+              "It studies how people choose to use scarce resources.",
+              "Resources include land, labour, equipment, technical knowledge."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Key Element", "Explanation"],
+                ["Scarce Resources", "Resources are limited in supply"],
+                ["Allocation", "Distributing resources among competing uses"],
+                ["Efficiency", "Maximum output from given resources"],
+                ["Unlimited Needs", "Human wants are endless"],
+                ["Choice", "Selecting among alternatives"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "1.2",
+        "section_title": "The Rationales of Economics",
+        "section_introduction": "Why do we study economics? What are the fundamental facts that provide the foundation for this field?",
+        "subsections": [
+          {
+            "subtitle": "1.2.1. Two Fundamental Facts",
+            "paragraphs": [
+              "There are **two fundamental facts** that provide the foundation for the field of economics:",
+              "1) **Human (society's) material wants are unlimited.**",
+              "2) **Economic resources are limited (scarce).**",
+              "**The basic economic problem is about scarcity and choice** since there are only limited amounts of resources available to produce the unlimited amount of goods and services we desire. Thus, economics is the study of how human beings make choices to use scarce resources as they seek to satisfy their unlimited wants.",
+              "Therefore, **choice is at the heart of all decision-making**. As an individual, family, and nation, we confront difficult choices about how to use limited resources to meet our needs and wants. Economists study how these choices are made in various settings; evaluate the outcomes in terms of criteria such as efficiency, equity, and stability; and search for alternative forms of economic organization that might produce higher living standards or a more desirable distribution of material well-being."
+            ],
+            "definitions": [
+              ["Unlimited Wants", "Human material wants are endless and cannot be fully satisfied."],
+              ["Scarce Resources", "Economic resources are limited in supply."],
+              ["Basic Economic Problem", "The problem of scarcity and choice."]
+            ],
+            "key_points": [
+              "Two fundamental facts: unlimited wants and scarce resources.",
+              "Basic economic problem: scarcity and choice.",
+              "Choice is at the heart of all decision-making.",
+              "Economists study how choices are made.",
+              "They evaluate outcomes in terms of efficiency, equity, and stability.",
+              "They search for alternative forms of economic organization."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Fundamental Fact", "Explanation", "Implication"],
+                ["Unlimited Wants", "Human material wants are endless", "We cannot satisfy all wants"],
+                ["Scarce Resources", "Economic resources are limited", "We must make choices"],
+                ["Scarcity and Choice", "The basic economic problem", "Every society must answer basic questions"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "1.3",
+        "section_title": "Scope and Method of Analysis in Economics",
+        "section_introduction": "Economics has a broad scope and uses different methods of analysis. Let us explore the scope of economics and the methods economists use.",
+        "subsections": [
+          {
+            "subtitle": "1.3.1. Scope of Economics",
+            "paragraphs": [
+              "The field and scope of economics is expanding rapidly and has come to include a vast range of topics and issues. In the recent past, many new branches of the subject have developed, including **development economics, industrial economics, transport economics, welfare economics, environmental economics**, and so on.",
+              "However, the core of modern economics is formed by its **two major branches: microeconomics and macroeconomics**. That means economics can be analyzed at micro and macro level.",
+              "**A. Microeconomics** is concerned with the economic behavior of individual decision-making units such as households, firms, markets and industries. In other words, it deals with how households and firms make decisions and how they interact in specific markets.",
+              "**B. Macroeconomics** is a branch of economics that deals with the effects and consequences of the aggregate behaviour of all decision-making units in a certain economy. In other words, it is an aggregative economics that examines the interrelations among various aggregates, their determination and the causes of fluctuations in them. It looks at the economy as a whole and discusses about the economy-wide phenomena.",
+              "**Note:** Both microeconomics and macroeconomics are complementary to each other. That is, macroeconomics cannot be studied in isolation from microeconomics."
+            ],
+            "definitions": [
+              ["Microeconomics", "The branch of economics that studies the economic behavior of individual decision-making units such as households, firms, markets, and industries."],
+              ["Macroeconomics", "The branch of economics that deals with the effects and consequences of the aggregate behavior of all decision-making units in an economy."],
+              ["Aggregate", "Total or whole; a collection of individual units."]
+            ],
+            "key_points": [
+              "Economics has two major branches: microeconomics and macroeconomics.",
+              "Microeconomics studies individual economic units.",
+              "Macroeconomics studies the economy as a whole.",
+              "Both branches are complementary.",
+              "Macroeconomics cannot be studied in isolation from microeconomics."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Microeconomics", "Macroeconomics"],
+                ["Studies individual economic units of an economy.", "Studies an economy as a whole and its aggregates."],
+                ["Deals with individual income, individual prices, individual outputs, etc.", "Deals with national income and output and general price level."],
+                ["Its central problem is price determination and allocation of resources.", "Its central problem is determination of level of income and employment."],
+                ["Its main tools are the demand and supply of particular commodities and factors.", "Its main tools are aggregate demand and aggregate supply of an economy as a whole."],
+                ["Helps to solve the central problem of 'what, how and for whom to produce' in an economy so as to maximize profits.", "Helps to solve the central problem of 'full employment of resources in the economy.'"],
+                ["Discusses how the equilibrium of a consumer, a producer or an industry is attained.", "Concerned with the determination of equilibrium levels of income and employment at aggregate level."],
+                ["Examples: Individual income, individual savings, individual prices, an individual firm's output, individual consumption, etc.", "Examples: National income, national savings, general price level, national output, aggregate consumption, etc."]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.3.2. Positive and Normative Analysis",
+            "paragraphs": [
+              "Economics can be analyzed from two perspectives: **positive economics** and **normative economics**.",
+              "**Positive economics:** It is concerned with analysis of facts and attempts to describe the world as it is. It tries to answer the questions what was; what is; or what will be? It does not judge a system as good or bad, better or worse.",
+              "**Examples:**",
+              "- The current inflation rate in Ethiopia is 12 percent.",
+              "- Poverty and unemployment are the biggest problems in Ethiopia.",
+              "- The life expectancy at birth in Ethiopia is rising.",
+              "All the above statements are known as **positive statements**. These statements are all concerned with real facts and information. Any disagreement on positive statements can be checked by looking in to facts.",
+              "**Normative economics:** It deals with the questions like, what ought to be? Or what the economy should be? It evaluates the desirability of alternative outcomes based on one's value judgments about what is good or what is bad. In this situation since normative economics is loaded with judgments, what is good for one may not be the case for the other. Normative analysis is a matter of opinion (subjective in nature) which cannot be proved or rejected with reference to facts.",
+              "**Examples:**",
+              "- The poor should pay no taxes.",
+              "- There is a need for intervention of government in the economy.",
+              "- Females ought to be given job opportunities.",
+              "Any disagreement on a normative statement can be solved by voting."
+            ],
+            "definitions": [
+              ["Positive Economics", "The branch of economics concerned with analysis of facts and describing the world as it is."],
+              ["Normative Economics", "The branch of economics that deals with questions like what ought to be; it evaluates outcomes based on value judgments."],
+              ["Positive Statement", "A statement concerned with real facts and information."],
+              ["Normative Statement", "A statement loaded with judgments and opinions."]
+            ],
+            "key_points": [
+              "Positive economics: describes the world as it is.",
+              "Normative economics: deals with what ought to be.",
+              "Positive statements can be checked by facts.",
+              "Normative statements cannot be proved or rejected with reference to facts.",
+              "Disagreement on normative statements can be solved by voting."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Aspect", "Positive Economics", "Normative Economics"],
+                ["Focus", "What is, was, or will be", "What ought to be"],
+                ["Nature", "Factual, objective", "Value-laden, subjective"],
+                ["Verification", "Can be checked by facts", "Cannot be proved or rejected by facts"],
+                ["Example", "The inflation rate is 12 percent.", "The poor should pay no taxes."],
+                ["Resolution of Disagreement", "By checking facts", "By voting"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.3.3. Inductive and Deductive Reasoning in Economics",
+            "paragraphs": [
+              "The fundamental objective of economics, like any science, is the establishment of valid generalizations about certain aspects of human behaviour. Those generalizations are known as **theories**. A theory is a **simplified picture of reality**. Economic theory provides the basis for economic analysis which uses logical reasoning.",
+              "There are **two methods of logical reasoning: inductive and deductive**.",
+              "**a) Inductive reasoning** is a logical way of arriving at a general conclusion (theory) based on the observation of particular facts and data. It involves:",
+              "1. Selecting problem for analysis",
+              "2. Collection, classification, and analysis of data",
+              "3. Establishing cause and effect relationship between economic phenomena",
+              "**b) Deductive reasoning** is a logical way of arriving at a particular or specific correct statement starting from a correct general statement. In short, it deals with conclusions about economic phenomenon from certain fundamental assumptions or truths or axioms through a process of logical arguments. The theory may agree or disagree with the real world and we should check the validity of the theory to facts by moving from general to particular.",
+              "**Major steps in the deductive approach include:**",
+              "1. Problem identification",
+              "2. Specification of the assumptions",
+              "3. Formulating hypotheses",
+              "4. Testing the validity of the hypotheses"
+            ],
+            "definitions": [
+              ["Inductive Reasoning", "A logical way of arriving at a general conclusion based on the observation of particular facts and data."],
+              ["Deductive Reasoning", "A logical way of arriving at a particular or specific correct statement starting from a correct general statement."],
+              ["Theory", "A simplified picture of reality."],
+              ["Hypothesis", "A proposed explanation made on the basis of limited evidence as a starting point for further investigation."]
+            ],
+            "key_points": [
+              "Inductive reasoning: from particular facts to general conclusion.",
+              "Deductive reasoning: from general statement to particular conclusion.",
+              "Both methods are used in economic analysis.",
+              "Theory is a simplified picture of reality.",
+              "Inductive steps: problem selection, data collection, cause-effect.",
+              "Deductive steps: problem identification, assumptions, hypotheses, testing."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Method", "Direction", "Steps"],
+                ["Inductive", "Particular → General", "1. Problem selection; 2. Data collection, classification, analysis; 3. Establishing cause and effect"],
+                ["Deductive", "General → Particular", "1. Problem identification; 2. Specification of assumptions; 3. Formulating hypotheses; 4. Testing validity"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "1.4",
+        "section_title": "Scarcity, Choice, Opportunity Cost and Production Possibilities Frontier",
+        "section_introduction": "These four concepts are the foundation of economic thinking. Let us explore them in detail.",
+        "subsections": [
+          {
+            "subtitle": "1.4.1. Scarcity",
+            "paragraphs": [
+              "The fundamental economic problem that any human society faces is the problem of **scarcity**. **Scarcity** refers to the fact that all economic resources that a society needs to produce goods and services are finite or limited in supply. But their being limited should be expressed in relation to human wants. Thus, the term scarcity reflects the **imbalance between our wants and the means to satisfy those wants**.",
+              "**Free resources:** A resource is said to be free if the amount available to a society is greater than the amount people desire at zero price. E.g. sunshine.",
+              "**Scarce (economic) resources:** A resource is said to be scarce or economic resource when the amount available to a society is less than what people want to have at zero price.",
+              "**Examples of scarce resources:**",
+              "- All types of human resources: manual, intellectual, skilled and specialized labor;",
+              "- Most natural resources like land (especially, fertile land), minerals, clean water, forests and wild animals;",
+              "- All types of capital resources (like machines, intermediate goods, infrastructure); and",
+              "- All types of entrepreneurial resources.",
+              "**Economic resources are usually classified into four categories:**",
+              "- **Labour:** Refers to the physical as well as mental efforts of human beings in the production and distribution of goods and services. The reward for labour is called **wage**.",
+              "- **Land:** Refers to the natural resources or all the free gifts of nature usable in the production of goods and services. The reward for the services of land is known as **rent**.",
+              "- **Capital:** Refers to all the manufactured inputs that can be used to produce other goods and services. Example: equipment, machinery, transport and communication facilities, etc. The reward for the services of capital is called **interest**.",
+              "- **Entrepreneurship:** Refers to a special type of human talent that helps to organize and manage other factors of production to produce goods and services and takes risk of making loses. The reward for entrepreneurship is called **profit**.",
+              "**Entrepreneurs are individuals who:**",
+              "- Organize factors of production to produce goods and services.",
+              "- Make basic business policy decisions.",
+              "- Introduce new inventions and technologies into business practice.",
+              "- Look for new business opportunities.",
+              "- Take risks of making losses.",
+              "**Note:** Scarcity does not mean shortage. We have already said that a good is said to be scarce if the amount available is less than the amount people wish to have at zero price. But we say that there is shortage of goods and services when people are unable to get the amount they want at the prevailing or on going price. **Shortage is a specific and short-term problem but scarcity is a universal and everlasting problem.**"
+            ],
+            "definitions": [
+              ["Scarcity", "The fact that all economic resources that a society needs to produce goods and services are finite or limited in supply."],
+              ["Free Resource", "A resource whose amount available to a society is greater than the amount people desire at zero price."],
+              ["Scarce (Economic) Resource", "A resource whose amount available to a society is less than what people want to have at zero price."],
+              ["Labour", "The physical and mental efforts of human beings in the production and distribution of goods and services."],
+              ["Land", "The natural resources or all the free gifts of nature usable in the production of goods and services."],
+              ["Capital", "All the manufactured inputs that can be used to produce other goods and services."],
+              ["Entrepreneurship", "A special type of human talent that helps to organize and manage other factors of production and takes risk of making losses."],
+              ["Wage", "The reward for labour."],
+              ["Rent", "The reward for the services of land."],
+              ["Interest", "The reward for the services of capital."],
+              ["Profit", "The reward for entrepreneurship."],
+              ["Shortage", "A situation where people are unable to get the amount they want at the prevailing price."]
+            ],
+            "key_points": [
+              "Scarcity: limited resources relative to unlimited wants.",
+              "Free resources: available in greater amount than desired at zero price.",
+              "Scarce resources: available in less amount than desired at zero price.",
+              "Four categories of economic resources: labour, land, capital, entrepreneurship.",
+              "Rewards: wage, rent, interest, profit.",
+              "Scarcity ≠ shortage. Scarcity is universal and everlasting; shortage is specific and short-term."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Resource Category", "Definition", "Reward"],
+                ["Labour", "Physical and mental efforts of human beings", "Wage"],
+                ["Land", "Natural resources or free gifts of nature", "Rent"],
+                ["Capital", "Manufactured inputs used to produce other goods", "Interest"],
+                ["Entrepreneurship", "Human talent that organizes and manages other factors and takes risks", "Profit"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.4.2. Choice",
+            "paragraphs": [
+              "If resources are scarce, then output will be limited. If output is limited, then we cannot satisfy all of our wants. Thus, **choice must be made**. Due to the problem of scarcity, individuals, firms and government are forced to choose as to what output to produce, in what quantity, and what output not to produce.",
+              "In short, **scarcity implies choice. Choice, in turn, implies cost.** That means whenever choice is made, an alternative opportunity is sacrificed. This cost is known as **opportunity cost**.",
+              "**Chain of logic:** Scarcity → limited resource → limited output → we might not satisfy all our wants → choice involves costs → opportunity cost."
+            ],
+            "definitions": [
+              ["Choice", "The act of selecting among alternatives due to scarcity."]
+            ],
+            "key_points": [
+              "Scarcity forces choice.",
+              "Choice implies cost.",
+              "Whenever choice is made, an alternative is sacrificed.",
+              "This cost is opportunity cost.",
+              "Chain: Scarcity → limited resources → limited output → choice → opportunity cost."
+            ],
+            "formulas": [
+              ["Chain of Logic", "Scarcity → limited resource → limited output → choice → opportunity cost", ""]
+            ],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Scarcity", "Resources are limited"],
+                ["Choice", "We must select among alternatives"],
+                ["Opportunity Cost", "The value of the next best alternative sacrificed"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.4.3. Opportunity Cost",
+            "paragraphs": [
+              "In a world of scarcity, a decision to have more of one thing, at the same time, means a decision to have less of another thing. The value of the next best alternative that must be sacrificed is, therefore, the opportunity cost of the decision.",
+              "**Definition:** Opportunity cost is the amount or value of the next best alternative that must be sacrificed (forgone) in order to obtain one more unit of a product.",
+              "**For example,** suppose the country spends all of its limited resources on the production of cloth or computer. If a given amount of resources can produce either one meter of cloth or 20 units of computer, then the cost of one meter of cloth is the 20 units of computer that must be sacrificed in order to produce a meter of cloth.",
+              "**When we say opportunity cost, we mean that:**",
+              "- It is measured in goods & services but not in money costs",
+              "- It should be in line with the principle of substitution.",
+              "In conclusion, when opportunity cost of an activity increases people substitute other activities in its place."
+            ],
+            "definitions": [
+              ["Opportunity Cost", "The amount or value of the next best alternative that must be sacrificed (forgone) in order to obtain one more unit of a product."],
+              ["Principle of Substitution", "When the opportunity cost of an activity increases, people substitute other activities in its place."]
+            ],
+            "key_points": [
+              "Opportunity cost: value of the next best alternative sacrificed.",
+              "Measured in goods and services, not in money.",
+              "In line with the principle of substitution.",
+              "When opportunity cost increases, people substitute other activities."
+            ],
+            "formulas": [
+              ["Opportunity Cost", "Value of the next best alternative sacrificed", ""]
+            ],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Opportunity Cost", "The value of the next best alternative forgone"],
+                ["Measurement", "In goods and services, not in money"],
+                ["Principle", "Substitution — when cost increases, people switch"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.4.4. The Production Possibilities Frontier (PPF/PPC)",
+            "paragraphs": [
+              "The **production possibilities frontier (PPF)** is a curve that shows the various possible combinations of goods and services that the society can produce given its resources and technology.",
+              "**To draw the PPF we need the following assumptions:**",
+              "a. The quantity as well as quality of economic resource available for use during the year is fixed.",
+              "b. There are two broad classes of output to be produced over the year.",
+              "c. The economy is operating at full employment and is achieving full production (efficiency).",
+              "d. Technology does not change during the year.",
+              "e. Some inputs are better adapted to the production of one good than to the production of the other (specialization).",
+              "**Table 1.1: Alternative production possibilities of a certain nation**",
+              "Types of products | Unit | Production alternatives A B C D E F",
+              "Food | metric tons | 500 420 320 180 0",
+              "Computer | number | 0 500 1000 1500 2000",
+              "We can also display the above information with a graph (Figure 1.1).",
+              "**The PPF describes three important concepts:**",
+              "i) **The concepts of scarcity:** the society cannot have unlimited amount of outputs even if it employs all of its resources and utilizes them in the best possible way.",
+              "ii) **The concept of choice:** any movement along the curve indicates the change in choice.",
+              "iii) **The concept of opportunity cost:** when the economy produces on the PPF, production of more of one good requires sacrificing some of another product which is reflected by the downward sloping PPF.",
+              "Related to the opportunity cost we have a law known as the **law of increasing opportunity cost**. This law states that as we produce more and more of a product, the opportunity cost per unit of the additional output increases. This makes the shape of the PPF concave to the origin.",
+              "The reason why opportunity cost increases when we produce more of one good is that economic resources are not completely adaptable to alternative uses (specialization effect).",
+              "**Formula:** Opportunity cost of a good = (the amount of the next best alternative sacrificed) / (the amount of the good gained)",
+              "**Example:** Referring to table 1.1 above, if the economy is initially operating at point B, what is the opportunity cost of producing one more unit of computer?",
+              "**Solution:** Moving from production alternative B to C we have:",
+              "OC = (320 - 420) / (1000 - 500) = -100 / 500 = 0.2 (The economy gives up 0.2 metric tons of food per computer)"
+            ],
+            "definitions": [
+              ["Production Possibilities Frontier (PPF)", "A curve that shows the various possible combinations of goods and services that the society can produce given its resources and technology."],
+              ["Law of Increasing Opportunity Cost", "As we produce more and more of a product, the opportunity cost per unit of the additional output increases."],
+              ["Specialization Effect", "Economic resources are not completely adaptable to alternative uses."]
+            ],
+            "key_points": [
+              "PPF shows possible combinations of goods and services.",
+              "Assumptions: fixed resources, two goods, full employment, fixed technology, specialization.",
+              "PPF describes scarcity, choice, and opportunity cost.",
+              "Law of increasing opportunity cost: opportunity cost increases as production increases.",
+              "PPF is concave to the origin due to specialization effect.",
+              "Formula: OC = (amount sacrificed) / (amount gained)."
+            ],
+            "formulas": [
+              ["Opportunity Cost", "OC = (amount of next best alternative sacrificed) / (amount of good gained)", "OC = (320-420)/(1000-500) = 0.2"]
+            ],
+            "tables": [
+              [
+                ["Production Alternative", "Food (metric tons)", "Computer (number)"],
+                ["A", "500", "0"],
+                ["B", "420", "500"],
+                ["C", "320", "1000"],
+                ["D", "180", "1500"],
+                ["E", "0", "2000"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Production Possibilities Frontier",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Computer",
+                  "y_axis": "Food",
+                  "points": [
+                    {"x": 0, "y": 500, "label": "A"},
+                    {"x": 500, "y": 420, "label": "B"},
+                    {"x": 1000, "y": 320, "label": "C"},
+                    {"x": 1500, "y": 180, "label": "D"},
+                    {"x": 2000, "y": 0, "label": "E"}
+                  ],
+                  "note": "All points on the PPF are attainable and efficient. Point Q is attainable but inefficient. Point R is unattainable."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "1.4.5. Economic Growth and the PPF",
+            "paragraphs": [
+              "**Economic growth** or an increase in the total output level occurs when one or both of the following conditions occur:",
+              "1. Increase in the quantity or/and quality of economic resources.",
+              "2. Advances in technology.",
+              "Economic growth is represented by **outward shift of the PPF**.",
+              "An economy can grow because of an increase in productivity in one sector of the economy. For example, an improvement in technology applied to either food or computer would be illustrated by a shift of the PPF along the Y-axis or X-axis. This is called **asymmetric growth**."
+            ],
+            "definitions": [
+              ["Economic Growth", "An increase in the total output level of an economy."],
+              ["Asymmetric Growth", "Growth that occurs in one sector of the economy but not the other."]
+            ],
+            "key_points": [
+              "Economic growth: increase in total output.",
+              "Causes: increase in quantity/quality of resources; advances in technology.",
+              "Represented by outward shift of PPF.",
+              "Asymmetric growth: shift along one axis."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Cause of Growth", "Effect on PPF"],
+                ["Increase in resources", "Outward shift of PPF"],
+                ["Advances in technology", "Outward shift of PPF"],
+                ["Improvement in one sector", "Asymmetric shift (along one axis)"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "1.5",
+        "section_title": "Basic Economic Questions",
+        "section_introduction": "Every society must answer three fundamental economic questions. Let us explore them in detail.",
+        "subsections": [
+          {
+            "subtitle": "1.5.1. What to Produce?",
+            "paragraphs": [
+              "This problem is also known as the **problem of allocation of resources**. It implies that every economy must decide which goods and in what quantities are to be produced. The economy must make choices such as consumption goods versus capital goods, civil goods versus military goods, and necessity goods versus luxury goods. As economic resources are limited we must reduce the production of one type of good if we want more of another type. Generally, the final choice of any economy is a combination of the various types of goods but the exact nature of the combination depends upon the specific circumstances and objectives of the economy."
+            ],
+            "definitions": [
+              ["Allocation of Resources", "The problem of deciding which goods and in what quantities to produce."]
+            ],
+            "key_points": [
+              "What to produce: allocation of resources.",
+              "Choices: consumption vs. capital goods, civil vs. military goods, necessity vs. luxury goods.",
+              "Resources are limited, so we must choose.",
+              "Final choice depends on circumstances and objectives."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Choice", "Example"],
+                ["Consumption vs. Capital Goods", "Food vs. machinery"],
+                ["Civil vs. Military Goods", "Schools vs. weapons"],
+                ["Necessity vs. Luxury Goods", "Bread vs. jewelry"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.5.2. How to Produce?",
+            "paragraphs": [
+              "This problem is also known as the **problem of choice of technique**. Once an economy has reached a decision regarding the types of goods to be produced, and has determined their respective quantities, the economy must decide how to produce them — choosing between alternative methods or techniques of production. For example, cotton cloth can be produced with hand looms, power looms, or automatic looms. Similarly, wheat can be grown with primitive tools and manual labour, or with modern machinery and little labour.",
+              "Broadly speaking, the various techniques of production can be classified into two groups: **labour-intensive techniques** and **capital-intensive techniques**.",
+              "- A **labour-intensive technique** involves the use of more labour relative to capital, per unit of output.",
+              "- A **capital-intensive technique** involves the use of more capital relative to labour, per unit of output.",
+              "The choice between different techniques depends on the available supplies of different factors of production and their relative prices. Making good choices is essential for making the best possible use of limited resources to produce maximum amounts of goods and services."
+            ],
+            "definitions": [
+              ["Labour-Intensive Technique", "A technique of production that uses more labour relative to capital per unit of output."],
+              ["Capital-Intensive Technique", "A technique of production that uses more capital relative to labour per unit of output."]
+            ],
+            "key_points": [
+              "How to produce: choice of technique.",
+              "Two techniques: labour-intensive and capital-intensive.",
+              "Choice depends on supplies of factors and their prices.",
+              "Good choices maximize output from limited resources."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Technique", "Description", "Example"],
+                ["Labour-Intensive", "More labour relative to capital", "Hand looms, manual farming"],
+                ["Capital-Intensive", "More capital relative to labour", "Automatic looms, modern machinery"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.5.3. For Whom to Produce?",
+            "paragraphs": [
+              "This problem is also known as the **problem of distribution of national product**. It relates to how a material product is to be distributed among the members of a society. The economy must decide, for example, whether to produce for the benefit of the few rich people or for the large number of poor people. An economy that wants to benefit the maximum number of persons would first try to produce the necessities of the whole population and then to proceed to the production of luxury goods.",
+              "All these and other fundamental economic problems center around **human needs and wants**. Many human efforts in society are directed towards the production of goods and services to satisfy human needs and wants. These human efforts result in economic activities that occur within the framework of an economic system."
+            ],
+            "definitions": [
+              ["Distribution of National Product", "The problem of how a material product is to be distributed among the members of a society."]
+            ],
+            "key_points": [
+              "For whom to produce: distribution of national product.",
+              "Decision: few rich vs. large number of poor.",
+              "Economy should first produce necessities, then luxury goods.",
+              "All basic problems center around human needs and wants."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Question", "Problem", "Key Decision"],
+                ["What to Produce?", "Allocation of resources", "Which goods and in what quantities"],
+                ["How to Produce?", "Choice of technique", "Labour-intensive vs. capital-intensive"],
+                ["For Whom to Produce?", "Distribution of national product", "How to distribute output among members of society"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "1.6",
+        "section_title": "Economic Systems",
+        "section_introduction": "The way a society tries to answer the fundamental questions is summarized by a concept known as economic system. Let us explore the three main economic systems.",
+        "subsections": [
+          {
+            "subtitle": "1.6.1. Capitalist Economy",
+            "paragraphs": [
+              "**Capitalism** is the oldest formal economic system in the world. It became widespread in the middle of the 19th century. In this economic system, all means of production are privately owned, and production takes place at the initiative of individual private entrepreneurs who work mainly for private profit. Government intervention in the economy is minimal. This system is also called **free market economy** or **market system** or **laissez faire**.",
+              "**Features of Capitalistic Economy:**",
+              "- **The right to private property:** The right to private property is a fundamental feature of a capitalist economy. As part of that principle, economic or productive factors such as land, factories, machinery, mines etc. are under private ownership.",
+              "- **Freedom of choice by consumers:** Consumers can buy the goods and services that suit their tastes and preferences. Producers produce goods in accordance with the wishes of the consumers. This is known as the **principle of consumer sovereignty**.",
+              "- **Profit motive:** Entrepreneurs, in their productive activity, are guided by the motive of profit-making.",
+              "- **Competition:** In a capitalist economy, competition exists among sellers or producers of similar goods to attract customers. Among buyers, there is competition to obtain goods. Among workers, the competition is to get jobs. Among employers, it is to get workers and investment funds.",
+              "- **Price mechanism:** All basic economic problems are solved through the price mechanism.",
+              "- **Minor role of government:** The government does not interfere in day-to-day economic activities and confines itself to defense and maintenance of law and order.",
+              "- **Self-interest:** Each individual is guided by self-interest and motivated by the desire for economic gain.",
+              "- **Inequalities of income:** There is a wide economic gap between the rich and the poor.",
+              "- **Existence of negative externalities:** A negative externality is the harm, cost, or inconvenience suffered by a third party because of actions by others. In capitalistic economy, decision of firms may result in negative externalities against another firm or society in general.",
+              "**Advantages of Capitalistic Economy:**",
+              "- **Flexibility or adaptability:** It successfully adapts itself to changing environments.",
+              "- **Decentralization of economic power:** Market mechanisms work as a decentralizing force against the concentration of economic power.",
+              "- **Increase in per-capita income and standard of living:** Rapid growth in levels of production and income leads to higher per-capita income and standards of living.",
+              "- **New types of consumer goods:** Varieties of new consumer goods are developed and produced at large scale.",
+              "- **Growth of entrepreneurship:** Profit motive creates and supports new entrepreneurial skills and approaches.",
+              "- **Optimum utilization of productive resources:** Full utilization of productive resources is possible due to innovations and technological progress.",
+              "- **High rate of capital formation:** The right to private property helps in capital formation.",
+              "**Disadvantages of Capitalistic Economy:**",
+              "- **Inequality of income:** Capitalism promotes economic inequalities and creates social imbalance.",
+              "- **Unbalanced economic activity:** As there is no check on the economic system, the economy can develop in an unbalanced way in terms of different geographic regions and different sections of society.",
+              "- **Exploitation of labour:** In a capitalistic economy, exploitation of labour (for example by paying low wages) is common.",
+              "- **Negative externalities:** are problems in capitalistic economy where profit maximization is the main objective of firms. If economic makes sense for a firm to force others to pay the impacts of negative externalities such as pollution."
+            ],
+            "definitions": [
+              ["Capitalism", "An economic system in which all means of production are privately owned and production takes place at the initiative of individual private entrepreneurs who work mainly for private profit."],
+              ["Consumer Sovereignty", "The principle that consumers can buy the goods and services that suit their tastes and preferences, and producers produce goods in accordance with the wishes of the consumers."],
+              ["Negative Externality", "The harm, cost, or inconvenience suffered by a third party because of actions by others."],
+              ["Laissez Faire", "A policy of minimum governmental interference in the economic affairs of individuals and society."]
+            ],
+            "key_points": [
+              "Capitalism: private ownership, profit motive, minimal government intervention.",
+              "Features: private property, freedom of choice, profit motive, competition, price mechanism, minor role of government, self-interest, inequalities of income, negative externalities.",
+              "Advantages: flexibility, decentralization, higher per-capita income, new consumer goods, entrepreneurship, optimum resource use, high capital formation.",
+              "Disadvantages: inequality, unbalanced growth, exploitation of labour, negative externalities."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Feature", "Description"],
+                ["Private Property", "Economic factors are under private ownership"],
+                ["Freedom of Choice", "Consumers buy what suits their tastes; producers respond"],
+                ["Profit Motive", "Entrepreneurs guided by profit-making"],
+                ["Competition", "Among sellers, buyers, workers, employers"],
+                ["Price Mechanism", "Basic economic problems solved through prices"],
+                ["Minor Role of Government", "Government confined to defense and law and order"],
+                ["Self-Interest", "Individuals guided by self-interest"],
+                ["Inequalities of Income", "Wide gap between rich and poor"],
+                ["Negative Externalities", "Harm to third parties from firm decisions"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.6.2. Command Economy",
+            "paragraphs": [
+              "**Command economy** is also known as **socialistic economy**. Under this economic system, the economic institutions that are engaged in production and distribution are owned and controlled by the state. In the recent past, socialism has lost its popularity and most of the socialist countries are trying free market economies.",
+              "**Main Features of Command Economy:**",
+              "- **Collective ownership:** All means of production are owned by the society as a whole, and there is no right to private property.",
+              "- **Central economic planning:** Planning for resource allocation is performed by the controlling authority according to given socio-economic goals.",
+              "- **Strong government role:** Government has complete control over all economic activities.",
+              "- **Maximum social welfare:** Command economy aims at maximizing social welfare and does not allow the exploitation of labour.",
+              "- **Relative equality of incomes:** Private property does not exist in a command economy, the profit motive is absent, and there are no opportunities for accumulation of wealth. All these factors lead to greater equality in income distribution, in comparison with capitalism.",
+              "**Advantages of Command Economy:**",
+              "- **Absence of wasteful competition:** There is no place for wasteful use of productive resources through unhealthy competition.",
+              "- **Balanced economic growth:** Allocation of resources through centralized planning leads to balanced economic development. Different regions and different sectors of the economy can develop equally.",
+              "- **Elimination of private monopolies and inequalities:** Command economies avoid the major evils of capitalism such as inequality of income and wealth, private monopolies, and concentration of economic, political and social power.",
+              "**Disadvantages of Command Economy:**",
+              "- **Absence of automatic price determination:** Since all economic activities are controlled by the government, there is no automatic price mechanism.",
+              "- **Absence of incentives for hard work and efficiency:** The entire system depends on bureaucrats who are considered inefficient in running businesses. There is no financial incentive for hard work and efficiency. The economy grows at a relatively slow rate.",
+              "- **Lack of economic freedom:** Economic freedom for consumers, producers, investors, and employers is totally absent, and all economic powers are concentrated in the hands of the government.",
+              "- **Red-tapism:** It is widely prevalent in a command economy because all decisions are made by government officials."
+            ],
+            "definitions": [
+              ["Command Economy", "An economic system in which the economic institutions engaged in production and distribution are owned and controlled by the state."],
+              ["Collective Ownership", "All means of production are owned by the society as a whole."],
+              ["Central Economic Planning", "Planning for resource allocation performed by a controlling authority according to socio-economic goals."],
+              ["Red-Tapism", "Excessive bureaucracy or adherence to official rules and formalities."]
+            ],
+            "key_points": [
+              "Command economy: state ownership and control.",
+              "Features: collective ownership, central planning, strong government role, maximum social welfare, relative equality of incomes.",
+              "Advantages: no wasteful competition, balanced growth, elimination of monopolies and inequalities.",
+              "Disadvantages: no automatic price determination, no incentives, lack of economic freedom, red-tapism."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Feature", "Description"],
+                ["Collective Ownership", "All means of production owned by society as a whole"],
+                ["Central Economic Planning", "Resource allocation planned by controlling authority"],
+                ["Strong Government Role", "Government has complete control over all economic activities"],
+                ["Maximum Social Welfare", "Aims at maximizing social welfare; no exploitation of labour"],
+                ["Relative Equality of Incomes", "No private property, no profit motive, no wealth accumulation"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.6.3. Mixed Economy",
+            "paragraphs": [
+              "A **mixed economy** is an attempt to combine the advantages of both the capitalistic economy and the command economy. It incorporates some of the features of both and allows private and public sectors to co-exist.",
+              "**Main Features of Mixed Economy:**",
+              "- **Co-existence of public and private sectors:** Public and private sectors co-exist in this system. Their respective roles and aims are well-defined. Industries of national and strategic importance, such as heavy and basic industry, defense production, power generation, etc. are set up in the public sector, whereas consumer-goods industry and small-scale industry are developed through the private sector.",
+              "- **Economic welfare:** Economic welfare is the most important criterion of the success of a mixed economy. The public sector tries to remove regional imbalances, provides large employment opportunities and seeks economic welfare through its price policy. Government control over the private sector leads to economic welfare of society at large.",
+              "- **Economic planning:** The government uses instruments of economic planning to achieve co-ordinated rapid economic development, making use of both the private and the public sector.",
+              "- **Price mechanism:** The price mechanism operates for goods produced in the private sector, but not for essential commodities and goods produced in the public sector. Those prices are defined and regulated by the government.",
+              "- **Economic equality:** Private property is allowed, but rules exist to prevent concentration of wealth. Limits are fixed for owning land and property. Progressive taxation, concessions and subsidies are implemented to achieve economic equality.",
+              "**Advantages of Mixed Economy:**",
+              "- **Private property, profit motive and price mechanism:** All the advantages of a capitalistic economy, such as the right to private property, motivation through the profit motive, and control of economic activity through the price mechanism, are available in a mixed economy. At the same time, government control ensures that they do not lead to exploitation.",
+              "- **Adequate freedom:** Mixed economies allow adequate freedom to different economic units such as consumers, employees, producers, and investors.",
+              "- **Rapid and planned economic development:** Planned economic growth takes place, resources are properly and efficiently utilized, and fast economic development takes place because the private and public sector complement each other.",
+              "- **Social welfare and fewer economic inequalities:** The government's restricted control over economic activities helps in achieving social welfare and economic equality.",
+              "**Disadvantages of Mixed Economy:**",
+              "- **Ineffectiveness and inefficiency:** A mixed economy might not actually have the usual advantages of either the public sector or the private sector. The public sector might be inefficient due to lack of incentive and responsibility, and the private sector might be made ineffective by government regulation and control.",
+              "- **Economic fluctuations:** If the private sector is not properly controlled by the government, economic fluctuations and unemployment can occur.",
+              "- **Corruption and black markets:** If government policies, rules and directives are not effectively implemented, the economy can be vulnerable to increased corruption and black market activities."
+            ],
+            "definitions": [
+              ["Mixed Economy", "An economic system that combines the advantages of both the capitalistic economy and the command economy, allowing private and public sectors to co-exist."],
+              ["Public Sector", "The part of the economy owned and controlled by the government."],
+              ["Private Sector", "The part of the economy owned and controlled by private individuals and firms."]
+            ],
+            "key_points": [
+              "Mixed economy: combination of capitalism and command economy.",
+              "Features: co-existence of public and private sectors, economic welfare, economic planning, price mechanism, economic equality.",
+              "Advantages: private property and profit motive, adequate freedom, rapid and planned development, social welfare.",
+              "Disadvantages: ineffectiveness and inefficiency, economic fluctuations, corruption and black markets."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Feature", "Description"],
+                ["Co-existence of Sectors", "Public and private sectors co-exist with well-defined roles"],
+                ["Economic Welfare", "Most important criterion of success"],
+                ["Economic Planning", "Government uses planning to achieve rapid development"],
+                ["Price Mechanism", "Operates for private sector goods; regulated for public sector goods"],
+                ["Economic Equality", "Rules to prevent concentration of wealth; progressive taxation"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.6.4. Comparison of Economic Systems",
+            "tables": [
+              [
+                ["Aspect", "Capitalist Economy", "Command Economy", "Mixed Economy"],
+                ["Ownership", "Private", "State", "Both public and private"],
+                ["Price Mechanism", "Free", "Controlled", "Partially free, partially controlled"],
+                ["Government Role", "Minimal", "Complete", "Significant but limited"],
+                ["Consumer Sovereignty", "Yes", "No", "Yes (with limitations)"],
+                ["Profit Motive", "Central", "Absent", "Present (with regulation)"],
+                ["Income Equality", "Low (high inequality)", "High (relative equality)", "Moderate"],
+                ["Efficiency", "High (due to competition)", "Low (due to bureaucracy)", "Variable"],
+                ["Examples", "USA, UK (historically)", "Former USSR, Cuba", "Ethiopia, India, France"]
+              ]
+            ],
+            "key_points": [
+              "Capitalism: private ownership, free markets, profit motive.",
+              "Command: state ownership, central planning, social welfare.",
+              "Mixed: combination of both, government regulation, public and private sectors.",
+              "Each system has strengths and weaknesses."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "1.7",
+        "section_title": "Decision Making Units and the Circular Flow Model",
+        "section_introduction": "In a closed economy, there are three decision-making units: households, firms, and the government. Let us explore how they interact in the circular flow model.",
+        "subsections": [
+          {
+            "subtitle": "1.7.1. Decision Making Units",
+            "paragraphs": [
+              "There are **three decision making units** in a closed economy. These are households, firms and the government.",
+              "**i) Household:** A household can be one person or more who live under one roof and make joint financial decisions. Households make two decisions:",
+              "a) Selling of their resources, and",
+              "b) Buying of goods and services.",
+              "**ii) Firm:** A firm is a production unit that uses economic resources to produce goods and services. Firms also make two decisions:",
+              "a) Buying of economic resources",
+              "b) Selling of their products.",
+              "**iii) Government:** A government is an organization that has legal and political power to control or influence households, firms and markets. Government also provides some types of goods and services known as public goods and services for the society.",
+              "**The three economic agents interact in two markets:**",
+              "- **Product market:** It is a market where goods and services are transacted/exchanged. That is, a market where households and governments buy goods and services from business firms.",
+              "- **Factor market (input market):** It is a market where economic units transact/exchange factors of production (inputs). In this market, owners of resources (households) sell their resources to business firms and governments."
+            ],
+            "definitions": [
+              ["Household", "One person or more who live under one roof and make joint financial decisions."],
+              ["Firm", "A production unit that uses economic resources to produce goods and services."],
+              ["Government", "An organization that has legal and political power to control or influence households, firms and markets."],
+              ["Product Market", "A market where goods and services are transacted/exchanged."],
+              ["Factor Market (Input Market)", "A market where economic units transact/exchange factors of production (inputs)."],
+              ["Public Goods and Services", "Goods and services provided by the government for the society."]
+            ],
+            "key_points": [
+              "Three decision-making units: households, firms, government.",
+              "Households: sell resources, buy goods and services.",
+              "Firms: buy resources, sell products.",
+              "Government: controls and influences, provides public goods.",
+              "Two markets: product market and factor market."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Decision Making Unit", "Decisions", "Role"],
+                ["Household", "Selling of resources; Buying of goods and services", "Owns and sells factors of production; consumes goods and services"],
+                ["Firm", "Buying of economic resources; Selling of products", "Produces and sells goods and services; hires and uses factors of production"],
+                ["Government", "Controls and influences; Provides public goods and services", "Collects taxes; provides public services; buys goods and services"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "1.7.2. The Circular Flow Model",
+            "paragraphs": [
+              "The **circular-flow diagram** is a visual model of the economy that shows how money (Birr), economic resources and goods and services flows through markets among the decision making units.",
+              "For simplicity, let's first see a **two sector model** where we have only households and business firms. In this case, therefore, we see the flow of goods and services from producers to households and a flow of resources from households to business firms.",
+              "In the circular flow diagram, the **clock-wise direction** shows the flow of economic resources and final goods and services. Business firms sell goods and services to households in product markets (upper part of the diagram). On the other hand, the lower part shows where households sell factors of production to business firms through factor market. The **anti-clockwise direction** indicates the flow of birr (in the form of revenue, income and spending on consumption). Firms, by selling goods and services to households, receive money in the form of revenue which is consumption expenditure for households in the product market. On the other hand, households by supplying their resources to firms receive income. This represents expenditure by firms to purchase factors of production which is used as an input to produce goods and services.",
+              "We have also a **three sector model** in which the government is involved in the economic activities. As shown in figure 1.5 below, the only difference of the three sector model from the two sector model is that it involves government participation in the market. The government to provide public services purchase goods and services from business firms through the product market with a given amount of expenditure. On the other hand, the government also needs resources required for the provision of the services. This resource is purchased from the factor market by making payments to the resource owners (households).",
+              "The service provided by the government goes to the households and business firms. The government might also support the economy by providing income support to the households and subsidies to the business firms. At this point you might ask the source of government finance to make the expenditures, payments and additional supports to the firms and households. The main source of revenue to the government is the tax collected from households and firms."
+            ],
+            "definitions": [
+              ["Circular-Flow Diagram", "A visual model of the economy that shows how money, economic resources, and goods and services flow through markets among the decision-making units."],
+              ["Two Sector Model", "A circular flow model with only households and business firms."],
+              ["Three Sector Model", "A circular flow model that includes the government in addition to households and firms."]
+            ],
+            "key_points": [
+              "Circular flow model: shows flows of money, resources, goods and services.",
+              "Two sector model: households and firms.",
+              "Clockwise: flow of resources and goods and services.",
+              "Anti-clockwise: flow of money (Birr).",
+              "Three sector model: adds government.",
+              "Government provides public services; collects taxes."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Model", "Sectors", "Key Flows"],
+                ["Two Sector", "Households, Firms", "Goods and services, resources, money"],
+                ["Three Sector", "Households, Firms, Government", "Goods and services, resources, money, taxes, subsidies"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Circular Flow of Income with Two Sector Model",
+                "diagram_type": "circular_flow",
+                "diagram_data": {
+                  "firms": "Produce and sell goods and services; Hire and use factors of production",
+                  "households": "Buy and consume goods and services; Own and sell factors of production",
+                  "product_market": "Firms sell; Households buy",
+                  "factor_market": "Households sell; Firms buy",
+                  "flows": [
+                    {"direction": "Clockwise", "content": "Goods and services, factors of production"},
+                    {"direction": "Anti-clockwise", "content": "Money (Birr) — revenue, income, spending"}
+                  ]
+                }
+              },
+              {
+                "diagram_title": "Three Sector Circular Flow of Resources",
+                "diagram_type": "circular_flow",
+                "diagram_data": {
+                  "firms": "Produce and sell goods and services; Hire and use factors of production",
+                  "households": "Buy and consume goods and services; Own and sell factors of production",
+                  "government": "Provide social services; Provide supports; Collect taxes; Buy goods and services; Hire and use factors of production",
+                  "product_market": "Firms sell; Households buy; Government buys",
+                  "factor_market": "Households sell; Firms buy; Government hires",
+                  "flows": [
+                    {"direction": "Clockwise", "content": "Goods and services, factors of production"},
+                    {"direction": "Anti-clockwise", "content": "Money (Birr), taxes, subsidies, income support"}
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 1  basics of economics.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 1  basics of economics in economics cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Define economics from perspective of Wealth, Welfare, Scarcity, and Growth. Which definition more suits for economics? Why?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Four definitions of economics.\n• Explanation & Derivation:\n  - Wealth definition (Adam Smith): Economics is the science of wealth.\n  - Welfare definition (Alfred Marshall): Economics studies human welfare.\n  - Scarcity definition (Lionel Robbins): Economics studies scarce resources and choice.\n  - Growth definition (Paul Samuelson): Economics studies growth and development over time.\n  - The scarcity definition is most suitable because it captures the fundamental problem of scarcity and choice, which is the core of all economic analysis.\n• Final Answer: The scarcity definition is most suitable because it addresses the central problem of allocating scarce resources to satisfy unlimited wants."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 1  basics of economics.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university economics."
+      "question": "Define scarcity, choice and opportunity cost. Can you link them in your day to day lives?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Scarcity, choice, opportunity cost.\n• Explanation & Derivation:\n  - Scarcity: resources are limited relative to unlimited wants.\n  - Choice: because of scarcity, we must choose among alternatives.\n  - Opportunity cost: the value of the next best alternative sacrificed.\n  - Link: In daily life, you have limited time and money. You must choose how to spend them. If you choose to study, the opportunity cost is the time you could have spent with friends.\n• Final Answer: Scarcity forces choice, and choice implies opportunity cost. In daily life, every decision (e.g., studying vs. socializing) has an opportunity cost."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "What do you understand by positive economics and normative economics?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Positive vs. normative economics.\n• Explanation & Derivation:\n  - Positive economics: describes the world as it is; factual; can be checked by facts.\n  - Normative economics: deals with what ought to be; value-laden; subjective; cannot be proved by facts.\n• Final Answer: Positive economics is factual and objective; normative economics is value-laden and subjective."
+    },
+    {
+      "question": "Describe the four categories of economic resources. Which category of resources you and your family owned?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Four categories of economic resources.\n• Explanation & Derivation:\n  - Labour: physical and mental efforts; reward = wage.\n  - Land: natural resources; reward = rent.\n  - Capital: manufactured inputs; reward = interest.\n  - Entrepreneurship: human talent that organizes and manages; reward = profit.\n  - Most families own labour (their ability to work). Some may own land or capital.\n• Final Answer: The four categories are labour, land, capital, and entrepreneurship. Most families own labour; some may own land or capital."
+    },
+    {
+      "question": "What is a production possibility curve?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Production Possibility Curve (PPC).\n• Explanation & Derivation: A curve that shows the various possible combinations of goods and services that a society can produce given its resources and technology. It illustrates scarcity, choice, and opportunity cost. Points on the curve are efficient; points inside are inefficient; points outside are unattainable.\n• Final Answer: A PPC shows the maximum combinations of two goods an economy can produce with given resources and technology."
+    },
+    {
+      "question": "What are the central problems of an economy? Discuss them in detail.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Three central problems.\n• Explanation & Derivation:\n  1. What to produce: allocation of resources — which goods and in what quantities.\n  2. How to produce: choice of technique — labour-intensive vs. capital-intensive.\n  3. For whom to produce: distribution of national product — how to distribute output among members of society.\n• Final Answer: The three central problems are: What to produce? How to produce? For whom to produce? Every society must answer these questions."
+    },
+    {
+      "question": "Assume that a certain simplified economy produces only two goods, X and Y, with given resources and technology. The following table gives the various possible combinations of the production of the two goods (all units are measured in millions of tons). (a) Calculate the opportunity cost of the production of good X at each point. What law does the trend in those values exhibit? (b) What changes are required for this economy to shift the PPF outward?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: PPF and opportunity cost.\n• Explanation & Derivation:\n  - Table: Production Possibility | Good X | Good Y\n    A | 0 | 100\n    B | 2 | 90\n    C | 4 | 60\n    D | 6 | 20\n  - Opportunity cost of X from A to B: (100-90)/(2-0) = 10/2 = 5 units of Y per unit of X.\n  - From B to C: (90-60)/(4-2) = 30/2 = 15 units of Y per unit of X.\n  - From C to D: (60-20)/(6-4) = 40/2 = 20 units of Y per unit of X.\n  - The opportunity cost of X increases as more X is produced. This exhibits the law of increasing opportunity cost.\n  - (b) To shift the PPF outward: increase in the quantity or quality of resources, or advances in technology.\n• Final Answer: Opportunity costs: 5, 15, 20. Law of increasing opportunity cost. PPF shifts outward with more/better resources or technological improvement."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 1  BASICS OF ECONOMICS (university economics):\nThis complete study document covers all topics in Chapter 1  basics of economics, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 1: BASICS OF ECONOMICS (University Freshman Introduction to Economics):\nThis chapter covers the definition of economics (wealth, welfare, scarcity, and growth perspectives; Adam Smith as father of economics; formal definition), the rationales of economics (two fundamental facts: unlimited wants and scarce resources; scarcity and choice), the scope and method of analysis (microeconomics vs. macroeconomics; positive vs. normative analysis; inductive and deductive reasoning), scarcity, choice, opportunity cost and the production possibilities frontier (PPF: assumptions, concepts of scarcity/choice/opportunity cost, law of increasing opportunity cost, economic growth), the basic economic questions (what to produce, how to produce, for whom to produce), the three economic systems (capitalist, command, mixed — features, advantages, disadvantages), and decision-making units and the circular flow model (households, firms, government; two-sector and three-sector models; product and factor markets). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 1: Basics of Economics — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
