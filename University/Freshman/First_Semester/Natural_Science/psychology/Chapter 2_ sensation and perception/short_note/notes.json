@@ -1,60 +1,426 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 2  sensation and perception"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 2  sensation and perception",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 2  sensation and perception: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 2  sensation and perception",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "2",
+    "chapter_title": "Sensation and Perception",
+    "chapter_subtitle": "Sensory Processes, Thresholds, Adaptation, Attention, Form Perception, Depth Perception, Constancies, and Illusions",
+    "chapter_introduction": "Welcome to Chapter 2 of General Psychology. Before anything else, psychological life begins with the activity of knowing what is happening around us. Sensation and perception are the first important dimensions of this intelligent life. They are the starting points for all other psychological processes — learning, memory, thinking, problem-solving, communication, emotions, and self-awareness. This chapter discusses the nature of sensation and perception, the principles explaining how they work, and related topics such as attention, form perception, depth perception, perceptual constancy, and perceptual illusion.",
+    "sections": [
+      {
+        "section_number": "2.1",
+        "section_title": "The Meanings of Sensation and Perception",
+        "section_introduction": "Psychologists have traditionally differentiated between sensation and perception. In this section, we explore the meaning of each and how they relate to each other.",
+        "subsections": [
+          {
+            "subtitle": "2.1.1. Definition of Sensation",
+            "paragraphs": [
+              "**Sensation** is the process whereby stimulation of receptor cells in the eyes, ears, nose, mouth, and surface of the skin sends nerve impulses to the brain.",
+              "Sensations are closely tied to what is happening in the sensory systems themselves. Color, brightness, the pitch of tone, or a bitter taste are examples of sensations.",
+              "The starting point of sensations is a **stimulus** — a form of energy (such as light waves or sound waves) that can affect sensory organs (such as the eye or the ear).",
+              "Sensation is therefore the process that detects the stimulus from one's body or from the environment."
+            ],
+            "definitions": [
+              ["Sensation", "The process whereby stimulation of receptor cells sends nerve impulses to the brain."],
+              ["Stimulus", "A form of energy that can affect sensory organs."],
+              ["Receptor Cells", "Specialized cells in sensory organs that detect stimuli."]
+            ],
+            "key_points": [
+              "Sensation: detection of stimuli by receptor cells.",
+              "Sensations are tied to sensory systems.",
+              "Stimulus: form of energy affecting sensory organs.",
+              "Examples of sensations: color, brightness, pitch, taste."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Sense Organ", "Stimulus", "Sensation"],
+                ["Eye", "Light waves", "Color, brightness"],
+                ["Ear", "Sound waves", "Pitch, loudness"],
+                ["Nose", "Chemical molecules", "Smell"],
+                ["Tongue", "Chemical molecules", "Taste"],
+                ["Skin", "Pressure, temperature", "Touch, warmth, cold"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.1.2. Definition of Perception",
+            "paragraphs": [
+              "**Perception** is the process that organizes sensations into meaningful patterns. It is the process whereby the brain interprets sensations, giving them order and meaning.",
+              "Hearing sounds and seeing colors is largely a sensory process, but forming a melody and detecting patterns and shapes is largely a perceptual process.",
+              "We say 'largely' because in everyday life, it is almost impossible to separate sensation from perception. As soon as the brain receives sensations, it automatically interprets or perceives them, and without sensations of some kind, perception could not occur."
+            ],
+            "definitions": [
+              ["Perception", "The process that organizes sensations into meaningful patterns."],
+              ["Meaning-Making", "Interpreting sensations to give them order and meaning."]
+            ],
+            "key_points": [
+              "Perception: organizing sensations into meaningful patterns.",
+              "Perception gives order and meaning to sensations.",
+              "Sensation and perception are inseparable in everyday life.",
+              "Without sensation, perception could not occur."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Aspect", "Sensation", "Perception"],
+                ["Definition", "Detection of stimuli", "Interpretation of sensations"],
+                ["Process", "Receptor cells send nerve impulses to brain", "Brain organizes and interprets sensations"],
+                ["Example", "Seeing black marks on a page", "Recognizing the marks as letters and words"],
+                ["Relationship", "First step", "Second step (depends on sensation)"]
+              ]
+            ],
+            "worked_examples": [
+              {
+                "example_number": "2.1",
+                "problem": "Consider the black marks and letters on this page. Explain how sensation and perception differ in this example.",
+                "steps": [
+                  "Visual sensation lets you detect the black marks.",
+                  "Visual perception lets you organize the black marks into letters and words."
+                ],
+                "answer": "Sensation detects the black marks; perception organizes them into meaningful letters and words."
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "2.2",
+        "section_title": "The Sensory Laws: Sensory Thresholds and Sensory Adaptation",
+        "section_introduction": "There are certain sensory laws that explain how sensation works. In this section, we explore sensory thresholds (absolute and difference) and sensory adaptation.",
+        "subsections": [
+          {
+            "subtitle": "2.2.1. Absolute Threshold",
+            "paragraphs": [
+              "**Absolute threshold** is the minimum amount of stimulation a person can detect.",
+              "Psychologists operationally define the absolute threshold as the minimum level of stimulation that can be detected 50 percent of the time when a stimulus is presented over and over again.",
+              "**Example:** A cup of coffee would require a certain amount of sugar before you could detect a sweet taste.",
+              "The absolute threshold is affected by factors other than the intensity of the stimulus. One of the most important psychological factors is **response bias** — how ready the person is to report the presence of a particular stimulus."
+            ],
+            "definitions": [
+              ["Absolute Threshold", "The minimum amount of stimulation a person can detect."],
+              ["Response Bias", "How ready a person is to report the presence of a particular stimulus."]
+            ],
+            "key_points": [
+              "Absolute threshold: minimum detectable stimulation.",
+              "Operationally defined as detected 50% of the time.",
+              "Affected by stimulus intensity and psychological state.",
+              "Response bias influences detection."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Sense", "Approximate Absolute Threshold"],
+                ["Vision", "A candle flame seen at 30 miles on a dark, clear night"],
+                ["Hearing", "The tick of a watch under quiet conditions at 20 feet"],
+                ["Taste", "One teaspoon of sugar in 2 gallons of water"],
+                ["Smell", "One drop of perfume diffused into a three-room apartment"],
+                ["Touch", "The wing of a bee falling on your cheek from a distance of 1 centimeter"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.2.2. Difference Threshold",
+            "paragraphs": [
+              "**Difference threshold** is the minimum amount of change that can be detected.",
+              "Psychologists formally define the difference threshold as the minimum change in stimulation that can be detected 50 percent of the time by a given person.",
+              "This difference in threshold is called the **just noticeable difference (jnd)**.",
+              "**Weber's Law:** The amount of change in intensity of stimulation needed to produce a jnd is a constant fraction of the original stimulus.",
+              "**Example:** Because the jnd for weight is about 2%, if you held a 50-ounce weight, you would notice a change only if there was at least a 1-ounce change. But a person holding a 100-ounce weight would require the addition or subtraction of at least 2 ounces to notice a change."
+            ],
+            "definitions": [
+              ["Difference Threshold", "The minimum amount of change in stimulation that can be detected."],
+              ["Just Noticeable Difference (jnd)", "The minimum change in stimulation that can be detected 50% of the time."],
+              ["Weber's Law", "The jnd is a constant fraction of the original stimulus."]
+            ],
+            "key_points": [
+              "Difference threshold: minimum detectable change.",
+              "jnd: detected 50% of the time.",
+              "Weber's Law: jnd is a constant fraction of original stimulus.",
+              "Weber's Law holds better for moderate-intensity stimuli."
+            ],
+            "formulas": [
+              ["Weber's Law", "ΔI / I = k (constant)", "ΔI = jnd, I = original stimulus intensity, k = constant fraction"]
+            ],
+            "tables": [
+              [
+                ["Sense", "Weber's Constant (k)"],
+                ["Vision (brightness)", "1/60"],
+                ["Hearing (pitch)", "1/333"],
+                ["Taste (saltiness)", "1/5"],
+                ["Weight", "1/50"],
+                ["Tone (loudness)", "1/10"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.2.3. Sensory Adaptation",
+            "paragraphs": [
+              "**Sensory adaptation** is the tendency of our sensory receptors to have decreasing responsiveness to an unchanging stimulus.",
+              "If a stimulus remains constant in intensity, you will gradually stop noticing it.",
+              "**Example:** After diving into a swimming pool, you might shiver. Yet a few minutes later, you might say, 'The water is fine.'",
+              "Sensory adaptation lets you detect potentially important changes in your environment while ignoring unchanging aspects of it.",
+              "You will not adapt completely to extremely intense sensations, such as severe pain or freezing cold. This is adaptive because ignoring such stimuli might be harmful or even fatal."
+            ],
+            "definitions": [
+              ["Sensory Adaptation", "The tendency of sensory receptors to have decreasing responsiveness to an unchanging stimulus."]
+            ],
+            "key_points": [
+              "Sensory adaptation: decreased responsiveness to unchanging stimulus.",
+              "Allows detection of important changes.",
+              "Ignores unchanging aspects of environment.",
+              "Does not occur for extremely intense sensations (severe pain, freezing cold)."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Stimulus", "Initial Sensation", "After Adaptation"],
+                ["Cold water", "Shivering", "Water feels fine"],
+                ["Bad odor", "Repugnant stench", "Odor not noticed"],
+                ["Bumpy train ride", "Vibrations felt", "Vibrations ignored"],
+                ["Watch on wrist", "Pressure felt", "Watch not noticed"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "2.3",
+        "section_title": "Perception",
+        "section_introduction": "Perception is a meaning-making process. In this section, we explore the major characteristics of perception: selectivity (attention), form perception, depth perception, perceptual constancy, and perceptual illusion.",
+        "subsections": [
+          {
+            "subtitle": "2.3.1. Selectivity of Perception: Attention",
+            "paragraphs": [
+              "At any given time, your sense organs are bombarded by many stimuli. Yet you perceive only a few of them. This selective perception is called **attention**.",
+              "**Attention** is the term given to the perceptual process that selects certain inputs for inclusion in your conscious experience, or awareness, at any given time, ignoring others.",
+              "The selectivity of perception implies that our field of experience is divided into what is known as **Focus** and **Margin**. Events or stimuli that you perceive clearly are the **focus** of your experience; other items that you perceive dimly or vaguely are in the **margin** of your attention.",
+              "Attention is constantly shifting. What is in the focus of your attention one moment may be in the margin; and what is in the margin may become your focus.",
+              "**External factors of attention:** size and intensity, repetition, novelty (newness), and movement.",
+              "**Internal factors of attention:** set or expectancy, and motives or needs."
+            ],
+            "definitions": [
+              ["Attention", "The perceptual process that selects certain inputs for inclusion in conscious experience."],
+              ["Focus", "Stimuli perceived clearly."],
+              ["Margin", "Stimuli perceived dimly or vaguely."],
+              ["Set (Expectancy)", "Being 'ready' and 'primed for' certain kinds of sensory input."],
+              ["Motives and Needs", "Internal factors that influence what we attend to."]
+            ],
+            "key_points": [
+              "Attention: selective perception.",
+              "Focus: clearly perceived; Margin: dimly perceived.",
+              "Attention constantly shifts.",
+              "External factors: size, intensity, repetition, novelty, movement.",
+              "Internal factors: set/expectancy, motives/needs."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Factor Type", "Factors", "Effect on Attention"],
+                ["External", "Size and intensity", "Bigger, brighter stimuli capture attention"],
+                ["External", "Repetition", "Frequently occurring stimuli get attention"],
+                ["External", "Novelty", "New objects capture attention"],
+                ["External", "Movement", "Moving objects get attention"],
+                ["Internal", "Set/Expectancy", "Being ready for certain input"],
+                ["Internal", "Motives/Needs", "Attending to what satisfies needs"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.3.2. Form Perception",
+            "paragraphs": [
+              "**Form perception** is the meaningful shapes or patterns or ideas that are made out of meaningless and discrete pieces of sensations.",
+              "**Figure-Ground Perception:** The perception of objects and forms of everyday experience as standing out from a background. The figure is the object; the ground is its surrounding.",
+              "**Contours:** Contours are formed whenever a marked difference occurs in the brightness or color of the background. Contours give shape to objects by marking one object off from another.",
+              "**Laws of Perceptual Organization (Gestalt):**",
+              "- **Proximity:** Items close together in space or time tend to be perceived as belonging together.",
+              "- **Similarity:** Similar items tend to be organized together.",
+              "- **Good Figure (Symmetry):** There is a tendency to organize things to make a balanced or symmetrical figure.",
+              "- **Continuation:** The tendency to perceive a line that starts in one way as continuing in the same way.",
+              "- **Closure:** Perceptual processes organize the perceived world by filling in gaps in stimulation."
+            ],
+            "definitions": [
+              ["Form Perception", "Making meaningful shapes or patterns out of sensations."],
+              ["Figure-Ground Perception", "Perceiving objects as standing out from a background."],
+              ["Contours", "Perceived boundaries formed by marked differences in brightness or color."],
+              ["Proximity", "Items close together perceived as belonging together."],
+              ["Similarity", "Similar items organized together."],
+              ["Good Figure", "Tendency to organize things into balanced or symmetrical figures."],
+              ["Continuation", "Tendency to perceive a line as continuing in the same direction."],
+              ["Closure", "Filling in gaps in stimulation to perceive complete forms."]
+            ],
+            "key_points": [
+              "Form perception: meaningful shapes from sensations.",
+              "Figure-ground: object vs. background.",
+              "Contours: boundaries from brightness/color differences.",
+              "Gestalt laws: proximity, similarity, good figure, continuation, closure."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Law", "Description", "Example"],
+                ["Proximity", "Close items perceived together", "Dots close together seen as a group"],
+                ["Similarity", "Similar items organized together", "Rings and dots forming separate triangles"],
+                ["Good Figure", "Balanced/symmetrical figures preferred", "Six-pointed star seen as a whole"],
+                ["Continuation", "Lines continue in same direction", "Curved line seen as continuing smoothly"],
+                ["Closure", "Gaps filled in perception", "Incomplete circle seen as complete"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.3.3. Depth Perception",
+            "paragraphs": [
+              "**Depth perception** is the ability to judge the distance of objects. It depends on binocular cues and monocular cues.",
+              "**Binocular Cues (require both eyes):**",
+              "- **Retinal disparity:** The degree of difference between the images of an object focused on the two retinas. The closer the object, the greater the retinal disparity.",
+              "- **Convergence:** The degree to which the eyes turn inward to focus on an object. The closer the object, the greater the convergence.",
+              "**Monocular Cues (require only one eye):**",
+              "- **Accommodation:** The change in the shape of the lens to focus on an object.",
+              "- **Motion parallax:** The tendency to perceive ourselves as passing objects faster when they are closer.",
+              "- **Pictorial cues:** Interposition, relative size, linear perspective, elevation, shading, aerial perspective, texture gradient."
+            ],
+            "definitions": [
+              ["Depth Perception", "The ability to judge the distance of objects."],
+              ["Retinal Disparity", "The degree of difference between images on the two retinas."],
+              ["Convergence", "The degree to which the eyes turn inward to focus on an object."],
+              ["Accommodation", "The change in the shape of the lens to focus on an object."],
+              ["Motion Parallax", "Perceiving ourselves as passing closer objects faster."],
+              ["Interposition", "An object that overlaps another appears closer."],
+              ["Linear Perspective", "Parallel objects seem to get closer as they are further away."],
+              ["Texture Gradient", "The nearer an object, the more details we can make out."]
+            ],
+            "key_points": [
+              "Depth perception: judging distance of objects.",
+              "Binocular cues: retinal disparity, convergence.",
+              "Monocular cues: accommodation, motion parallax, pictorial cues.",
+              "Pictorial cues: interposition, relative size, linear perspective, elevation, shading, aerial perspective, texture gradient."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Cue Type", "Cue", "Description"],
+                ["Binocular", "Retinal Disparity", "Difference between images on two retinas"],
+                ["Binocular", "Convergence", "Eyes turn inward to focus on object"],
+                ["Monocular", "Accommodation", "Change in lens shape to focus"],
+                ["Monocular", "Motion Parallax", "Closer objects appear to pass faster"],
+                ["Monocular", "Interposition", "Overlapping object appears closer"],
+                ["Monocular", "Relative Size", "Smaller image appears farther away"],
+                ["Monocular", "Linear Perspective", "Parallel lines converge with distance"],
+                ["Monocular", "Elevation", "Higher objects appear farther away"],
+                ["Monocular", "Shading", "Shadowed areas recede; lit areas stand out"],
+                ["Monocular", "Aerial Perspective", "Closer objects appear clearer"],
+                ["Monocular", "Texture Gradient", "Nearer objects show more detail"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.3.4. Perceptual Constancies",
+            "paragraphs": [
+              "**Perceptual constancy** is the tendency to perceive an object as stable in size, shape, and brightness despite changes in the retinal image.",
+              "**Size Constancy:** An object's size is perceived as constant even when its retinal image changes with distance.",
+              "**Shape Constancy:** An object of known shape appears to maintain its normal shape regardless of the angle from which it is viewed.",
+              "**Brightness Constancy:** An object's brightness is perceived as constant even when the amount of light reflected from it varies."
+            ],
+            "definitions": [
+              ["Perceptual Constancy", "Perceiving an object as stable despite changes in retinal image."],
+              ["Size Constancy", "Perceiving an object's size as constant despite changes in retinal image."],
+              ["Shape Constancy", "Perceiving an object's shape as constant despite changes in viewing angle."],
+              ["Brightness Constancy", "Perceiving an object's brightness as constant despite changes in lighting."]
+            ],
+            "key_points": [
+              "Perceptual constancy: stable perception despite changing retinal image.",
+              "Size constancy: size remains constant with distance.",
+              "Shape constancy: shape remains constant with viewing angle.",
+              "Brightness constancy: brightness remains constant with lighting changes."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Constancy Type", "Description", "Example"],
+                ["Size Constancy", "Object's size perceived as constant despite distance", "Car a block away doesn't seem smaller"],
+                ["Shape Constancy", "Object's shape perceived as constant despite angle", "Book seen as rectangular from any angle"],
+                ["Brightness Constancy", "Object's brightness perceived as constant despite lighting", "White shirt appears equally bright in dim or bright light"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.3.5. Perceptual Illusion",
+            "paragraphs": [
+              "**Perceptual illusion** is a misperception of a stimulus. Visual illusions provide clues to the processes involved in normal visual perception.",
+              "**Moon Illusion:** The moon appears larger when it is at the horizon than when it is overhead. This is an illusion because the moon is the same distance from us at the horizon as when it is overhead.",
+              "**Muller-Lyer Illusion:** The vertical line at the bottom appears longer than the one at the top, but they are equal in length.",
+              "The favored explanation relies on size constancy and the resemblance of the figure on the right to the inside corner of a room and the figure on the left to the outside corner of a building."
+            ],
+            "definitions": [
+              ["Perceptual Illusion", "A misperception of a stimulus."],
+              ["Moon Illusion", "The moon appears larger at the horizon than overhead."],
+              ["Muller-Lyer Illusion", "Lines of equal length appear different due to arrowheads."]
+            ],
+            "key_points": [
+              "Perceptual illusion: misperception of a stimulus.",
+              "Moon illusion: moon appears larger at horizon.",
+              "Muller-Lyer illusion: lines of equal length appear different.",
+              "Explained by size constancy and resemblance to corners."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Illusion", "Description", "Explanation"],
+                ["Moon Illusion", "Moon appears larger at horizon than overhead", "Size constancy and distance cues"],
+                ["Muller-Lyer Illusion", "Lines of equal length appear different", "Resemblance to inside/outside corners"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 2  sensation and perception.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 2  sensation and perception in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Compare and contrast sensation and perception.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Sensation: detection of stimuli. Perception: interpretation of sensations.\n• Explanation & Derivation:\n  - Sensation: receptor cells send nerve impulses to brain.\n  - Perception: brain organizes and interprets sensations.\n  - They are inseparable in everyday life.\n• Final Answer: Sensation is the detection of stimuli; perception is the interpretation of sensations. They are complementary processes."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 2  sensation and perception.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Explain absolute threshold and difference threshold with examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Absolute threshold: minimum detectable stimulation. Difference threshold: minimum detectable change.\n• Explanation & Derivation:\n  - Absolute threshold: detected 50% of the time.\n  - Difference threshold: jnd; Weber's Law applies.\n  - Example: 50-ounce weight requires 1-ounce change; 100-ounce requires 2 ounces.\n• Final Answer: Absolute threshold is the minimum detectable stimulus; difference threshold is the minimum detectable change (jnd)."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Describe the laws of perceptual organization.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Gestalt laws: proximity, similarity, good figure, continuation, closure.\n• Explanation & Derivation:\n  - Proximity: close items grouped together.\n  - Similarity: similar items grouped together.\n  - Good figure: balanced/symmetrical figures preferred.\n  - Continuation: lines continue in same direction.\n  - Closure: gaps filled in perception.\n• Final Answer: The laws are proximity, similarity, good figure, continuation, and closure."
+    },
+    {
+      "question": "Explain binocular and monocular cues to depth perception.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Binocular cues require both eyes; monocular cues require one eye.\n• Explanation & Derivation:\n  - Binocular: retinal disparity, convergence.\n  - Monocular: accommodation, motion parallax, pictorial cues (interposition, relative size, linear perspective, elevation, shading, aerial perspective, texture gradient).\n• Final Answer: Binocular cues include retinal disparity and convergence; monocular cues include accommodation, motion parallax, and various pictorial cues."
+    },
+    {
+      "question": "What are perceptual constancies? Give examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Perceptual constancy: stable perception despite changing retinal image.\n• Explanation & Derivation:\n  - Size constancy: car a block away doesn't seem smaller.\n  - Shape constancy: book seen as rectangular from any angle.\n  - Brightness constancy: white shirt appears equally bright in dim or bright light.\n• Final Answer: Perceptual constancies include size, shape, and brightness constancy."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 2  SENSATION AND PERCEPTION (university psychology):\nThis complete study document covers all topics in Chapter 2  sensation and perception, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 2: SENSATION AND PERCEPTION (University Freshman General Psychology):\nThis chapter covers the meanings of sensation and perception (sensation as detection of stimuli; perception as interpretation of sensations), the sensory laws (absolute threshold, difference threshold, Weber's Law, sensory adaptation), and the major characteristics of perception (selectivity of perception: attention and focus/margin; external and internal factors; form perception: figure-ground, contours, laws of perceptual organization — proximity, similarity, good figure, continuation, closure; depth perception: binocular cues — retinal disparity, convergence; monocular cues — accommodation, motion parallax, pictorial cues; perceptual constancies: size, shape, brightness; perceptual illusion: moon illusion, Muller-Lyer illusion). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 2: Sensation and Perception — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
