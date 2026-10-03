@@ -1,60 +1,355 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 4  memory and forgetting"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 4  memory and forgetting",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 4  memory and forgetting: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 4  memory and forgetting",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "4",
+    "chapter_title": "Memory and Forgetting",
+    "chapter_subtitle": "Meaning, Processes, Stages, Factors, Theories of Forgetting, and Improving Memory",
+    "chapter_introduction": "Welcome to Chapter 4 of General Psychology. Learning and memory are closely related — learning refers to the initial acquisition or encoding of information, while memory refers to later storage and retrieval of information. Information is learned so that it can be retrieved later, and retrieval cannot occur unless information was learned. This chapter explores memory, its processes (encoding, storage, retrieval), its stages (sensory memory, short-term memory, long-term memory), factors affecting memory, forgetting and its theories, and techniques for improving memory.",
+    "sections": [
+      {
+        "section_number": "4.1",
+        "section_title": "Memory",
+        "section_introduction": "Memory is the retention of information or what is learned earlier over time. It is the way in which we record the past for later use in the present. Let us explore the meaning, processes, and stages of memory.",
+        "subsections": [
+          {
+            "subtitle": "4.1.1. Meaning and Processes of Memory",
+            "paragraphs": [
+              "**Memory** is the retention of information or what is learned earlier over time. It is the way in which we record the past for later use in the present.",
+              "Memory is a blanket label for a large number of processes that form the bridges between our past and our present.",
+              "**Three basic processes of memory:**",
+              "**a) Encoding:** The process by which information is initially recorded in a form usable to memory. We transform a sensory input into a form or a memory code that can be further processed.",
+              "**b) Storage:** To be remembered, the encoded experience must leave some record in the nervous system (the memory trace). It is the location in memory system in which material is saved.",
+              "**c) Retrieval:** The point at which one tries to remember to dredge up a particular memory trace from among all the others we have stored. Material in memory storage is located, brought into awareness, and used.",
+              "**Failure to remember** can result from problems during any of the three phases of the memory process."
+            ],
+            "definitions": [
+              ["Memory", "The retention of information or what is learned earlier over time."],
+              ["Encoding", "The process by which information is initially recorded in a form usable to memory."],
+              ["Storage", "The location in memory system in which material is saved."],
+              ["Retrieval", "The point at which one tries to remember to dredge up a particular memory trace."],
+              ["Memory Trace", "The record left in the nervous system by an encoded experience."]
+            ],
+            "key_points": [
+              "Memory: retention of information over time.",
+              "Three processes: encoding, storage, retrieval.",
+              "Encoding: transforming sensory input into memory code.",
+              "Storage: keeping information in memory.",
+              "Retrieval: bringing information into awareness.",
+              "Failure can occur at any of the three phases."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Process", "Description", "Key Question"],
+                ["Encoding", "Recording information in a usable form", "How is information put into memory?"],
+                ["Storage", "Keeping information in memory", "How is information maintained?"],
+                ["Retrieval", "Bringing information into awareness", "How is information recalled?"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Processes of Memory",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "nodes": [
+                    {"id": "1", "label": "Stimulus"},
+                    {"id": "2", "label": "Sensory Memory"},
+                    {"id": "3", "label": "Short-Term Memory (STM)"},
+                    {"id": "4", "label": "Long-Term Memory (LTM)"},
+                    {"id": "5", "label": "Retrieval"},
+                    {"id": "6", "label": "Forgetting"}
+                  ],
+                  "edges": [
+                    {"from": "1", "to": "2", "label": "Attention"},
+                    {"from": "2", "to": "3", "label": "Encoding"},
+                    {"from": "3", "to": "4", "label": "Encoding"},
+                    {"from": "4", "to": "5", "label": "Retrieval"},
+                    {"from": "2", "to": "6", "label": "Forgetting"},
+                    {"from": "3", "to": "6", "label": "Forgetting"},
+                    {"from": "4", "to": "6", "label": "Forgetting"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "4.1.2. Stages/Structure of Memory",
+            "paragraphs": [
+              "Memory structure is the nature of memory storage itself — how information is represented in memory, how long it lasts, and how it is organized.",
+              "**1. Sensory Memory/Sensory Register:** The entryway to memory. It is the first information storage area. It acts as a holding bin, retaining information until we can select items for attention. Visual images (Iconic memory) remain for a maximum of one second. Auditory images (Echoic memory) remain for up to two seconds.",
+              "**2. Short-Term Memory (STM):** Part of our memory that holds the contents of our attention. It is active, rapidly accessible, preserves temporal sequence, and has limited capacity (7 ± 2 chunks). Information remains for up to about 30 seconds. Chunking expands working memory by grouping information into larger units.",
+              "**3. Long-Term Memory (LTM):** Memory system used for the relatively permanent storage of meaningful information. Capacity seems to have no practical limits. LTM stores information for indefinite periods — days, months, years, or a lifetime.",
+              "**Subsystems of LTM:**",
+              "- **Declarative (explicit) memory:** Conscious recollection of information (facts or events). Subdivided into semantic and episodic memories.",
+              "  - **Semantic memory:** Factual knowledge (meaning of words, concepts, math).",
+              "  - **Episodic memory:** Memories for events and situations from personal experience.",
+              "- **Non-declarative (implicit) memory:** Behavior affected by prior experience without conscious recollection. Includes procedural memory (knowing how to comb hair, use a pencil, or swim).",
+              "**Serial Position Effect:** Recall is best for items at the beginning (primacy effect) and at the end (recency effect) of a list. The result is a U-shaped curve.",
+              "**Explanation:** First few items are remembered because STM was relatively empty when they entered, so they were thoroughly processed. Last few items are remembered because they are still sitting in STM at the time of recall. Middle items drop out of STM before they can be stored in LTM."
+            ],
+            "definitions": [
+              ["Sensory Memory", "The entryway to memory; holds information briefly."],
+              ["Iconic Memory", "Visual sensory memory; lasts up to one second."],
+              ["Echoic Memory", "Auditory sensory memory; lasts up to two seconds."],
+              ["Short-Term Memory (STM)", "Holds the contents of our attention; limited capacity (7 ± 2 chunks); lasts up to 30 seconds."],
+              ["Chunking", "Grouping information into higher order units."],
+              ["Long-Term Memory (LTM)", "Relatively permanent storage of meaningful information."],
+              ["Declarative Memory", "Conscious recollection of information."],
+              ["Semantic Memory", "Factual knowledge."],
+              ["Episodic Memory", "Memories for events and situations from personal experience."],
+              ["Non-Declarative Memory", "Behavior affected by prior experience without conscious recollection."],
+              ["Procedural Memory", "Knowledge of procedures or skills."],
+              ["Serial Position Effect", "Recall is best for items at the beginning and end of a list."],
+              ["Primacy Effect", "Better recall for items at the beginning of a list."],
+              ["Recency Effect", "Better recall for items at the end of a list."]
+            ],
+            "key_points": [
+              "Three stages: sensory memory, short-term memory, long-term memory.",
+              "Sensory memory: iconic (visual, 1 sec) and echoic (auditory, 2 sec).",
+              "STM: limited capacity (7 ± 2 chunks), lasts up to 30 seconds.",
+              "Chunking expands STM capacity.",
+              "LTM: unlimited capacity, indefinite duration.",
+              "LTM subsystems: declarative (semantic, episodic) and non-declarative (procedural).",
+              "Serial position effect: primacy and recency effects."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Memory Stage", "Duration", "Capacity", "Type of Information"],
+                ["Sensory Memory", "Up to 1-2 seconds", "Virtually all sensory input", "Unprocessed sensory data"],
+                ["Short-Term Memory", "Up to 30 seconds", "7 ± 2 chunks", "By-products of perceptual analysis"],
+                ["Long-Term Memory", "Indefinite (days to lifetime)", "Virtually unlimited", "Meaningful information"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Stage Model of Memory",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "stages": [
+                    {"stage": "Sensory Memory", "duration": "1-2 seconds", "capacity": "Virtually all sensory input"},
+                    {"stage": "Short-Term Memory", "duration": "Up to 30 seconds", "capacity": "7 ± 2 chunks"},
+                    {"stage": "Long-Term Memory", "duration": "Indefinite", "capacity": "Virtually unlimited"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "4.1.3. Factors Affecting Memory",
+            "paragraphs": [
+              "**Eleven factors that influence memory process:**",
+              "a. **Ability to retain:** Depends upon good memory traces left in the brain by past experiences.",
+              "b. **Good health:** A person with good health can retain learned material better.",
+              "c. **Age of the learner:** Youngsters can remember better than the aged.",
+              "d. **Maturity:** Very young children cannot retain and remember complex material.",
+              "e. **Will to remember:** Willingness to remember helps for better retention.",
+              "f. **Intelligence:** More intelligent person will have better memory.",
+              "g. **Interest:** If a person has more interest, he will learn and retain better.",
+              "h. **Over learning:** Experiments have proved that over learning will lead to better memory.",
+              "i. **Speed of learning:** Quicker learning leads to better retention.",
+              "j. **Meaningfulness of the material:** Meaningful materials remain in our memory for longer period than nonsense material.",
+              "k. **Sleep or rest:** Sleep or rest immediately after learning strengthens connections in the brain and helps for clear memory."
+            ],
+            "definitions": [
+              ["Ability to Retain", "Good memory traces left in the brain by past experiences."],
+              ["Over Learning", "Studying information even after you think you already know it."],
+              ["Meaningfulness", "Material that is meaningful remains in memory longer."]
+            ],
+            "key_points": [
+              "Ability to retain, good health, age, maturity.",
+              "Will to remember, intelligence, interest.",
+              "Over learning, speed of learning.",
+              "Meaningfulness of material, sleep or rest."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Factor", "Description", "Effect on Memory"],
+                ["Ability to Retain", "Good memory traces", "Better retention"],
+                ["Good Health", "Physical well-being", "Better retention"],
+                ["Age", "Younger vs. older", "Youngsters remember better"],
+                ["Maturity", "Developmental readiness", "Young children cannot retain complex material"],
+                ["Will to Remember", "Willingness", "Better retention"],
+                ["Intelligence", "Cognitive ability", "More intelligent = better memory"],
+                ["Interest", "Motivation", "More interest = better retention"],
+                ["Over Learning", "Studying beyond mastery", "Better memory"],
+                ["Speed of Learning", "Quickness", "Quicker learning = better retention"],
+                ["Meaningfulness", "Relevance of material", "Meaningful material retained longer"],
+                ["Sleep or Rest", "Rest after learning", "Strengthens brain connections"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "4.2",
+        "section_title": "Forgetting",
+        "section_introduction": "Forgetting is the apparent loss of information already encoded and stored in long-term memory. In this section, we explore the meaning, concepts, and theories of forgetting.",
+        "subsections": [
+          {
+            "subtitle": "4.2.1. Meaning and Concepts of Forgetting",
+            "paragraphs": [
+              "**Forgetting** refers to the apparent loss of information already encoded and stored in the long-term memory.",
+              "The first attempts to study forgetting were made by German psychologist **Hermann Ebbinghaus** (1885/1913). Using himself as his only subject, he memorized lists of three-letter non-sense syllables (meaningless sets of two consonants with a vowel in between, such as FIW and BOZ).",
+              "**Ebbinghaus's findings:**",
+              "- Most rapid forgetting occurs in the first hours, and particularly in the first hour.",
+              "- After nine hours, the rate of forgetting slows and declines little, even after the passage of many days.",
+              "- Relearning of previously mastered material is almost always faster than starting from scratch."
+            ],
+            "definitions": [
+              ["Forgetting", "The apparent loss of information already encoded and stored in long-term memory."],
+              ["Non-Sense Syllables", "Meaningless sets of two consonants with a vowel in between."],
+              ["Motivated Forgetting", "Forgetting because we are motivated to forget something."]
+            ],
+            "key_points": [
+              "Forgetting: loss of information from LTM.",
+              "Ebbinghaus: first to study forgetting systematically.",
+              "Most rapid forgetting in the first hour.",
+              "Rate of forgetting slows after nine hours.",
+              "Relearning is faster than initial learning."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Time After Learning", "Amount Retained", "Rate of Forgetting"],
+                ["Immediately", "100%", "—"],
+                ["20 minutes", "~58%", "Rapid"],
+                ["1 hour", "~44%", "Rapid"],
+                ["9 hours", "~36%", "Slowing"],
+                ["1 day", "~33%", "Slow"],
+                ["2 days", "~28%", "Slow"],
+                ["6 days", "~25%", "Very slow"],
+                ["31 days", "~21%", "Very slow"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.2. Theories of Forgetting",
+            "paragraphs": [
+              "**1. Decay Theory:** Memory traces or engrams fade with time if they are not accessed. Decay occurs in sensory memory and short-term memory. The mere passage of time does not account well for forgetting in long-term memory.",
+              "**2. Interference Theory:** Forgetting occurs because similar items of information interfere with one another in either storage or retrieval.",
+              "- **Proactive Interference:** Information learned earlier interferes with recall of newer material.",
+              "- **Retroactive Interference:** New information interferes with the ability to remember old information.",
+              "**3. New Memory for Old/Displacement Theory:** New information entering memory can wipe out old information. Mostly associated with STM.",
+              "**4. Motivated Forgetting:** People forget because they block from consciousness those memories that are too threatening or painful to live with. Freud called this self-protective process **Repression**.",
+              "**5. Cue-Dependent Forgetting:** When we lack retrieval cues, we may feel as if we have lost the call number for an entry in the mind's library. Cues present during the initial stage of learning help us to recall the content."
+            ],
+            "definitions": [
+              ["Decay Theory", "Memory traces fade with time if not accessed."],
+              ["Interference Theory", "Similar items of information interfere with one another."],
+              ["Proactive Interference", "Old information interferes with new information."],
+              ["Retroactive Interference", "New information interferes with old information."],
+              ["Displacement Theory", "New information wipes out old information."],
+              ["Motivated Forgetting", "Blocking threatening or painful memories from consciousness."],
+              ["Repression", "Freud's term for motivated forgetting."],
+              ["Cue-Dependent Forgetting", "Lack of retrieval cues leads to forgetting."]
+            ],
+            "key_points": [
+              "Five theories of forgetting: decay, interference, displacement, motivated, cue-dependent.",
+              "Decay: memory traces fade with time.",
+              "Interference: proactive (old interferes with new) and retroactive (new interferes with old).",
+              "Displacement: new information wipes out old.",
+              "Motivated forgetting: repression of threatening memories.",
+              "Cue-dependent: lack of retrieval cues."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Theory", "Description", "Key Feature"],
+                ["Decay", "Memory traces fade with time", "Passage of time"],
+                ["Interference", "Similar items interfere", "Proactive and retroactive"],
+                ["Displacement", "New information wipes out old", "STM only"],
+                ["Motivated Forgetting", "Blocking threatening memories", "Repression"],
+                ["Cue-Dependent", "Lack of retrieval cues", "Context-dependent memory"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.3. Improving Memory",
+            "paragraphs": [
+              "**Strategies for improving memory:**",
+              "1. **Pay Attention:** Often we fail to remember because we never encoded the information in the first place.",
+              "2. **Encode information in more than one way:** The more elaborate the encoding, the more memorable it will be.",
+              "3. **Add meaning:** The more meaningful the material, the more likely it is to link up with information already in LTM.",
+              "4. **Take your time:** Minimize interference by using study breaks for rest or recreation.",
+              "5. **Over learn:** Studying information even after you think you already know it is one of the best ways to ensure you will remember it.",
+              "6. **Monitor your learning:** Test yourself frequently, rehearse thoroughly, and review periodically."
+            ],
+            "definitions": [
+              ["Elaborative Encoding", "Encoding information in more than one way."],
+              ["Over Learning", "Studying information even after you think you already know it."],
+              ["Monitoring Learning", "Testing yourself frequently to assess progress."]
+            ],
+            "key_points": [
+              "Pay attention, encode in multiple ways, add meaning.",
+              "Take your time, over learn, monitor your learning.",
+              "Sleep and rest reduce interference."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Example"],
+                ["Pay Attention", "Encode information in the first place", "Focus on the material"],
+                ["Encode in Multiple Ways", "Elaborate encoding", "Use visual, auditory, and semantic codes"],
+                ["Add Meaning", "Link new information to existing knowledge", "Relate to personal experiences"],
+                ["Take Your Time", "Minimize interference", "Study breaks, sleep"],
+                ["Over Learn", "Study beyond mastery", "Review even when you think you know it"],
+                ["Monitor Learning", "Test yourself", "Self-quizzing, periodic review"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 4  memory and forgetting.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 4  memory and forgetting in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Define memory and forgetting.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Memory: retention of information over time. Forgetting: apparent loss of information from LTM.\n• Explanation & Derivation:\n  - Memory processes: encoding, storage, retrieval.\n  - Forgetting: loss of information already encoded and stored.\n• Final Answer: Memory is the retention of information over time. Forgetting is the loss of information from long-term memory."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 4  memory and forgetting.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Describe the stage memory model proposed by Atkinson and Shiffrin.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Three stages: sensory memory, short-term memory, long-term memory.\n• Explanation & Derivation:\n  - Sensory memory: iconic (1 sec), echoic (2 sec).\n  - STM: 7 ± 2 chunks, 30 seconds.\n  - LTM: unlimited capacity, indefinite duration.\n• Final Answer: The stage model includes sensory memory, short-term memory, and long-term memory."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Explain the typical characteristics of sensory memory, short-term memory, and long-term memory.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Characteristics of each memory stage.\n• Explanation & Derivation:\n  - Sensory memory: brief (1-2 sec), large capacity, unprocessed.\n  - STM: active, rapid access, limited capacity (7 ± 2), 30 seconds.\n  - LTM: permanent, unlimited capacity, meaningful information.\n• Final Answer: Sensory memory is brief and unprocessed; STM is limited and active; LTM is permanent and unlimited."
+    },
+    {
+      "question": "Discuss how learned information are organized in the long-term memory store.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: LTM subsystems: declarative and non-declarative.\n• Explanation & Derivation:\n  - Declarative (explicit): semantic (facts) and episodic (events).\n  - Non-declarative (implicit): procedural (skills).\n• Final Answer: LTM is organized into declarative (semantic and episodic) and non-declarative (procedural) memory."
+    },
+    {
+      "question": "List down the theories of forgetting and elaborate the main ideas of each theory.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Five theories of forgetting.\n• Explanation & Derivation:\n  - Decay: memory traces fade with time.\n  - Interference: proactive and retroactive interference.\n  - Displacement: new information wipes out old.\n  - Motivated forgetting: repression of threatening memories.\n  - Cue-dependent: lack of retrieval cues.\n• Final Answer: The theories are decay, interference, displacement, motivated forgetting, and cue-dependent forgetting."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 4  MEMORY AND FORGETTING (university psychology):\nThis complete study document covers all topics in Chapter 4  memory and forgetting, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 4: MEMORY AND FORGETTING (University Freshman General Psychology):\nThis chapter covers the meaning and processes of memory (encoding, storage, retrieval), the stages of memory (sensory memory — iconic and echoic; short-term memory — limited capacity, chunking, 30 seconds; long-term memory — unlimited capacity, declarative and non-declarative subsystems; serial position effect), factors affecting memory (ability to retain, health, age, maturity, will, intelligence, interest, over learning, speed of learning, meaningfulness, sleep), forgetting (meaning, Ebbinghaus's forgetting curve), theories of forgetting (decay, interference — proactive and retroactive, displacement, motivated forgetting/repression, cue-dependent), and improving memory (pay attention, encode in multiple ways, add meaning, take your time, over learn, monitor learning). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 4: Memory and Forgetting — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
