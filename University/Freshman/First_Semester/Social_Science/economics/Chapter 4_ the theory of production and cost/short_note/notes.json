@@ -1,65 +1,475 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "economics",
-    "unit_title": "Chapter 4  the theory of production and cost"
+    "grade": "University Freshman",
+    "subject": "Economics",
+    "course_code": "Econ 1011",
+    "academic_path": "university/freshman/First_Semester/Social_Science/economics",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 4  the theory of production and cost",
-      "paragraphs": [
-        "Introduction to Economics September 2019 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Chapter 4  the theory of production and cost. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the economics curriculum."
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 4  the theory of production and cost: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how economics principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [
-        {
-          "eq": "Formula / Equation: Parameter = f(cost)",
-          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
-          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 4  the theory of production and cost."
-        }
-      ],
-      "tables": [
-        [
-          [
-            "Parameter / Variable",
-            "Description & Definition",
-            "SI Unit / Expression"
-          ],
-          [
-            "Primary Constant",
-            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 4  the theory of production and cost",
-            "Standard Units"
-          ],
-          [
-            "Variable Parameter",
-            "Dependent variable analyzed in economics",
-            "Derived Units"
-          ]
+  "chapter": {
+    "chapter_number": "4",
+    "chapter_title": "The Theory of Production and Cost",
+    "chapter_subtitle": "Production Function, Short Run Production, Law of Variable Proportions, Stages of Production, Short Run Costs, and the Relationship Between Production and Cost — A Complete Student Guide",
+    "chapter_introduction": "Welcome to Chapter 4 of Introduction to Economics. This chapter has two major sections. The first part introduces you to the basic concepts of production and production function, classification of inputs, essential features of short run production functions and the stages of short run production. The second part mainly deals with the difference between economic cost and accounting cost, the characteristics of short run cost functions, and the relationship between short run production functions and short run cost functions. By the end of this chapter, you will understand how firms transform inputs into outputs and how costs behave in the short run.",
+    "sections": [
+      {
+        "section_number": "4.1",
+        "section_title": "Theory of Production in the Short Run",
+        "section_introduction": "Production is the process of transforming inputs into outputs. Let us explore the definition of production, the production function, and the key concepts of total, average, and marginal product.",
+        "subsections": [
+          {
+            "subtitle": "4.1.1. Definition of Production",
+            "paragraphs": [
+              "Raw materials yield less satisfaction to the consumer by themselves. In order to get better utility from raw materials, they must be transformed into outputs. However, transforming raw materials into outputs requires inputs such as land, labour, capital and entrepreneurial ability.",
+              "**Production** is the process of transforming inputs into outputs. It can also be defined as an act of creating value or utility. The end products of the production process are outputs which could be tangible (goods) or intangible (services)."
+            ],
+            "definitions": [
+              ["Production", "The process of transforming inputs into outputs; an act of creating value or utility."],
+              ["Inputs", "Resources such as land, labour, capital and entrepreneurial ability used in production."],
+              ["Outputs", "The end products of the production process; tangible goods or intangible services."]
+            ],
+            "key_points": [
+              "Production: transforming inputs into outputs.",
+              "Also defined as creating value or utility.",
+              "Outputs can be tangible (goods) or intangible (services).",
+              "Inputs include land, labour, capital, entrepreneurial ability."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Production", "Transforming inputs into outputs"],
+                ["Inputs", "Resources used in production"],
+                ["Outputs", "End products (goods or services)"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.1.2. Production Function",
+            "paragraphs": [
+              "**Production function** is a technical relationship between inputs and outputs. It shows the maximum output that can be produced with fixed amount of inputs and the existing technology. A production function may take the form of an algebraic equation, table or graph.",
+              "A general equation for production function can, for instance, be described as:",
+              "**Q = f(X1, X2, X3, ..., Xn)**",
+              "where, Q is output and X1, X2, X3, ..., Xn are different types of inputs.",
+              "**Inputs are commonly classified as fixed inputs or variable inputs.**",
+              "- **Fixed inputs** are those inputs whose quantity cannot readily be changed when market conditions indicate that an immediate adjustment in output is required. In fact, no input is ever absolutely fixed but may be fixed during an immediate requirement. For example, if the demand for Beer rises suddenly in a week, the brewery factories cannot plant additional machinery overnight and respond to the increased demand. Buildings, land and machineries are examples of fixed inputs because their quantity cannot be manipulated easily in a short period of time.",
+              "- **Variable inputs** are those inputs whose quantity can be altered almost instantaneously in response to desired changes in output. That is, their quantities can easily be diminished when the market demand for the product decreases and vice versa. The best example of variable input is unskilled labour.",
+              "**In economics, short run refers to a period of time in which the quantity of at least one input is fixed.** In other words, short run is a time period which is not sufficient to change the quantities of all inputs so that at least one input remains fixed. Here it should be noted that short run periods of different firms have different durations. Some firms can change the quantity of all their inputs within a month while it takes more than a year for other types of firms.",
+              "Consider a firm that uses two inputs: capital (fixed input) and labour (variable input). Given the assumptions of short run production, the firm can increase output only by increasing the amount of labour it uses. Hence, its production function can be given by:",
+              "**Q = f(L)**",
+              "where, Q is output and L is the quantity of labour.",
+              "The production function shows different levels of output that the firm can produce by efficiently utilizing different units of labour and the fixed capital. In the above short run production function, the quantity of capital is fixed. Thus, output can change only when the amount of labour changes."
+            ],
+            "definitions": [
+              ["Production Function", "A technical relationship between inputs and outputs; shows the maximum output that can be produced with fixed amount of inputs and existing technology."],
+              ["Fixed Inputs", "Inputs whose quantity cannot readily be changed in the short run."],
+              ["Variable Inputs", "Inputs whose quantity can be altered almost instantaneously."],
+              ["Short Run", "A period of time in which the quantity of at least one input is fixed."]
+            ],
+            "key_points": [
+              "Production function: Q = f(X1, X2, ..., Xn).",
+              "Fixed inputs: cannot be changed easily in the short run.",
+              "Variable inputs: can be changed easily.",
+              "Short run: at least one input is fixed.",
+              "Short run production function: Q = f(L).",
+              "Capital is fixed; labour is variable."
+            ],
+            "formulas": [
+              ["Production Function", "Q = f(X1, X2, X3, ..., Xn)", ""],
+              ["Short Run Production Function", "Q = f(L)", ""]
+            ],
+            "tables": [
+              [
+                ["Input Type", "Definition", "Example"],
+                ["Fixed Input", "Cannot be changed easily in the short run", "Buildings, land, machinery"],
+                ["Variable Input", "Can be changed easily", "Unskilled labour, raw materials"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.1.3. Total, Average, and Marginal Product",
+            "paragraphs": [
+              "In production, the contribution of a variable input can be described in terms of total, average and marginal product.",
+              "**Total Product (TP):** It is the total amount of output that can be produced by efficiently utilizing specific combinations of the variable input and fixed input. Increasing the variable input (while some other inputs are fixed) can increase the total product only up to a certain point. Initially, as we combine more and more units of the variable input with the fixed input, output continues to increase, but eventually if we employ more and more unit of the variable input beyond the carrying capacity of the fixed input, output tends to decline. In general, the TP function in the short-run follows a certain trend: it initially increases at an increasing rate, then increases at a decreasing rate, reaches a maximum point and eventually falls as the quantity of the variable input rises. This tells us what shape a total product curve assumes.",
+              "**Marginal Product (MP):** It is the change in output attributed to the addition of one unit of the variable input to the production process, other inputs being constant. For instance, the change in total output resulting from employing additional worker (holding other inputs constant) is the marginal product of labour (MPL). In other words, MPL measures the slope of the total product curve at a given point.",
+              "**MPL = dTP/dL = ΔQ/ΔL**",
+              "In the short run, the marginal product of the variable input first increases, reaches its maximum and then decreases to the extent of being negative. That is, as we continue to combine more and more of the variable input with the fixed input, the marginal product of the variable input increases initially and then declines.",
+              "**Average Product (AP):** Average product of an input is the level of output that each unit of input produces, on the average. It tells us the mean contribution of each variable input to the total product. Mathematically, it is the ratio of total output to the number of the variable input. The average product of labour (APL), for instance, is given by:",
+              "**APL = TP/L**",
+              "Average product of labour first increases, reaches its maximum value and eventually declines. The AP curve can be measured by the slope of rays originating from the origin to a point on the TP curve.",
+              "**Relationship between MPL and APL:**",
+              "- When APL is increasing, MPL > APL",
+              "- When APL is at its maximum, MPL = APL",
+              "- When APL is decreasing, MPL < APL"
+            ],
+            "definitions": [
+              ["Total Product (TP)", "The total amount of output that can be produced by efficiently utilizing specific combinations of the variable input and fixed input."],
+              ["Marginal Product (MP)", "The change in output attributed to the addition of one unit of the variable input, other inputs being constant."],
+              ["Average Product (AP)", "The level of output that each unit of input produces, on the average."]
+            ],
+            "key_points": [
+              "TP: total output from variable and fixed inputs.",
+              "MP: change in output from one more unit of variable input.",
+              "AP: output per unit of variable input.",
+              "MPL = dTP/dL = ΔQ/ΔL.",
+              "APL = TP/L.",
+              "MPL > APL when APL is increasing.",
+              "MPL = APL when APL is maximum.",
+              "MPL < APL when APL is decreasing."
+            ],
+            "formulas": [
+              ["Marginal Product", "MPL = dTP/dL = ΔQ/ΔL", ""],
+              ["Average Product", "APL = TP/L", ""],
+              ["Relationship", "MPL > APL (APL increasing); MPL = APL (APL max); MPL < APL (APL decreasing)", ""]
+            ],
+            "tables": [
+              [
+                ["Concept", "Formula", "Relationship"],
+                ["Total Product", "TP = f(L)", ""],
+                ["Marginal Product", "MPL = ΔTP/ΔL", "Slope of TP"],
+                ["Average Product", "APL = TP/L", "Slope of ray from origin"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Total Product, Average Product and Marginal Product Curves",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Units of labour (variable input)",
+                  "y_axis": "Output",
+                  "curves": [
+                    {"label": "TP", "points": [{"x": 0, "y": 0}, {"x": 1, "y": 10}, {"x": 2, "y": 25}, {"x": 3, "y": 45}, {"x": 4, "y": 60}, {"x": 5, "y": 70}, {"x": 6, "y": 75}, {"x": 7, "y": 75}, {"x": 8, "y": 70}]},
+                    {"label": "APL", "points": [{"x": 1, "y": 10}, {"x": 2, "y": 12.5}, {"x": 3, "y": 15}, {"x": 4, "y": 15}, {"x": 5, "y": 14}, {"x": 6, "y": 12.5}, {"x": 7, "y": 10.7}, {"x": 8, "y": 8.75}]},
+                    {"label": "MPL", "points": [{"x": 1, "y": 10}, {"x": 2, "y": 15}, {"x": 3, "y": 20}, {"x": 4, "y": 15}, {"x": 5, "y": 10}, {"x": 6, "y": 5}, {"x": 7, "y": 0}, {"x": 8, "y": -5}]}
+                  ],
+                  "note": "TP increases at an increasing rate, then at a decreasing rate, reaches maximum, then declines. MPL and APL first increase, then decline. MPL intersects APL at APL's maximum."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "4.1.4. The Law of Variable Proportions",
+            "paragraphs": [
+              "**The law of variable proportions** states that as successive units of a variable input (say, labour) are added to a fixed input (say, capital or land), beyond some point the extra, or marginal, product that can be attributed to each additional unit of the variable resource will decline. For example, if additional workers are hired to work with a constant amount of capital equipment, output will eventually rise by smaller and smaller amounts as more workers are hired.",
+              "This law assumes that technology is fixed and thus the techniques of production do not change. Moreover, all units of labour are assumed to be of equal quality. Each successive worker is presumed to have the same innate ability, education, training, and work experience. Marginal product ultimately diminishes not because successive workers are less skilled or less energetic rather it is because more workers are being used relative to the amount of plant and equipment available.",
+              "The law starts to operate after the marginal product curve reaches its maximum. This law is also called the **law of diminishing returns**."
+            ],
+            "definitions": [
+              ["Law of Variable Proportions", "As successive units of a variable input are added to a fixed input, beyond some point the marginal product of the variable input will decline."],
+              ["Law of Diminishing Returns", "Another name for the law of variable proportions."]
+            ],
+            "key_points": [
+              "Law of variable proportions: marginal product eventually declines.",
+              "Assumes fixed technology and equal quality of variable input.",
+              "Diminishing MP is due to more variable input relative to fixed input.",
+              "Also called the law of diminishing returns."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Assumption", "Explanation"],
+                ["Fixed Technology", "Techniques of production do not change"],
+                ["Equal Quality of Variable Input", "All units of labour are of equal quality"],
+                ["Fixed Input", "At least one input is fixed"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.1.5. Stages of Production",
+            "paragraphs": [
+              "We are not in a position to determine the specific number of the variable input (labour) that the firm should employ because this depends on several other factors than the productivity of labour. However, it is possible to determine the ranges over which the variable input (labour) be employed. To this end, economists have defined **three stages of short run production**.",
+              "**Stage I:** This stage of production covers the range of variable input levels over which the average product (APL) continues to increase. It goes from the origin to the point where the APL is maximum, which is the equality of MPL and APL (up to L2 level of labour employment in figure 4.1). This stage is not an efficient region of production though the MP of variable input is positive. The reason is that the variable input (the number of workers) is too small to efficiently run the fixed input so that the fixed input is under-utilized (not efficiently utilized).",
+              "**Stage II:** It ranges from the point where APL is at its maximum (MPL = APL) to the point where MPL is zero (from L2 to L3 in figure 4.1). Here, as the labour input increases by one unit, output still increases but at a decreasing rate. Due to this, the second stage of production is termed as the stage of diminishing marginal returns. The reason for decreasing average and marginal products is due to the scarcity of the fixed factor. That is, once the optimum capital-labour combination is achieved, employment of additional unit of the variable input will cause the output to increase at a slower rate. As a result, the marginal product diminishes. This stage is the efficient region of production. Additional inputs are contributing positively to the total product and MP of successive units of variable input is declining (indicating that the fixed input is being optimally used). Hence, the efficient region of production is where the marginal product of the variable input is declining but positive.",
+              "**Stage III:** In this stage, an increase in the variable input is accompanied by decline in the total product. Thus, the total product curve slopes downwards, and the marginal product of labour becomes negative. This stage is also known as the stage of negative marginal returns to the variable input. The cause of negative marginal returns is the fact that the volume of the variable inputs is quite excessive relative to the fixed input; the fixed input is over-utilized. Obviously, a rational firm should not operate in stage III because additional units of variable input are contributing negatively to the total product (MP of the variable input is negative)."
+            ],
+            "definitions": [
+              ["Stage I", "The range over which APL continues to increase (from origin to APL maximum)."],
+              ["Stage II", "The range from APL maximum (MPL = APL) to MPL = 0; the efficient region of production."],
+              ["Stage III", "The range beyond MPL = 0 where total product declines and MPL is negative."]
+            ],
+            "key_points": [
+              "Three stages of production.",
+              "Stage I: APL increasing; not efficient (fixed input under-utilized).",
+              "Stage II: APL decreasing, MPL positive but declining; efficient region.",
+              "Stage III: MPL negative, TP declining; not efficient (fixed input over-utilized).",
+              "Rational firm should operate in Stage II."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Stage", "Range", "APL", "MPL", "Efficiency"],
+                ["Stage I", "Origin to APL maximum", "Increasing", "Positive, > APL", "Not efficient (under-utilization of fixed input)"],
+                ["Stage II", "APL maximum to MPL = 0", "Decreasing", "Positive, < APL", "Efficient region"],
+                ["Stage III", "Beyond MPL = 0", "Decreasing", "Negative", "Not efficient (over-utilization of fixed input)"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "4.2",
+        "section_title": "Theory of Costs in the Short Run",
+        "section_introduction": "To produce goods and services, firms need factors of production. To acquire these inputs, they have to buy them from resource suppliers. Let us explore the definition and types of costs, and the short run cost functions.",
+        "subsections": [
+          {
+            "subtitle": "4.2.1. Definition and Types of Costs",
+            "paragraphs": [
+              "To produce goods and services, firms need factors of production or simply inputs. To acquire these inputs, they have to buy them from resource suppliers. **Cost** is, therefore, the monetary value of inputs used in the production of an item.",
+              "Economists use the term 'profit' differently from the way accountants use it. To the accountant, profit is the firm's total revenue less its explicit costs (accounting costs). To the economist, economic profit is total revenue less economic costs (explicit and implicit costs).",
+              "**Accounting cost** is the monetary value of all purchased inputs used in production; it ignores the cost of non-purchased (self-owned) inputs. It considers only direct expenses such as wages/salaries, cost of raw materials, depreciation allowances, interest on borrowed funds and utility expenses (electricity, water, telephone, etc.). These costs are said to be **explicit costs**. Explicit costs are out of pocket expenses for the purchased inputs. If a producer calculates her cost by considering only the costs incurred for purchased inputs, then her profit will be an **accounting profit**.",
+              "**Accounting profit = Total revenue - Accounting cost = Total revenue - Explicit cost**",
+              "In the real world economy, entrepreneurs may use some resources which may not have direct monetary expense since the entrepreneur can own these inputs himself or herself. **Economic cost** of producing a commodity considers the monetary value of all inputs (purchased and non-purchased). Calculating economic costs will be difficult since there are no direct monetary expenses for non-purchased inputs. The monetary value of these inputs is obtained by estimating their opportunity costs in monetary terms. The estimated monetary cost for non-purchased inputs is known as **implicit cost**. For example, if Mr. X quits a job which pays him Birr 10,000.00 per month in order to run a firm he has established, then the opportunity cost of his labour is taken to be Birr 10,000.00 per month (the salary he has forgone in order to run his own business). Therefore, economic cost is given by the sum of implicit cost and explicit cost.",
+              "**Economic profit = Total revenue - Economic cost (Explicit cost + Implicit cost)**",
+              "Economic profit will give the real profit of the firm since all costs are taken into account. Accounting profit of a firm will be greater than economic profit by the amount of implicit cost. If all inputs are purchased from the market, accounting and economic profit will be the same. However, if implicit costs exist, then accounting profit will be larger than economic profit."
+            ],
+            "definitions": [
+              ["Cost", "The monetary value of inputs used in the production of an item."],
+              ["Accounting Cost", "The monetary value of all purchased inputs used in production; ignores non-purchased inputs."],
+              ["Explicit Costs", "Out of pocket expenses for purchased inputs."],
+              ["Implicit Costs", "The estimated monetary cost for non-purchased (self-owned) inputs."],
+              ["Economic Cost", "The sum of explicit and implicit costs."],
+              ["Accounting Profit", "Total revenue minus accounting cost (explicit cost)."],
+              ["Economic Profit", "Total revenue minus economic cost (explicit + implicit cost)."]
+            ],
+            "key_points": [
+              "Cost: monetary value of inputs.",
+              "Accounting cost: purchased inputs only (explicit costs).",
+              "Economic cost: all inputs (explicit + implicit costs).",
+              "Implicit cost: estimated opportunity cost of self-owned inputs.",
+              "Accounting profit = TR - Explicit cost.",
+              "Economic profit = TR - (Explicit + Implicit cost).",
+              "Accounting profit > Economic profit when implicit costs exist."
+            ],
+            "formulas": [
+              ["Accounting Profit", "TR - Explicit Cost", ""],
+              ["Economic Profit", "TR - (Explicit Cost + Implicit Cost)", ""],
+              ["Economic Cost", "Explicit Cost + Implicit Cost", ""]
+            ],
+            "tables": [
+              [
+                ["Cost Type", "Definition", "Example"],
+                ["Explicit Cost", "Out of pocket expenses for purchased inputs", "Wages, raw materials, rent"],
+                ["Implicit Cost", "Estimated cost of self-owned inputs", "Forgone salary of owner"],
+                ["Accounting Cost", "Explicit costs only", "Sum of explicit costs"],
+                ["Economic Cost", "Explicit + Implicit costs", "Sum of all costs"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "4.2.2. Total, Average and Marginal Costs in the Short Run",
+            "paragraphs": [
+              "A **cost function** shows the total cost of producing a given level of output. It can be described using equations, tables or curves. A cost function can be represented using an equation as follows:",
+              "**C = f(Q)**, where C is the total cost of production and Q is the level of output.",
+              "In the short run, total cost (TC) can be broken down in to two - total fixed cost (TFC) and total variable cost (TVC). By **fixed costs** we mean costs which do not vary with the level of output. They are regarded as fixed because these costs are unavoidable regardless of the level of output. The firm can avoid fixed costs only if he/she stops operation (shuts down the business). The fixed costs may include salaries of administrative staff, expenses for building depreciation and repairs, expenses for land maintenance and the rent of building used for production. **Variable costs**, on the other hand, include all costs which directly vary with the level of output. For example, if the firm produces zero output, the variable cost is zero. These costs may include the cost of raw materials, the cost of direct labour and the running expenses of fuel, water, electricity, etc.",
+              "In general, the short run total cost is given by the sum of total fixed cost and total variable cost. That is,",
+              "**TC = TFC + TVC**",
+              "**Total Fixed Cost (TFC):** Total fixed cost is denoted by a straight line parallel to the output axis. This is because such costs do not vary with the level of output.",
+              "**Total Variable Cost (TVC):** The total variable cost of a firm has an inverse S-shape. The shape indicates the law of variable proportions in production. At the initial stage of production with a given plant, as more of the variable factor is employed, its productivity increases. Hence, the TVC increases at a decreasing rate. This continues until the optimal combination of the fixed and variable factor is reached. Beyond this point, as increased quantities of the variable factor are combined with the fixed factor, the productivity of the variable factor declines, and the TVC increases at an increasing rate.",
+              "**Total Cost (TC):** The total cost curve is obtained by vertically adding TFC and TVC at each level of output. The shape of the TC curve follows the shape of the TVC curve, i.e. the TC has also an inverse S-shape. It should be noted that when the level of output is zero, TVC is also zero which implies TC = TFC.",
+              "**Average Fixed Cost (AFC):** Average fixed cost is total fixed cost per unit of output. It is calculated by dividing TFC by the corresponding level of output. The curve declines continuously and approaches both axes asymptotically.",
+              "**AFC = TFC / Q**",
+              "**Average Variable Cost (AVC):** Average variable cost is total variable cost per unit of output. It is obtained by dividing total variable cost by the level of output.",
+              "**AVC = TVC / Q**",
+              "The short run AVC falls initially, reaches its minimum, and then starts to increase. Hence, the AVC curve has U-shape and the reason behind is the law of variable proportions.",
+              "**Average Total Cost (ATC) or simply Average Cost (AC):** Average total cost is the total cost per unit of output. It is calculated by dividing the total cost by the level of output.",
+              "**AC = TC / Q**",
+              "Equivalently, AC = (TVC + TFC)/Q = TVC/Q + TFC/Q = AVC + AFC",
+              "Thus, AC can also be given by the vertical sum of AVC and AFC.",
+              "**Marginal Cost (MC):** Marginal cost is defined as the additional cost that a firm incurs to produce one extra unit of output. In other words, it is the change in total cost which results from a unit change in output. Graphically, MC is the slope of TC function.",
+              "**MC = dTC / dQ**",
+              "In fact, MC is also a change in TVC with respect to a unit change in the level of output.",
+              "MC = (dTFC + dTVC)/dQ = dTVC/dQ, since dTFC/dQ = 0",
+              "Given inverse S-shaped TC and TVC curves, MC initially decreases, reaches its minimum and then starts to rise. From this, we can infer that the reason for the MC to exhibit U shape is also the law of variable proportions. In summary, AVC, AC and MC curves are all U-shaped due to the law of variable proportions."
+            ],
+            "definitions": [
+              ["Cost Function", "A function that shows the total cost of producing a given level of output."],
+              ["Total Fixed Cost (TFC)", "Costs which do not vary with the level of output."],
+              ["Total Variable Cost (TVC)", "Costs which directly vary with the level of output."],
+              ["Total Cost (TC)", "The sum of total fixed cost and total variable cost."],
+              ["Average Fixed Cost (AFC)", "Total fixed cost per unit of output."],
+              ["Average Variable Cost (AVC)", "Total variable cost per unit of output."],
+              ["Average Total Cost (AC or ATC)", "Total cost per unit of output."],
+              ["Marginal Cost (MC)", "The additional cost of producing one extra unit of output."]
+            ],
+            "key_points": [
+              "Cost function: C = f(Q).",
+              "TC = TFC + TVC.",
+              "TFC: horizontal line.",
+              "TVC: inverse S-shape.",
+              "TC: inverse S-shape.",
+              "AFC = TFC/Q; continuously declining.",
+              "AVC = TVC/Q; U-shaped.",
+              "AC = TC/Q = AVC + AFC; U-shaped.",
+              "MC = dTC/dQ = dTVC/dQ; U-shaped.",
+              "U-shapes due to law of variable proportions."
+            ],
+            "formulas": [
+              ["Total Cost", "TC = TFC + TVC", ""],
+              ["Average Fixed Cost", "AFC = TFC/Q", ""],
+              ["Average Variable Cost", "AVC = TVC/Q", ""],
+              ["Average Total Cost", "AC = TC/Q = AVC + AFC", ""],
+              ["Marginal Cost", "MC = dTC/dQ = dTVC/dQ", ""]
+            ],
+            "tables": [
+              [
+                ["Cost Concept", "Formula", "Shape"],
+                ["Total Fixed Cost", "TFC", "Horizontal line"],
+                ["Total Variable Cost", "TVC", "Inverse S-shape"],
+                ["Total Cost", "TC = TFC + TVC", "Inverse S-shape"],
+                ["Average Fixed Cost", "AFC = TFC/Q", "Continuously declining"],
+                ["Average Variable Cost", "AVC = TVC/Q", "U-shaped"],
+                ["Average Total Cost", "AC = TC/Q", "U-shaped"],
+                ["Marginal Cost", "MC = dTC/dQ", "U-shaped"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Short Run TC, TFC and TVC Curves",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Output",
+                  "y_axis": "Cost",
+                  "curves": [
+                    {"label": "TFC", "points": [{"x": 0, "y": 100}, {"x": 10, "y": 100}]},
+                    {"label": "TVC", "points": [{"x": 0, "y": 0}, {"x": 2, "y": 20}, {"x": 5, "y": 60}, {"x": 8, "y": 120}, {"x": 10, "y": 180}]},
+                    {"label": "TC", "points": [{"x": 0, "y": 100}, {"x": 2, "y": 120}, {"x": 5, "y": 160}, {"x": 8, "y": 220}, {"x": 10, "y": 280}]}
+                  ],
+                  "note": "TC is the vertical sum of TFC and TVC."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "4.2.3. The Relationship Between Short Run Production and Cost Curves",
+            "paragraphs": [
+              "Suppose a firm in the short run uses labour as a variable input and capital as a fixed input. Let the price of labour be given by w, which is constant. Given these conditions, we can derive the relation between MC and MPL as well as the relation between AVC and APL.",
+              "**i) Marginal Cost and Marginal Product of Labour:**",
+              "MC = ΔTVC/ΔQ, where TVC = w.L",
+              "MC = Δ(w.L)/ΔQ = w.(ΔL/ΔQ), but ΔL/ΔQ = 1/MPL",
+              "Therefore, **MC = w / MPL**",
+              "The above expression shows that MC and MPL are inversely related. When initially MPL increases, MC decreases; when MPL is at its maximum, MC must be at a minimum and when finally MPL declines, MC increases.",
+              "**ii) Average Variable Cost and Average Product of Labour:**",
+              "AVC = TVC/Q, where TVC = w.L",
+              "AVC = w.L/Q = w.(L/Q), but L/Q = 1/APL",
+              "Therefore, **AVC = w / APL**",
+              "This expression also shows inverse relation between AVC and APL. When APL increases, AVC decreases; when APL is at a maximum, AVC is at a minimum and when finally APL declines, AVC increases.",
+              "From the above figure, we can conclude that the MC curve is the mirror image of MPL curve and AVC curve is the mirror image of APL curve."
+            ],
+            "definitions": [
+              ["Relationship Between MC and MPL", "MC = w / MPL; MC and MPL are inversely related."],
+              ["Relationship Between AVC and APL", "AVC = w / APL; AVC and APL are inversely related."]
+            ],
+            "key_points": [
+              "MC = w / MPL.",
+              "AVC = w / APL.",
+              "When MPL increases, MC decreases.",
+              "When MPL is maximum, MC is minimum.",
+              "When MPL declines, MC increases.",
+              "When APL increases, AVC decreases.",
+              "When APL is maximum, AVC is minimum.",
+              "When APL declines, AVC increases.",
+              "MC is the mirror image of MPL; AVC is the mirror image of APL."
+            ],
+            "formulas": [
+              ["MC and MPL", "MC = w / MPL", ""],
+              ["AVC and APL", "AVC = w / APL", ""]
+            ],
+            "tables": [
+              [
+                ["Relationship", "Formula", "Direction"],
+                ["MC and MPL", "MC = w / MPL", "Inverse"],
+                ["AVC and APL", "AVC = w / APL", "Inverse"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Relationship Between Short Run Production and Cost Curves",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Labor (L) / Output",
+                  "y_axis": "MPL, APL / MC, AVC",
+                  "top_graph": {
+                    "curves": [
+                      {"label": "APL", "points": [{"x": 1, "y": 10}, {"x": 2, "y": 15}, {"x": 3, "y": 15}, {"x": 4, "y": 12}]},
+                      {"label": "MPL", "points": [{"x": 1, "y": 10}, {"x": 2, "y": 20}, {"x": 3, "y": 15}, {"x": 4, "y": 5}]}
+                    ]
+                  },
+                  "bottom_graph": {
+                    "curves": [
+                      {"label": "MC", "points": [{"x": 10, "y": 20}, {"x": 15, "y": 10}, {"x": 20, "y": 15}, {"x": 25, "y": 25}]},
+                      {"label": "AVC", "points": [{"x": 10, "y": 15}, {"x": 15, "y": 10}, {"x": 20, "y": 10}, {"x": 25, "y": 15}]}
+                    ]
+                  },
+                  "note": "MC is the mirror image of MPL; AVC is the mirror image of APL."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 4  the theory of production and cost.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 4  the theory of production and cost in economics cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Compare and contrast the following concepts: a) Explicit cost and implicit cost b) Economic cost and accounting cost",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Types of costs.\n• Explanation & Derivation:\n  - Explicit cost: out of pocket expenses for purchased inputs.\n  - Implicit cost: estimated cost of self-owned inputs.\n  - Economic cost: sum of explicit and implicit costs.\n  - Accounting cost: explicit costs only.\n• Final Answer: Explicit costs are paid directly; implicit costs are opportunity costs of self-owned resources. Economic cost includes both; accounting cost includes only explicit costs."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 4  the theory of production and cost.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university economics."
+      "question": "What is the main difference between fixed inputs and variable inputs?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Fixed vs. variable inputs.\n• Explanation & Derivation: Fixed inputs cannot be changed easily in the short run; variable inputs can be changed easily.\n• Final Answer: Fixed inputs cannot be changed easily in the short run; variable inputs can be changed easily."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Explain the law of variable proportions.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Law of variable proportions.\n• Explanation & Derivation: As successive units of a variable input are added to a fixed input, beyond some point the marginal product of the variable input declines. This is due to the fixed input being spread more thinly.\n• Final Answer: The law states that marginal product eventually declines as more of the variable input is added to the fixed input."
+    },
+    {
+      "question": "Which stage of short run production is efficient? Why?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Stages of production.\n• Explanation & Derivation: Stage II is efficient because MPL is positive but declining, indicating the fixed input is being optimally used. In Stage I, fixed input is under-utilized; in Stage III, fixed input is over-utilized.\n• Final Answer: Stage II is efficient because MPL is positive but declining, indicating optimal use of the fixed input."
+    },
+    {
+      "question": "Show the relationship between short-run MC and MPL both mathematically and graphically.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Relationship between MC and MPL.\n• Explanation & Derivation: Mathematically, MC = w/MPL. Graphically, MC is the mirror image of MPL. When MPL increases, MC decreases; when MPL is maximum, MC is minimum; when MPL declines, MC increases.\n• Final Answer: MC = w/MPL. MC and MPL are inversely related."
+    },
+    {
+      "question": "Can accounting cost be greater economic cost? Explain.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Accounting vs. economic cost.\n• Explanation & Derivation: Economic cost includes implicit costs; accounting cost does not. Therefore, economic cost is greater than or equal to accounting cost. Accounting cost cannot be greater than economic cost unless there are negative implicit costs (which is not standard).\n• Final Answer: No, accounting cost cannot be greater than economic cost because economic cost includes accounting cost plus implicit costs."
+    },
+    {
+      "question": "The short run AVC, AC and MC are all U-shaped. Why?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: U-shaped cost curves.\n• Explanation & Derivation: The U-shape is due to the law of variable proportions. Initially, increasing returns cause costs to fall; eventually, diminishing returns cause costs to rise.\n• Final Answer: The U-shape is due to the law of variable proportions."
+    },
+    {
+      "question": "Suppose the production function is given by Q(L,K) = L^(3/4) K^(1/4). Assuming capital is fixed, find APL and MPL.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Production function with fixed capital.\n• Explanation & Derivation:\n  - Q = L^(3/4) K^(1/4)\n  - APL = Q/L = L^(3/4) K^(1/4) / L = L^(-1/4) K^(1/4) = (K/L)^(1/4)\n  - MPL = ∂Q/∂L = (3/4) L^(-1/4) K^(1/4) = (3/4) (K/L)^(1/4)\n• Final Answer: APL = (K/L)^(1/4); MPL = (3/4) (K/L)^(1/4)."
+    },
+    {
+      "question": "Consider the following short run production function: Q = 6L^2 - 0.4L^3. a) Find the value of L that maximizes output b) Find the value of L that maximizes marginal product c) Find the value of L that maximizes average product",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Short run production function.\n• Explanation & Derivation:\n  - a) Max output: MPL = 0. MPL = dQ/dL = 12L - 1.2L^2 = 0 → L(12 - 1.2L) = 0 → L = 10.\n  - b) Max MPL: dMPL/dL = 12 - 2.4L = 0 → L = 5.\n  - c) Max APL: APL = Q/L = 6L - 0.4L^2. dAPL/dL = 6 - 0.8L = 0 → L = 7.5.\n• Final Answer: a) L = 10. b) L = 5. c) L = 7.5."
+    },
+    {
+      "question": "Given a short run cost function as TC = (1/3)Q^3 - 2Q^2 + 60Q + 100, find the minimum value of AVC and MC.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Short run cost function.\n• Explanation & Derivation:\n  - TVC = (1/3)Q^3 - 2Q^2 + 60Q\n  - AVC = TVC/Q = (1/3)Q^2 - 2Q + 60\n  - dAVC/dQ = (2/3)Q - 2 = 0 → Q = 3\n  - Min AVC = (1/3)(3)^2 - 2(3) + 60 = 3 - 6 + 60 = 57\n  - MC = dTC/dQ = Q^2 - 4Q + 60\n  - dMC/dQ = 2Q - 4 = 0 → Q = 2\n  - Min MC = (2)^2 - 4(2) + 60 = 4 - 8 + 60 = 56\n• Final Answer: Min AVC = 57; Min MC = 56."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 4  THE THEORY OF PRODUCTION AND COST (university economics):\nThis complete study document covers all topics in Chapter 4  the theory of production and cost, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 4: THE THEORY OF PRODUCTION AND COST (University Freshman Introduction to Economics):\nThis chapter covers the theory of production in the short run (definition of production, production function, fixed and variable inputs, total/average/marginal product, law of variable proportions, stages of production), and the theory of costs in the short run (definition and types of costs — explicit, implicit, accounting, economic; total, average and marginal costs; relationship between short run production and cost curves — MC and MPL, AVC and APL). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 4: The Theory of Production and Cost — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
