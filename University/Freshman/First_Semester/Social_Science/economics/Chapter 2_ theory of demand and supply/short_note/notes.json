@@ -1,65 +1,589 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "economics",
-    "unit_title": "Chapter 2  theory of demand and supply"
+    "grade": "University Freshman",
+    "subject": "Economics",
+    "course_code": "Econ 1011",
+    "academic_path": "university/freshman/First_Semester/Social_Science/economics",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 2  theory of demand and supply",
-      "paragraphs": [
-        "Introduction to Economics September 2019 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Chapter 2  theory of demand and supply. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the economics curriculum."
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 2  theory of demand and supply: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how economics principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [
-        {
-          "eq": "Formula / Equation: Parameter = f(supply)",
-          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
-          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 2  theory of demand and supply."
-        }
-      ],
-      "tables": [
-        [
-          [
-            "Parameter / Variable",
-            "Description & Definition",
-            "SI Unit / Expression"
-          ],
-          [
-            "Primary Constant",
-            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 2  theory of demand and supply",
-            "Standard Units"
-          ],
-          [
-            "Variable Parameter",
-            "Dependent variable analyzed in economics",
-            "Derived Units"
-          ]
+  "chapter": {
+    "chapter_number": "2",
+    "chapter_title": "Theory of Demand and Supply",
+    "chapter_subtitle": "Demand, Supply, Elasticity, and Market Equilibrium — A Complete Student Guide",
+    "chapter_introduction": "Welcome to Chapter 2 of Introduction to Economics. Having learned about the concept and meaning of economics in the previous chapter, we now turn to a very important issue: how free markets operate. This chapter focuses on two powerful tools — the theory of demand and the theory of supply. You will learn what demand and supply are, how they determine equilibrium price and quantity, and how the concepts of elasticity reveal consumers' and producers' sensitivity to price changes. By the end of this chapter, you will be able to analyze how markets work and how they respond to changes in underlying conditions.",
+    "sections": [
+      {
+        "section_number": "2.1",
+        "section_title": "Theory of Demand",
+        "section_introduction": "Demand is one of the forces determining prices. Let us explore the meaning of demand, the law of demand, demand schedules, curves, and functions, the determinants of demand, and the elasticity of demand.",
+        "subsections": [
+          {
+            "subtitle": "2.1.1. Meaning of Demand",
+            "paragraphs": [
+              "In our day-to-day life we use the word 'demand' in a loose sense to mean a desire of a person to purchase a commodity or service. But in economics it has a specific meaning, which is different from what we use it in our day-to-day activities.",
+              "**Demand implies more than a mere desire to purchase a commodity.** It states that the consumer must be **willing and able** to purchase the commodity, which he/she desires. His/her desire should be backed by his/her purchasing power. A poor person is willing to buy a car; it has no significance, since he/she has no ability to pay for it. On the other hand, if his/her desire to buy the car is backed by the purchasing power then this constitutes demand.",
+              "**Demand** thus means the desire of the consumer for a commodity backed by purchasing power. These two factors are essential. If a consumer is willing to buy but is not able to pay, his/her desire will not become demand. Similarly, if the consumer has the ability to pay but is not willing to pay, his/her desire will not be called demand.",
+              "More specifically, **demand** refers to various quantities of a commodity or service that a consumer would purchase at a given time in a market at various prices, given other things unchanged (ceteris paribus). The quantity demanded of a particular commodity depends on the price of that commodity.",
+              "**Law of Demand:** This is the principle of demand, which states that, price of a commodity and its quantity demanded are **inversely related** i.e., as price of a commodity increases (decreases) quantity demanded for that commodity decreases (increases), ceteris paribus."
+            ],
+            "definitions": [
+              ["Demand", "The desire of the consumer for a commodity backed by purchasing power."],
+              ["Law of Demand", "The principle that price and quantity demanded are inversely related, ceteris paribus."],
+              ["Ceteris Paribus", "All other things remaining constant."]
+            ],
+            "key_points": [
+              "Demand requires willingness and ability to pay.",
+              "Desire + purchasing power = demand.",
+              "Law of demand: price and quantity demanded are inversely related.",
+              "Ceteris paribus: other factors remain constant."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Demand", "Desire backed by purchasing power"],
+                ["Law of Demand", "Price and quantity demanded are inversely related"],
+                ["Ceteris Paribus", "Other things remaining constant"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.1.2. Demand Schedule, Demand Curve, and Demand Function",
+            "paragraphs": [
+              "The relationship that exists between price and the amount of a commodity purchased can be represented by a table (schedule) or a curve or an equation.",
+              "**Demand Schedule:** A demand schedule is a list of the various quantities of a commodity which an individual consumer purchases at various levels of prices in the market. It states the relationship between price and quantity demanded in a table form.",
+              "**Table 2.1 Individual household demand for orange per week**",
+              "Combinations | A | B | C | D | E",
+              "Price per kg | 5 | 4 | 3 | 2 | 1",
+              "Quantity demand/week | 5 | 7 | 9 | 11 | 13",
+              "**Demand Curve:** A demand curve is a graphical representation of the relationship between different quantities of a commodity demanded by an individual at different prices per time period.",
+              "**Demand Function:** A demand function is a mathematical relationship between price and quantity demanded, all other things remaining the same. A typical demand function is given by:",
+              "Qd = f(P)",
+              "where Qd is quantity demanded and P is price of the commodity, in our case price of orange.",
+              "**Example:** Let the demand function be Q = a + bP",
+              "b = ΔQ / ΔP (e.g., moving from point A to B on figure 2.1 above)",
+              "b = (7 - 5) / (4 - 5) = -2, where b is the slope of the demand curve",
+              "Q = a - 2P. To find a, substitute price either at point A or B.",
+              "7 = a - 2(4), a = 15",
+              "Therefore, Q = 15 - 2P is the demand function for orange in the above numerical example.",
+              "**Market Demand:** The market demand schedule, curve or function is derived by horizontally adding the quantity demanded for the product by all buyers at each price."
+            ],
+            "definitions": [
+              ["Demand Schedule", "A list of the various quantities of a commodity which an individual consumer purchases at various levels of prices in the market."],
+              ["Demand Curve", "A graphical representation of the relationship between different quantities of a commodity demanded by an individual at different prices per time period."],
+              ["Demand Function", "A mathematical relationship between price and quantity demanded, all other things remaining the same."],
+              ["Market Demand", "The horizontal sum of individual demands at each price."]
+            ],
+            "key_points": [
+              "Demand schedule: table of price and quantity demanded.",
+              "Demand curve: graphical representation.",
+              "Demand function: mathematical relationship Qd = f(P).",
+              "Market demand: horizontal summation of individual demands.",
+              "Example: Q = 15 - 2P."
+            ],
+            "formulas": [
+              ["Demand Function", "Qd = f(P)", "Q = 15 - 2P"],
+              ["Slope of Demand Curve", "b = ΔQ / ΔP", "b = (7-5)/(4-5) = -2"],
+              ["Market Demand", "Qm = sum of individual quantities at each price", ""]
+            ],
+            "tables": [
+              [
+                ["Combinations", "A", "B", "C", "D", "E"],
+                ["Price per kg", "5", "4", "3", "2", "1"],
+                ["Quantity demand/week", "5", "7", "9", "11", "13"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Individual Demand Curve",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Quantity demanded",
+                  "y_axis": "Price",
+                  "points": [
+                    {"x": 5, "y": 5, "label": "A"},
+                    {"x": 7, "y": 4, "label": "B"},
+                    {"x": 9, "y": 3, "label": "C"},
+                    {"x": 11, "y": 2, "label": "D"},
+                    {"x": 13, "y": 1, "label": "E"}
+                  ],
+                  "note": "As price declines, quantity demanded increases."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.1.3. Determinants of Demand",
+            "paragraphs": [
+              "The demand for a product is influenced by many factors. Some of these factors are:",
+              "I. Price of the product",
+              "II. Taste or preference of consumers",
+              "III. Income of the consumers",
+              "IV. Price of related goods",
+              "V. Consumers expectation of income and price",
+              "VI. Number of buyers in the market",
+              "When we state the law of demand, we kept all the factors to remain constant except the price of the good. A change in any of the above listed factors except the price of the good will **change the demand**, while a change in the price, other factors remain constant will bring **change in quantity demanded**. A change in demand will shift the demand curve from its original location. For this reason those factors listed above other than price are called **demand shifters**. A change in own price is only a movement along the same demand curve.",
+              "**Changes in demand:** A change in any determinant of demand—except for the good's price—causes the demand curve to shift. We call this a change in demand. If buyers choose to purchase more at any price, the demand curve shifts rightward—an **increase in demand**. If buyers choose to purchase less at any price, the demand curve shifts leftward—a **decrease in demand**.",
+              "**I. Taste or preference:** When the taste of a consumer changes in favour of a good, her/his demand will increase and the opposite is true.",
+              "**II. Income of the consumer:** Goods are classified into two categories depending on how a change in income affects their demand. These are **normal goods** and **inferior goods**. Normal goods are goods whose demand increases as income increases, while inferior goods are those whose demand is inversely related with income. In general, inferior goods are poor quality goods with relatively lower price and buyers of such goods are expected to shift to better quality goods as their income increases. However, the classification of goods into normal and inferior is subjective and it is usually dependent on the socio-economic development of the nation.",
+              "**III. Price of related goods:** Two goods are said to be related if a change in the price of one good affects the demand for another good. There are two types of related goods. These are **substitute** and **complementary** goods. Substitute goods are goods which satisfy the same desire of the consumer. For example, tea and coffee or Pepsi and Coca-Cola are substitute goods. If two goods are substitutes, then price of one and the demand for the other are directly related. Complimentary goods, on the other hand, are those goods which are jointly consumed. For example, car and fuel or tea and sugar are considered as compliments. If two goods are complements, then price of one and the demand for the other are inversely related.",
+              "**IV. Consumer expectation of income and price:** Higher price expectation will increase demand while a lower future price expectation will decrease the demand for the good.",
+              "**V. Number of buyers in the market:** Since market demand is the horizontal sum of individual demand, an increase in the number of buyers will increase demand while a decrease in the number of buyers will decrease demand."
+            ],
+            "definitions": [
+              ["Normal Goods", "Goods whose demand increases as income increases."],
+              ["Inferior Goods", "Goods whose demand is inversely related with income."],
+              ["Substitute Goods", "Goods which satisfy the same desire of the consumer."],
+              ["Complementary Goods", "Goods which are jointly consumed."],
+              ["Demand Shifters", "Factors other than price that cause the demand curve to shift."]
+            ],
+            "key_points": [
+              "Determinants of demand: price, taste, income, price of related goods, expectations, number of buyers.",
+              "Change in demand: shift of demand curve.",
+              "Change in quantity demanded: movement along demand curve.",
+              "Normal goods: demand increases with income.",
+              "Inferior goods: demand decreases with income.",
+              "Substitutes: price of one and demand for other are directly related.",
+              "Complements: price of one and demand for other are inversely related."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Determinant", "Effect on Demand"],
+                ["Taste/preference in favour", "Increase"],
+                ["Income increase (normal good)", "Increase"],
+                ["Income increase (inferior good)", "Decrease"],
+                ["Price of substitute increases", "Increase"],
+                ["Price of complement increases", "Decrease"],
+                ["Expectation of higher future price", "Increase"],
+                ["Increase in number of buyers", "Increase"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Shift in Demand Curve",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Quantity",
+                  "y_axis": "Price",
+                  "lines": [
+                    {"label": "D0 (original)", "points": [{"x": 0, "y": 10}, {"x": 10, "y": 0}]},
+                    {"label": "D1 (increase)", "points": [{"x": 0, "y": 15}, {"x": 15, "y": 0}]},
+                    {"label": "D2 (decrease)", "points": [{"x": 0, "y": 5}, {"x": 5, "y": 0}]}
+                  ],
+                  "note": "Increase in demand shifts curve rightward (D1); decrease shifts leftward (D2)."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.1.4. Elasticity of Demand",
+            "paragraphs": [
+              "In economics, the concept of elasticity is very crucial and is used to analyze the quantitative relationship between price and quantity purchased or sold. **Elasticity** is a measure of responsiveness of a dependent variable to changes in an independent variable. Accordingly, we have the concepts of elasticity of demand and elasticity of supply.",
+              "**Elasticity of demand** refers to the degree of responsiveness of quantity demanded of a good to a change in its price, or change in income, or change in prices of related goods. Commonly, there are three kinds of demand elasticity: **price elasticity, income elasticity, and cross elasticity**.",
+              "**1. Price Elasticity of Demand** means degree of responsiveness of demand to change in price. It indicates how consumers react to changes in price. The greater the reaction the greater will be the elasticity, and the lesser the reaction, the smaller will be the elasticity.",
+              "Price elasticity of demand is a measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price.",
+              "**a. Point Price Elasticity of Demand:** This is calculated to find elasticity at a given point. The price elasticity of demand can be determined by the following formula:",
+              "Ed = (Percentage change in quantity demanded) / (Percentage change in price) = %ΔQd / %ΔP",
+              "where %ΔQd = (Q1 - Q0)/Q0 × 100 and %ΔP = (P1 - P0)/P0 × 100",
+              "Thus, Ed = (Q1 - Q0)/(P1 - P0) × P0/Q0 = (ΔQ/ΔP) × (P0/Q0)",
+              "**b. Arc Price Elasticity of Demand:** The main drawback of the point elasticity method is that it is applicable only when we have information about even the slight changes in the price and the quantity demanded of the commodity. But in practice, we do not acquire such information about minute changes. We may possess demand schedules in which there are big gaps in price as well as the quantity demanded. In such cases, there is an alternative method known as arc method of elasticity measurement.",
+              "In arc price elasticity of demand, the midpoints of the old and the new values of both price and quantity demanded are used. It measures a portion or a segment of the demand curve between the two points. An arc is a portion of a curve line, hence, a portion or segment of a demand curve.",
+              "The formula for measuring arc elasticity is given below:",
+              "Ed = (Change in quantity demanded) / (Original quantity plus new) ÷ (Change in price) / (Original price plus new price)",
+              "Symbolically, Ed = (Q1 - Q0)/(Q0 + Q1) ÷ (P1 - P0)/(P0 + P1)",
+              "**Numerical Example:** Suppose that the price of a commodity is Br. 5 and the quantity demanded at that price is 100 units. Now assume that the price falls to Br. 4 and the quantity demanded rises to 110 units. The value of the arc elasticity will be:",
+              "Ed = (110 - 100)/(100 + 110) ÷ (4 - 5)/(4 + 5) = (10/210) ÷ (-1/9) = -9/21 = -3/7",
+              "**Note that:**",
+              "- Elasticity of demand is unit free because it is a ratio of percentage change.",
+              "- Elasticity of demand is usually a negative number because of the law of demand.",
+              "- If the price elasticity of demand is positive the product is inferior.",
+              "**Degrees of Elasticity:**",
+              "i) If |ε| > 1, demand is said to be **elastic** and the product is a luxury product.",
+              "ii) If 0 ≤ |ε| < 1, demand is **inelastic** and the product is a necessity.",
+              "iii) If |ε| = 1, demand is **unitary elastic**.",
+              "iv) If |ε| = 0, demand is said to be **perfectly inelastic**.",
+              "v) If |ε| = ∞, demand is said to be **perfectly elastic**.",
+              "**Determinants of Price Elasticity of Demand:**",
+              "i) **The availability of substitutes:** the more substitutes available for a product, the more elastic will be the price elasticity of demand.",
+              "ii) **Time:** In the long-run, price elasticity of demand tends to be elastic. Because more substitute goods could be produced; people tend to adjust their consumption pattern.",
+              "iii) **The proportion of income consumers spend for a product:** the smaller the proportion of income spent for a good, the less price elastic will be.",
+              "iv) **The importance of the commodity in the consumers' budget:** Luxury goods tend to be more elastic (e.g., gold); necessity goods tend to be less elastic (e.g., salt).",
+              "**2. Income Elasticity of Demand:** It is a measure of responsiveness of demand to change in income.",
+              "εd^I = (%ΔQd) / (%ΔI) = (ΔQ/ΔI) × (I/Q)",
+              "i) If εd^I > 1, the good is a luxury good.",
+              "ii) If εd^I < 1 (and positive), the good is a necessity good.",
+              "iii) If εd^I < 0 (negative), the good is an inferior good.",
+              "**3. Cross Price Elasticity of Demand:** Measures how much the demand for a product is affected by a change in price of another good.",
+              "εxy = (%ΔQx) / (%ΔPy) = (Qx1 - Qx0)/(Py1 - Py0) × Py0/Qx0",
+              "i) The cross-price elasticity of demand for substitute goods is positive.",
+              "ii) The cross-price elasticity of demand for complementary goods is negative.",
+              "iii) The cross-price elasticity of demand for unrelated goods is zero.",
+              "**Example:** Consider the following data which shows the changes in quantity demanded of good X in response to changes in the price of good Y.",
+              "Unit price of Y | Quantity demanded of X",
+              "10 | 1500",
+              "15 | 1000",
+              "Calculate the cross-price elasticity of demand between the two goods. What can you say about the two goods?",
+              "εxy = (ΔQx/ΔPy) × (Py0/Qx0) = ((1000-1500)/(15-10)) × (10/1500) = (-500/5) × (10/1500) = -0.67",
+              "Therefore, the two goods are complements."
+            ],
+            "definitions": [
+              ["Elasticity", "A measure of responsiveness of a dependent variable to changes in an independent variable."],
+              ["Price Elasticity of Demand", "The degree of responsiveness of quantity demanded to a change in price."],
+              ["Point Elasticity", "Elasticity calculated at a specific point on the demand curve."],
+              ["Arc Elasticity", "Elasticity measured over a segment of the demand curve using midpoints."],
+              ["Income Elasticity of Demand", "A measure of responsiveness of demand to change in income."],
+              ["Cross Price Elasticity of Demand", "A measure of how much the demand for a product is affected by a change in price of another good."],
+              ["Elastic Demand", "|ε| > 1; quantity demanded responds more than proportionally to price change."],
+              ["Inelastic Demand", "0 ≤ |ε| < 1; quantity demanded responds less than proportionally to price change."],
+              ["Unitary Elastic Demand", "|ε| = 1; quantity demanded responds proportionally to price change."],
+              ["Perfectly Inelastic Demand", "|ε| = 0; quantity demanded does not respond to price change."],
+              ["Perfectly Elastic Demand", "|ε| = ∞; quantity demanded changes infinitely with any price change."]
+            ],
+            "key_points": [
+              "Elasticity: measure of responsiveness.",
+              "Price elasticity of demand: % change in quantity / % change in price.",
+              "Point elasticity and arc elasticity methods.",
+              "Degrees: elastic, inelastic, unitary, perfectly inelastic, perfectly elastic.",
+              "Determinants: substitutes, time, proportion of income, importance of commodity.",
+              "Income elasticity: luxury (>1), necessity (<1, positive), inferior (negative).",
+              "Cross elasticity: substitutes (positive), complements (negative), unrelated (zero)."
+            ],
+            "formulas": [
+              ["Point Price Elasticity", "Ed = (ΔQ/ΔP) × (P0/Q0)", "Ed = (Q1-Q0)/(P1-P0) × P0/Q0"],
+              ["Arc Price Elasticity", "Ed = (Q1-Q0)/(Q0+Q1) ÷ (P1-P0)/(P0+P1)", "Ed = (110-100)/(100+110) ÷ (4-5)/(4+5) = -3/7"],
+              ["Income Elasticity", "εd^I = (ΔQ/ΔI) × (I/Q)", ""],
+              ["Cross Elasticity", "εxy = (ΔQx/ΔPy) × (Py0/Qx0)", "εxy = -0.67"]
+            ],
+            "tables": [
+              [
+                ["Degree", "Value of |ε|", "Interpretation"],
+                ["Elastic", "> 1", "Luxury product; quantity responds strongly"],
+                ["Inelastic", "0 ≤ |ε| < 1", "Necessity; quantity responds weakly"],
+                ["Unitary Elastic", "= 1", "Proportional response"],
+                ["Perfectly Inelastic", "= 0", "No response to price change"],
+                ["Perfectly Elastic", "= ∞", "Infinite response to price change"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "2.2",
+        "section_title": "Theory of Supply",
+        "section_introduction": "Supply is the other force determining prices. Let us explore the meaning of supply, the law of supply, supply schedules, curves, and functions, the determinants of supply, and the elasticity of supply.",
+        "subsections": [
+          {
+            "subtitle": "2.2.1. Meaning of Supply",
+            "paragraphs": [
+              "**Supply** indicates various quantities of a product that sellers (producers) are willing and able to provide at different prices in a given period of time, other things remaining unchanged.",
+              "**The law of supply:** states that, ceteris paribus, as price of a product increases, quantity supplied of the product increases, and as price decreases, quantity supplied decreases. It tells us there is a **positive relationship** between price and quantity supplied."
+            ],
+            "definitions": [
+              ["Supply", "Various quantities of a product that sellers are willing and able to provide at different prices in a given period of time."],
+              ["Law of Supply", "The principle that price and quantity supplied are positively related, ceteris paribus."]
+            ],
+            "key_points": [
+              "Supply: quantities sellers are willing and able to provide.",
+              "Law of supply: price and quantity supplied are positively related.",
+              "Ceteris paribus: other factors constant."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Supply", "Willingness and ability to provide a product at various prices"],
+                ["Law of Supply", "Price and quantity supplied are positively related"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.2.2. Supply Schedule, Supply Curve, and Supply Function",
+            "paragraphs": [
+              "A **supply schedule** is a tabular statement that states the different quantities of a commodity offered for sale at different prices.",
+              "**Table 2.3: An individual seller's supply schedule for butter**",
+              "Price (birr per kg) | 30 | 25 | 20 | 15 | 10",
+              "Quantity supplied kg/week | 100 | 90 | 80 | 70 | 60",
+              "A **supply curve** conveys the same information as a supply schedule. But it shows the information graphically rather than in a tabular form.",
+              "The supply of a commodity can be briefly expressed in the following functional relationship:",
+              "**S = f(P)**, where S is quantity supplied and P is price of the commodity.",
+              "**Market supply:** It is derived by horizontally adding the quantity supplied of the product by all sellers at each price."
+            ],
+            "definitions": [
+              ["Supply Schedule", "A tabular statement that states the different quantities of a commodity offered for sale at different prices."],
+              ["Supply Curve", "A graphical representation of the relationship between price and quantity supplied."],
+              ["Supply Function", "A mathematical relationship between price and quantity supplied."],
+              ["Market Supply", "The horizontal sum of individual supplies at each price."]
+            ],
+            "key_points": [
+              "Supply schedule: table of price and quantity supplied.",
+              "Supply curve: graphical representation, upward sloping.",
+              "Supply function: S = f(P).",
+              "Market supply: horizontal summation of individual supplies."
+            ],
+            "formulas": [
+              ["Supply Function", "S = f(P)", ""]
+            ],
+            "tables": [
+              [
+                ["Price (birr per kg)", "30", "25", "20", "15", "10"],
+                ["Quantity supplied kg/week", "100", "90", "80", "70", "60"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Supply Curve",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Quantity",
+                  "y_axis": "Price",
+                  "points": [
+                    {"x": 60, "y": 10},
+                    {"x": 70, "y": 15},
+                    {"x": 80, "y": 20},
+                    {"x": 90, "y": 25},
+                    {"x": 100, "y": 30}
+                  ],
+                  "note": "Supply curve slopes upward from left to right."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.2.3. Determinants of Supply",
+            "paragraphs": [
+              "Apart from the change in price which causes a change in quantity demanded, the supply of a particular product is determined by:",
+              "i) price of inputs (cost of inputs)",
+              "ii) technology",
+              "iii) prices of related goods",
+              "iv) sellers' expectation of price of the product",
+              "v) taxes & subsidies",
+              "vi) number of sellers in the market",
+              "vii) weather, etc.",
+              "**i) Effect of change in input price on supply of a product:** An increase in the price of inputs such as labour, raw materials, capital, etc causes a decrease in the supply of the product which is represented by a leftward shift of the supply curve. Likewise, a decrease in input price causes an increase in supply.",
+              "**ii) Effect of change in Technology:** Technological advancement enables a firm to produce and supply more in the market. This shifts the supply curve outward.",
+              "**iii) Effect of change in weather condition:** A change in weather condition will have an impact on the supply of a number of products, especially agricultural products. For example, other things remain unchanged, good weather condition boosts the supply of agricultural products. This shifts the supply curve of a given agricultural product outward. Bad weather condition will have the opposite impact."
+            ],
+            "definitions": [
+              ["Input Price", "The cost of resources used in production."],
+              ["Technology", "The methods and techniques used in production."],
+              ["Subsidy", "A government payment to producers to encourage production."],
+              ["Tax", "A government charge on producers that increases costs."]
+            ],
+            "key_points": [
+              "Determinants of supply: input prices, technology, prices of related goods, expectations, taxes/subsidies, number of sellers, weather.",
+              "Increase in input price: supply decreases (shift left).",
+              "Decrease in input price: supply increases (shift right).",
+              "Technological improvement: supply increases (shift right).",
+              "Good weather: supply increases (shift right).",
+              "Bad weather: supply decreases (shift left)."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Determinant", "Effect on Supply"],
+                ["Increase in input price", "Decrease (shift left)"],
+                ["Decrease in input price", "Increase (shift right)"],
+                ["Technological improvement", "Increase (shift right)"],
+                ["Increase in taxes", "Decrease (shift left)"],
+                ["Increase in subsidies", "Increase (shift right)"],
+                ["Good weather", "Increase (shift right)"],
+                ["Bad weather", "Decrease (shift left)"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "2.2.4. Elasticity of Supply",
+            "paragraphs": [
+              "It is the degree of responsiveness of the supply to change in price. It may be defined as the percentage change in quantity supplied divided by the percentage change in price. As the case with price elasticity of demand, we can measure the price elasticity of supply using point and arc elasticity methods. However, a simple and most commonly used method is point method.",
+              "The point price elasticity of supply can be calculated as the ratio of proportionate change in quantity supplied of a commodity to a given proportionate change in its price. Thus, the formula for measuring price elasticity of supply is:",
+              "ES = (% change in quantity supplied) / (% change in price) = (ΔQ/Q) ÷ (ΔP/P) = (ΔQ/ΔP) × (P/Q)",
+              "Like elasticity of demand, price elasticity of supply can be elastic, inelastic, unitary elastic, perfectly elastic or perfectly inelastic. The supply is elastic when a small change in price leads to a great change in supply. It is inelastic or less elastic when a great change in price induces only a slight change in supply. If the supply is perfectly inelastic, it will be represented by a vertical line. If supply is perfectly elastic it will be represented by a horizontal straight line."
+            ],
+            "definitions": [
+              ["Elasticity of Supply", "The degree of responsiveness of the supply to change in price."],
+              ["Perfectly Inelastic Supply", "Supply does not respond to price changes (vertical line)."],
+              ["Perfectly Elastic Supply", "Supply changes infinitely with any price change (horizontal line)."]
+            ],
+            "key_points": [
+              "Elasticity of supply: responsiveness of quantity supplied to price change.",
+              "Formula: ES = (ΔQ/ΔP) × (P/Q).",
+              "Elastic: small price change → large supply change.",
+              "Inelastic: large price change → small supply change.",
+              "Perfectly inelastic: vertical line.",
+              "Perfectly elastic: horizontal line."
+            ],
+            "formulas": [
+              ["Elasticity of Supply", "ES = (ΔQ/ΔP) × (P/Q)", ""]
+            ],
+            "tables": [
+              [
+                ["Type", "Value of ES", "Shape of Supply Curve"],
+                ["Elastic", "> 1", "Flatter than unitary"],
+                ["Inelastic", "0 ≤ ES < 1", "Steeper than unitary"],
+                ["Unitary Elastic", "= 1", "Straight line through origin"],
+                ["Perfectly Inelastic", "= 0", "Vertical line"],
+                ["Perfectly Elastic", "= ∞", "Horizontal line"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "2.3",
+        "section_title": "Market Equilibrium",
+        "section_introduction": "Having seen the demand and supply side of the market, now let's bring demand and supply together to see how the market price of a product is determined.",
+        "subsections": [
+          {
+            "subtitle": "2.3.1. Definition and Graphical Representation",
+            "paragraphs": [
+              "**Market equilibrium** occurs when market demand equals market supply.",
+              "In the graph, any price greater than P will lead to market surplus. As the price of the commodity increases, consumers demand less of the product. On the other hand, as the price increases, producers supply more of the good. Therefore, if price increases to P1 the market will have a surplus of HJ. If the price decreases to P2 buyers demand to buy more and suppliers prefer to decrease their supply leading to shortage in the market which is equal to GF.",
+              "**Numerical example:** Given market demand: Qd = 100 - 2P, and market supply: P = (Qs/2) + 10",
+              "a) Calculate the market equilibrium price and quantity",
+              "b) Determine whether there is surplus or shortage at P = 25 and P = 35",
+              "**Solution:**",
+              "a) At equilibrium, Qd = Qs",
+              "100 - 2P = 2P - 20",
+              "4P = 120",
+              "P = 30, and Q = 40",
+              "Qd (at P = 25) = 100 - 2(25) = 50 and Qs (at P = 25) = 2(25) - 20 = 30",
+              "Therefore, there is a shortage of: 50 - 30 = 20 units",
+              "Qd (at P = 35) = 100 - 2(35) = 30 and Qs (at P = 35) = 2(35) - 20 = 50, a surplus of 20 units"
+            ],
+            "definitions": [
+              ["Market Equilibrium", "A situation in which quantity demanded equals quantity supplied."],
+              ["Equilibrium Price", "The price at which quantity demanded equals quantity supplied."],
+              ["Equilibrium Quantity", "The quantity bought and sold at the equilibrium price."],
+              ["Surplus", "A situation where quantity supplied exceeds quantity demanded."],
+              ["Shortage", "A situation where quantity demanded exceeds quantity supplied."]
+            ],
+            "key_points": [
+              "Market equilibrium: demand equals supply.",
+              "Equilibrium price: market-clearing price.",
+              "Surplus: price above equilibrium.",
+              "Shortage: price below equilibrium."
+            ],
+            "formulas": [
+              ["Market Equilibrium", "Qd = Qs", "100 - 2P = 2P - 20 → P = 30, Q = 40"]
+            ],
+            "tables": [
+              [
+                ["Price", "Quantity Demanded", "Quantity Supplied", "Market Condition"],
+                ["P = 25", "50", "30", "Shortage of 20 units"],
+                ["P = 30", "40", "40", "Equilibrium"],
+                ["P = 35", "30", "50", "Surplus of 20 units"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Market Equilibrium",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Quantity",
+                  "y_axis": "Price",
+                  "lines": [
+                    {"label": "Demand", "points": [{"x": 0, "y": 50}, {"x": 100, "y": 0}]},
+                    {"label": "Supply", "points": [{"x": 0, "y": 10}, {"x": 60, "y": 40}]}
+                  ],
+                  "equilibrium": {"x": 40, "y": 30},
+                  "note": "At point E, market demand equals market supply."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "2.3.2. Effects of Changes in Demand and Supply on Market Equilibrium",
+            "paragraphs": [
+              "**I) When demand changes and supply remains constant:** Factors such as changes in income, tastes, and prices of related goods will lead to a change in demand. DD is the demand curve and SS is the supply curve. DD and SS curves intersect at point E and the quantity demanded and supplied is OM at OP equilibrium price. Given the supply, if the demand increases the demand curve will shift upward to the right. Due to a change in demand, the demand curve D1D1 intersects SS supply curve at point E1. The equilibrium price increases from OP to OP1 and the equilibrium quantity from OM to OM1. On the other hand, if demand falls, the demand curve shifts downwards to the left. Due to a change in demand, the curve D2D2 intersects the supply curve SS at point E2. The equilibrium price decreases from OP to OP2 and the equilibrium quantity decreases from OM to OM2. Supply being given, a decrease in demand reduces both the equilibrium price and the quantity and vice versa.",
+              "**II) When supply changes and demand remains constant:** Given the demand, if the supply increases, the supply curve shifts to the right (S1S1). The new supply curve, which intersects DD curve at E1, reduces the equilibrium price from OP to OP1 and increases the equilibrium quantity from OM to OM1. On the contrary, when the supply falls, the supply curve moves to the left (S2S2) and intersects the DD curve at point E2 raising the equilibrium price from OP to OP2 and reducing the equilibrium quantity from OM to OM2.",
+              "**III) Effects of combined changes in demand and supply:**",
+              "When both demand and supply increase, the quantity of the product will increase definitely. But it is not certain whether the price will rise or fall. If an increase in demand is more than an increase in supply, then the price goes up. On the other hand, if an increase in supply is more than an increase in demand, the price falls but the quantity increases. If the increase in demand and supply is same, then the price remains the same.",
+              "When demand and supply decline, the quantity decreases. But the change in price will depend upon the relative fall in demand and supply. When the fall in demand is more than the fall in supply, the price will decrease. On the other hand, when the fall in supply is more than the fall in demand, the price will rise. If both demand and supply decline in the same ratio, there is no change in the equilibrium price, but the quantity decreases."
+            ],
+            "definitions": [
+              ["Change in Demand", "A shift of the demand curve due to changes in factors other than price."],
+              ["Change in Supply", "A shift of the supply curve due to changes in factors other than price."],
+              ["Combined Changes", "Simultaneous changes in both demand and supply."]
+            ],
+            "key_points": [
+              "Demand increase: price and quantity both increase.",
+              "Demand decrease: price and quantity both decrease.",
+              "Supply increase: price decreases, quantity increases.",
+              "Supply decrease: price increases, quantity decreases.",
+              "Combined changes: outcome depends on relative magnitudes."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Change", "Effect on Equilibrium Price", "Effect on Equilibrium Quantity"],
+                ["Demand increases", "Increase", "Increase"],
+                ["Demand decreases", "Decrease", "Decrease"],
+                ["Supply increases", "Decrease", "Increase"],
+                ["Supply decreases", "Increase", "Decrease"],
+                ["Both demand and supply increase (demand > supply)", "Increase", "Increase"],
+                ["Both demand and supply increase (supply > demand)", "Decrease", "Increase"],
+                ["Both demand and supply increase equally", "No change", "Increase"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 2  theory of demand and supply.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 2  theory of demand and supply in economics cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Why does the quantity of salt demanded tend to be unresponsive to changes in its price?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Price elasticity of demand.\n• Explanation & Derivation: Salt is a necessity with few substitutes, and it takes up a very small proportion of consumers' income. Therefore, its demand is inelastic.\n• Final Answer: Salt has inelastic demand because it is a necessity, has few substitutes, and represents a small fraction of income."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 2  theory of demand and supply.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university economics."
+      "question": "Why is the quantity of education demanded in private universities much more responsive than salt is to changes in price?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Price elasticity of demand.\n• Explanation & Derivation: Education at private universities is a luxury with many substitutes (public universities, other private universities, studying abroad). It also takes a large proportion of income. Therefore, its demand is elastic.\n• Final Answer: Education demand is elastic because it is a luxury with many substitutes and represents a large expenditure."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "To get the market demand curve for a product, why do we add individual demand curves horizontally rather than vertically?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Market demand.\n• Explanation & Derivation: Market demand shows the total quantity demanded at each price. At a given price, we add the quantities demanded by all buyers. This is horizontal summation. Vertical summation would add prices at given quantities, which is incorrect.\n• Final Answer: We add horizontally because we are summing quantities at each price, not prices at each quantity."
+    },
+    {
+      "question": "The market for lemon has 10 potential consumers, each having an individual demand curve P = 101 - 10Qi, where P is price in dollars per cup and Qi is the number of cups demanded per week by the ith consumer. Find the market demand curve using algebra. Draw an individual demand curve and the market demand curve. What is the quantity demanded by each consumer and in the market as a whole when lemon is priced at P = $1/cup?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Market demand from individual demand curves.\n• Explanation & Derivation:\n  - Individual demand: P = 101 - 10Qi → Qi = (101 - P)/10\n  - Market demand: Qm = 10 × Qi = 10 × (101 - P)/10 = 101 - P\n  - At P = $1: Qi = (101 - 1)/10 = 10 cups per consumer\n  - Qm = 10 × 10 = 100 cups\n• Final Answer: Market demand curve: Qm = 101 - P. At P = $1, each consumer demands 10 cups, and the market demands 100 cups."
+    },
+    {
+      "question": "The demand for tickets to an Ethiopian Camparada film is given by D(p) = 200,000 - 10,000p, where p is the price of tickets. If the price of tickets is 12 birr, calculate price elasticity of demand for tickets and draw the demand curve.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Price elasticity of demand (point).\n• Explanation & Derivation:\n  - Demand: Q = 200,000 - 10,000p\n  - At p = 12: Q = 200,000 - 10,000(12) = 80,000\n  - Slope ΔQ/Δp = -10,000\n  - Ed = (ΔQ/Δp) × (p/Q) = (-10,000) × (12/80,000) = -1.5\n  - |Ed| = 1.5 > 1 → elastic\n• Final Answer: Ed = -1.5 (elastic)."
+    },
+    {
+      "question": "Given market demand Qd = 50 - P, and market supply P = Qs + 5. A) Find the market equilibrium price and quantity? B) What would be the state of the market if market price was fixed at Birr 25 per unit? C) Calculate and interpret price elasticity of demand at the equilibrium point.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Market equilibrium and elasticity.\n• Explanation & Derivation:\n  - A) Qd = 50 - P; Qs = P - 5. At equilibrium: 50 - P = P - 5 → 2P = 55 → P = 27.5, Q = 22.5\n  - B) At P = 25: Qd = 50 - 25 = 25; Qs = 25 - 5 = 20. Shortage of 5 units.\n  - C) At equilibrium: Ed = (ΔQ/ΔP) × (P/Q) = (-1) × (27.5/22.5) = -1.22. Demand is elastic.\n• Final Answer: A) P = 27.5, Q = 22.5. B) Shortage of 5 units. C) Ed = -1.22 (elastic)."
+    },
+    {
+      "question": "Based on the following table which indicates expenditure of the household on a commodity, answer the questions that follow (The price of the good is Br. 10). Income (Br./month) | Quantity Demanded (units/month): 10,000 | 50; 20,000 | 60; 30,000 | 70; 40,000 | 80; 50,000 | 90. A) Calculate income elasticity of demand, if income increases from Br. 10,000 to Br. 20,000 and if income increases from Br. 40,000 to Br. 50,000. B) Is this a normal or an inferior or a luxury good? Justify. C) Does the proportion of household income spent on this good increase or decrease as income increases? Why?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Income elasticity of demand.\n• Explanation & Derivation:\n  - A) From 10,000 to 20,000: ε = ((60-50)/(50)) / ((20,000-10,000)/(10,000)) = (10/50) / (10,000/10,000) = 0.2 / 1 = 0.2\n  - From 40,000 to 50,000: ε = ((90-80)/(80)) / ((50,000-40,000)/(40,000)) = (10/80) / (10,000/40,000) = 0.125 / 0.25 = 0.5\n  - B) Both elasticities are positive but less than 1 → normal necessity good.\n  - C) Proportion of income spent: at 10,000: (50×10)/10,000 = 5%; at 50,000: (90×10)/50,000 = 1.8%. The proportion decreases as income increases.\n• Final Answer: A) 0.2 and 0.5. B) Normal necessity good. C) Proportion decreases because quantity demanded increases less than proportionally with income."
+    },
+    {
+      "question": "When price of tea in local café rises from Br. 10 to 15 per cup, demand for coffee rises from 3000 cups to 5000 cups a day despite no change in coffee prices. A) Determine cross price elasticity. B) Based on the result, what kind of relation exists between the two goods?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Cross price elasticity.\n• Explanation & Derivation:\n  - A) εxy = ((5000-3000)/(3000)) / ((15-10)/(10)) = (2000/3000) / (5/10) = 0.67 / 0.5 = 1.33\n  - B) Positive cross elasticity → substitutes.\n• Final Answer: A) εxy = 1.33. B) Tea and coffee are substitutes."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 2  THEORY OF DEMAND AND SUPPLY (university economics):\nThis complete study document covers all topics in Chapter 2  theory of demand and supply, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 2: THEORY OF DEMAND AND SUPPLY (University Freshman Introduction to Economics):\nThis chapter covers the theory of demand (meaning of demand, law of demand, demand schedule, demand curve, demand function, market demand, determinants of demand, elasticity of demand — price, income, cross), the theory of supply (meaning of supply, law of supply, supply schedule, supply curve, supply function, market supply, determinants of supply, elasticity of supply), and market equilibrium (definition, graphical representation, numerical examples, effects of changes in demand and supply on equilibrium). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 2: Theory of Demand and Supply — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
