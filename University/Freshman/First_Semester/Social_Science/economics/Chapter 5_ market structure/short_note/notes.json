@@ -1,65 +1,497 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "economics",
-    "unit_title": "Chapter 5  market structure"
+    "grade": "University Freshman",
+    "subject": "Economics",
+    "course_code": "Econ 1011",
+    "academic_path": "university/freshman/First_Semester/Social_Science/economics",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 5  market structure",
-      "paragraphs": [
-        "Introduction to Economics September 2019 This foundational concept establishes the governing principles of 1. Overview & Fundamentals of Chapter 5  market structure. Understanding these relationships enables students to connect underlying mechanisms, theoretical models, and real-world applications within the economics curriculum."
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 5  market structure: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how economics principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [
-        {
-          "eq": "Formula / Equation: Parameter = f(structure)",
-          "meaning": "Variables: Key Quantitative Quantities | Standard Units: SI / Relevant Units",
-          "details": "Mathematical formulation governing quantitative dependencies in 1. Overview & Fundamentals of Chapter 5  market structure."
-        }
-      ],
-      "tables": [
-        [
-          [
-            "Parameter / Variable",
-            "Description & Definition",
-            "SI Unit / Expression"
-          ],
-          [
-            "Primary Constant",
-            "Standard physical/mathematical quantity in 1. Overview & Fundamentals of Chapter 5  market structure",
-            "Standard Units"
-          ],
-          [
-            "Variable Parameter",
-            "Dependent variable analyzed in economics",
-            "Derived Units"
-          ]
+  "chapter": {
+    "chapter_number": "5",
+    "chapter_title": "Market Structure",
+    "chapter_subtitle": "Perfect Competition, Monopoly, Monopolistic Competition, and Oligopoly — A Complete Student Guide",
+    "chapter_introduction": "Welcome to Chapter 5 of Introduction to Economics. This chapter discusses how a particular firm makes a decision to achieve its profit maximization objective. A firm's decision to achieve this goal is dependent on the type of market in which it operates. To this effect we distinguish between four major types of markets: perfectly competitive market, monopolistically competitive market, oligopolistic market, and pure monopoly market. By the end of this chapter, you will be able to differentiate markets in physical and digital space, explain the characteristics and equilibrium condition of perfectly competitive markets, and differentiate between different types of imperfect market structures.",
+    "sections": [
+      {
+        "section_number": "5.1",
+        "section_title": "The Concept of Market in Physical and Digital Space",
+        "section_introduction": "Before we examine different market structures, let us understand what a market is and how it exists in both physical and digital spaces.",
+        "subsections": [
+          {
+            "subtitle": "5.1.1. Definition of Market",
+            "paragraphs": [
+              "A comprehensive definition of **market** according to the American Marketing Association (1985) is the process of planning and executing the conception, pricing, promotion, and distribution of goods, services and ideas to create exchanges that satisfy individual and organizational objectives. So market describes a **place or digital space** by which goods, services and ideas are exchanged to satisfy consumer need.",
+              "**Digital marketing** is the marketing of products or services using digital technologies, mainly on the internet but also including mobile phones, display advertising, and any other digital media. Digital marketing channels are systems on the internet that can create, accelerate and transmit product value from producer to the terminal consumer by digital networks.",
+              "**Physical market** is a set up where buyers can physically meet their sellers and purchase the desired merchandise from them in exchange of money. In physical marketing, marketers will effortlessly reach their target local customers and thus they have more personal approach to show about their brands. The choice of the marketing mainly depends on the nature of the products and services."
+            ],
+            "definitions": [
+              ["Market", "The process of planning and executing the conception, pricing, promotion, and distribution of goods, services and ideas to create exchanges that satisfy individual and organizational objectives."],
+              ["Digital Marketing", "The marketing of products or services using digital technologies, mainly on the internet but also including mobile phones, display advertising, and any other digital media."],
+              ["Physical Market", "A set up where buyers can physically meet their sellers and purchase the desired merchandise from them in exchange of money."]
+            ],
+            "key_points": [
+              "Market: place or digital space where exchange occurs.",
+              "Digital marketing: using digital technologies.",
+              "Physical market: buyers and sellers meet physically.",
+              "Choice of marketing depends on the nature of products and services."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Aspect", "Physical Market", "Digital Market"],
+                ["Definition", "Buyers and sellers meet physically", "Marketing using digital technologies"],
+                ["Channels", "Physical stores, markets", "Internet, mobile, display advertising"],
+                ["Approach", "Personal, local", "Digital, global"],
+                ["Nature", "Traditional", "Modern"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "5.2",
+        "section_title": "Perfectly Competitive Market",
+        "section_introduction": "Perfect competition is a market structure characterized by a complete absence of rivalry among the individual firms. Let us explore its assumptions, short run equilibrium, and the industry equilibrium.",
+        "subsections": [
+          {
+            "subtitle": "5.2.1. Assumptions of Perfectly Competitive Market",
+            "paragraphs": [
+              "A market is said to be **pure competition** (perfectly competitive market) if the following assumptions are satisfied:",
+              "1. **Large number of sellers and buyers:** Under perfect competition the number of sellers is assumed to be too large that the share of each seller in the total supply of a product is very small. Therefore, no single seller can influence the market price by changing the quantity supply. Similarly, the number of buyers is so large that the share of each buyer in the total demand is very small and that no single buyer or a group of buyers can influence the market price by changing their individual or group demand for a product. Therefore, in such a market structure, sellers and buyers are not price makers rather they are **price takers**, i.e., the price is determined by the interaction of the market supply and demand forces.",
+              "2. **Homogeneous product:** Homogeneity of the product implies that buyers do not distinguish between products supplied by the various firms of an industry. Product of each firm is regarded as a perfect substitute for the products of other firms. Therefore, no firm can gain any competitive advantage over the other firm.",
+              "3. **Perfect mobility of factors of production:** Factors of production are free to move from one firm to another throughout the economy. This means that labour can move from one job to another and from one region to another. Capital, raw materials, and other factors are not monopolized.",
+              "4. **Free entry and exit:** There is no restriction or market barrier on entry of new firms to the industry, and no restriction on exit of firms from the industry. A firm may enter the industry or quit it on its accord.",
+              "5. **Perfect knowledge about market conditions:** All the buyers and sellers have full information regarding the prevailing and future prices and availability of the commodity.",
+              "6. **No government interference:** Government does not interfere in any way with the functioning of the market. There are no discriminator taxes or subsidies, no allocation of inputs by the procurement, or any kind of direct or indirect control. That is, the government follows the free enterprise policy. Where there is intervention by the government, it is intended to correct the market imperfection.",
+              "From these assumptions, a single producer under perfectly competitive market is a **price-taker**. That is, at the market price, the firm can supply whatever quantity it would like to sell. Once the price of the product is determined in the market, the producer takes the price (Pm in the figure below) as given. Hence, the demand curve (Df) that the firm faces in this market situation is a **horizontal line** drawn at the equilibrium price, Pm."
+            ],
+            "definitions": [
+              ["Perfect Competition", "A market structure characterized by a complete absence of rivalry among the individual firms."],
+              ["Price Taker", "A firm that takes the market price as given and cannot influence it."],
+              ["Homogeneous Product", "Products that buyers do not distinguish between; perfect substitutes."],
+              ["Free Entry and Exit", "No barriers to entering or leaving the industry."],
+              ["Perfect Knowledge", "All buyers and sellers have full information about prices and products."]
+            ],
+            "key_points": [
+              "Perfect competition: no rivalry among firms.",
+              "Assumptions: large number of buyers and sellers, homogeneous product, perfect mobility, free entry and exit, perfect knowledge, no government interference.",
+              "Firms are price takers.",
+              "Firm's demand curve is horizontal at market price."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Assumption", "Explanation"],
+                ["Large Number of Buyers and Sellers", "No single buyer or seller can influence price"],
+                ["Homogeneous Product", "Products are perfect substitutes"],
+                ["Perfect Mobility of Factors", "Factors can move freely"],
+                ["Free Entry and Exit", "No barriers to entry or exit"],
+                ["Perfect Knowledge", "Full information about market conditions"],
+                ["No Government Interference", "Free enterprise policy"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Individual and Market Demand Curve",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "left_graph": {
+                    "title": "Market demand and supply",
+                    "x_axis": "Quantity",
+                    "y_axis": "Price",
+                    "curves": [
+                      {"label": "Demand", "points": [{"x": 0, "y": 50}, {"x": 100, "y": 0}]},
+                      {"label": "Supply", "points": [{"x": 0, "y": 10}, {"x": 60, "y": 40}]}
+                    ],
+                    "equilibrium": {"x": 40, "y": 30}
+                  },
+                  "right_graph": {
+                    "title": "Demand curve of a firm",
+                    "x_axis": "Quantity",
+                    "y_axis": "Price",
+                    "curve": {"label": "Df = MR = AR", "points": [{"x": 0, "y": 30}, {"x": 100, "y": 30}]},
+                    "note": "Horizontal line at market price Pm."
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.2.2. Short Run Equilibrium of the Firm",
+            "paragraphs": [
+              "The main objective of a firm is profit maximization. If the firm has to incur a loss, it aims to minimize the loss. Profit is the difference between total revenue and total cost.",
+              "**Total Revenue (TR):** It is the total amount of money a firm receives from a given quantity of its product sold. It is obtained by multiplying the unit price of the commodity and the quantity of that product sold.",
+              "**TR = P × Q**, where P = price of the product, Q = quantity of the product sold.",
+              "**Average Revenue (AR):** It is the revenue per unit of item sold. It is calculated by dividing the total revenue by the amount of the product sold.",
+              "**AR = TR / Q = (P × Q) / Q = P**",
+              "Therefore, the firm's demand curve is also the average revenue curve.",
+              "**Marginal Revenue (MR):** It is the additional amount of money/revenue the firm receives by selling one more unit of the product. In other words, it is the change in total revenue resulting from the sale of an extra unit of the product. It is calculated as the ratio of the change in total revenue to the change in the sale of the product.",
+              "**MR = ΔTR / ΔQ = Δ(P × Q) / ΔQ = P × ΔQ / ΔQ = P** (because P is constant)",
+              "Thus, in a perfectly competitive market, a firm's average revenue, marginal revenue and price of the product are equal, i.e., **AR = MR = P = Df**.",
+              "**There are two ways to determine the level of output at which a competitive firm will realize maximum profit or minimum loss.**",
+              "**a) Total Approach (TR-TC approach):**",
+              "In this approach, a firm maximizes total profits in the short run when the (positive) difference between total revenue (TR) and total costs (TC) is greatest.",
+              "The profit maximizing output level is Qe because it is at this output level that the vertical distance between the TR and TC curves (or profit) is maximized.",
+              "**b) Marginal Approach (MR-MC):**",
+              "In the short run, the firm will maximize profit or minimize loss by producing the output at which marginal revenue equals marginal cost. More specifically, the perfectly competitive firm maximizes its short-run total profits at the output when the following two conditions are met:",
+              "- **MR = MC**",
+              "- **The slope of MC is greater than slope of MR; or MC is rising** (that is, slope of MC is greater than zero).",
+              "**Mathematically, π = TR - TC**",
+              "π is maximized when dπ/dQ = 0",
+              "That is, dπ/dQ = dTR/dQ - dTC/dQ = 0",
+              "- MR - MC = 0",
+              "- **MR = MC** (First order condition, FOC)",
+              "The second order condition of profit maximization is d²π/dQ² < 0",
+              "That is, d²π/dQ² = d²TR/dQ² - d²TC/dQ² < 0",
+              "⇒ dMR/dQ - dMC/dQ < 0",
+              "⇒ dMR/dQ < dMC/dQ",
+              "⇒ dMC/dQ > dMR/dQ, where dMR/dQ = slope of MR and dMC/dQ = slope of MC",
+              "Therefore, **Slope of MC > slope of MR** (Second order condition, SOC)",
+              "⇒ **Slope of MC > 0** (because the slope of MR is zero)",
+              "The profit maximizing output is Qe, where MC = MR and MC curve is increasing. At Q*, MC = MR, but since MC is falling at this output level, it is not equilibrium output.",
+              "**Whether the firm in the short-run gets positive or zero or negative profit depends on the level of ATC at equilibrium. Thus, depending on the relationship between price and ATC, the firm in the short-run may earn economic profit, normal profit or incur loss and decide to shut-down business.**",
+              "**i) Economic/positive profit:** If the AC is below the market price at equilibrium, the firm earns a positive profit equal to the area between the ATC curve and the price line up to the profit maximizing output.",
+              "**ii) Loss:** If the AC is above the market price at equilibrium, the firm earns a negative profit (incurs a loss) equal to the area between the AC curve and the price line.",
+              "**iii) Normal Profit (zero profit) or break-even point:** If the AC is equal to the market price at equilibrium, the firm gets zero profit or normal profit.",
+              "**iv) Shutdown point:** The firm will not stop production simply because AC exceeds price in the short-run. The firm will continue to produce irrespective of the existing loss as far as the price is sufficient to cover the average variable costs. This means, if P is larger than AVC but smaller than AC, the firm minimizes total losses. But if P is smaller than AVC, the firm minimizes total losses by shutting down. Thus, **P = AVC is the shutdown point for the firm**.",
+              "**Example:** Suppose that the firm operates in a perfectly competitive market. The market price of its product is $10. The firm estimates its cost of production with the following cost function: TC = 2 + 10q - 4q² + q³",
+              "A) What level of output should the firm produce to maximize its profit?",
+              "B) Determine the level of profit at equilibrium.",
+              "C) What minimum price is required by the firm to stay in the market?",
+              "**Solution:**",
+              "Given: p = 10 and TC = 2 + 10q - 4q² + q³",
+              "A) The profit maximizing output is that level of output which satisfies the following condition: MC = MR & MC is rising",
+              "MR in a perfectly competitive market is equal to the market price. Hence, MR = 10",
+              "MC = dTC/dq = 10 - 8q + 3q²",
+              "To determine equilibrium output just equate MC & MR and then solve for q.",
+              "10 - 8q + 3q² = 10",
+              "-8q + 3q² = 0",
+              "q(-8 + 3q) = 0",
+              "q = 0 or q = 8/3",
+              "Now we have obtained two different output levels which satisfy the first order (necessary) condition of profit maximization. To determine which level of output maximizes profit we have to use the second order test at the two output levels.",
+              "Slope of MC = dMC/dq = -8 + 6q",
+              "At q = 0 slope of MC is -8 + 6(0) = -8 which implies that marginal cost is decreasing at q = 0. Thus, q = 0 is not equilibrium output because it doesn't satisfy the second order condition.",
+              "At q = 8/3 slope of MC is -8 + 6(8/3) = 8, which is positive, implying that MC is increasing at q = 8/3.",
+              "Thus, the equilibrium output level is q = 8/3.",
+              "B) TR = Price × Equilibrium Output = $10 × 8/3 = $80/3",
+              "TC at q = 8/3: TC = 2 + 10(8/3) - 4(8/3)² + (8/3)³ ≈ 19.18",
+              "Thus the equilibrium (maximum) profit is π = TR - TC = 26.67 - 19.18 = $7.48",
+              "C) To stay in operation the firm needs the price which equals at least the minimum AVC. Thus, to determine the minimum price required to stay in business, we have to determine the minimum AVC.",
+              "AVC = TVC/q = (10q - 4q² + q³)/q = 10 - 4q + q²",
+              "dAVC/dq = 0 ⇒ d(10 - 4q + q²)/dq = 0 ⇒ -4 + 2q = 0 ⇒ q = 2",
+              "Min AVC = 10 - 4(2) + 2² = 10 - 8 + 4 = 6",
+              "Thus, to stay in the market the firm should get a minimum price of $6."
+            ],
+            "definitions": [
+              ["Total Revenue (TR)", "The total amount of money a firm receives from selling a given quantity of its product."],
+              ["Average Revenue (AR)", "Revenue per unit of item sold; AR = TR/Q."],
+              ["Marginal Revenue (MR)", "The additional revenue from selling one more unit of the product."],
+              ["Profit Maximization", "The objective of a firm to maximize the difference between total revenue and total cost."],
+              ["Economic Profit", "Positive profit when AC is below market price."],
+              ["Loss", "Negative profit when AC is above market price."],
+              ["Normal Profit", "Zero profit when AC equals market price."],
+              ["Shutdown Point", "The point where P = min AVC; if P < AVC, the firm shuts down."]
+            ],
+            "key_points": [
+              "TR = P × Q; AR = TR/Q = P; MR = ΔTR/ΔQ = P.",
+              "In perfect competition: AR = MR = P = Df.",
+              "Two approaches: Total approach (TR-TC) and Marginal approach (MR-MC).",
+              "Profit maximization: MR = MC and MC rising.",
+              "First order condition: MR = MC.",
+              "Second order condition: slope of MC > slope of MR.",
+              "Economic profit: AC < P.",
+              "Loss: AC > P.",
+              "Normal profit: AC = P.",
+              "Shutdown point: P = min AVC."
+            ],
+            "formulas": [
+              ["Total Revenue", "TR = P × Q", ""],
+              ["Average Revenue", "AR = TR/Q = P", ""],
+              ["Marginal Revenue", "MR = ΔTR/ΔQ = P", ""],
+              ["Profit Maximization (FOC)", "MR = MC", ""],
+              ["Profit Maximization (SOC)", "Slope of MC > slope of MR", ""],
+              ["Shutdown Point", "P = min AVC", ""]
+            ],
+            "tables": [
+              [
+                ["Condition", "Profit/Loss", "Decision"],
+                ["P > AC", "Economic profit", "Produce"],
+                ["P = AC", "Normal profit", "Produce"],
+                ["AVC < P < AC", "Loss (minimized)", "Produce in short run"],
+                ["P < AVC", "Loss (minimized by shutdown)", "Shut down"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Marginal Approach of Profit Maximization",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Quantity",
+                  "y_axis": "MC, MR",
+                  "curves": [
+                    {"label": "MC", "points": [{"x": 0, "y": 10}, {"x": 1, "y": 5}, {"x": 2, "y": 8}, {"x": 3, "y": 15}, {"x": 4, "y": 25}]},
+                    {"label": "MR", "points": [{"x": 0, "y": 10}, {"x": 5, "y": 10}]}
+                  ],
+                  "equilibrium": {"x": 2.67, "y": 10},
+                  "note": "Profit maximizing output is Qe, where MC = MR and MC curve is increasing."
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.2.3. Short Run Equilibrium of the Industry",
+            "paragraphs": [
+              "Since the perfectly competitive firm always produces where P = MR = MC (as long as P exceeds AVC), the firm's short-run supply curve is given by the rising portion of its MC curve above its AVC, or shutdown point.",
+              "The industry/market supply curve is a horizontal summation of the supply curves of the individual firms. Industry supply curve can be obtained by multiplying the individual supply at various prices by the number of firms, if firms have identical supply curve.",
+              "An industry is in equilibrium in the short-run when market is cleared at a given price i.e. when the total supply of the industry equals the total demand for its product, the price at which market is cleared is equilibrium price. When an industry reaches at its equilibrium, there is no tendency to expand or to contract the output."
+            ],
+            "definitions": [
+              ["Short Run Supply Curve", "The rising portion of the MC curve above AVC."],
+              ["Industry Equilibrium", "A situation where total supply equals total demand at a given price."],
+              ["Market Clearing Price", "The price at which total supply equals total demand."]
+            ],
+            "key_points": [
+              "Firm's supply curve: rising portion of MC above AVC.",
+              "Industry supply curve: horizontal summation of firm supply curves.",
+              "Industry equilibrium: market cleared at given price.",
+              "No tendency to expand or contract output."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Explanation"],
+                ["Firm Supply Curve", "Rising portion of MC above AVC"],
+                ["Industry Supply Curve", "Horizontal summation of firm supply curves"],
+                ["Industry Equilibrium", "Total supply = Total demand"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.3",
+        "section_title": "Monopoly Market",
+        "section_introduction": "This is at the opposite end of the spectrum of market structures. Let us explore the definition, characteristics, and sources of monopoly.",
+        "subsections": [
+          {
+            "subtitle": "5.3.1. Definition and Characteristics",
+            "paragraphs": [
+              "**Pure monopoly** exists when a single firm is the only producer of a product for which there are no close substitutes.",
+              "**The main characteristics of this market structure include:**",
+              "1. **Single seller:** A pure or absolute monopoly is a one firm industry. A single firm is the only producer of a specific product or the sole supplier of the product; the firm and the industry are synonymous.",
+              "2. **No close substitutes:** The monopolist's product is unique in that there are no good or close substitutes. From the buyer's view point, there are no reasonable alternatives.",
+              "3. **Price maker:** The individual firm exercises a considerable control over price because it is responsible for, and therefore controls, the total quantity supplied. Confronted with the usual downward sloping demand curve for its product, the monopolist can change product price by changing the quantity of the product supplied.",
+              "4. **Blocked entry:** A pure monopolist has no immediate competitors because there are barriers, which keep potential competitors from entering in to the industry. These barriers may be economic, legal, technological etc. Under conditions of pure monopoly, entry is totally blocked."
+            ],
+            "definitions": [
+              ["Pure Monopoly", "A market structure in which a single firm is the only producer of a product for which there are no close substitutes."],
+              ["Price Maker", "A firm that can influence the price of its product by changing the quantity supplied."],
+              ["Blocked Entry", "Barriers that prevent potential competitors from entering the industry."]
+            ],
+            "key_points": [
+              "Monopoly: single seller, no close substitutes, price maker, blocked entry.",
+              "Firm and industry are synonymous.",
+              "Monopolist controls total quantity supplied.",
+              "Barriers to entry may be economic, legal, or technological."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Characteristic", "Explanation"],
+                ["Single Seller", "One firm is the only producer"],
+                ["No Close Substitutes", "Product is unique"],
+                ["Price Maker", "Firm controls price by controlling quantity"],
+                ["Blocked Entry", "Barriers prevent new firms from entering"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.3.2. Sources of Monopoly",
+            "paragraphs": [
+              "The emergence and survival of monopoly is attributed to the factors which prevent the entry of other firms in to the industry. The barriers to entry are therefore the sources of monopoly power. The major sources of barriers to entry are:",
+              "i) **Legal restriction:** Some monopolies are created by law in public interest. Such monopoly may be created in both public and private sectors. Most of the state monopolies in the public utility sector, including postal service, telegraph, telephone services, radio and TV services, generation and distribution of electricity, rail ways, airlines etc... are public monopolies.",
+              "ii) **Control over key raw materials:** Some firms acquire monopoly power from their traditional control over certain scarce and key raw materials that are essential for the production of certain other goods. For example, Aluminum Company of America had monopolized the aluminum industry because it had acquired control over almost all sources of bauxite supply; such monopolies are often called raw material monopolies.",
+              "iii) **Efficiency:** A primary and technical reason for growth of monopolies is economies of scale. The most efficient plant (probably large size firm,) which produces at minimum cost, can eliminate the competitors by curbing down its price for a short period and can acquire monopoly power. Monopolies created through efficiency are known as natural monopolies.",
+              "iv) **Patent rights:** Patent rights are granted by the government to a firm to produce commodity of specified quality and character or to use specified rights to produce the specified commodity or to use the specified technique of production. Such monopolies are called to patent monopolies."
+            ],
+            "definitions": [
+              ["Legal Restriction", "Monopolies created by law in public interest."],
+              ["Raw Material Monopoly", "Monopoly acquired through control over key raw materials."],
+              ["Natural Monopoly", "Monopoly created through efficiency and economies of scale."],
+              ["Patent Monopoly", "Monopoly granted by the government through patent rights."]
+            ],
+            "key_points": [
+              "Sources of monopoly: legal restriction, control over key raw materials, efficiency, patent rights.",
+              "Legal restriction: public utilities.",
+              "Raw material monopoly: control over scarce inputs.",
+              "Natural monopoly: economies of scale.",
+              "Patent monopoly: government-granted exclusive rights."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Source", "Explanation", "Example"],
+                ["Legal Restriction", "Monopoly created by law", "Postal service, utilities"],
+                ["Control over Raw Materials", "Control over key scarce inputs", "Aluminum Company of America"],
+                ["Efficiency (Natural Monopoly)", "Economies of scale", "Large firms with lower costs"],
+                ["Patent Rights", "Government-granted exclusive rights", "Pharmaceutical patents"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.4",
+        "section_title": "Monopolistically Competitive Market",
+        "section_introduction": "This market model is a blend of competition and monopoly. Let us explore its characteristics.",
+        "subsections": [
+          {
+            "subtitle": "5.4.1. Definition and Characteristics",
+            "paragraphs": [
+              "This market model can be defined as the market organization in which there are relatively many firms selling differentiated products. It is the blend of competition and monopoly. The competitive element arises from the existence of large number of firms and no barrier to entry or exit. The monopoly element results from differentiated products, i.e. similar but not identical products.",
+              "A seller of a differentiated product has limited monopoly power over customers who prefer his product to others. His monopoly is limited because the difference between his product and others are small enough that they are close substitutes for one another.",
+              "**This market is characterized by:**",
+              "(i) **Differentiated product:** The product produced and supplied by many sellers in the market is similar but not identical in the eyes of the buyers. There is a variety of the same product. The difference could be in style, brand name, in quality, or others. Hence, the differentiation of the product could be real (e.g. quality) or fancied (e.g. difference in packing).",
+              "(ii) **Many sellers and buyers:** There are many sellers and buyers of the product, but their number is not as large as that of the perfectly competitive market.",
+              "(iii) **Easy entry and exit:** Like the PCM, there is no barrier on new firms that are willing and able to produce and supply the product in the market. On the other hand, if any firm believes that it is not worth to stay in the business, it may exit.",
+              "(iv) **Existence of non-price competition:** Economic rivals take the form of non-price competition in terms of product quality, advertisement, brand name, service to customers, etc. A firm spends money in advertisement to reach the consumers about the relatively unique character of its product and thereby get new buyers and develop brand loyalty. Many retail trade activities such as clothing, shoes, soap, etc are in this type of market structure."
+            ],
+            "definitions": [
+              ["Monopolistic Competition", "A market organization in which there are relatively many firms selling differentiated products."],
+              ["Product Differentiation", "The product produced and supplied by many sellers is similar but not identical in the eyes of the buyers."],
+              ["Real Differentiation", "Difference in actual quality of the product."],
+              ["Fancied Differentiation", "Difference in perception, e.g., packaging."],
+              ["Non-Price Competition", "Competition through quality, advertisement, brand name, service, etc."]
+            ],
+            "key_points": [
+              "Monopolistic competition: blend of competition and monopoly.",
+              "Characteristics: differentiated product, many sellers and buyers, easy entry and exit, non-price competition.",
+              "Real vs. fancied differentiation.",
+              "Examples: clothing, shoes, soap."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Characteristic", "Explanation"],
+                ["Differentiated Product", "Similar but not identical products"],
+                ["Many Sellers and Buyers", "Many but not as many as perfect competition"],
+                ["Easy Entry and Exit", "No barriers to entry or exit"],
+                ["Non-Price Competition", "Quality, advertisement, brand name, service"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "5.5",
+        "section_title": "Oligopoly Market",
+        "section_introduction": "This is a market structure characterized by a few dominant firms. Let us explore its characteristics.",
+        "subsections": [
+          {
+            "subtitle": "5.5.1. Definition and Characteristics",
+            "paragraphs": [
+              "This is a market structure characterized by:",
+              "- **Few dominant firms:** There are few firms although the exact number of firms is undefined. Each firm produces a significant portion of the total output.",
+              "- **Interdependence:** Since few firms hold a significant share in the total output of the industry, each firm is affected by the price and output decisions of rival firms. Therefore, the distinguishing characteristic of oligopoly is the interdependence among firms in the industry.",
+              "- **Entry barrier:** There are considerable obstacles that hinder a new firm from producing and supplying the product. The barriers may include economies of scale, legal, control of strategic inputs, etc.",
+              "- **Products may be homogenous or differentiated:** If the product is homogeneous, we have a pure oligopoly. If the product is differentiated, it will be a differentiated oligopoly.",
+              "- **Lack of uniformity in the size of firms:** Firms differ considerably in size. Some may be small, others very large. Such a situation is asymmetrical.",
+              "- **Non-price competition:** Firms try to avoid price competition due to the fear of price wars and hence depend on non-price methods like advertising, after sales services, warranties, etc. This ensures that firms can influence demand and build brand recognition.",
+              "A special type of oligopoly in which there are only two firms in the market is known as **duopoly**."
+            ],
+            "definitions": [
+              ["Oligopoly", "A market structure characterized by a few dominant firms."],
+              ["Interdependence", "Each firm is affected by the price and output decisions of rival firms."],
+              ["Pure Oligopoly", "Oligopoly with homogeneous products."],
+              ["Differentiated Oligopoly", "Oligopoly with differentiated products."],
+              ["Duopoly", "A special type of oligopoly with only two firms."]
+            ],
+            "key_points": [
+              "Oligopoly: few dominant firms.",
+              "Interdependence is the key characteristic.",
+              "Entry barriers exist.",
+              "Products may be homogeneous or differentiated.",
+              "Firms differ in size.",
+              "Non-price competition is common.",
+              "Duopoly: two firms."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Characteristic", "Explanation"],
+                ["Few Dominant Firms", "Each firm produces a significant portion of total output"],
+                ["Interdependence", "Each firm affected by rivals' decisions"],
+                ["Entry Barrier", "Obstacles hinder new firms"],
+                ["Homogeneous or Differentiated", "Products may be either"],
+                ["Lack of Uniformity", "Firms differ in size"],
+                ["Non-Price Competition", "Advertising, after-sales service, warranties"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.5.2. Comparison of Market Structures",
+            "tables": [
+              [
+                ["Characteristic", "Pure Competition", "Monopolistic Competition", "Oligopoly", "Pure Monopoly"],
+                ["Number of firms", "Large", "Many", "Few", "One"],
+                ["Type of product", "Homogeneous", "Differentiated", "Homogeneous or differentiated", "Unique, no close substitutes"],
+                ["Control over price", "None", "Some, but within narrow limits", "Limited by mutual interdependence and collusion", "Significant"],
+                ["Condition of entry", "Very easy", "Relatively easy", "Considerable barriers", "Blocked"],
+                ["Examples", "Agricultural products", "Clothes, shoes", "Steel, automobiles", "Local utilities"]
+              ]
+            ],
+            "key_points": [
+              "Perfect competition: many firms, homogeneous product, no price control, easy entry.",
+              "Monopolistic competition: many firms, differentiated product, some price control, easy entry.",
+              "Oligopoly: few firms, homogeneous or differentiated, limited price control, barriers to entry.",
+              "Monopoly: one firm, unique product, significant price control, blocked entry."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 5  market structure.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 5  market structure in economics cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Discuss the main assumptions of perfectly competitive market.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Assumptions of perfect competition.\n• Explanation & Derivation:\n  1. Large number of sellers and buyers — no single buyer or seller can influence price.\n  2. Homogeneous product — products are perfect substitutes.\n  3. Perfect mobility of factors of production — factors can move freely.\n  4. Free entry and exit — no barriers to entry or exit.\n  5. Perfect knowledge — full information about market conditions.\n  6. No government interference — free enterprise policy.\n• Final Answer: The main assumptions are large numbers, homogeneous product, perfect mobility, free entry and exit, perfect knowledge, and no government interference."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 5  market structure.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university economics."
+      "question": "Describe the feature of monopolistic competition that resembles perfect competitive and the monopolistic market structure.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Monopolistic competition as a blend.\n• Explanation & Derivation:\n  - Resembles perfect competition: many sellers and buyers, easy entry and exit.\n  - Resembles monopoly: differentiated products give limited monopoly power.\n• Final Answer: Monopolistic competition resembles perfect competition in having many firms and easy entry/exit; it resembles monopoly in having differentiated products that give some price control."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "What is the difference between real and fancied differentiation. Explain using practical examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Real vs. fancied differentiation.\n• Explanation & Derivation:\n  - Real differentiation: actual differences in quality or performance (e.g., a car with better fuel efficiency).\n  - Fancied differentiation: perceived differences created by branding or packaging (e.g., identical soap with different packaging).\n• Final Answer: Real differentiation involves actual product differences; fancied differentiation involves perceived differences created by marketing."
+    },
+    {
+      "question": "What are the similarities and differences between oligopoly and monopolistically competitive market structure?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Oligopoly vs. monopolistic competition.\n• Explanation & Derivation:\n  - Similarities: Both have non-price competition, differentiated products possible, and some price control.\n  - Differences: Oligopoly has few dominant firms with interdependence and barriers to entry; monopolistic competition has many firms with easy entry and no interdependence.\n• Final Answer: Similarities: non-price competition, product differentiation, some price control. Differences: number of firms, interdependence, barriers to entry."
+    },
+    {
+      "question": "A firm operates in a perfectly competitive market. The market price of its product is 4 birr and the total cost function is given by TC = (1/3)Q^3 - 5Q^2 + 20Q + 50, where TC is the total cost and Q is the level of output. a) What level of output should the firm produce to maximize its profit? b) Determine the level of profit at equilibrium. c) What minimum price is required by the firm to stay in the market?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Perfect competition profit maximization.\n• Explanation & Derivation:\n  - A) MC = dTC/dQ = Q² - 10Q + 20. Set MC = P = 4: Q² - 10Q + 20 = 4 → Q² - 10Q + 16 = 0 → (Q-2)(Q-8) = 0 → Q = 2 or Q = 8.\n  - Check second order: slope of MC = dMC/dQ = 2Q - 10. At Q=2: -6 (MC falling, not equilibrium). At Q=8: 6 (MC rising, equilibrium). So Q = 8.\n  - B) TR = P×Q = 4×8 = 32. TC = (1/3)(8)³ - 5(8)² + 20(8) + 50 = 170.67 - 320 + 160 + 50 = 60.67. Profit = TR - TC = 32 - 60.67 = -28.67 (loss).\n  - C) Minimum price = min AVC. TVC = (1/3)Q³ - 5Q² + 20Q. AVC = (1/3)Q² - 5Q + 20. dAVC/dQ = (2/3)Q - 5 = 0 → Q = 7.5. Min AVC = (1/3)(7.5)² - 5(7.5) + 20 = 18.75 - 37.5 + 20 = 1.25. So minimum price = 1.25 birr.\n• Final Answer: a) Q = 8. b) Loss of 28.67 birr. c) Minimum price = 1.25 birr."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 5  MARKET STRUCTURE (university economics):\nThis complete study document covers all topics in Chapter 5  market structure, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 5: MARKET STRUCTURE (University Freshman Introduction to Economics):\nThis chapter covers the concept of market in physical and digital space (definition, digital marketing, physical market), perfectly competitive market (assumptions, short run equilibrium of the firm — TR-TC and MR-MC approaches, profit/loss/normal profit/shutdown point, short run equilibrium of the industry), monopoly market (definition, characteristics, sources of monopoly — legal restriction, control over raw materials, efficiency, patent rights), monopolistically competitive market (definition, characteristics — differentiated product, many sellers and buyers, easy entry and exit, non-price competition), and oligopoly market (definition, characteristics — few dominant firms, interdependence, entry barriers, homogeneous or differentiated products, non-price competition, duopoly). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 5: Market Structure — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
