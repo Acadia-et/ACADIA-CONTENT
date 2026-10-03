@@ -1,60 +1,465 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 3  leaning and theories of learning"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 3  leaning and theories of learning",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 3  leaning and theories of learning: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 3  leaning and theories of learning",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "3",
+    "chapter_title": "Learning and Theories of Learning",
+    "chapter_subtitle": "Definition, Characteristics, Principles, Factors, and Theories of Learning",
+    "chapter_introduction": "Welcome to Chapter 3 of General Psychology. Almost all human behavior is learned. Imagine if you suddenly lost all you had ever learned — you would be unable to read, write, speak, feed yourself, find your way home, or drive a car. Learning is involved in almost every phenomenon psychologists study. This chapter explores the nature of learning, its characteristics and principles, the factors that influence learning, and the major theories of learning — behavioral (classical and operant conditioning), social learning (observational learning), and cognitive learning theories — along with their applications.",
+    "sections": [
+      {
+        "section_number": "3.1",
+        "section_title": "Definition, Characteristics and Principles of Learning",
+        "section_introduction": "Learning is a relatively permanent change in behavior occurring as a result of experience or practice. In this section, we explore the definition, characteristics, and principles of learning.",
+        "subsections": [
+          {
+            "subtitle": "3.1.1. Definitions of Learning",
+            "paragraphs": [
+              "**Learning** is a relatively permanent change in behavior occurring as a result of experience or practice.",
+              "**Four attributes of learning:**",
+              "- Learning is a change in behavior.",
+              "- This change in behavior is relatively permanent.",
+              "- It does not include change due to illness, fatigue, maturation, and use of intoxicants.",
+              "- This permanent change in behavior is not because of biological factors (like hormonal changes) but because of experience or practice.",
+              "- Learning is not directly observable but manifests in the activities of the individual."
+            ],
+            "definitions": [
+              ["Learning", "A relatively permanent change in behavior occurring as a result of experience or practice."]
+            ],
+            "key_points": [
+              "Learning: relatively permanent change in behavior.",
+              "Change is due to experience or practice.",
+              "Excludes changes due to illness, fatigue, maturation, intoxicants.",
+              "Learning is not directly observable."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Attribute", "Description"],
+                ["Change in Behavior", "Learning involves a change in what a person does"],
+                ["Relatively Permanent", "The change endures over time"],
+                ["Excludes Biological Factors", "Not due to illness, fatigue, maturation, or intoxicants"],
+                ["Due to Experience/Practice", "Results from interaction with the environment"],
+                ["Not Directly Observable", "Manifests in activities"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "3.1.2. Characteristics of Learning",
+            "paragraphs": [
+              "**Characteristics of learning (Yoakman and Simpson):**",
+              "1. Learning is continuous modification of behavior throughout life.",
+              "2. Learning is pervasive; it reaches into all aspects of human life.",
+              "3. Learning involves the whole person — socially, emotionally and intellectually.",
+              "4. Learning is often a change in the organization of experiences.",
+              "5. Learning is responsive to incentives.",
+              "6. Learning is an active process.",
+              "7. Learning is purposeful.",
+              "8. Learning depends on maturation, motivation and practice.",
+              "9. Learning is multifaceted."
+            ],
+            "definitions": [
+              ["Continuous Modification", "Learning changes behavior throughout life."],
+              ["Pervasive", "Learning reaches into all aspects of human life."],
+              ["Multifaceted", "Learning has many dimensions."]
+            ],
+            "key_points": [
+              "Learning is continuous, pervasive, and multifaceted.",
+              "Learning involves the whole person.",
+              "Learning is an active, purposeful process.",
+              "Learning depends on maturation, motivation, and practice."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Characteristic", "Description"],
+                ["Continuous", "Modification of behavior throughout life"],
+                ["Pervasive", "Reaches into all aspects of human life"],
+                ["Whole Person", "Involves social, emotional, and intellectual dimensions"],
+                ["Organization of Experiences", "Change in how experiences are organized"],
+                ["Responsive to Incentives", "Influenced by rewards and motivation"],
+                ["Active Process", "Requires active engagement"],
+                ["Purposeful", "Directed toward goals"],
+                ["Depends on Maturation, Motivation, Practice", "Requires readiness and effort"],
+                ["Multifaceted", "Has many dimensions"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "3.1.3. Principles of Learning",
+            "paragraphs": [
+              "**Principles of learning:**",
+              "1. Individuals learn best when they are physically, mentally, and emotionally ready to learn.",
+              "2. Students learn best and retain information longer when they have meaningful practice and exercise.",
+              "3. Learning is strengthened when accompanied by a pleasant or satisfying feeling, and weakened when associated with an unpleasant feeling.",
+              "4. Things learned first create a strong impression in the mind that is difficult to erase.",
+              "5. Things most recently learned are best remembered.",
+              "6. The principle of intensity implies that a student will learn more from the real thing than from a substitute.",
+              "7. Individuals must have some abilities and skills that may help them to learn.",
+              "8. Things freely learned are best learned — the greater the freedom enjoyed by individuals, the higher the intellectual and moral advancement."
+            ],
+            "definitions": [
+              ["Readiness", "Physical, mental, and emotional preparedness to learn."],
+              ["Meaningful Practice", "Practice that is relevant and engaging."],
+              ["Principle of Intensity", "Learning from real experiences is more effective than substitutes."]
+            ],
+            "key_points": [
+              "Readiness, meaningful practice, and pleasant feelings enhance learning.",
+              "First and most recent learnings are strongest.",
+              "Real experiences are more effective than substitutes.",
+              "Freedom enhances learning."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Principle", "Description"],
+                ["Readiness", "Learn best when physically, mentally, emotionally ready"],
+                ["Meaningful Practice", "Retain longer with meaningful practice and exercise"],
+                ["Pleasant Feeling", "Strengthened by pleasant feelings; weakened by unpleasant ones"],
+                ["Primacy", "Things learned first create strong impressions"],
+                ["Recency", "Things most recently learned are best remembered"],
+                ["Intensity", "Learn more from real things than substitutes"],
+                ["Abilities and Skills", "Must have some abilities and skills to learn"],
+                ["Freedom", "Freely learned things are best learned"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "3.2",
+        "section_title": "Factors Influencing Learning",
+        "section_introduction": "Several factors affect learning. In this section, we explore motivation, maturation, health, psychological well-being, working conditions, background experiences, length of working period, and massed vs. distributed learning.",
+        "subsections": [
+          {
+            "subtitle": "3.2.1. Factors Influencing Learning",
+            "paragraphs": [
+              "**1. Motivation:** The learner's motivation matters for the effectiveness of learning. The stronger and clearer the motives for learning, the greater the effort to learn.",
+              "**2. Maturation:** Neuro-muscular coordination is important for learning a given task. The child has to be mature before she/he is able to learn.",
+              "**3. Health condition of the learner:** The learner should be in good health to learn. Sensory defects, malnutrition, toxic conditions of the body, loss of sleep and fatigue hinder effective learning.",
+              "**4. Psychological well-being of the learner:** Worries, fears, feelings of loneliness and inferiority hinder learning. Self-respect, self-reliance, and self-confidence are necessary for effective learning.",
+              "**5. Good working conditions:** Absence or presence of fresh air, light, comfortable surroundings, moderate temperature, absence of distractions like noise and learning aids determine learning effectiveness.",
+              "**6. Background experiences:** All related facts and understandings from a previously learned course should be brought to new learning.",
+              "**7. Length of the working period:** Learning periods should neither be too short nor too long. Long learning time sets fatigue; short learning time doesn't allow adequate practice.",
+              "**8. Massed and distributed learning:** Learning that spreads across time with reasonable time gaps (distributed) brings better results compared with crammed learning (massed)."
+            ],
+            "definitions": [
+              ["Motivation", "The drive or desire to learn."],
+              ["Maturation", "Biological readiness for learning."],
+              ["Massed Learning", "Learning that occurs at once or within a short span of time."],
+              ["Distributed Learning", "Learning that spreads across time with reasonable time gaps."]
+            ],
+            "key_points": [
+              "Motivation, maturation, and health affect learning.",
+              "Psychological well-being and working conditions matter.",
+              "Background experiences and length of working period influence learning.",
+              "Distributed learning is better than massed learning."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Factor", "Description", "Effect on Learning"],
+                ["Motivation", "Drive or desire to learn", "Higher motivation = greater effort"],
+                ["Maturation", "Biological readiness", "Must be mature to learn certain tasks"],
+                ["Health", "Physical condition", "Sensory defects, malnutrition hinder learning"],
+                ["Psychological Well-being", "Emotional state", "Worries, fears hinder; self-confidence helps"],
+                ["Working Conditions", "Environment", "Fresh air, light, moderate temperature help"],
+                ["Background Experiences", "Prior knowledge", "Related facts should be brought to new learning"],
+                ["Length of Working Period", "Duration of study", "Too short or too long reduces effectiveness"],
+                ["Massed vs. Distributed", "Spacing of learning", "Distributed learning is more effective"]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "3.3",
+        "section_title": "Theories of Learning and their Applications",
+        "section_introduction": "In this section, we explore the major theories of learning: behavioral (classical and operant conditioning), social learning (observational learning), and cognitive learning theories.",
+        "subsections": [
+          {
+            "subtitle": "3.3.1. Behavioral Theory of Learning",
+            "paragraphs": [
+              "**Behavioral theory of learning** believes that learning occurs as a result of stimulus-response associations. Behavioral theories emphasize observable behaviors, seek laws to govern all organisms, and provide explanations that focus on consequences.",
+              "There are two major behavioral theories of learning: **classical conditioning** and **operant conditioning**."
+            ],
+            "definitions": [
+              ["Behavioral Theory", "Learning occurs as a result of stimulus-response associations."]
+            ],
+            "key_points": [
+              "Behavioral theory: stimulus-response associations.",
+              "Emphasizes observable behaviors.",
+              "Focuses on consequences.",
+              "Two major theories: classical and operant conditioning."
+            ],
+            "formulas": [],
+            "tables": []
+          },
+          {
+            "subtitle": "3.3.1.1. Classical Conditioning Theory",
+            "paragraphs": [
+              "**Classical conditioning** focuses on the learning of making involuntary emotional or physiological responses to stimuli that normally elicit no response.",
+              "**Key terms:**",
+              "- **Neutral stimulus:** A stimulus that, before conditioning, does not naturally bring about the response of interest.",
+              "- **Unconditioned stimulus (UCS):** A stimulus that naturally brings about a particular response without having been learned.",
+              "- **Unconditioned response (UCR):** A response that is natural and needs no training.",
+              "- **Conditioned stimulus (CS):** A once neutral stimulus that has been paired with an unconditioned stimulus to bring about a response formerly caused only by the unconditioned stimulus.",
+              "- **Conditioned response (CR):** A response that, after conditioning, follows a previously neutral stimulus.",
+              "**Pavlov's Experiment:**",
+              "- Before training: CS (bell) → No response; UCS (meat) → UCR (salivation).",
+              "- During training: CS (bell) + UCS (meat) → UCR (salivation).",
+              "- After training: CS (bell) → CR (salivation).",
+              "**Principles of Classical Conditioning:**",
+              "- **Stimulus generalization:** After a stimulus has been conditioned to produce a particular response, stimuli that are similar to the original stimulus begin to produce the same response.",
+              "- **Stimulus discrimination:** The process of distinguishing two similar stimuli.",
+              "- **Extinction:** If a CS is repeatedly presented without presenting the UCS, the CR will diminish and eventually stop occurring.",
+              "- **Spontaneous recovery:** The reemergence of an extinguished conditioned response after a period of rest and with no further conditioning."
+            ],
+            "definitions": [
+              ["Classical Conditioning", "Learning of making involuntary emotional or physiological responses to stimuli that normally elicit no response."],
+              ["Neutral Stimulus", "A stimulus that, before conditioning, does not naturally bring about the response of interest."],
+              ["Unconditioned Stimulus (UCS)", "A stimulus that naturally brings about a particular response without having been learned."],
+              ["Unconditioned Response (UCR)", "A response that is natural and needs no training."],
+              ["Conditioned Stimulus (CS)", "A once neutral stimulus that has been paired with an unconditioned stimulus."],
+              ["Conditioned Response (CR)", "A response that, after conditioning, follows a previously neutral stimulus."],
+              ["Stimulus Generalization", "Similar stimuli produce the same response."],
+              ["Stimulus Discrimination", "Distinguishing two similar stimuli."],
+              ["Extinction", "CR diminishes and stops when CS is presented without UCS."],
+              ["Spontaneous Recovery", "Reemergence of an extinguished CR after a rest period."]
+            ],
+            "key_points": [
+              "Classical conditioning: involuntary responses to stimuli.",
+              "Key terms: UCS, UCR, CS, CR.",
+              "Pavlov's experiment: bell (CS) + meat (UCS) → salivation (CR).",
+              "Principles: generalization, discrimination, extinction, spontaneous recovery."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Stage", "Stimulus", "Response"],
+                ["Before Training", "CS (bell)", "No response"],
+                ["Before Training", "UCS (meat)", "UCR (salivation)"],
+                ["During Training", "CS (bell) + UCS (meat)", "UCR (salivation)"],
+                ["After Training", "CS (bell)", "CR (salivation)"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Pavlov's Classical Conditioning Experiment",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "stages": [
+                    {"stage": "Before Training", "cs": "Bell", "ucs": "Meat", "response": "No response to bell; Salivation to meat"},
+                    {"stage": "During Training", "cs": "Bell + Meat", "response": "Salivation"},
+                    {"stage": "After Training", "cs": "Bell", "response": "Salivation (CR)"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "3.3.1.2. Operant/Instrumental Conditioning",
+            "paragraphs": [
+              "**Operant conditioning** is learning in which a voluntary response is strengthened or weakened, depending on its favorable or unfavorable consequences.",
+              "**Three types of consequences:**",
+              "- **Neutral consequence:** Does not alter the response.",
+              "- **Reinforcement:** Strengthens the response or makes it more likely to recur.",
+              "- **Punishment:** Weakens the response or makes it less likely to recur.",
+              "**Types of Reinforcers:**",
+              "- **Primary reinforcers:** Satisfy biological needs (food, water, light, stroking of skin, comfortable air temperature).",
+              "- **Secondary reinforcers:** Reinforce behavior because of prior association with primary reinforcing stimuli (money, praise, applause, good grades, awards, gold stars).",
+              "**Positive and Negative Reinforcement:**",
+              "- **Positive reinforcement:** Presentation of a stimulus makes behavior more likely to occur again.",
+              "- **Negative reinforcement:** Termination of an aversive stimulus makes behavior more likely to occur.",
+              "**Schedules of Reinforcement:**",
+              "- **Continuous reinforcement:** Response is reinforced each time it occurs.",
+              "- **Fixed-ratio schedule:** Reinforcement occurs after a fixed number of responses.",
+              "- **Variable-ratio schedule:** Reinforcement occurs after some average number of responses.",
+              "- **Fixed-interval schedule:** Reinforcement occurs only if a fixed amount of time has passed.",
+              "- **Variable-interval schedule:** Reinforcement occurs only if a variable amount of time has passed.",
+              "**Punishment:** A stimulus that weakens the response or makes it less likely to recur.",
+              "**Pros and Cons of Punishment:**",
+              "- Immediacy, consistency, and intensity matter for effectiveness.",
+              "- When punishment fails: administered inappropriately, recipient responds with anxiety/fear/rage, effectiveness is temporary, behavior is hard to punish immediately, punishment conveys little information.",
+              "**Shaping:** An operant conditioning procedure in which successive approximations of a desired response are reinforced."
+            ],
+            "definitions": [
+              ["Operant Conditioning", "Learning in which a voluntary response is strengthened or weakened by consequences."],
+              ["Reinforcement", "A consequence that strengthens the response."],
+              ["Punishment", "A consequence that weakens the response."],
+              ["Primary Reinforcer", "Satisfies biological needs."],
+              ["Secondary Reinforcer", "Reinforces through association with primary reinforcers."],
+              ["Positive Reinforcement", "Presentation of a stimulus increases behavior."],
+              ["Negative Reinforcement", "Termination of an aversive stimulus increases behavior."],
+              ["Continuous Reinforcement", "Reinforcing every response."],
+              ["Fixed-Ratio Schedule", "Reinforcement after a fixed number of responses."],
+              ["Variable-Ratio Schedule", "Reinforcement after an average number of responses."],
+              ["Fixed-Interval Schedule", "Reinforcement after a fixed amount of time."],
+              ["Variable-Interval Schedule", "Reinforcement after a variable amount of time."],
+              ["Shaping", "Reinforcing successive approximations of a desired response."]
+            ],
+            "key_points": [
+              "Operant conditioning: voluntary responses influenced by consequences.",
+              "Reinforcement strengthens; punishment weakens.",
+              "Primary and secondary reinforcers.",
+              "Positive and negative reinforcement.",
+              "Schedules: continuous, fixed-ratio, variable-ratio, fixed-interval, variable-interval.",
+              "Punishment: immediacy, consistency, intensity matter.",
+              "Shaping: reinforcing successive approximations."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Reinforcement/Punishment", "Positive (Adding)", "Negative (Removing)"],
+                ["Reinforcement", "Positive Reinforcement (e.g., gold star)", "Negative Reinforcement (e.g., avoiding ticket by stopping at red light)"],
+                ["Punishment", "Punishment by Application (e.g., spanking)", "Punishment by Removal (e.g., losing privilege)"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Four Ways to Modify Behavior",
+                "diagram_type": "matrix",
+                "diagram_data": {
+                  "rows": ["Reinforcement", "Punishment"],
+                  "columns": ["Positive (Adding)", "Negative (Removing)"],
+                  "cells": [
+                    {"row": "Reinforcement", "column": "Positive", "value": "Positive Reinforcement"},
+                    {"row": "Reinforcement", "column": "Negative", "value": "Negative Reinforcement"},
+                    {"row": "Punishment", "column": "Positive", "value": "Punishment by Application"},
+                    {"row": "Punishment", "column": "Negative", "value": "Punishment by Removal"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "3.3.2. Social Learning Theory (Observational Learning)",
+            "paragraphs": [
+              "**Social learning theory** (Albert Bandura) states that a major part of human learning consists of observational learning — learning by watching the behavior of another person, or model.",
+              "**Four conditions necessary for modeling:**",
+              "1. **Attention:** The person must first pay attention to the model.",
+              "2. **Retention:** The observer must be able to remember the behavior that has been observed.",
+              "3. **Motor reproduction:** The ability to replicate the behavior that the model has just demonstrated.",
+              "4. **Motivation:** Learners must want to demonstrate what they have learned.",
+              "**Educational Implications:**",
+              "- Students learn by observing others.",
+              "- Describing consequences can increase appropriate behaviors and decrease inappropriate ones.",
+              "- Modeling provides an alternative to shaping.",
+              "- Teachers and parents must model appropriate behaviors.",
+              "- Expose students to a variety of models.",
+              "- Develop a sense of self-efficacy for students.",
+              "- Help students set realistic expectations.",
+              "- Self-regulation techniques improve student behavior."
+            ],
+            "definitions": [
+              ["Social Learning Theory", "Learning by watching the behavior of another person or model."],
+              ["Observational Learning", "Learning by observing others."],
+              ["Attention", "Paying attention to the model."],
+              ["Retention", "Remembering the observed behavior."],
+              ["Motor Reproduction", "Ability to replicate the behavior."],
+              ["Motivation", "Wanting to demonstrate what has been learned."],
+              ["Self-Efficacy", "Belief in one's ability to accomplish tasks."]
+            ],
+            "key_points": [
+              "Social learning theory: observational learning.",
+              "Four conditions: attention, retention, motor reproduction, motivation.",
+              "Educational implications: modeling, consequences, self-efficacy, realistic expectations."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Condition", "Description", "Application"],
+                ["Attention", "Pay attention to the model", "Focus on the demonstration"],
+                ["Retention", "Remember the observed behavior", "Rehearsal, repetition"],
+                ["Motor Reproduction", "Ability to replicate the behavior", "Practice, developmental readiness"],
+                ["Motivation", "Want to demonstrate what has been learned", "Reinforcement, self-efficacy"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "3.3.3. Cognitive Learning Theory",
+            "paragraphs": [
+              "**Cognitive learning theory** emphasizes the role of mental processes in learning. It includes **latent learning** and **insight learning**.",
+              "**Latent Learning:** Learning that occurs but is not evident in behavior until later, when conditions for its appearance are favorable. It occurs without reinforcement of particular responses.",
+              "**Tolman and Honzic (1930):** Three groups of rats in mazes. Group 1 found food every day; Group 2 found no food; Group 3 found no food for ten days, then received food on the eleventh day. Group 3 rats demonstrated latent learning — they quickly learned to run to the end of the maze once rewarded.",
+              "**Insight Learning:** A cognitive process whereby we reorganize our perception of a problem. It doesn't depend on conditioning of particular behaviors for its occurrence. The solution comes suddenly, often after a period of no apparent progress.",
+              "**'Aha' experience:** The good feeling experienced when solving a problem insightfully."
+            ],
+            "definitions": [
+              ["Latent Learning", "Learning that occurs but is not evident in behavior until later."],
+              ["Insight Learning", "A cognitive process whereby we reorganize our perception of a problem."],
+              ["'Aha' Experience", "The good feeling experienced when solving a problem insightfully."]
+            ],
+            "key_points": [
+              "Cognitive learning theory: mental processes in learning.",
+              "Latent learning: hidden until favorable conditions.",
+              "Tolman and Honzic's experiment: rats demonstrated latent learning.",
+              "Insight learning: sudden reorganization of perception.",
+              "'Aha' experience: good feeling from insightful solution."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Type of Learning", "Description", "Key Feature"],
+                ["Latent Learning", "Learning occurs but is not evident until later", "Hidden until favorable conditions"],
+                ["Insight Learning", "Reorganization of perception of a problem", "Sudden solution; 'aha' experience"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 3  leaning and theories of learning.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 3  leaning and theories of learning in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Explain the general meaning, types, and factors of learning.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Learning is a relatively permanent change in behavior due to experience or practice.\n• Explanation & Derivation:\n  - Types: behavioral (classical, operant), social (observational), cognitive (latent, insight).\n  - Factors: motivation, maturation, health, psychological well-being, working conditions, background experiences, length of working period, massed vs. distributed learning.\n• Final Answer: Learning is a permanent change in behavior. Types include behavioral, social, and cognitive. Factors include motivation, maturation, health, and others."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 3  leaning and theories of learning.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Identify the characteristics of learning.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Characteristics of learning.\n• Explanation & Derivation:\n  - Continuous, pervasive, whole person, organization of experiences, responsive to incentives, active, purposeful, depends on maturation/motivation/practice, multifaceted.\n• Final Answer: Learning is continuous, pervasive, involves the whole person, and is multifaceted."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Describe some of the theories designed to explain the characteristics of learning.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Theories: classical conditioning, operant conditioning, social learning, cognitive learning.\n• Explanation & Derivation:\n  - Classical: involuntary responses; Pavlov.\n  - Operant: voluntary responses; Skinner; reinforcement and punishment.\n  - Social: observational learning; Bandura.\n  - Cognitive: latent and insight learning.\n• Final Answer: The major theories are classical conditioning, operant conditioning, social learning, and cognitive learning."
+    },
+    {
+      "question": "Differentiate the viewpoints of different theories of learning.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Comparison of learning theories.\n• Explanation & Derivation:\n  - Classical: learning through association.\n  - Operant: learning through consequences.\n  - Social: learning through observation.\n  - Cognitive: learning through mental processes.\n• Final Answer: Classical focuses on associations; operant on consequences; social on observation; cognitive on mental processes."
+    },
+    {
+      "question": "Discuss the applications of theories of learning.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Applications in classroom.\n• Explanation & Derivation:\n  - Classical: desensitization for fears.\n  - Operant: reinforcement, shaping, managing problem behavior.\n  - Social: modeling, self-efficacy, realistic expectations.\n  - Cognitive: insight, problem-solving.\n• Final Answer: Learning theories apply to classroom management, behavior modification, teaching strategies, and student motivation."
+    },
+    {
+      "question": "State techniques used to motivate and reinforce behavior.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Motivation and reinforcement techniques.\n• Explanation & Derivation:\n  - Positive reinforcement: praise, grades, awards.\n  - Negative reinforcement: removing aversive stimuli.\n  - Shaping: reinforcing successive approximations.\n  - Schedules: continuous, intermittent.\n• Final Answer: Techniques include positive reinforcement, negative reinforcement, shaping, and various schedules of reinforcement."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 3  LEANING AND THEORIES OF LEARNING (university psychology):\nThis complete study document covers all topics in Chapter 3  leaning and theories of learning, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 3: LEARNING AND THEORIES OF LEARNING (University Freshman General Psychology):\nThis chapter covers the definition of learning (relatively permanent change in behavior due to experience or practice), characteristics of learning (continuous, pervasive, whole person, multifaceted), principles of learning (readiness, meaningful practice, pleasant feeling, primacy, recency, intensity, abilities, freedom), factors influencing learning (motivation, maturation, health, psychological well-being, working conditions, background experiences, length of working period, massed vs. distributed learning), and theories of learning: behavioral theory (classical conditioning — Pavlov; operant conditioning — Skinner; reinforcement, punishment, shaping, schedules of reinforcement), social learning theory (observational learning — Bandura; attention, retention, motor reproduction, motivation), and cognitive learning theory (latent learning — Tolman; insight learning). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 3: Learning and Theories of Learning — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
