@@ -1,60 +1,823 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 11  social skills"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 11  social skills",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 11  social skills: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 11  social skills",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "11",
+    "chapter_title": "Social Skills",
+    "chapter_subtitle": "Cultural Diversity, Gender and Social Inclusion, Interpersonal Communication, Social Influence, Peer Pressure, Assertiveness, Conflict Resolution, Teamwork, and Overcoming Risky Behavior",
+    "chapter_introduction": "Welcome to Chapter 11 of General Psychology. This chapter focuses on social skills — the abilities that help you build and maintain healthy relationships with others. You will learn about cultural diversity and diversity management, gender and social inclusion, interpersonal communication, social influence, peer pressure, assertiveness, conflict and conflict resolution, teamwork, and overcoming risky behavior. These skills are essential for living harmoniously in a diverse and interconnected world.",
+    "sections": [
+      {
+        "section_number": "11.1",
+        "section_title": "Understanding Cultural Diversity",
+        "section_introduction": "What is cultural diversity? Why is it important? This section explores the concept of cultural diversity and how to manage it effectively.",
+        "subsections": [
+          {
+            "subtitle": "11.1.1. What Is Cultural Diversity?",
+            "paragraphs": [
+              "**Definition:** **Diversity** has become the defining characteristic of our social and cultural worlds. We are now constantly confronted with a multitude of ways in which we can define ourselves, and categorize others. Ethnicity, nationality, gender, religion, occupation, political affiliation, skin color, profession, and others can define our identity.",
+              "**Culture** is the criteria with which we evaluate everything around us. We evaluate what is proper or improper, normal or abnormal through our culture. If we are immersed in a culture that is unlike ours, we may experience **culture shock** and become disoriented. When we come into contact with a fundamentally different culture, we start thinking about our own culture. People naturally use their culture as the standard to judge other cultures. However, passing judgment could reach a level where people begin to discriminate against others whose 'ways of being' are different from their own. Essentially, we tend to fear the culture we do not understand.",
+              "**Cultural diversity** helps us recognize and respect 'ways of being' that are not necessarily ours. If we interact with others, we can build bridges to trust, respect, and understanding across cultures. Furthermore, this diversity makes our country a more interesting place to live. People from diverse cultures contribute language skills, new ways of thinking, new knowledge, and different experiences.",
+              "**Multiculturalism** is defined as: '...a system of beliefs and behaviors that recognizes and respects the presence of all diverse groups in an organization or society, acknowledges and values their socio-cultural differences, and encourages and enables their continued contribution within an inclusive cultural context which empowers all within the organization or society' (Belfield, 2012)."
+            ],
+            "definitions": [
+              ["Cultural Diversity", "The presence of multiple cultures and cultural groups within a society or organization."],
+              ["Culture", "The criteria with which we evaluate everything around us; includes values, beliefs, and behaviors."],
+              ["Culture Shock", "The disorientation experienced when encountering a fundamentally different culture."],
+              ["Multiculturalism", "A system of beliefs and behaviors that recognizes and respects the presence of all diverse groups in an organization or society."]
+            ],
+            "key_points": [
+              "Diversity is the defining characteristic of our social and cultural worlds.",
+              "Culture shapes how we evaluate everything.",
+              "Cultural diversity helps us recognize and respect other ways of being.",
+              "Multiculturalism recognizes and values socio-cultural differences."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Definition", "Example"],
+                ["Cultural Diversity", "Presence of multiple cultures", "Ethiopia's many ethnic groups and languages"],
+                ["Culture Shock", "Disorientation in a new culture", "Feeling lost in a foreign country"],
+                ["Multiculturalism", "Recognizing and valuing diversity", "Celebrating different cultural festivals"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Cultural Diversity",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Cultural Diversity",
+                  "branches": [
+                    "Ethnicity",
+                    "Nationality",
+                    "Gender",
+                    "Religion",
+                    "Occupation",
+                    "Political Affiliation",
+                    "Language",
+                    "Skin Color"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "11.1.2. Diversity Management",
+            "paragraphs": [
+              "The key to managing diversity is to capitalize more effectively on our capacity for multiple social identities. All individuals have multicultural heritage, and all of us are capable of juggling multiple identities across a lifetime (Seelye & Wasilewski, 1996).",
+              "**Strategies for Managing Cultural Diversity:**",
+              "1. Increase level of understanding about each other's cultures by interacting with people outside of one's own culture.",
+              "2. Avoid imposing values on one another that may conflict or be inconsistent with cultures.",
+              "3. When interacting with others who may not be proficient in one's language, recognize that their limitations in language proficiency in no way reflect their level of intellectual functioning.",
+              "4. Recognize and understand that concepts within the helping profession, such as family, gender roles, spirituality, and emotional well-being, vary significantly among cultures and influence behavior.",
+              "5. Within the workplace, educational setting, and/or clinical setting, advocate for the use of materials that are representative of the various cultural groups within the local community and the society in general.",
+              "6. Intervene in an appropriate manner when you observe others engaging in behaviors that show cultural insensitivity, bias, or prejudice.",
+              "7. Be proactive in listening, accepting, and welcoming people and ideas that are different from your own."
+            ],
+            "definitions": [
+              ["Diversity Management", "Strategies for effectively managing and leveraging cultural diversity."],
+              ["Cultural Insensitivity", "Behavior that shows a lack of awareness or respect for cultural differences."],
+              ["Bias", "Prejudice in favor of or against one thing, person, or group."]
+            ],
+            "key_points": [
+              "Increase understanding of other cultures.",
+              "Avoid imposing values.",
+              "Recognize language limitations don't reflect intelligence.",
+              "Advocate for representative materials.",
+              "Intervene against cultural insensitivity.",
+              "Be proactive in accepting differences."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Benefit"],
+                ["Increase Understanding", "Interact with people from other cultures", "Builds trust and respect"],
+                ["Avoid Imposing Values", "Respect cultural differences", "Prevents conflict"],
+                ["Recognize Language Limitations", "Don't equate language with intelligence", "Promotes fairness"],
+                ["Advocate for Representation", "Use diverse materials", "Promotes inclusivity"],
+                ["Intervene Against Insensitivity", "Speak up against bias", "Creates safe environments"],
+                ["Be Proactive", "Welcome differences", "Builds bridges"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Diversity Management Strategies",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Increase Understanding",
+                  "step_2": "Avoid Imposing Values",
+                  "step_3": "Recognize Language Limitations",
+                  "step_4": "Advocate for Representation",
+                  "step_5": "Intervene Against Insensitivity",
+                  "step_6": "Be Proactive",
+                  "step_7": "Harmonious Coexistence"
+                }
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "11.2",
+        "section_title": "Gender and Social Inclusion",
+        "section_introduction": "What is the difference between sex and gender? Why is gender inclusion important? This section explores gender and social inclusion.",
+        "subsections": [
+          {
+            "subtitle": "11.2.1. Understanding Gender",
+            "paragraphs": [
+              "The term **'sex'** usually refers to biological phenomena such as hormones and reproduction. However, **gender** is an organizing principle of all social systems, including families, work, schools, economic and legal systems, and everyday interactions.",
+              "**Three Levels of Analysis:**",
+              "1. **Individual Level:** Refers to stable traits of men and women that endure over time in the process of human life span development, such as differences believed to be rooted in biology or early childhood socialization.",
+              "2. **Interactional Level:** Examines the ways in which social behavior is constrained or facilitated by expectations that people have regarding the traits men and women possess, the ways they should act, and the beliefs they should hold.",
+              "3. **Structural Level:** Addresses how macro-level patterns, such as the positions to which people are assigned in society or the rewards attached to those positions, lead to differences in the behavior or experiences of men and women."
+            ],
+            "definitions": [
+              ["Sex", "Biological phenomena such as hormones and reproduction."],
+              ["Gender", "An organizing principle of all social systems; includes expectations and roles."],
+              ["Gender Inclusion", "Ensuring that all genders have equal rights, responsibilities, and opportunities."]
+            ],
+            "key_points": [
+              "Sex refers to biological differences.",
+              "Gender is a social construct.",
+              "Three levels of analysis: individual, interactional, structural.",
+              "Gender inclusion is important for equality."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Level", "Description", "Example"],
+                ["Individual", "Stable traits of men and women", "Differences in socialization"],
+                ["Interactional", "Expectations about behavior", "How men and women should act"],
+                ["Structural", "Macro-level patterns", "Positions and rewards in society"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Three Levels of Gender Analysis",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Individual Level": 33,
+                  "Interactional Level": 33,
+                  "Structural Level": 34
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "11.2.2. Gender Inclusion",
+            "paragraphs": [
+              "Excluding or limiting women's roles and benefits in social, political, and economic arenas is a part of human history. Development activities of a given nation mainly emerged from the cultural orientation of that nation have been denying women benefits that they should have gotten despite their significant contribution to development.",
+              "Hence, nations, rights groups, nation leaders, and scholars have been demanding more rights for women and inclusion of developmental activities. Therefore, women should benefit from education, economy, leadership system, development programs, and legal system.",
+              "**Building a Culture of Gender Inclusion:**",
+              "- Encourage inclusive engagement in all areas of development and cross-cutting initiatives.",
+              "- Apply gender-inclusive approaches of development.",
+              "- Promote good practices in gender inclusion.",
+              "- Optimize resources and prosperity for all."
+            ],
+            "definitions": [
+              ["Gender Inclusion", "Ensuring equal rights and opportunities for all genders."],
+              ["Gender-Inclusive Development", "Development approaches that consider the needs of all genders."]
+            ],
+            "key_points": [
+              "Women have been historically excluded from many areas.",
+              "Gender inclusion ensures equal rights and opportunities.",
+              "Strategies include inclusive engagement and gender-inclusive approaches."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Area", "Goal", "Strategy"],
+                ["Education", "Equal access for all genders", "Gender-inclusive policies"],
+                ["Economy", "Equal economic opportunities", "Support women entrepreneurs"],
+                ["Leadership", "Equal representation", "Promote women in leadership"],
+                ["Legal System", "Equal rights under the law", "Enforce anti-discrimination laws"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Areas of Gender Inclusion",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Gender Inclusion",
+                  "branches": [
+                    "Education",
+                    "Economy",
+                    "Leadership",
+                    "Development Programs",
+                    "Legal System"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.3",
+        "section_title": "Interpersonal Communication Skills",
+        "section_introduction": "How do you communicate with others? What makes communication effective? This section explores interpersonal communication skills.",
+        "subsections": [
+          {
+            "subtitle": "11.3.1. Understanding Interpersonal Communication",
+            "paragraphs": [
+              "**Definition:** **Interpersonal communication** is the process by which people exchange information, feelings, and meaning through verbal and non-verbal messages. It is face-to-face communication.",
+              "Interpersonal communication is not just about what is actually said, the language used, but also how it is said and the non-verbal messages sent through tone of voice, facial expressions, gestures, and body language.",
+              "**Core Areas of Competency:**",
+              "- **Self-Awareness:** Understanding your own communication style.",
+              "- **Effective Listening:** Paying attention to what others are saying.",
+              "- **Questioning:** Asking questions to clarify and understand.",
+              "- **Oral Communication:** Speaking clearly and effectively.",
+              "- **Helping or Facilitating:** Supporting others in communication.",
+              "- **Reflecting:** Thinking about and responding to what has been said.",
+              "- **Assertiveness:** Expressing yourself confidently.",
+              "- **Nonverbal Communication:** Facial expressions, gaze, gestures, posture, and paralinguistic cues."
+            ],
+            "definitions": [
+              ["Interpersonal Communication", "The process by which people exchange information, feelings, and meaning through verbal and non-verbal messages."],
+              ["Nonverbal Communication", "Communication through facial expressions, gestures, and body language."],
+              ["Paralinguistic Cues", "Tone of voice, pitch, and other vocal cues that convey meaning."]
+            ],
+            "key_points": [
+              "Interpersonal communication involves verbal and non-verbal messages.",
+              "It is face-to-face communication.",
+              "Core areas include self-awareness, listening, questioning, oral communication, helping, reflecting, assertiveness, and nonverbal communication."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Core Area", "Description", "Example"],
+                ["Self-Awareness", "Understanding your communication style", "Knowing you speak too fast"],
+                ["Effective Listening", "Paying attention to others", "Nodding and maintaining eye contact"],
+                ["Questioning", "Asking clarifying questions", "Asking 'Can you explain that further?'"],
+                ["Oral Communication", "Speaking clearly", "Using appropriate volume and pace"],
+                ["Assertiveness", "Expressing yourself confidently", "Saying no when necessary"],
+                ["Nonverbal Communication", "Body language and gestures", "Smiling to show friendliness"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Core Areas of Interpersonal Communication",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Interpersonal Communication",
+                  "branches": [
+                    "Self-Awareness",
+                    "Effective Listening",
+                    "Questioning",
+                    "Oral Communication",
+                    "Helping/Facilitating",
+                    "Reflecting",
+                    "Assertiveness",
+                    "Nonverbal Communication"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.4",
+        "section_title": "Social Influence",
+        "section_introduction": "How do others influence your behavior? This section explores social influence — how one person's behavior affects another's.",
+        "subsections": [
+          {
+            "subtitle": "11.4.1. Understanding Social Influence",
+            "paragraphs": [
+              "**Definition:** **Social influence** occurs when one person (the source) engages in some behavior (such as persuading, threatening, promising, or issuing orders) that causes another person (the target) to behave differently from how he or she would otherwise behave.",
+              "Various outcomes can result when social influence is attempted. In some cases, the influencing source may produce **attitude change** — a change in the target's beliefs and attitudes about some issue, person, or situation. Attitude change is a fairly common result of social influence.",
+              "In other cases, however, the source may not really care about changing the target's attitudes but only about securing **compliance**. Compliance occurs when the target's behavior conforms to the source's requests or demands."
+            ],
+            "definitions": [
+              ["Social Influence", "When one person's behavior causes another person to behave differently."],
+              ["Attitude Change", "A change in beliefs and attitudes about an issue, person, or situation."],
+              ["Compliance", "When behavior conforms to requests or demands."],
+              ["Conformity", "Adjusting behavior to match the norms of a group."],
+              ["Obedience", "Following the orders of an authority figure."]
+            ],
+            "key_points": [
+              "Social influence occurs when one person affects another's behavior.",
+              "Outcomes include attitude change and compliance.",
+              "Compliance is behaving according to requests.",
+              "Conformity and obedience are related concepts."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Definition", "Example"],
+                ["Social Influence", "One person affects another's behavior", "A friend persuades you to study"],
+                ["Attitude Change", "Change in beliefs", "Changing your opinion about a topic"],
+                ["Compliance", "Behaving according to requests", "Doing what you're asked"],
+                ["Conformity", "Matching group norms", "Dressing like your friends"],
+                ["Obedience", "Following authority", "Following a teacher's instructions"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Social Influence Outcomes",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Source (Influencer)",
+                  "step_2": "Behavior (Persuading, Threatening, Promising)",
+                  "step_3": "Target (Influenced)",
+                  "step_4": "Outcome: Attitude Change or Compliance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.5",
+        "section_title": "Peer Pressure",
+        "section_introduction": "How do peers influence you? How can you handle peer pressure? This section explores peer pressure and strategies for resisting negative influences.",
+        "subsections": [
+          {
+            "subtitle": "11.5.1. Understanding Peer Pressure",
+            "paragraphs": [
+              "**Definition:** **Peer pressure** is the influence to go along with the beliefs and actions of one's peers. Peer pressure may be positive when it inspires a person to do something worthwhile. The desire to fit in and feel like you are part of a group is normal, and most people feel this way sometimes, especially in the teen and young adult years.",
+              "**Types of Peer Pressure:**",
+              "- **Positive Peer Pressure:** Uses encouraging words and expressions. Helps someone do their best at school, play sports, be inclusive, and help those in need.",
+              "- **Negative Peer Pressure:** Tries to get a person to do something harmful. May involve threats, bribes, teasing, and name-calling. Examples include using drugs, misbehaving in class, stealing, and making fun of someone."
+            ],
+            "definitions": [
+              ["Peer Pressure", "The influence to go along with the beliefs and actions of one's peers."],
+              ["Positive Peer Pressure", "Encouraging words and expressions that inspire positive behavior."],
+              ["Negative Peer Pressure", "Pressure to engage in harmful behavior through threats, bribes, or teasing."]
+            ],
+            "key_points": [
+              "Peer pressure is the influence to conform to peers.",
+              "It can be positive or negative.",
+              "Positive peer pressure encourages worthwhile behavior.",
+              "Negative peer pressure encourages harmful behavior."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Type", "Description", "Example"],
+                ["Positive Peer Pressure", "Encourages positive behavior", "Friends encouraging you to study"],
+                ["Negative Peer Pressure", "Encourages harmful behavior", "Friends offering you drugs"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Types of Peer Pressure",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Positive Peer Pressure": 50,
+                  "Negative Peer Pressure": 50
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "11.5.2. How to Handle Peer Pressure",
+            "paragraphs": [
+              "When faced with overt or indirect pressure to do something you're not sure about, try using the following strategies:",
+              "1. **Give yourself permission to avoid people or situations that don't feel right** and leave a situation that becomes uncomfortable.",
+              "2. **Check in with yourself.** Ask: 'How am I feeling about this?' 'Does this seem right to me?' 'What are the pros and cons of making this decision?'",
+              "3. **Recognize unhealthy dynamics.** It's not OK for others to pressure, force, or trick you into doing things you don't want to or for others to make threats if you don't give in.",
+              "4. **Spend time with people who respect your decisions** and won't put unfair pressure on you to conform.",
+              "5. **Remember that you can't (and don't have to) please everyone** or be liked by everyone.",
+              "6. **Use the 'delay tactic':** Give yourself time to think about your decision instead of giving an immediate answer: 'Let me think about that,' 'Can I get back to you?' or 'Check back with me in an hour.'",
+              "7. **Practice saying 'No thanks' or just 'No!'** If 'no' feels uncomfortable, practice using other responses, such as 'Not today,' 'Maybe another time,' or 'Thanks, but I can't.'",
+              "8. **Take a friend who supports you** along if you are going to be in a pressure-filled situation.",
+              "9. **Stand up for others** when you see them being pressured. 'Bystander intervention' can be an effective way to support others.",
+              "10. **Ask for advice or support** from a parent or other trusted family member, a clergy person, a mentor, or a counselor if you need it."
+            ],
+            "definitions": [
+              ["Delay Tactic", "Giving yourself time to think before responding to pressure."],
+              ["Bystander Intervention", "Stepping in to help when someone is being pressured."]
+            ],
+            "key_points": [
+              "Avoid situations that don't feel right.",
+              "Check in with yourself.",
+              "Recognize unhealthy dynamics.",
+              "Spend time with respectful people.",
+              "Use the delay tactic.",
+              "Practice saying no.",
+              "Take a supportive friend.",
+              "Stand up for others.",
+              "Ask for advice."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Example"],
+                ["Avoid Uncomfortable Situations", "Leave if it doesn't feel right", "Walking away from a party"],
+                ["Check In with Yourself", "Ask how you feel", "Asking 'Is this right for me?'"],
+                ["Recognize Unhealthy Dynamics", "Identify pressure tactics", "Noticing threats or bribes"],
+                ["Spend Time with Respectful People", "Choose supportive friends", "Friends who respect your choices"],
+                ["Use Delay Tactic", "Take time to think", "Saying 'Let me think about that'"],
+                ["Practice Saying No", "Refuse confidently", "Saying 'No thanks'"],
+                ["Take a Supportive Friend", "Bring someone who supports you", "Bringing a friend to a party"],
+                ["Stand Up for Others", "Help those being pressured", "Intervening when someone is bullied"],
+                ["Ask for Advice", "Seek help from trusted adults", "Talking to a parent"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Strategies for Handling Peer Pressure",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Handling Peer Pressure",
+                  "branches": [
+                    "Avoid Uncomfortable Situations",
+                    "Check In with Yourself",
+                    "Recognize Unhealthy Dynamics",
+                    "Spend Time with Respectful People",
+                    "Use Delay Tactic",
+                    "Practice Saying No",
+                    "Take a Supportive Friend",
+                    "Stand Up for Others",
+                    "Ask for Advice"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.6",
+        "section_title": "Assertiveness",
+        "section_introduction": "What is assertiveness? How can you express yourself confidently without violating others' rights? This section explores assertiveness — a key communication skill.",
+        "subsections": [
+          {
+            "subtitle": "11.6.1. Understanding Assertiveness",
+            "paragraphs": [
+              "**Definition:** **Assertiveness** is a communication style. It is being able to express your feelings, thoughts, beliefs, and opinions in an open manner that does not violate the rights of others. Assertiveness is about having confidence in yourself, a positive attitude about yourself and towards others, and it is about behaving towards others in a way which is direct and honest.",
+              "The main effect of not being assertive is that it can lead to low self-esteem. If we communicate in a passive manner, we are not saying what we really feel or think. This means we can end up agreeing with and fulfilling other people's needs or wants rather than our own. This can result in a lack of purpose and a feeling of not being in control of our own lives.",
+              "If we never express ourselves openly and conceal our thoughts and feelings, this can make us feel tense, stressed, anxious, or resentful. It can also lead to unhealthy and uncomfortable relationships. We will feel like the people closest to us do not really know us.",
+              "**Assertive Behavior Includes:**",
+              "- Being open in expressing wishes, thoughts, and feelings and encouraging others to do likewise.",
+              "- Listening to the views of others and responding appropriately, whether in agreement with those views or not.",
+              "- Accepting responsibilities and being able to delegate to others.",
+              "- Regularly expressing appreciation of others for what they have done or are doing.",
+              "- Being able to admit to mistakes and apologize.",
+              "- Maintaining self-control.",
+              "- Behaving as an equal to others."
+            ],
+            "definitions": [
+              ["Assertiveness", "A communication style where you express your feelings, thoughts, beliefs, and opinions openly without violating others' rights."],
+              ["Passive Communication", "Not expressing your true feelings or thoughts."],
+              ["Aggressive Communication", "Expressing yourself in a way that violates others' rights."]
+            ],
+            "key_points": [
+              "Assertiveness is expressing yourself openly and honestly.",
+              "It does not violate others' rights.",
+              "Not being assertive can lead to low self-esteem.",
+              "Assertive behavior includes openness, listening, responsibility, appreciation, admitting mistakes, self-control, and equality."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Communication Style", "Description", "Example"],
+                ["Passive", "Not expressing true feelings", "Agreeing to something you don't want to do"],
+                ["Aggressive", "Violating others' rights", "Yelling at someone to get your way"],
+                ["Assertive", "Expressing yourself openly and honestly", "Saying 'I disagree' respectfully"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Communication Styles",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": ["Passive", "Assertive", "Aggressive"],
+                  "self_esteem": [3, 9, 4],
+                  "relationship_quality": [4, 9, 3],
+                  "description": "Comparison of communication styles"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.7",
+        "section_title": "Conflict and Conflict Resolution",
+        "section_introduction": "What is conflict? How can it be resolved? This section explores conflict and strategies for resolution.",
+        "subsections": [
+          {
+            "subtitle": "11.7.1. Understanding Conflict",
+            "paragraphs": [
+              "**Definition:** **Conflict** is defined as an incompatibility of goals or values between two or more parties in a relationship, combined with attempts to control each other and antagonistic feelings toward each other (Fisher, 1990).",
+              "Conflict occurs between people in all kinds of human relationships and in all social settings. Because of the wide range of potential differences among people, the absence of conflict usually signals the absence of meaningful interaction. Conflict by itself is neither good nor bad. However, the manner in which conflict is handled determines whether it is constructive or destructive (Deutsch & Coleman, 2000).",
+              "**Sources of Conflict (Katz, 1965):**",
+              "- **Economic Conflict:** Involves competing motives to attain scarce resources.",
+              "- **Value Conflict:** Involves incompatibility in ways of life, ideologies — the preferences, principles, and practices that people believe in.",
+              "- **Power Conflict:** Occurs when each party wishes to maintain or maximize the amount of influence that it exerts in the relationship and the social setting.",
+              "**Another Source:** Ineffective communication. Miscommunication and misunderstanding can create conflict even where there are no basic incompatibilities."
+            ],
+            "definitions": [
+              ["Conflict", "An incompatibility of goals or values between two or more parties, combined with attempts to control each other and antagonistic feelings."],
+              ["Economic Conflict", "Conflict over scarce resources."],
+              ["Value Conflict", "Conflict over incompatible ways of life or ideologies."],
+              ["Power Conflict", "Conflict over influence in a relationship."]
+            ],
+            "key_points": [
+              "Conflict is an incompatibility of goals or values.",
+              "It is neither good nor bad — it depends on how it's handled.",
+              "Sources include economic, value, power, and communication issues."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Source", "Description", "Example"],
+                ["Economic", "Competing for scarce resources", "Two departments competing for budget"],
+                ["Value", "Incompatible beliefs or ideologies", "Political disagreements"],
+                ["Power", "Struggle for influence", "Two leaders competing for control"],
+                ["Communication", "Misunderstanding", "A misunderstood message"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Sources of Conflict",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Economic Conflict": 25,
+                  "Value Conflict": 25,
+                  "Power Conflict": 25,
+                  "Ineffective Communication": 25
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "11.7.2. Levels of Conflict",
+            "paragraphs": [
+              "Conflict can occur at different levels:",
+              "- **Intrapersonal Conflict:** Conflict in your head between opposing motives or ideas.",
+              "- **Interpersonal Conflict:** Occurs when two people have incompatible needs, goals, or approaches in their relationship.",
+              "- **Role Conflict:** Involves very real differences in role definitions, expectations, or responsibilities between individuals who are interdependent in a social system.",
+              "- **Intergroup Conflict:** Occurs between collections of people such as ethnic or racial groups, departments, or levels of decision making in the same organization.",
+              "- **Multi-party Conflict:** Occurs in societies when different interest groups and organizations have varying priorities over resource management and policy development.",
+              "- **International Conflict:** Occurs between states at the global level."
+            ],
+            "definitions": [
+              ["Intrapersonal Conflict", "Conflict within an individual between opposing motives or ideas."],
+              ["Interpersonal Conflict", "Conflict between two people with incompatible needs or goals."],
+              ["Role Conflict", "Conflict due to differences in role definitions or expectations."],
+              ["Intergroup Conflict", "Conflict between groups."],
+              ["Multi-party Conflict", "Conflict involving multiple interest groups."],
+              ["International Conflict", "Conflict between states."]
+            ],
+            "key_points": [
+              "Conflict occurs at multiple levels.",
+              "Intrapersonal: within oneself.",
+              "Interpersonal: between two people.",
+              "Role: due to role differences.",
+              "Intergroup: between groups.",
+              "Multi-party: multiple groups.",
+              "International: between states."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Level", "Description", "Example"],
+                ["Intrapersonal", "Within oneself", "Choosing between two options"],
+                ["Interpersonal", "Between two people", "Argument between friends"],
+                ["Role", "Due to role differences", "Conflict between manager and employee"],
+                ["Intergroup", "Between groups", "Conflict between departments"],
+                ["Multi-party", "Multiple interest groups", "Community dispute over resources"],
+                ["International", "Between states", "Trade disputes between countries"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Levels of Conflict",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Intrapersonal",
+                  "step_2": "Interpersonal",
+                  "step_3": "Role",
+                  "step_4": "Intergroup",
+                  "step_5": "Multi-party",
+                  "step_6": "International"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "11.7.3. Methods of Conflict Resolution",
+            "paragraphs": [
+              "Conflict can result in destructive outcomes or creative ones depending on the approach that is taken. Given interdependence, three general strategies have been identified that the parties may take toward dealing with their conflict (Blake, Shepard & Mouton, 1964):",
+              "**1. Win-Lose Approach:** Situations result when only one side perceives the outcome as positive. Thus, win-lose outcomes are less likely to be accepted voluntarily.",
+              "**2. Lose-Lose Strategy:** All parties end up being worse off. In some lose-lose situations, all parties understand that losses are unavoidable and that they will be evenly distributed. In such situations, lose-lose outcomes can be preferable to win-lose outcomes because the distribution is at least considered to be fair.",
+              "**3. Win-Win Approach:** Is a conscious and systematic attempt to maximize the goals of both parties through collaborative problem solving. The conflict is seen as a problem to be solved rather than a war to be won. The important distinction is 'we (both parties) versus the problem,' rather than 'we (one party) versus they (the other party).' This method focuses on the needs and constraints of both parties rather than emphasizing strategies designed to conquer."
+            ],
+            "definitions": [
+              ["Win-Lose Approach", "Only one side perceives the outcome as positive."],
+              ["Lose-Lose Strategy", "All parties end up worse off."],
+              ["Win-Win Approach", "Collaborative problem solving to maximize goals of both parties."]
+            ],
+            "key_points": [
+              "Three approaches to conflict resolution: win-lose, lose-lose, win-win.",
+              "Win-lose: one side wins, one loses.",
+              "Lose-lose: both sides lose.",
+              "Win-win: both sides win through collaboration."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Approach", "Description", "Outcome"],
+                ["Win-Lose", "One side wins, one loses", "One party gets what they want"],
+                ["Lose-Lose", "Both sides lose", "Both parties worse off"],
+                ["Win-Win", "Both sides win through collaboration", "Both parties achieve goals"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Conflict Resolution Approaches",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": ["Win-Lose", "Lose-Lose", "Win-Win"],
+                  "effectiveness": [4, 2, 10],
+                  "description": "Effectiveness of conflict resolution approaches"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.8",
+        "section_title": "Teamwork",
+        "section_introduction": "What makes a team effective? This section explores teamwork — the collaborative effort of a group to achieve a common goal.",
+        "subsections": [
+          {
+            "subtitle": "11.8.1. Understanding Teamwork",
+            "paragraphs": [
+              "**Definition:** **Teams** are groups of people with complementary skills who are committed to a common purpose and hold themselves mutually accountable for its achievement. Ideally, they develop a distinct identity and work together in a coordinated and mutually supportive way to fulfill their goal or purpose.",
+              "**Task effectiveness** is the extent to which the team is successful in achieving its task-related objectives. Successful teams are characterized by a team spirit based around trust, mutual respect, helpfulness, and — at best — friendliness.",
+              "**Effective Teamwork Results From:**",
+              "- A team whose membership, size, and resources match the task.",
+              "- Good leadership and attention to team-building.",
+              "- Commitment by team members to understand and identify with one another's goals.",
+              "- The development of team goals — a shared vision.",
+              "- A sense of common ownership of the task at hand and joint responsibility for its achievement.",
+              "- Coordinated effort and planned sharing of tasks evenly across the team.",
+              "- The open exchange of information within the team.",
+              "- Honesty and frankness among team members."
+            ],
+            "definitions": [
+              ["Team", "A group of people with complementary skills committed to a common purpose."],
+              ["Task Effectiveness", "The extent to which a team achieves its objectives."],
+              ["Team Spirit", "Trust, mutual respect, helpfulness, and friendliness among team members."]
+            ],
+            "key_points": [
+              "Teams have complementary skills and a common purpose.",
+              "Task effectiveness is achieving objectives.",
+              "Effective teamwork requires trust, leadership, shared goals, and open communication."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Factor", "Description", "Benefit"],
+                ["Complementary Skills", "Members have different skills", "Team can handle diverse tasks"],
+                ["Common Purpose", "Shared goal", "Unity of direction"],
+                ["Trust", "Mutual confidence", "Better collaboration"],
+                ["Leadership", "Good guidance", "Effective coordination"],
+                ["Open Communication", "Sharing information", "Better decision making"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Elements of Effective Teamwork",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Effective Teamwork",
+                  "branches": [
+                    "Complementary Skills",
+                    "Common Purpose",
+                    "Trust",
+                    "Leadership",
+                    "Shared Vision",
+                    "Open Communication",
+                    "Honesty"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "11.9",
+        "section_title": "Overcoming Risky Behavior",
+        "section_introduction": "What are risky behaviors? How can they be prevented? This section explores strategies for overcoming risky behavior, especially during adolescence.",
+        "subsections": [
+          {
+            "subtitle": "11.9.1. Understanding Risky Behavior",
+            "paragraphs": [
+              "Taking risks is fairly common in adolescence. Yet, risky behaviors can be associated with serious, long-term, and — in some cases — life-threatening consequences. This is especially the case when adolescents engage in more than one harmful behavior.",
+              "A more powerful and cost-effective approach may be to employ strategies designed to address factors associated with multiple risky behaviors.",
+              "**Seven Strategies to Prevent Multiple Risky Behaviors:**",
+              "1. Support and strengthen family functioning.",
+              "2. Increase connections between students and their schools.",
+              "3. Make communities safe and supportive for children and youth.",
+              "4. Promote involvement in high-quality out-of-school-time programs.",
+              "5. Promote the development of sustained relationships with caring adults.",
+              "6. Provide children and youth opportunities to build social and emotional competence.",
+              "7. Provide children and youth with high-quality education during early and middle childhood."
+            ],
+            "definitions": [
+              ["Risky Behavior", "Behavior that has the potential for harmful consequences."],
+              ["Adolescence", "The developmental stage between childhood and adulthood."],
+              ["Prevention", "Strategies to stop risky behavior before it starts."]
+            ],
+            "key_points": [
+              "Risky behaviors are common in adolescence.",
+              "They can have serious consequences.",
+              "Seven strategies can prevent multiple risky behaviors.",
+              "Strategies include family support, school connections, and community involvement."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Benefit"],
+                ["Family Functioning", "Support and strengthen families", "Provides stable home environment"],
+                ["School Connections", "Increase student-school connections", "Promotes engagement"],
+                ["Safe Communities", "Make communities safe and supportive", "Reduces exposure to risk"],
+                ["Out-of-School Programs", "Promote involvement in quality programs", "Provides positive activities"],
+                ["Caring Adults", "Develop sustained relationships", "Provides mentors"],
+                ["Social/Emotional Competence", "Build social and emotional skills", "Improves decision making"],
+                ["Quality Education", "Provide high-quality education", "Promotes future success"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Seven Strategies to Prevent Risky Behavior",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Preventing Risky Behavior",
+                  "branches": [
+                    "Family Functioning",
+                    "School Connections",
+                    "Safe Communities",
+                    "Out-of-School Programs",
+                    "Caring Adults",
+                    "Social/Emotional Competence",
+                    "Quality Education"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 11  social skills.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 11  social skills in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Define cultural diversity and explain its importance.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Cultural diversity.\n• Explanation & Derivation:\n  - Definition: The presence of multiple cultures and cultural groups within a society or organization.\n  - Importance: Helps us recognize and respect other ways of being, builds trust and understanding across cultures, and enriches society with diverse perspectives.\n• Final Answer: Cultural diversity is the presence of multiple cultures. It is important because it promotes respect, understanding, and enrichment."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 11  social skills.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "What is the difference between sex and gender? Explain the three levels of gender analysis.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Sex vs. gender.\n• Explanation & Derivation:\n  - Sex: Biological phenomena such as hormones and reproduction.\n  - Gender: An organizing principle of all social systems; includes expectations and roles.\n  - Three levels: Individual (stable traits), Interactional (expectations about behavior), Structural (macro-level patterns).\n• Final Answer: Sex refers to biological differences; gender is a social construct. The three levels of analysis are individual, interactional, and structural."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Explain the concept of peer pressure and describe strategies for handling it.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Peer pressure and strategies.\n• Explanation & Derivation:\n  - Definition: The influence to go along with the beliefs and actions of one's peers.\n  - Types: Positive (encouraging) and negative (harmful).\n  - Strategies: Avoid uncomfortable situations, check in with yourself, recognize unhealthy dynamics, spend time with respectful people, use the delay tactic, practice saying no, take a supportive friend, stand up for others, ask for advice.\n• Final Answer: Peer pressure is the influence to conform to peers. Strategies for handling it include avoiding uncomfortable situations, using the delay tactic, and practicing saying no."
+    },
+    {
+      "question": "What is assertiveness? How does it differ from passive and aggressive communication?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Assertiveness vs. passive and aggressive communication.\n• Explanation & Derivation:\n  - Assertiveness: Expressing your feelings, thoughts, beliefs, and opinions openly without violating others' rights.\n  - Passive: Not expressing your true feelings.\n  - Aggressive: Expressing yourself in a way that violates others' rights.\n• Final Answer: Assertiveness is expressing yourself openly and honestly without violating others' rights. It differs from passive (not expressing) and aggressive (violating others' rights) communication."
+    },
+    {
+      "question": "Describe the three approaches to conflict resolution.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Conflict resolution approaches.\n• Explanation & Derivation:\n  - Win-Lose: One side wins, one loses.\n  - Lose-Lose: Both sides lose.\n  - Win-Win: Both sides win through collaboration.\n• Final Answer: The three approaches are win-lose (one wins), lose-lose (both lose), and win-win (both win through collaboration)."
+    },
+    {
+      "question": "What are the seven strategies to prevent multiple risky behaviors?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Seven strategies to prevent risky behavior.\n• Explanation & Derivation:\n  1. Support and strengthen family functioning.\n  2. Increase connections between students and their schools.\n  3. Make communities safe and supportive.\n  4. Promote involvement in high-quality out-of-school-time programs.\n  5. Promote sustained relationships with caring adults.\n  6. Provide opportunities to build social and emotional competence.\n  7. Provide high-quality education during early and middle childhood.\n• Final Answer: The seven strategies are family functioning, school connections, safe communities, out-of-school programs, caring adults, social/emotional competence, and quality education."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 11  SOCIAL SKILLS (university psychology):\nThis complete study document covers all topics in Chapter 11  social skills, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 11: SOCIAL SKILLS (University Freshman General Psychology):\nThis chapter covers cultural diversity (the presence of multiple cultures; culture shock; multiculturalism) and diversity management (strategies including increasing understanding, avoiding imposing values, recognizing language limitations, advocating for representation, intervening against insensitivity, and being proactive), gender and social inclusion (sex vs. gender; three levels of analysis: individual, interactional, structural; strategies for gender inclusion), interpersonal communication (verbal and non-verbal messages; core areas: self-awareness, effective listening, questioning, oral communication, helping, reflecting, assertiveness, nonverbal communication), social influence (attitude change and compliance), peer pressure (positive and negative; strategies for handling: avoid uncomfortable situations, check in with yourself, recognize unhealthy dynamics, spend time with respectful people, use delay tactic, practice saying no, take a supportive friend, stand up for others, ask for advice), assertiveness (expressing yourself openly without violating others' rights; passive vs. aggressive vs. assertive), conflict and conflict resolution (sources: economic, value, power, communication; levels: intrapersonal, interpersonal, role, intergroup, multi-party, international; approaches: win-lose, lose-lose, win-win), teamwork (complementary skills, common purpose, trust, leadership, open communication), and overcoming risky behavior (seven strategies: family functioning, school connections, safe communities, out-of-school programs, caring adults, social/emotional competence, quality education). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 11: Social Skills — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
