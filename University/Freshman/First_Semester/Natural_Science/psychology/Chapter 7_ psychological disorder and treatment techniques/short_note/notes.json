@@ -1,60 +1,541 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 7  psychological disorder and treatment techniques"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 7  psychological disorder and treatment techniques",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 7  psychological disorder and treatment techniques: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 7  psychological disorder and treatment techniques",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "7",
+    "chapter_title": "Psychological Disorders and Treatment Techniques",
+    "chapter_subtitle": "Nature, Causes, Types, and Treatment of Psychological Disorders",
+    "chapter_introduction": "Welcome to Chapter 7 of General Psychology. This chapter explores the nature of psychological disorders, their causes from different perspectives, the major types of disorders (mood, anxiety, and personality disorders), and the various treatment techniques used to help individuals suffering from these conditions. You will learn how psychologists define abnormality, the biological and psychological perspectives on causation, and the core components of psychotherapy.",
+    "sections": [
+      {
+        "section_number": "7.1",
+        "section_title": "Nature of Psychological Disorders",
+        "section_introduction": "What makes a behavior abnormal? How do we decide if someone has a psychological disorder? This section explores the three main criteria used to determine whether a person has a psychological disorder.",
+        "subsections": [
+          {
+            "subtitle": "7.1.1. Criteria for Determining Psychological Disorders",
+            "paragraphs": [
+              "People who exhibit abnormal patterns of feelings, thinking, and behavior most likely suffer from some kind of psychological disorder. But what exactly do we mean by 'abnormal'? Psychologists generally use three main criteria to determine whether a person has a psychological disorder: **abnormality**, **maladaptiveness**, and **personal distress**.",
+              "**1. Abnormality:** Abnormal behavior is behavior that deviates from the behavior of the 'typical' person — the norm. A society's norms can be qualitative and quantitative. When someone behaves in culturally unacceptable ways and their behaviors violate the norms, standards, rules, and regulations of society, this person is most likely to have a psychological problem. However, abnormal behavior alone is not sufficient for diagnosis. The context in which the behavior occurs must be considered.",
+              "**2. Maladaptiveness:** Maladaptive behavior creates social, personal, and occupational problems for those who exhibit the behaviors. These behaviors seriously disrupt the day-to-day activities of individuals and can increase problems over time. For example, a person who cannot hold a job because of their behavior is showing maladaptiveness.",
+              "**3. Personal Distress:** Our subjective feelings of anxiety, stress, tension, and other unpleasant emotions determine whether we have a psychological disorder. These negative emotional states arise either from the problem itself or from events that happen to us. However, the criterion of personal distress, just like other criteria, is not sufficient on its own. Some people may not feel distressed by their own behavior, even when it is clearly problematic.",
+              "**Important Note:** Behavior that is abnormal, maladaptive, or personally distressing might indicate that a person has a psychological disorder. Often, a combination of these criteria is used for diagnosis."
+            ],
+            "definitions": [
+              ["Abnormality", "Behavior that deviates from the behavior of the 'typical' person; the norm."],
+              ["Maladaptiveness", "Behavior that creates social, personal, and occupational problems; disrupts daily activities."],
+              ["Personal Distress", "Subjective feelings of anxiety, stress, tension, and other unpleasant emotions."],
+              ["Psychological Disorder", "A pattern of feelings, thinking, and behavior that is abnormal, maladaptive, or personally distressing."]
+            ],
+            "key_points": [
+              "Three criteria for psychological disorders: abnormality, maladaptiveness, and personal distress.",
+              "Abnormality: deviating from social norms.",
+              "Maladaptiveness: disrupting daily functioning.",
+              "Personal distress: subjective feelings of anxiety and tension.",
+              "No single criterion is sufficient for diagnosis."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Criterion", "Definition", "Example"],
+                ["Abnormality", "Deviating from social norms", "Talking to oneself loudly in public"],
+                ["Maladaptiveness", "Disrupting daily functioning", "Unable to hold a job due to behavior"],
+                ["Personal Distress", "Subjective feelings of anxiety or tension", "Feeling constantly worried and fearful"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "The Three Criteria for Psychological Disorders",
+                "diagram_type": "venn_diagram",
+                "diagram_data": {
+                  "circle_1": "Abnormality",
+                  "circle_2": "Maladaptiveness",
+                  "circle_3": "Personal Distress",
+                  "center": "Psychological Disorder"
+                }
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "7.2",
+        "section_title": "Causes of Psychological Disorders",
+        "section_introduction": "What causes psychological disorders? Different perspectives offer different explanations. This section explores the biological, psychoanalytic, learning, and cognitive perspectives on the causes of psychological disorders.",
+        "subsections": [
+          {
+            "subtitle": "7.2.1. The Biological Perspective",
+            "paragraphs": [
+              "Current researchers believe that abnormalities in the working of chemicals in the brain, called **neurotransmitters**, may contribute to many psychological disorders. For example, overactivity of the neurotransmitter **dopamine**, perhaps caused by an overabundance of certain dopamine receptors in the brain, has been linked to the bizarre symptoms of schizophrenia.",
+              "Other biological factors that may contribute to psychological disorders include:",
+              "- **Genetics:** Some disorders tend to run in families, suggesting a genetic component.",
+              "- **Brain structure:** Abnormalities in brain structure or function may play a role.",
+              "- **Hormonal imbalances:** Fluctuations in hormones can affect mood and behavior.",
+              "- **Infections or injuries:** Certain infections or brain injuries can lead to psychological symptoms."
+            ],
+            "definitions": [
+              ["Neurotransmitters", "Chemicals in the brain that transmit signals between neurons."],
+              ["Dopamine", "A neurotransmitter linked to schizophrenia when overactive."],
+              ["Biological Perspective", "The view that psychological disorders are caused by biological factors such as genetics, brain chemistry, and brain structure."]
+            ],
+            "key_points": [
+              "Biological factors can cause psychological disorders.",
+              "Neurotransmitters play a key role.",
+              "Overactivity of dopamine is linked to schizophrenia.",
+              "Genetics, brain structure, hormones, and infections can also contribute."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Biological Factor", "Description", "Example"],
+                ["Neurotransmitters", "Chemicals that transmit signals in the brain", "Dopamine overactivity in schizophrenia"],
+                ["Genetics", "Inherited traits that may predispose to disorders", "Depression running in families"],
+                ["Brain Structure", "Abnormalities in brain anatomy or function", "Enlarged ventricles in schizophrenia"],
+                ["Hormones", "Chemical messengers that affect mood", "Thyroid imbalances causing anxiety"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Biological Causes of Psychological Disorders",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Genetic Predisposition",
+                  "step_2": "Brain Chemistry Imbalance",
+                  "step_3": "Hormonal Changes",
+                  "step_4": "Psychological Disorder"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "7.2.2. Psychological Perspectives",
+            "paragraphs": [
+              "In addition to biological factors, psychological factors also play a significant role in the development of psychological disorders. Three major psychological perspectives are the psychoanalytic, learning, and cognitive perspectives.",
+              "**A. Psychoanalytic Perspective:** Sigmund Freud, the founder of the psychoanalytic approach, believed that the human mind consists of three interacting forces: the id (a pool of biological urges), the ego (which mediates between the id and reality), and the superego (which represents society's moral standards). Abnormal behavior, in Freud's view, is caused by the ego's inability to manage the conflict between the opposing demands of the id and the superego. Especially important is the individual's failure to manage the conflicting id's sexual impulses during childhood, and society's sexual morality to resolve earlier childhood emotional conflicts that determine how to behave and think later.",
+              "**B. Learning Perspective:** Most mental and emotional disorders, in contrast to the psychoanalytic perspective, arise from inadequate or inappropriate learning. People acquire abnormal behaviors through the various kinds of learning, such as classical conditioning, operant conditioning, and observational learning. For example, a person may develop a phobia after a traumatic experience (classical conditioning), or may develop anxiety because of reinforcement (operant conditioning).",
+              "**C. Cognitive Perspective:** The main theme of this perspective is that self-defeating thoughts lead to the development of negative emotions and self-destructive behaviors. People's ways of thinking about events in their lives determine their emotional and behavioral patterns. Our environmental and cultural experiences play a major role in the formation of our thinking style. For example, a person who constantly thinks 'I am a failure' may become depressed."
+            ],
+            "definitions": [
+              ["Psychoanalytic Perspective", "Freud's view that abnormal behavior is caused by unresolved unconscious conflicts."],
+              ["Learning Perspective", "The view that abnormal behaviors are acquired through learning processes."],
+              ["Cognitive Perspective", "The view that self-defeating thoughts lead to negative emotions and behaviors."],
+              ["Id", "A pool of biological urges."],
+              ["Ego", "Mediates between the id and reality."],
+              ["Superego", "Represents society's moral standards."]
+            ],
+            "key_points": [
+              "Psychoanalytic: abnormal behavior from unresolved unconscious conflicts.",
+              "Learning: abnormal behaviors acquired through classical and operant conditioning.",
+              "Cognitive: self-defeating thoughts lead to negative emotions and behaviors.",
+              "Each perspective offers a different explanation for the same disorder."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Perspective", "Main Idea", "Example"],
+                ["Psychoanalytic", "Unresolved unconscious conflicts from childhood", "Anxiety due to repressed sexual impulses"],
+                ["Learning", "Abnormal behaviors acquired through conditioning", "Phobia after a traumatic experience"],
+                ["Cognitive", "Self-defeating thoughts lead to negative emotions", "Depression from constant negative self-talk"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Three Psychological Perspectives on Abnormal Behavior",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Psychoanalytic: Unconscious Conflicts",
+                  "step_2": "Learning: Conditioning",
+                  "step_3": "Cognitive: Faulty Thinking",
+                  "step_4": "Psychological Disorder"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "7.3",
+        "section_title": "Types of Psychological Disorders",
+        "section_introduction": "Psychological disorders are categorized into different types based on their symptoms. This section explores three major categories: mood disorders, anxiety disorders, and personality disorders.",
+        "subsections": [
+          {
+            "subtitle": "7.3.1. Mood Disorders",
+            "paragraphs": [
+              "Mood disorders are characterized by a serious change in mood from depressed to elevated feelings causing disruption to life activities. Depressive disorder is characterized by overall feelings of desperation and inactivity. Elevated moods are characterized by mania or hypomania. The cycling between both depressed and manic moods is characteristic of bipolar mood disorders.",
+              "**1. Major Depression** (also known as depression or clinical depression) is characterized by depressed mood, diminished interest in activities previously enjoyed, weight disturbance, sleep disturbance, loss of energy, difficulty concentrating, and often includes feelings of hopelessness and worthlessness.",
+              "**2. Dysthymia** is often considered a lesser, but more persistent form of depression. Many of the symptoms are similar except to a lesser degree. Also, dysthymia, as opposed to Major Depression, is steadier rather than periods of normal feelings and extreme lows.",
+              "**3. Bipolar Disorder** (previously known as Manic-Depression) is characterized by periods of extreme highs (called mania) and extreme lows as in Major Depression. Bipolar Disorder is subtyped either I (extreme or hypermanic episodes) or II (moderate or hypomanic episodes).",
+              "**4. Cyclothymia:** Like Dysthymia and Major Depression, Cyclothymia is considered a lesser form of Bipolar Disorder. It involves milder mood swings that are less severe than full bipolar disorder."
+            ],
+            "definitions": [
+              ["Mood Disorders", "Disorders characterized by a serious change in mood causing disruption to life activities."],
+              ["Major Depression", "Characterized by depressed mood, loss of interest, weight disturbance, sleep disturbance, and loss of energy."],
+              ["Dysthymia", "A lesser but more persistent form of depression."],
+              ["Bipolar Disorder", "Characterized by periods of extreme highs (mania) and extreme lows (depression)."],
+              ["Cyclothymia", "A lesser form of bipolar disorder with milder mood swings."],
+              ["Mania", "Extreme elevated mood."],
+              ["Hypomania", "Moderate elevated mood."]
+            ],
+            "key_points": [
+              "Mood disorders involve serious changes in mood.",
+              "Major Depression: severe depressive symptoms.",
+              "Dysthymia: milder but more persistent depression.",
+              "Bipolar Disorder: cycling between mania and depression.",
+              "Cyclothymia: milder form of bipolar disorder."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Disorder", "Key Features", "Severity"],
+                ["Major Depression", "Depressed mood, loss of interest, sleep/weight disturbance", "Severe"],
+                ["Dysthymia", "Milder depressive symptoms, more persistent", "Mild to Moderate"],
+                ["Bipolar I", "Extreme manic episodes and depressive episodes", "Severe"],
+                ["Bipolar II", "Hypomanic episodes and depressive episodes", "Moderate"],
+                ["Cyclothymia", "Milder mood swings", "Mild"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Mood Disorders Spectrum",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": ["Major Depression", "Dysthymia", "Bipolar I", "Bipolar II", "Cyclothymia"],
+                  "severity": [10, 5, 10, 7, 3],
+                  "description": "Severity of different mood disorders"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "7.3.2. Anxiety Disorders",
+            "paragraphs": [
+              "Anxiety is a normal reaction to stress and can be beneficial in some situations. It can alert us to dangers and help us prepare and pay attention. Anxiety disorders differ from normal feelings of nervousness or anxiousness, and involve excessive fear or anxiety. Anxiety disorders are the most common of mental disorders and affect nearly 30 percent of adults at some point in their lives.",
+              "For a person to be diagnosed with an anxiety disorder, the fear or anxiety must:",
+              "- Be out of proportion to the situation or age inappropriate.",
+              "- Hinder your ability to function normally.",
+              "The disorders in this category include:",
+              "**1. Panic Disorder:** Characterized by a series of panic attacks. A panic attack is an inappropriate intense feeling of fear or discomfort including symptoms such as heart palpitations, trembling, shortness of breath, chest pain, and dizziness.",
+              "**2. Agoraphobia:** Literally means fear of the marketplace. It refers to a series of symptoms where the person fears, and often avoids, situations where escape or help might not be available, such as shopping centers, grocery stores, or other public places.",
+              "**3. Specific or Simple Phobia and Social Phobia:** Represent an intense fear and often an avoidance of a specific situation, person, place, or thing.",
+              "**4. Obsessive-Compulsive Disorder (OCD):** Characterized by obsessions (thoughts which seem uncontrollable) and compulsions (behaviors which act to reduce the obsession).",
+              "**5. Posttraumatic Stress Disorder (PTSD):** Occurs only after a person is exposed to a traumatic event where their life or someone else's life is threatened. Symptoms include intense fear, avoidance, reoccurring nightmares, flashbacks, and heightened anxiety.",
+              "**6. Generalized Anxiety Disorder:** Diagnosed when a person has extreme anxiety in nearly every part of their life. It is not associated with just open places, specific situations, or a traumatic event."
+            ],
+            "definitions": [
+              ["Anxiety Disorders", "Disorders involving excessive fear or anxiety that hinders normal functioning."],
+              ["Panic Disorder", "Characterized by recurring panic attacks."],
+              ["Agoraphobia", "Fear of situations where escape might be difficult."],
+              ["Specific Phobia", "Intense fear of a specific object or situation."],
+              ["Social Phobia", "Intense fear of social situations."],
+              ["OCD", "Characterized by obsessions and compulsions."],
+              ["PTSD", "Occurs after exposure to a traumatic event."],
+              ["Generalized Anxiety Disorder", "Extreme anxiety in nearly every part of life."]
+            ],
+            "key_points": [
+              "Anxiety disorders are the most common mental disorders.",
+              "Panic Disorder: recurring panic attacks.",
+              "Agoraphobia: fear of public places.",
+              "Specific and Social Phobias: intense fear of specific situations.",
+              "OCD: obsessions and compulsions.",
+              "PTSD: after trauma.",
+              "Generalized Anxiety Disorder: extreme anxiety in all areas of life."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Disorder", "Key Features", "Example"],
+                ["Panic Disorder", "Recurring panic attacks", "Sudden intense fear with heart palpitations"],
+                ["Agoraphobia", "Fear of public places", "Avoiding shopping centers"],
+                ["Specific Phobia", "Intense fear of a specific object", "Fear of spiders"],
+                ["Social Phobia", "Intense fear of social situations", "Fear of public speaking"],
+                ["OCD", "Obsessions and compulsions", "Compulsive hand washing"],
+                ["PTSD", "After trauma", "Flashbacks after war"],
+                ["Generalized Anxiety Disorder", "Extreme anxiety in all areas", "Constant worry about everything"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Types of Anxiety Disorders",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Panic Disorder": 15,
+                  "Agoraphobia": 10,
+                  "Specific Phobia": 25,
+                  "Social Phobia": 15,
+                  "OCD": 10,
+                  "PTSD": 10,
+                  "Generalized Anxiety Disorder": 15
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "7.3.3. Personality Disorders",
+            "paragraphs": [
+              "A personality disorder is a type of mental disorder in which you have a rigid and unhealthy pattern of thinking, functioning, and behaving. A person with a personality disorder has trouble perceiving and relating to situations and people. Personality disorders are characterized by an enduring pattern of thinking, feeling, and behaving which is significantly different from the person's culture and results in negative consequences. This pattern must be longstanding and inflexible for a diagnosis to be made.",
+              "There are around nine types of personality disorders:",
+              "**1. Paranoid:** Pattern of distrust and suspiciousness.",
+              "**2. Schizoid:** Pattern of detachment from social norms and a restriction of emotions.",
+              "**3. Schizotypal:** Pattern of discomfort in close relationships and eccentric thoughts and behaviors.",
+              "**4. Antisocial:** Pattern of disregard for the rights of others, including violation of these rights and the failure to feel empathy.",
+              "**5. Borderline:** Pattern of instability in personal relationships, including frequent bouts of clinginess and affection and anger and resentment.",
+              "**6. Histrionic:** Pattern of excessive emotional behavior and attention seeking.",
+              "**7. Narcissistic:** Pattern of grandiosity, exaggerated self-worth, and need for admiration.",
+              "**8. Avoidant:** Pattern of feelings of social inadequacies, low self-esteem, and hypersensitivity to criticism.",
+              "**9. Obsessive-Compulsive:** Pattern of obsessive cleanliness, perfection, and control."
+            ],
+            "definitions": [
+              ["Personality Disorder", "A rigid and unhealthy pattern of thinking, functioning, and behaving."],
+              ["Paranoid Personality Disorder", "Pattern of distrust and suspiciousness."],
+              ["Schizoid Personality Disorder", "Pattern of detachment from social norms and restriction of emotions."],
+              ["Schizotypal Personality Disorder", "Pattern of discomfort in close relationships and eccentric thoughts."],
+              ["Antisocial Personality Disorder", "Pattern of disregard for the rights of others."],
+              ["Borderline Personality Disorder", "Pattern of instability in personal relationships."],
+              ["Histrionic Personality Disorder", "Pattern of excessive emotional behavior and attention seeking."],
+              ["Narcissistic Personality Disorder", "Pattern of grandiosity and need for admiration."],
+              ["Avoidant Personality Disorder", "Pattern of social inadequacies and hypersensitivity to criticism."],
+              ["Obsessive-Compulsive Personality Disorder", "Pattern of obsessive cleanliness, perfection, and control."]
+            ],
+            "key_points": [
+              "Personality disorders involve rigid and unhealthy patterns.",
+              "Nine types: Paranoid, Schizoid, Schizotypal, Antisocial, Borderline, Histrionic, Narcissistic, Avoidant, Obsessive-Compulsive.",
+              "Pattern must be longstanding and inflexible.",
+              "Causes significant distress and negative consequences."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Type", "Key Features", "Example"],
+                ["Paranoid", "Distrust and suspiciousness", "Believing everyone is out to get them"],
+                ["Schizoid", "Detachment from social norms", "Preferring isolation"],
+                ["Schizotypal", "Eccentric thoughts and behaviors", "Odd beliefs and magical thinking"],
+                ["Antisocial", "Disregard for rights of others", "Breaking the law without remorse"],
+                ["Borderline", "Instability in relationships", "Rapid mood swings and fear of abandonment"],
+                ["Histrionic", "Excessive emotional behavior", "Being the center of attention"],
+                ["Narcissistic", "Grandiosity and need for admiration", "Believing one is superior to others"],
+                ["Avoidant", "Social inadequacies and hypersensitivity", "Avoiding social situations"],
+                ["Obsessive-Compulsive", "Perfectionism and control", "Needing everything to be perfectly organized"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Types of Personality Disorders",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Personality Disorders",
+                  "branches": [
+                    "Paranoid",
+                    "Schizoid",
+                    "Schizotypal",
+                    "Antisocial",
+                    "Borderline",
+                    "Histrionic",
+                    "Narcissistic",
+                    "Avoidant",
+                    "Obsessive-Compulsive"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "7.4",
+        "section_title": "Treatment Techniques",
+        "section_introduction": "How are psychological disorders treated? This section explores the core components of psychotherapy, the different treatment approaches, and the various treatment modalities available.",
+        "subsections": [
+          {
+            "subtitle": "7.4.1. Core Components of Psychotherapy",
+            "paragraphs": [
+              "Treatment of mental illnesses can take various forms. They can include medication, talk therapy, a combination of both, and can last only one session or take many years to complete. Many different types of treatment are available, but most agree that the core components of psychotherapy remain the same.",
+              "Psychotherapy consists of the following:",
+              "1. A positive, healthy relationship between a client or patient and a trained psychotherapist.",
+              "2. Recognizable mental health issues, whether diagnosable or not.",
+              "3. Agreement on the basic goals of treatment.",
+              "4. Working together as a team to achieve these goals.",
+              "When providing psychotherapy, there are several issues to be considered. First and foremost is **empathy**. It is a requirement for a successful practitioner to be able to understand his or her client's feelings, thoughts, and behaviors. Second, being **nonjudgmental** is vital if the relationship and treatment are going to work. Third, the therapist must have **experience** with issues similar to the client's, be abreast of the research, and be adequately trained."
+            ],
+            "definitions": [
+              ["Psychotherapy", "A treatment approach involving a positive relationship between a client and a trained therapist to reduce negative symptoms and promote mental health."],
+              ["Empathy", "The ability to understand another person's feelings, thoughts, and behaviors."],
+              ["Nonjudgmental", "Being accepting and not critical of the client's behavior."],
+              ["Treatment Goals", "The agreed-upon objectives of therapy."]
+            ],
+            "key_points": [
+              "Psychotherapy involves a positive client-therapist relationship.",
+              "Empathy is essential.",
+              "Being nonjudgmental is vital.",
+              "Therapist must have experience and training.",
+              "Agreement on treatment goals is necessary."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Component", "Description", "Importance"],
+                ["Positive Relationship", "Healthy bond between client and therapist", "Builds trust and safety"],
+                ["Empathy", "Understanding client's feelings", "Helps client feel understood"],
+                ["Nonjudgmental", "Accepting attitude", "Allows client to open up"],
+                ["Agreement on Goals", "Shared objectives for therapy", "Provides direction"],
+                ["Teamwork", "Collaboration between client and therapist", "Increases effectiveness"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Core Components of Psychotherapy",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Positive Relationship",
+                  "step_2": "Empathy and Nonjudgmental Attitude",
+                  "step_3": "Agreement on Goals",
+                  "step_4": "Working Together",
+                  "step_5": "Improved Mental Health"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "7.4.2. Treatment Approaches",
+            "paragraphs": [
+              "Therapists approach clients from slightly different angles, although the ultimate goal remains the same: to help the client reduce negative symptoms, gain insight into why these symptoms occurred and work through those issues, and reduce the emergence of the symptoms in the future.",
+              "The three main branches include:",
+              "**1. Cognitive Approach:** Therapists who lean toward the cognitive branch will look at dysfunctions and difficulties as arising from irrational or faulty thinking. In other words, we perceive the world in a certain way (which may or may not be accurate) and this results in acting and feeling a certain way.",
+              "**2. Behavioral Approach:** Those who follow more behavioral models look at problems as arising from our behaviors which we have learned to perform over years of reinforcement.",
+              "**3. Dynamic (Psychodynamic) Approach:** The dynamic or psychodynamic camp stem more from the teaching of Sigmund Freud and look more at issues beginning in early childhood which then motivate us as adults at an unconscious level.",
+              "**Effectiveness:**",
+              "- Cognitive approaches appear to work better with most types of depression.",
+              "- Behavioral treatments tend to work better with phobias.",
+              "- Most mental health professionals nowadays are more **eclectic** in that they study how to treat people using different approaches. These professionals are sometimes referred to as **integrationists**."
+            ],
+            "definitions": [
+              ["Cognitive Approach", "Treatment approach focusing on changing irrational or faulty thinking."],
+              ["Behavioral Approach", "Treatment approach focusing on changing learned behaviors."],
+              ["Dynamic (Psychodynamic) Approach", "Treatment approach focusing on unconscious conflicts from early childhood."],
+              ["Eclectic", "Using different therapeutic approaches based on the client's needs."],
+              ["Integrationists", "Therapists who combine different approaches."]
+            ],
+            "key_points": [
+              "Three main treatment approaches: cognitive, behavioral, and dynamic.",
+              "Cognitive: addresses faulty thinking.",
+              "Behavioral: addresses learned behaviors.",
+              "Dynamic: addresses unconscious childhood conflicts.",
+              "Many therapists are eclectic and use multiple approaches."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Approach", "Focus", "Best For"],
+                ["Cognitive", "Faulty thinking", "Depression"],
+                ["Behavioral", "Learned behaviors", "Phobias"],
+                ["Dynamic", "Unconscious conflicts", "Long-standing personality issues"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Three Treatment Approaches",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": ["Cognitive", "Behavioral", "Dynamic"],
+                  "effectiveness": [8, 7, 6],
+                  "description": "Relative effectiveness for different disorders"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "7.4.3. Treatment Modalities",
+            "paragraphs": [
+              "Therapy is most often thought of as a one-on-one relationship between a client or patient and a therapist. This is probably the most common example, but therapy can also take different forms.",
+              "**1. Individual Therapy:** One-on-one relationship between a client and a therapist.",
+              "**2. Group Therapy:** Individuals suffering from similar illnesses or having similar issues meet together with one or two therapists. Group sizes differ, ranging from three or four to upwards of 15 or 20. The power of group is due to the need in all of us to belong, feel understood, and know that there is hope.",
+              "**3. Couples or Family Therapy:** Therapy that takes place in smaller groups consisting of a couple or a family. In this type of treatment, the issues to be worked on are centered around the relationship. There is often an educational component, such as communication training, and couples and families are encouraged to work together as a team.",
+              "Sometimes therapy can include more than one treatment modality. For example, a person suffering from depression, social anxiety, and low self-esteem may start with individual therapy to reduce depressive symptoms, then move to group therapy to practice social skills and feel part of a supportive group."
+            ],
+            "definitions": [
+              ["Individual Therapy", "One-on-one therapy between a client and a therapist."],
+              ["Group Therapy", "Therapy involving multiple clients with similar issues and one or two therapists."],
+              ["Couples Therapy", "Therapy focused on the relationship between partners."],
+              ["Family Therapy", "Therapy involving family members working on relationship issues."]
+            ],
+            "key_points": [
+              "Individual therapy: one-on-one.",
+              "Group therapy: multiple clients with similar issues.",
+              "Couples/family therapy: focuses on relationships.",
+              "Multiple modalities may be used together."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Modality", "Description", "Best For"],
+                ["Individual", "One-on-one with therapist", "Personal issues, depression"],
+                ["Group", "Multiple clients with similar issues", "Social skills, support"],
+                ["Couples", "Therapy for partners", "Relationship issues"],
+                ["Family", "Therapy for family members", "Family conflicts"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Treatment Modalities",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Individual Therapy": 50,
+                  "Group Therapy": 25,
+                  "Couples Therapy": 15,
+                  "Family Therapy": 10
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 7  psychological disorder and treatment techniques.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 7  psychological disorder and treatment techniques in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "What are the three main criteria used to determine whether a person has a psychological disorder? Explain each with an example.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Three criteria: abnormality, maladaptiveness, and personal distress.\n• Explanation & Derivation:\n  - Abnormality: Deviating from social norms. Example: Talking to oneself loudly in public.\n  - Maladaptiveness: Disrupting daily functioning. Example: Unable to hold a job due to behavior.\n  - Personal Distress: Subjective feelings of anxiety or tension. Example: Feeling constantly worried and fearful.\n• Final Answer: The three criteria are abnormality (deviating from norms), maladaptiveness (disrupting functioning), and personal distress (subjective feelings of anxiety). No single criterion is sufficient for diagnosis."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 7  psychological disorder and treatment techniques.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Compare and contrast the biological, psychoanalytic, learning, and cognitive perspectives on the causes of psychological disorders.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Four perspectives on causes of psychological disorders.\n• Explanation & Derivation:\n  - Biological: Caused by neurotransmitters, genetics, brain structure, hormones.\n  - Psychoanalytic: Caused by unresolved unconscious conflicts from childhood.\n  - Learning: Caused by inadequate or inappropriate learning (conditioning).\n  - Cognitive: Caused by self-defeating thoughts and faulty thinking.\n• Final Answer: Biological perspective focuses on brain chemistry and genetics; psychoanalytic focuses on unconscious conflicts; learning focuses on conditioning; cognitive focuses on faulty thinking. Each offers a different explanation for the same disorder."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Describe the major types of mood disorders and their key features.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Mood disorders include Major Depression, Dysthymia, Bipolar Disorder, and Cyclothymia.\n• Explanation & Derivation:\n  - Major Depression: Depressed mood, loss of interest, sleep/weight disturbance, loss of energy.\n  - Dysthymia: Milder but more persistent depression.\n  - Bipolar Disorder: Cycling between mania and depression.\n  - Cyclothymia: Milder form of bipolar disorder.\n• Final Answer: Major Depression is severe; Dysthymia is milder but persistent; Bipolar Disorder involves mania and depression; Cyclothymia is a milder form of bipolar disorder."
+    },
+    {
+      "question": "What are the core components of psychotherapy? Explain each.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Core components of psychotherapy.\n• Explanation & Derivation:\n  - Positive, healthy relationship between client and therapist.\n  - Recognizable mental health issues.\n  - Agreement on basic goals of treatment.\n  - Working together as a team.\n  - Empathy and nonjudgmental attitude are essential.\n• Final Answer: The core components are a positive relationship, empathy, nonjudgmental attitude, agreement on goals, and teamwork. These components are essential for effective psychotherapy."
+    },
+    {
+      "question": "Compare and contrast individual, group, couples, and family therapy.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Different treatment modalities.\n• Explanation & Derivation:\n  - Individual: One-on-one with therapist; best for personal issues.\n  - Group: Multiple clients with similar issues; best for social skills and support.\n  - Couples: Therapy for partners; best for relationship issues.\n  - Family: Therapy for family members; best for family conflicts.\n• Final Answer: Individual therapy is one-on-one; group therapy involves multiple clients; couples therapy focuses on partners; family therapy involves family members. Each modality is suited to different needs."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 7  PSYCHOLOGICAL DISORDER AND TREATMENT TECHNIQUES (university psychology):\nThis complete study document covers all topics in Chapter 7  psychological disorder and treatment techniques, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 7: PSYCHOLOGICAL DISORDERS AND TREATMENT TECHNIQUES (University Freshman General Psychology):\nThis chapter covers the nature of psychological disorders (three criteria: abnormality, maladaptiveness, and personal distress), the causes of psychological disorders from biological and psychological perspectives (psychoanalytic, learning, and cognitive), the major types of psychological disorders (mood disorders: Major Depression, Dysthymia, Bipolar Disorder, Cyclothymia; anxiety disorders: Panic Disorder, Agoraphobia, Specific Phobia, Social Phobia, OCD, PTSD, Generalized Anxiety Disorder; personality disorders: Paranoid, Schizoid, Schizotypal, Antisocial, Borderline, Histrionic, Narcissistic, Avoidant, Obsessive-Compulsive), and treatment techniques (core components of psychotherapy, treatment approaches: cognitive, behavioral, dynamic; treatment modalities: individual, group, couples, family). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 7: Psychological Disorders and Treatment Techniques — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
