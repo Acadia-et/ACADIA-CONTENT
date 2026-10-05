@@ -1,60 +1,580 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 10  academic skills"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 10  academic skills",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 10  academic skills: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 10  academic skills",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "10",
+    "chapter_title": "Academic Skills",
+    "chapter_subtitle": "Time Management, Note-Taking, Study Skills, Test-Taking, Test Anxiety, Goal Setting, and Career Development",
+    "chapter_introduction": "Welcome to Chapter 10 of General Psychology. This chapter focuses on academic skills — the abilities that help you succeed in your studies and beyond. You will learn about time management, note-taking and study skills, test-taking strategies, overcoming test anxiety, goal setting, and career development. These skills are not just for university; they are life skills that will serve you in your personal and professional life.",
+    "sections": [
+      {
+        "section_number": "10.1",
+        "section_title": "Time Management",
+        "section_introduction": "How do you manage your time? Do you often feel overwhelmed by deadlines? This section explores time management — the ability to plan and control how you spend your hours to accomplish your goals effectively.",
+        "subsections": [
+          {
+            "subtitle": "10.1.1. Understanding Time Management",
+            "paragraphs": [
+              "**Definition:** **Time management** is the ability to plan and control how someone spends the hours in a day to accomplish his or her goals effectively. This involves dealing with time between the domains of life: work, home, social life, and hobbies.",
+              "It is important to establish clear goals and priorities in order to set aside non-essential tasks that can waste time, and to monitor where the time actually goes.",
+              "Good time management is deciding what someone wants to get out of life and efficiently pursuing these goals. Time management does not mean being busy all the time. It means using your time the way you want to use it, which can include large doses of daydreaming and doing nothing.",
+              "**Benefits of Good Time Management:**",
+              "1. More productive",
+              "2. More energy for things they need to accomplish",
+              "3. Feel less stressed",
+              "4. Able to do the things they want",
+              "5. Get more things done",
+              "6. Relate more positively to others",
+              "7. Feel better about themselves"
+            ],
+            "definitions": [
+              ["Time Management", "The ability to plan and control how someone spends the hours in a day to accomplish goals effectively."],
+              ["Priorities", "Tasks or goals that are more important than others."],
+              ["Procrastination", "The act of delaying or postponing tasks."]
+            ],
+            "key_points": [
+              "Time management is planning and controlling how you spend your time.",
+              "It involves work, home, social life, and hobbies.",
+              "Good time management reduces stress and increases productivity.",
+              "Time management does not mean being busy all the time."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Benefit", "Description", "Impact"],
+                ["More Productive", "Accomplish more in less time", "Higher output"],
+                ["More Energy", "Have energy for important tasks", "Better performance"],
+                ["Less Stressed", "Reduced anxiety about deadlines", "Improved well-being"],
+                ["More Positive Relationships", "Better interactions with others", "Stronger social bonds"],
+                ["Feel Better", "Increased self-esteem", "Greater life satisfaction"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Benefits of Time Management",
+                "diagram_type": "bar_chart",
+                "diagram_data": {
+                  "categories": ["Productivity", "Energy", "Less Stress", "Relationships", "Self-Esteem"],
+                  "level": [9, 8, 9, 7, 8],
+                  "description": "Benefits of good time management"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "10.1.2. Strategies for Time Management",
+            "paragraphs": [
+              "Finding a time management strategy that works best for individuals depends on their personality, ability to self-motivate, and level of self-discipline. By incorporating some, or all of the ten strategies below, you can manage your time more effectively.",
+              "**1. Know How You Spend Time:** Track your activities to see where your time actually goes.",
+              "**2. Set Priorities:** Decide what is most important and focus on those tasks first.",
+              "**3. Use a Planning Tool:** Use a planner, calendar, or digital app to schedule your time.",
+              "**4. Get Organized:** Keep your workspace and materials organized to avoid wasting time searching.",
+              "**5. Schedule Your Time Appropriately:** Allocate specific times for specific tasks.",
+              "**6. Delegate — Get Help from Others:** Don't try to do everything yourself; ask for help when needed.",
+              "**7. Stop Procrastinating:** Start tasks early and avoid putting things off.",
+              "**8. Manage External Time Wasters:** Identify and reduce distractions like social media or TV.",
+              "**9. Avoid Multi-tasking:** Focus on one task at a time for better quality and efficiency.",
+              "**10. Stay Healthy:** Get enough sleep, exercise, and eat well to maintain energy and focus."
+            ],
+            "definitions": [
+              ["Priorities", "Tasks or goals that are more important than others."],
+              ["Planning Tool", "A tool like a planner or calendar used to schedule time."],
+              ["Procrastination", "The act of delaying or postponing tasks."],
+              ["Multi-tasking", "Attempting to do multiple tasks at once."]
+            ],
+            "key_points": [
+              "Ten strategies for effective time management.",
+              "Know how you spend time.",
+              "Set priorities.",
+              "Use a planning tool.",
+              "Get organized.",
+              "Schedule time appropriately.",
+              "Delegate.",
+              "Stop procrastinating.",
+              "Manage external time wasters.",
+              "Avoid multi-tasking.",
+              "Stay healthy."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Example"],
+                ["Know How You Spend Time", "Track activities", "Keeping a time log"],
+                ["Set Priorities", "Focus on important tasks", "Studying for an exam before watching TV"],
+                ["Use a Planning Tool", "Schedule tasks", "Using a calendar app"],
+                ["Get Organized", "Keep workspace tidy", "Organizing your desk"],
+                ["Schedule Time", "Allocate specific times", "Setting aside 2 hours for study"],
+                ["Delegate", "Ask for help", "Asking a friend to help with a project"],
+                ["Stop Procrastinating", "Start early", "Beginning an assignment the day it is assigned"],
+                ["Manage Time Wasters", "Reduce distractions", "Turning off social media notifications"],
+                ["Avoid Multi-tasking", "Focus on one task", "Studying without checking your phone"],
+                ["Stay Healthy", "Maintain energy", "Getting 8 hours of sleep"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Ten Strategies for Time Management",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Time Management Strategies",
+                  "branches": [
+                    "Know How You Spend Time",
+                    "Set Priorities",
+                    "Use a Planning Tool",
+                    "Get Organized",
+                    "Schedule Time",
+                    "Delegate",
+                    "Stop Procrastinating",
+                    "Manage Time Wasters",
+                    "Avoid Multi-tasking",
+                    "Stay Healthy"
+                  ]
+                }
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "10.2",
+        "section_title": "Note-Taking and Study Skills",
+        "section_introduction": "How do you take notes? How do you study effectively? This section explores note-taking and study skills — essential tools for academic success.",
+        "subsections": [
+          {
+            "subtitle": "10.2.1. Getting Organized",
+            "paragraphs": [
+              "Before you go to class, you need to have the necessary materials such as notebooks and pen. A ringed exercise book is usually the most suitable one to have an organized system of note-taking. It allows you to place your syllabi in the front, insert handouts by date, and add notes as needed. It also allows you to remove sections of notes and place them side by side to create a big-picture view of main points, chapters, or sections.",
+              "**Before Class:**",
+              "- Determine the lecture topic and review past readings and notes.",
+              "- Complete readings assigned to lecture topics and preview any other auxiliary materials.",
+              "- Prepare questions you may have from the readings.",
+              "**During Class:**",
+              "- Date your notes.",
+              "- Keep the objective/theme of the class in mind.",
+              "- Record notes in your own words.",
+              "- Make your notes brief and focus on the pain points.",
+              "- If you fall behind, stop. Make a mark in your notebook, listen for a few minutes until you feel caught up, then begin taking notes again.",
+              "**After Class:**",
+              "- Immediately after class, remain in the classroom or find a quiet space close by and review notes.",
+              "- To solidify your understanding and connect new concepts with previous concepts, review your notes as soon as possible following class.",
+              "- Connect with another member of the class and create an interactive discussion about the lecture.",
+              "- Visit your professor during office hours with questions.",
+              "- Instead of recopying your notes, record yourself reviewing what you wrote."
+            ],
+            "definitions": [
+              ["Note-Taking", "The process of recording information during lectures or readings."],
+              ["Ringed Exercise Book", "A notebook with rings that allows pages to be added or removed."],
+              ["Syllabus", "An outline of the subjects in a course of study."]
+            ],
+            "key_points": [
+              "Prepare before class by reviewing readings.",
+              "During class, date notes and record in your own words.",
+              "After class, review notes and discuss with classmates.",
+              "Use a ringed exercise book for organization."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Phase", "Action", "Benefit"],
+                ["Before Class", "Review readings and prepare questions", "Creates a framework for learning"],
+                ["During Class", "Date notes, record in own words", "Keeps notes organized and understandable"],
+                ["After Class", "Review notes and discuss", "Solidifies understanding"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Note-Taking Process",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Before Class: Prepare",
+                  "step_2": "During Class: Record",
+                  "step_3": "After Class: Review",
+                  "step_4": "Solidify Understanding"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "10.2.2. Common Note-Taking Methods",
+            "paragraphs": [
+              "The following are the three major note-taking methods:",
+              "**1. Cornell Method:** A systematic and simple method for note-taking that breaks the note page into three sections (Cue column, note-taking column, and summary) to allow for organized recording and review of the main points during lecture. You can also use it while reading your textbooks.",
+              "**2. Outlining:** Recording the main ideas of the lecture to the left margin of the page in your exercise book. Indent more specific information underneath and further indent examples.",
+              "**3. Charting:** Charting is a good strategy for courses that require comparisons/contrasts of specific dates, places, people, events, importance, and how the information relates."
+            ],
+            "definitions": [
+              ["Cornell Method", "A note-taking method that divides the page into cue column, note-taking column, and summary."],
+              ["Outlining", "A note-taking method that uses indentation to show relationships between ideas."],
+              ["Charting", "A note-taking method that uses charts to compare and contrast information."]
+            ],
+            "key_points": [
+              "Three major note-taking methods: Cornell, Outlining, and Charting.",
+              "Cornell: divides page into cue, notes, and summary.",
+              "Outlining: uses indentation.",
+              "Charting: uses charts for comparison."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Method", "Description", "Best For"],
+                ["Cornell", "Divides page into cue column, note-taking column, and summary", "All subjects"],
+                ["Outlining", "Uses indentation to show relationships", "Hierarchical information"],
+                ["Charting", "Uses charts to compare and contrast", "Comparisons and contrasts"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Three Note-Taking Methods",
+                "diagram_type": "pie_chart",
+                "diagram_data": {
+                  "Cornell Method": 40,
+                  "Outlining": 30,
+                  "Charting": 30
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "10.3",
+        "section_title": "Test-Taking Skills",
+        "section_introduction": "How do you prepare for tests? How do you perform your best on exams? This section explores test-taking skills — strategies for success before, during, and after tests.",
+        "subsections": [
+          {
+            "subtitle": "10.3.1. Preparing for Tests",
+            "paragraphs": [
+              "Preparing for tests involves more than just studying the night before. Here are some key strategies:",
+              "1. Attend all classes.",
+              "2. Take organized and clear lecture notes.",
+              "3. Plan your study time and set study goals.",
+              "4. Use SQ3R (Survey, Question, Read, Revise, and Recite) study style.",
+              "5. Use memorizing techniques such as associating difficult material with something you already know.",
+              "6. Divide the review material into logical sections and concentrate on one at a time.",
+              "7. Organize the information you must remember.",
+              "8. Know your teacher (e.g., his/her focus areas) and meet with your teacher out of class.",
+              "9. Make your presence known in class by your courtesy, cooperation, and willingness to learn.",
+              "10. Ask questions to increase your understanding of course material.",
+              "11. Make use of tutoring services and student support centers of the college.",
+              "12. Separate review time from daily assignments.",
+              "13. Start reviewing systematically and early, not just the night before the test.",
+              "14. Practice predicting and answering test questions.",
+              "15. Learn test-taking terms and strategies.",
+              "16. Examine previous tests to ascertain what you did well and what you did not do so well.",
+              "17. Find out what kind of a test it will be: objective, essay, or a combination of both.",
+              "18. Find out when and where the test will be given; what you are expected to bring with you (pens); and what you are allowed to bring with you (dictionary).",
+              "19. Get to the test site early with appropriate materials and do deep breathing exercises to relax.",
+              "20. Get plenty of sleep the night before the exam.",
+              "21. Get up early enough to avoid rushing and to eat a healthy breakfast.",
+              "22. Tell yourself you will do well — and you will!"
+            ],
+            "definitions": [
+              ["SQ3R", "A study method that involves Survey, Question, Read, Revise, and Recite."],
+              ["Test-Taking Skills", "Strategies for preparing for and performing well on tests."]
+            ],
+            "key_points": [
+              "Attend all classes.",
+              "Take organized notes.",
+              "Plan study time.",
+              "Use SQ3R.",
+              "Start reviewing early.",
+              "Practice predicting test questions.",
+              "Get plenty of sleep.",
+              "Eat a healthy breakfast.",
+              "Stay positive."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Strategy", "Description", "Benefit"],
+                ["Attend All Classes", "Be present for lectures", "Don't miss important information"],
+                ["Take Organized Notes", "Clear and structured notes", "Easier to study"],
+                ["Plan Study Time", "Set goals and schedule", "More effective studying"],
+                ["Use SQ3R", "Survey, Question, Read, Revise, Recite", "Improves comprehension"],
+                ["Start Early", "Begin reviewing well before the test", "Reduces cramming"],
+                ["Practice Predicting", "Guess possible test questions", "Better preparation"],
+                ["Get Sleep", "Rest well before the exam", "Improved focus"],
+                ["Eat Breakfast", "Healthy meal before the test", "Energy and concentration"],
+                ["Stay Positive", "Tell yourself you will do well", "Boosts confidence"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Test Preparation Timeline",
+                "diagram_type": "line_graph",
+                "diagram_data": {
+                  "x_axis": "Time Before Test",
+                  "y_axis": "Preparation Level",
+                  "line_1": "Start Early",
+                  "line_2": "Cramming"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "10.4",
+        "section_title": "Test Anxiety and Overcoming Test Anxiety",
+        "section_introduction": "Do you feel nervous before tests? Does anxiety affect your performance? This section explores test anxiety and strategies to overcome it.",
+        "subsections": [
+          {
+            "subtitle": "10.4.1. Understanding Test Anxiety",
+            "paragraphs": [
+              "**Definition:** **Test anxiety** is a negative mood state characterized by bodily symptoms of physical tension and by apprehension about a test/exam going to take place in the future. It can be a subjective sense of unease, a set of behaviors (looking worried and anxious or fidgeting), or a physiological response originating in the brain and reflected in elevated heart rate and muscle tension due to negative thinking of taking a test.",
+              "Students with test anxiety will experience rushes of adrenaline before and throughout their test. Adrenaline blocks the brain from thinking and triggers flight/fight responses. It can interfere with students' studying, and they may have difficulty in learning and remembering what they need to know for the test. Further, too much anxiety may block performance.",
+              "**Symptoms of Severe Test Anxiety:**",
+              "- **Physical:** Headaches, nausea, diarrhea, extreme body temperature changes, excessive sweating, shortness of breath, light-headedness, rapid heartbeat, dry mouth.",
+              "- **Emotional:** Excessive feelings of fear, disappointment, anger, depression, uncontrollable crying or laughing, feelings of helplessness.",
+              "- **Behavioral:** Fidgeting, pacing, substance abuse, avoidance.",
+              "- **Cognitive:** Racing thoughts, going blank, difficulty concentrating, negative self-talk, feelings of dread, comparing self with others, difficulty organizing thoughts."
+            ],
+            "definitions": [
+              ["Test Anxiety", "A negative mood state characterized by bodily symptoms of physical tension and apprehension about a test."],
+              ["Adrenaline", "A hormone that triggers the fight-or-flight response."],
+              ["Fight-or-Flight Response", "The body's physiological reaction to stress."]
+            ],
+            "key_points": [
+              "Test anxiety is a negative mood state.",
+              "It involves physical, emotional, behavioral, and cognitive symptoms.",
+              "Adrenaline blocks thinking.",
+              "It can interfere with studying and performance."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Category", "Symptoms", "Example"],
+                ["Physical", "Headaches, nausea, rapid heartbeat", "Feeling sick before a test"],
+                ["Emotional", "Fear, disappointment, anger", "Feeling overwhelmed"],
+                ["Behavioral", "Fidgeting, pacing, avoidance", "Avoiding studying"],
+                ["Cognitive", "Racing thoughts, going blank", "Negative self-talk"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Symptoms of Test Anxiety",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Test Anxiety",
+                  "branches": [
+                    "Physical Symptoms",
+                    "Emotional Symptoms",
+                    "Behavioral Symptoms",
+                    "Cognitive Symptoms"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "10.4.2. Overcoming Test Anxiety with Realistic Thinking",
+            "paragraphs": [
+              "In order to reduce test anxiety, students should exercise **realistic thinking**. Realistic thinking means looking at all aspects of a situation (the positive, the negative, and the neutral) before making conclusions. In other words, realistic thinking means looking at oneself, others, and the world in a balanced and fair way.",
+              "**Steps of Realistic Thinking:**",
+              "**Step 1: Pay Attention to Your Self-Talk:** Thoughts are the things that we say to ourselves without speaking out loud (self-talk). We all have our own way of thinking about things, and how we think has a big effect on how we feel. When we think that something bad will happen such as failing a test, we feel anxious.",
+              "**Step 2: Identify Thoughts That Lead to Feelings of Anxiety:** It can take some time and practice to identify the specific thoughts that make you anxious. Pay attention to your shifts in anxiety, no matter how small. When you notice yourself getting more anxious, that is the time to ask yourself: What am I thinking right now? What is making me feel anxious? What am I worried will happen? What bad thing do I expect to happen?",
+              "**Step 3: Challenge Your 'Anxious' Thinking:** Thinking something does not mean it is true or that it will happen. Often, our thoughts are just guesses and not actual facts. For example, thinking that you will fail a test does not mean you will actually fail. Sometimes, our anxiety is the result of falling into thinking traps. Thinking traps are unfair or overly negative ways of seeing things. Therefore, it is helpful to challenge your anxious thoughts because they can make you feel like something bad will definitely happen, even when it is highly unlikely."
+            ],
+            "definitions": [
+              ["Realistic Thinking", "Looking at all aspects of a situation (positive, negative, neutral) before making conclusions."],
+              ["Self-Talk", "The thoughts we say to ourselves without speaking out loud."],
+              ["Thinking Traps", "Unfair or overly negative ways of seeing things."]
+            ],
+            "key_points": [
+              "Realistic thinking reduces test anxiety.",
+              "Pay attention to self-talk.",
+              "Identify anxious thoughts.",
+              "Challenge anxious thinking.",
+              "Avoid thinking traps."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Step", "Action", "Benefit"],
+                ["1. Pay Attention", "Notice your self-talk", "Awareness of thoughts"],
+                ["2. Identify Thoughts", "Find thoughts that cause anxiety", "Understanding triggers"],
+                ["3. Challenge Thinking", "Question anxious thoughts", "Reduces anxiety"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Realistic Thinking Process",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Situation: A Test",
+                  "step_2": "Thought: 'I have studied and I'll pass.'",
+                  "step_3": "Feeling: Calm",
+                  "step_4": "Thought: 'I am going to fail.'",
+                  "step_5": "Feeling: Scared and Anxious"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "10.5",
+        "section_title": "Goal Setting",
+        "section_introduction": "Do you have goals? How do you set them? This section explores goal setting — the process of imagining, planning, and implementing your vision for the future.",
+        "subsections": [
+          {
+            "subtitle": "10.5.1. Understanding Goal Setting",
+            "paragraphs": [
+              "**Definition:** **Goal setting** is like drawing a map, which will help individuals to track their development towards reaching their full potential. It is the process of imagining, planning, and implementing the big picture of one's destination.",
+              "Goal setting gives someone direction and motivation, as well as increasing satisfaction and self-confidence in their performance. In the process of goal setting, goals should be straightforward and emphasize what the individual wants to happen in his/her life.",
+              "**SMART Goals:** The goal should be **Specific, Measurable, Action-oriented, Realistic, and Time-bound (SMART)**.",
+              "**Purposes of Goal Setting:**",
+              "- Guide and direct behavior",
+              "- Provide clarity",
+              "- Provide challenges and standards",
+              "- Reflect on what the goal setters consider important",
+              "- Help to improve performance",
+              "- Increase the motivation to achieve",
+              "- Help increase pride and satisfaction in achievements",
+              "- Improve self-confidence",
+              "- Help to decrease negative attitude"
+            ],
+            "definitions": [
+              ["Goal Setting", "The process of imagining, planning, and implementing the big picture of one's destination."],
+              ["SMART Goals", "Goals that are Specific, Measurable, Action-oriented, Realistic, and Time-bound."]
+            ],
+            "key_points": [
+              "Goal setting is like drawing a map.",
+              "It gives direction and motivation.",
+              "Goals should be SMART.",
+              "Goal setting improves performance and confidence."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["SMART Criterion", "Description", "Example"],
+                ["Specific", "Clear and well-defined", "I want to get an A in Psychology"],
+                ["Measurable", "Can be tracked", "I will score 90% or above"],
+                ["Action-oriented", "Requires action", "I will study 2 hours daily"],
+                ["Realistic", "Achievable", "I have the time and resources"],
+                ["Time-bound", "Has a deadline", "By the end of the semester"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "SMART Goals",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "SMART Goals",
+                  "branches": [
+                    "Specific",
+                    "Measurable",
+                    "Action-oriented",
+                    "Realistic",
+                    "Time-bound"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "10.6",
+        "section_title": "Career Development Skill",
+        "section_introduction": "What career do you want? How do you plan for it? This section explores career development — the lifelong process of planning and managing your learning, work, and leisure.",
+        "subsections": [
+          {
+            "subtitle": "10.6.1. Understanding Career Development",
+            "paragraphs": [
+              "**Definition:** **Career** is how individuals live their lives across different contexts and settings, including education, work, family, and leisure time.",
+              "**Career development** is a lifelong continuous process of planning, implementing, and managing one's learning, work, and leisure in order to achieve life objectives. It is a continuous lifelong process of developmental experiences that focuses on seeking, obtaining, and processing information about self, occupational and educational alternatives, lifestyles, and role options.",
+              "Put in another way, career development is the process through which people come to understand themselves as they relate to the world of work and their role in it.",
+              "**Career Management Skills (CMS):** Career management skill is often used to describe skills, aptitudes, abilities, and attitudes required to manage life. In other words, career management skills are competencies that help individuals to identify their existing skills, develop career learning goals, and take action to enhance their careers.",
+              "The concept of career management assumes that:",
+              "- Individuals can influence their careers.",
+              "- There are a range of skills which help an individual to manage their career in ways that are personally advantageous.",
+              "- At least some of these skills can be acquired through learning and experience."
+            ],
+            "definitions": [
+              ["Career", "How individuals live their lives across different contexts and settings."],
+              ["Career Development", "A lifelong continuous process of planning, implementing, and managing one's learning, work, and leisure."],
+              ["Career Management Skills", "Competencies that help individuals identify their skills, develop career goals, and take action."]
+            ],
+            "key_points": [
+              "Career is how you live your life across contexts.",
+              "Career development is a lifelong process.",
+              "It involves planning, implementing, and managing.",
+              "Career management skills help you manage your career."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Definition", "Example"],
+                ["Career", "How individuals live their lives across contexts", "Education, work, family, leisure"],
+                ["Career Development", "Lifelong process of planning and managing learning, work, and leisure", "Choosing a major, applying for jobs"],
+                ["Career Management Skills", "Competencies for managing career", "Self-assessment, goal setting, networking"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Career Development Process",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "step_1": "Self-Awareness",
+                  "step_2": "Career Exploration",
+                  "step_3": "Decision Making",
+                  "step_4": "Action Planning",
+                  "step_5": "Career Management"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 10  academic skills.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 10  academic skills in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Define time management and explain its benefits.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Time management.\n• Explanation & Derivation:\n  - Definition: The ability to plan and control how someone spends the hours in a day to accomplish goals effectively.\n  - Benefits: More productive, more energy, less stressed, better relationships, feel better about oneself.\n• Final Answer: Time management is planning and controlling how you spend your time. Benefits include increased productivity, reduced stress, and improved well-being."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 10  academic skills.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "List and explain the three major note-taking methods.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Three note-taking methods.\n• Explanation & Derivation:\n  - Cornell Method: Divides page into cue column, note-taking column, and summary.\n  - Outlining: Uses indentation to show relationships between ideas.\n  - Charting: Uses charts to compare and contrast information.\n• Final Answer: The three methods are Cornell (divides page into sections), Outlining (uses indentation), and Charting (uses charts for comparison)."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "What are the symptoms of test anxiety? How can realistic thinking help overcome it?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Test anxiety and realistic thinking.\n• Explanation & Derivation:\n  - Symptoms: Physical (headaches, nausea), emotional (fear, anger), behavioral (fidgeting, avoidance), cognitive (racing thoughts, going blank).\n  - Realistic thinking: Looking at all aspects of a situation before making conclusions.\n  - Steps: Pay attention to self-talk, identify anxious thoughts, challenge anxious thinking.\n• Final Answer: Symptoms include physical, emotional, behavioral, and cognitive issues. Realistic thinking helps by challenging negative thoughts and reducing anxiety."
+    },
+    {
+      "question": "What are SMART goals? Provide an example.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: SMART goals.\n• Explanation & Derivation:\n  - Specific: Clear and well-defined.\n  - Measurable: Can be tracked.\n  - Action-oriented: Requires action.\n  - Realistic: Achievable.\n  - Time-bound: Has a deadline.\n  - Example: 'I want to get an A in Psychology by studying 2 hours daily and scoring 90% or above by the end of the semester.'\n• Final Answer: SMART goals are Specific, Measurable, Action-oriented, Realistic, and Time-bound. Example: 'I want to get an A in Psychology by the end of the semester.'"
+    },
+    {
+      "question": "Define career development and explain career management skills.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Career development and career management skills.\n• Explanation & Derivation:\n  - Career Development: A lifelong continuous process of planning, implementing, and managing one's learning, work, and leisure.\n  - Career Management Skills: Competencies that help individuals identify their skills, develop career goals, and take action.\n• Final Answer: Career development is a lifelong process of managing learning, work, and leisure. Career management skills are competencies for managing one's career."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 10  ACADEMIC SKILLS (university psychology):\nThis complete study document covers all topics in Chapter 10  academic skills, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 10: ACADEMIC SKILLS (University Freshman General Psychology):\nThis chapter covers time management (planning and controlling how you spend your time; ten strategies including knowing how you spend time, setting priorities, using a planning tool, getting organized, scheduling time, delegating, stopping procrastination, managing time wasters, avoiding multi-tasking, and staying healthy), note-taking and study skills (getting organized; three methods: Cornell, Outlining, Charting), test-taking skills (preparing for tests; SQ3R; starting early; practicing predicting questions), test anxiety and overcoming it (symptoms: physical, emotional, behavioral, cognitive; realistic thinking: pay attention to self-talk, identify anxious thoughts, challenge thinking), goal setting (SMART goals: Specific, Measurable, Action-oriented, Realistic, Time-bound; purposes: guide behavior, provide clarity, improve performance), and career development (lifelong process of planning and managing learning, work, and leisure; career management skills). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 10: Academic Skills — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
