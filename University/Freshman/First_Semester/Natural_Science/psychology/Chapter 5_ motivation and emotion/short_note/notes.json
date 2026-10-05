@@ -1,60 +1,268 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 5  motivation and emotion"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 5  motivation and emotion",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 5  motivation and emotion: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 5  motivation and emotion",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "5",
+    "chapter_title": "Motivation and Emotions",
+    "chapter_subtitle": "Definition, Types, Theories of Motivation, Conflict of Motives, Frustration, Definition and Theories of Emotion",
+    "chapter_introduction": "Welcome to Chapter 5 of General Psychology. This chapter introduces the concepts of motivation and emotion. Motivation is what moves people to do the things they do. Emotion is the feeling aspect of consciousness. In this chapter, we explore the definition and types of motivation, theories of motivation, conflict of motives, frustration, definition and elements of emotion, and theories of emotion.",
+    "sections": [
+      {
+        "section_number": "5.1",
+        "section_title": "Motivation",
+        "section_introduction": "Motivation is a factor by which activities are started, directed and continued so that physical or psychological needs or wants are met. Let us explore its definition and types.",
+        "subsections": [
+          {
+            "subtitle": "5.1.1. Definition and Types of Motivation",
+            "paragraphs": [
+              "**Motivation** is a factor by which activities are started, directed and continued so that physical or psychological needs or wants are met.",
+              "The word itself comes from the Latin word **'Mover'**, which means 'to move'. Motivation is what 'moves' people to do the things they do.",
+              "**Example:** When a person is relaxing in front of a television and begins to feel hungry, the physical need for food may cause the person to get up, go into the kitchen, and search for something to eat.",
+              "**Two types of motivation:**",
+              "- **Intrinsic motivation:** A type of motivation in which a person acts because the act itself is rewarding or satisfying in some internal manner.",
+              "- **Extrinsic motivation:** A type of motivation in which individuals act because the action leads to an outcome that is external to a person.",
+              "**Example:** Giving a child money for every 'A' on a report card (extrinsic). Studying a subject because you love it (intrinsic)."
+            ],
+            "definitions": [
+              ["Motivation", "A factor by which activities are started, directed and continued so that physical or psychological needs or wants are met."],
+              ["Intrinsic Motivation", "Acting because the act itself is rewarding or satisfying."],
+              ["Extrinsic Motivation", "Acting because the action leads to an external outcome."]
+            ],
+            "key_points": [
+              "Motivation: starts, directs, and sustains activities.",
+              "From Latin 'Mover' — to move.",
+              "Intrinsic: internal satisfaction.",
+              "Extrinsic: external reward."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Type", "Definition", "Example"],
+                ["Intrinsic", "Act itself is rewarding", "Studying because you love the subject"],
+                ["Extrinsic", "Action leads to external outcome", "Studying for money or grades"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.1.2. Approaches to Motivation (Theories of Motivation)",
+            "paragraphs": [
+              "**a) Instinct Approaches to Motivation:** One of the earliest theories focused on biologically determined and innate patterns of behavior. Just as animals are governed by instincts, early researchers proposed that humans may also be governed by similar instincts. Instincts include curiosity, flight (running away), pugnacity (aggressiveness), and acquisition (gathering possessions).",
+              "**b) Drive-Reduction Approaches to Motivation:** Involves the concepts of needs and drives. A **need** is a requirement of some material essential for survival. When an organism has a need, it leads to psychological tension and physical arousal to fulfill the need and reduce the tension. This tension is called a **drive**. Primary drives involve survival needs (hunger, thirst); secondary drives are learned (need for money, social approval). The theory includes **homeostasis** — the tendency of the body to maintain a steady state.",
+              "**c) Arousal Approaches: Beyond Drive Reduction:** Seeks to explain behavior in which the goal is to maintain or increase excitement. Each person tries to maintain a certain level of stimulation and activity. If levels are too low, we try to increase them.",
+              "**d) Incentive Approaches: Motivation's Pull:** Motivation stems from the desire to attain external rewards, known as incentives. The desirable properties of external stimuli (grades, money, affection, food, sex) account for a person's motivation.",
+              "**e) Cognitive Approaches: The Thoughts Behind Motivation:** Motivation is a result of people's thoughts, beliefs, expectations, and goals. Draws a key difference between intrinsic and extrinsic motivation.",
+              "**f) Humanistic Approaches to Motivation (Maslow's Hierarchy of Needs):**",
+              "- **Physiological needs:** Biological requirements for survival (air, food, drink, shelter, clothing, warmth, sex, sleep).",
+              "- **Safety needs:** Protection from elements, security, order, law, stability, freedom from fear.",
+              "- **Love and belongingness needs:** Friendship, intimacy, trust, acceptance, receiving and giving affection and love.",
+              "- **Esteem needs:** Need to be respected as a useful, honorable individual; esteem for oneself (dignity, achievement, mastery, independence) and desire for reputation or respect from others (status, prestige).",
+              "- **Self-actualization needs:** Realizing personal potential, self-fulfillment, seeking personal growth and peak experiences."
+            ],
+            "definitions": [
+              ["Instinct", "Biologically determined and innate patterns of behavior."],
+              ["Need", "A requirement of some material essential for survival."],
+              ["Drive", "Psychological tension and physical arousal to fulfill a need."],
+              ["Homeostasis", "The tendency of the body to maintain a steady state."],
+              ["Incentive", "External rewards that motivate behavior."],
+              ["Self-Actualization", "Realizing personal potential and self-fulfillment."]
+            ],
+            "key_points": [
+              "Instinct: innate patterns.",
+              "Drive-reduction: needs create drives; homeostasis.",
+              "Arousal: maintain or increase excitement.",
+              "Incentive: external rewards pull behavior.",
+              "Cognitive: thoughts, beliefs, expectations.",
+              "Humanistic: Maslow's hierarchy of needs."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Approach", "Key Concept", "Focus"],
+                ["Instinct", "Innate patterns", "Biological determinism"],
+                ["Drive-Reduction", "Needs and drives", "Homeostasis"],
+                ["Arousal", "Optimal stimulation", "Excitement"],
+                ["Incentive", "External rewards", "Pull of incentives"],
+                ["Cognitive", "Thoughts, beliefs, expectations", "Intrinsic vs. extrinsic"],
+                ["Humanistic", "Hierarchy of needs", "Self-actualization"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Maslow's Hierarchy of Needs",
+                "diagram_type": "pyramid",
+                "diagram_data": {
+                  "levels": [
+                    {"level": "Self-Actualization", "description": "Realizing personal potential"},
+                    {"level": "Esteem", "description": "Respect, achievement, reputation"},
+                    {"level": "Love and Belongingness", "description": "Friendship, intimacy, trust"},
+                    {"level": "Safety", "description": "Security, order, law, stability"},
+                    {"level": "Physiological", "description": "Air, food, water, shelter, sleep"}
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "5.1.3. Conflict of Motives and Frustration",
+            "paragraphs": [
+              "**Four basic types of motivational conflicts:**",
+              "- **Approach-Approach Conflicts:** Exist when we must choose only one of two desirable activities. Example: Going to a movie or a concert.",
+              "- **Avoidance-Avoidance Conflicts:** Arise when we must select one of two undesirable alternatives. Example: Someone forced either to sell the family home or to declare bankruptcy.",
+              "- **Approach-Avoidance Conflicts:** Happen when a particular event or activity has both attractive and unattractive features. Example: A freshman student wants to start dating but is worried it may consume study time.",
+              "- **Multiple Approach-Avoidance Conflicts:** Exist when two or more alternatives each have both positive and negative features. Example: Choosing between two jobs — one with high salary but long hours and relocation, the other with advancement opportunities but lower pay."
+            ],
+            "definitions": [
+              ["Approach-Approach Conflict", "Choosing between two desirable activities."],
+              ["Avoidance-Avoidance Conflict", "Choosing between two undesirable alternatives."],
+              ["Approach-Avoidance Conflict", "One activity has both attractive and unattractive features."],
+              ["Multiple Approach-Avoidance Conflict", "Two or more alternatives each have positive and negative features."]
+            ],
+            "key_points": [
+              "Four types of motivational conflicts.",
+              "Approach-approach: two desirable options.",
+              "Avoidance-avoidance: two undesirable options.",
+              "Approach-avoidance: one option with pros and cons.",
+              "Multiple approach-avoidance: multiple options with pros and cons."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Conflict Type", "Description", "Example"],
+                ["Approach-Approach", "Two desirable activities", "Movie or concert"],
+                ["Avoidance-Avoidance", "Two undesirable alternatives", "Sell home or bankruptcy"],
+                ["Approach-Avoidance", "One activity with pros and cons", "Dating vs. study time"],
+                ["Multiple Approach-Avoidance", "Multiple options with pros and cons", "Two job offers"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "5.2",
+        "section_title": "Emotions",
+        "section_introduction": "Emotion is the 'feeling' aspect of consciousness. In this section, we explore the definition, elements, and theories of emotion.",
+        "subsections": [
+          {
+            "subtitle": "5.2.1. Definition of Emotion",
+            "paragraphs": [
+              "**Emotion** can be defined as the 'feeling' aspect of consciousness, characterized by certain physical arousal, certain behavior that reveals the feeling to the outside world, and an inner awareness of feelings.",
+              "**Three elements of emotion:**",
+              "- **The physiology of emotion:** When a person experiences an emotion, there is physical arousal created by the sympathetic nervous system. The heart rate increases, breathing becomes more rapid, the pupils dilate, and the mouth may become dry.",
+              "- **The behavior of emotion:** Facial expressions, body movements, and actions that indicate to others how a person feels. Frowns, smiles, and sad expressions combine with hand gestures.",
+              "- **Subjective experience or labeling emotion:** Interpreting the subjective feeling by giving it a label (anger, fear, disgust, happiness, sadness, shame, interest, surprise). Also called the 'cognitive component.'"
+            ],
+            "definitions": [
+              ["Emotion", "The 'feeling' aspect of consciousness, characterized by physical arousal, behavior, and inner awareness."],
+              ["Physiology of Emotion", "Physical arousal created by the sympathetic nervous system."],
+              ["Behavior of Emotion", "Facial expressions, body movements, and actions."],
+              ["Subjective Experience", "Labeling the feeling (anger, fear, happiness, etc.)."]
+            ],
+            "key_points": [
+              "Emotion: feeling aspect of consciousness.",
+              "Three elements: physiology, behavior, subjective experience.",
+              "Physiology: physical arousal.",
+              "Behavior: facial expressions and actions.",
+              "Subjective experience: labeling the emotion."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Element", "Description", "Example"],
+                ["Physiology", "Physical arousal", "Increased heart rate, rapid breathing"],
+                ["Behavior", "Facial expressions and actions", "Smiling, frowning, gestures"],
+                ["Subjective Experience", "Labeling the feeling", "Anger, fear, happiness, sadness"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "5.2.2. Theories of Emotion",
+            "paragraphs": [
+              "**I. James-Lange Theory of Emotion:** A stimulus produces a physiological reaction. This reaction (arousal of the 'fight-or-flight' sympathetic nervous system) produces bodily sensations. Physical arousal leads to the labeling of the emotion. 'I am afraid because I am aroused.'",
+              "**II. Cannon-Bard Theory of Emotion:** Emotion and physiological arousal occur more or less at the same time. The sensory information that comes into the brain is sent simultaneously to both the cortex and the organs of the sympathetic nervous system. 'I am afraid and running and aroused!'",
+              "**III. Schachter-Singer Cognitive Arousal Theory:** Two things must happen before emotion occurs: physical arousal and labeling of the arousal based on cues from the surrounding environment. These two things happen at the same time, resulting in the labeling of the emotion. 'I am aroused in the presence of a scary dog; therefore, I must be afraid.'"
+            ],
+            "definitions": [
+              ["James-Lange Theory", "Physical arousal leads to labeling of emotion."],
+              ["Cannon-Bard Theory", "Emotion and physiological arousal occur at the same time."],
+              ["Schachter-Singer Theory", "Physical arousal + cognitive labeling = emotion."]
+            ],
+            "key_points": [
+              "James-Lange: arousal → emotion.",
+              "Cannon-Bard: arousal and emotion simultaneously.",
+              "Schachter-Singer: arousal + cognitive appraisal → emotion."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Theory", "Sequence", "Key Idea"],
+                ["James-Lange", "Stimulus → Arousal → Emotion", "I am afraid because I am aroused"],
+                ["Cannon-Bard", "Stimulus → Arousal + Emotion (simultaneous)", "I am afraid and running and aroused"],
+                ["Schachter-Singer", "Stimulus → Arousal + Cognitive Appraisal → Emotion", "I am aroused and I label it as fear"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Theories of Emotion",
+                "diagram_type": "flowchart",
+                "diagram_data": {
+                  "james_lange": {
+                    "sequence": ["Stimulus", "Physiological Arousal", "Emotion"],
+                    "example": "Snarling dog → High heart rate → Fear"
+                  },
+                  "cannon_bard": {
+                    "sequence": ["Stimulus", "Sub-cortical Brain Activity", "Physiological Arousal + Emotion"],
+                    "example": "Snarling dog → Brain activity → High heart rate + Fear"
+                  },
+                  "schachter_singer": {
+                    "sequence": ["Stimulus", "Cognitive Appraisal + Physiological Arousal", "Emotion"],
+                    "example": "Snarling dog → Appraisal + Arousal → Fear"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 5  motivation and emotion.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 5  motivation and emotion in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Explain the intrinsic and extrinsic types of motivation using relevant examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Intrinsic: internal satisfaction. Extrinsic: external reward.\n• Explanation & Derivation:\n  - Intrinsic: studying because you love the subject.\n  - Extrinsic: studying for money or grades.\n• Final Answer: Intrinsic motivation comes from internal satisfaction; extrinsic from external rewards."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 5  motivation and emotion.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Your psychology professor tells you, 'Explaining behavior is easy! When we lack something, we are motivated to get it.' Which approach to motivation does your professor subscribe to?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Drive-reduction theory: needs create drives.\n• Explanation & Derivation: The professor's statement reflects drive-reduction theory, which proposes that needs create psychological tension (drives) that motivate behavior to reduce the tension.\n• Final Answer: Drive-reduction approach."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Among the three theories of emotion, which one best explains your emotion experience? Explain.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: James-Lange, Cannon-Bard, Schachter-Singer.\n• Explanation & Derivation:\n  - James-Lange: arousal first, then emotion.\n  - Cannon-Bard: arousal and emotion simultaneously.\n  - Schachter-Singer: arousal + cognitive appraisal.\n• Final Answer: The Schachter-Singer theory often best explains emotion because it accounts for both physiological arousal and cognitive interpretation, which is common in everyday emotional experiences."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 5  MOTIVATION AND EMOTION (university psychology):\nThis complete study document covers all topics in Chapter 5  motivation and emotion, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 5: MOTIVATION AND EMOTIONS (University Freshman General Psychology):\nThis chapter covers the definition and types of motivation (intrinsic and extrinsic), theories of motivation (instinct, drive-reduction, arousal, incentive, cognitive, humanistic — Maslow's hierarchy of needs), conflict of motives (approach-approach, avoidance-avoidance, approach-avoidance, multiple approach-avoidance), the definition and elements of emotion (physiology, behavior, subjective experience), and theories of emotion (James-Lange, Cannon-Bard, Schachter-Singer). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 5: Motivation and Emotions — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
