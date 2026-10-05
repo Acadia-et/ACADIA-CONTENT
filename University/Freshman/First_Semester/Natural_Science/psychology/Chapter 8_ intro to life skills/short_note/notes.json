@@ -1,60 +1,244 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 8  intro to life skills"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 8  intro to life skills",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 8  intro to life skills: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 8  intro to life skills",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "8",
+    "chapter_title": "Introduction to Life Skills",
+    "chapter_subtitle": "Nature, Definition, Goals, and Components of Life Skills",
+    "chapter_introduction": "Welcome to Chapter 8 of General Psychology. This chapter introduces you to the concept of life skills — the abilities that help us deal effectively with the demands and challenges of everyday life. You will learn what life skills are, why they are important, and the major components that make up this essential set of abilities. Life skills are not just for academic success; they are tools for living well, building healthy relationships, and achieving personal and professional goals.",
+    "sections": [
+      {
+        "section_number": "8.1",
+        "section_title": "Nature and Definition of Life Skills",
+        "section_introduction": "What are life skills? Why are they important? This section explores the definition and nature of life skills as defined by the World Health Organization and UNICEF.",
+        "subsections": [
+          {
+            "subtitle": "8.1.1. Definition of Life Skills",
+            "paragraphs": [
+              "Life skills are something of a buzzword and have been the focus of discussion across a range of personal and social affairs around the world. As defined in the document of the **World Health Organization (WHO)**, life skills are **'abilities for adaptive and positive behavior that enable individuals to deal effectively with the demands and challenges of everyday life.'**",
+              "**UNICEF's definition:** Life skills are defined as **'behavioral changes or behavioral development approach designed to address a balance of three areas: knowledge, attitude, and skills.'**",
+              "Life skills are essentially those abilities that help to promote mental well-being and competence in young people as they face the realities of life. Hence, students who are able to understand and use these skills, along with their educational qualifications, will be better placed to take advantage of educational and employment opportunities.",
+              "**Key Idea:** Life skills are not just for academic life — they are for life itself. They help us live in harmony with ourselves and others, make good decisions, solve problems, and cope with stress."
+            ],
+            "definitions": [
+              ["Life Skills", "Abilities for adaptive and positive behavior that enable individuals to deal effectively with the demands and challenges of everyday life."],
+              ["Adaptive Behavior", "Behavior that helps a person adjust to new situations and challenges."],
+              ["Positive Behavior", "Behavior that promotes well-being and constructive outcomes."]
+            ],
+            "key_points": [
+              "Life skills are abilities for adaptive and positive behavior.",
+              "They help individuals deal with everyday demands and challenges.",
+              "WHO and UNICEF provide key definitions.",
+              "Life skills promote mental well-being and competence.",
+              "They are essential for success in education, employment, and life."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Source", "Definition", "Key Focus"],
+                ["WHO", "Abilities for adaptive and positive behavior that enable individuals to deal effectively with the demands and challenges of everyday life", "Adaptive and positive behavior"],
+                ["UNICEF", "Behavioral changes or behavioral development approach designed to address a balance of three areas: knowledge, attitude, and skills", "Knowledge, attitude, and skills"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Life Skills: Knowledge, Attitude, and Skills",
+                "diagram_type": "venn_diagram",
+                "diagram_data": {
+                  "circle_1": "Knowledge",
+                  "circle_2": "Attitude",
+                  "circle_3": "Skills",
+                  "center": "Life Skills"
+                }
+              }
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "8.2",
+        "section_title": "Goals of Life Skills",
+        "section_introduction": "What is the purpose of learning life skills? This section explores the goals and importance of life skills in personal, academic, and social contexts.",
+        "subsections": [
+          {
+            "subtitle": "8.2.1. Purpose and Goals",
+            "paragraphs": [
+              "The goal of knowing and applying life skills is to lead a smooth and successful life at home, workplace, and in social relationships. These skills help us live in harmony with ourselves and others around us, select the good from the bad, choose gold from soil, and simplify life that is full of troubles otherwise.",
+              "Life skills are not something we learn only for the sake of academic life. We rather develop them for effective functioning in our life. Development of life skills is, therefore, a lifelong process where one has to update his/her skills and knowledge of dealing with life events.",
+              "Life skills are generally applied in the context of academics, workplace, and social events. For instance, they can be utilized in many content areas of health: prevention of drug use, sexual violence, teenage pregnancy, HIV/AIDS prevention, and suicide prevention. Its importance can also extend into consumer education, environmental education, peace education, or education for development, livelihood, and income generation, among others.",
+              "In short, life skills empower young people to take positive action to protect themselves and promote health and positive social relationships. With life skills, one is able to explore alternatives, weigh pros and cons, and make rational decisions in solving each problem or issue as it arises. It also entails being able to establish productive interpersonal relationships with others."
+            ],
+            "definitions": [
+              ["Lifelong Process", "Development of life skills continues throughout life."],
+              ["Rational Decisions", "Decisions based on careful consideration of alternatives and consequences."],
+              ["Productive Interpersonal Relationships", "Relationships that are healthy, supportive, and mutually beneficial."]
+            ],
+            "key_points": [
+              "Goal: Lead a smooth and successful life.",
+              "Life skills help in harmony with self and others.",
+              "Applied in academics, workplace, and social events.",
+              "Useful in health prevention and education.",
+              "Empower young people to take positive action."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Context", "Application of Life Skills"],
+                ["Academics", "Time management, note-taking, test-taking, goal setting"],
+                ["Workplace", "Communication, teamwork, problem-solving, decision-making"],
+                ["Social", "Interpersonal relationships, conflict resolution, assertiveness"],
+                ["Health", "Prevention of drug use, sexual violence, HIV/AIDS, suicide"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Goals of Life Skills",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Goals of Life Skills",
+                  "branches": [
+                    "Smooth and Successful Life",
+                    "Harmony with Self and Others",
+                    "Effective Functioning",
+                    "Positive Action",
+                    "Rational Decision Making",
+                    "Productive Relationships"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": "8.3",
+        "section_title": "Components of Life Skills",
+        "section_introduction": "What are the specific skills that make up life skills? This section explores the major components of life skills, including critical thinking, self-confidence, self-awareness, self-esteem, decision-making, interpersonal relationships, reflective communication, peer pressure resistance, knowing rights and duties, and problem-solving.",
+        "subsections": [
+          {
+            "subtitle": "8.3.1. Major Components of Life Skills",
+            "paragraphs": [
+              "Life skills include all the components given in the table below. If someone is able to develop them at least to an average level, s/he can lead a better and peaceful life. Moreover, to be effective in life, one has to develop skills of expressing views, challenging stereotypes, making connections, thinking creatively, getting good advice, managing time, learning how to learn, listening actively, and the like.",
+              "The following are simple descriptions given for major components of life skills:",
+              "**1. Critical Thinking:** Thinking more effectively within curricular subject areas, understanding the reasoning employed, assessing independently and appropriately, and solving problems effectively. It involves improved thinking skills in dealing with real-life problems — in assessing information and arguments in social contexts and making life decisions.",
+              "**2. Self-Confidence:** The degree to which one can rely on his/her ability to perform certain behavior alone or in public. It is an individual's trust in his or her own abilities, capacities, and judgments, or belief that he or she can successfully face day-to-day challenges and demands.",
+              "**3. Self-Awareness:** Knowledge and understanding of one's strengths and weaknesses. Self-awareness involves monitoring our inner worlds, thoughts, emotions, and beliefs. It is important because it is a major mechanism influencing personal development.",
+              "**4. Self-Esteem:** The degree to which we perceive ourselves positively or negatively; our overall attitude toward ourselves, which can be measured explicitly or implicitly.",
+              "**5. Decision-Making:** Processes involved in combining and integrating available information to choose, implement, and evaluate one out of several possible courses of actions.",
+              "**6. Interpersonal Relationships:** The relationships a person has with other persons. They are social associations, connections, or affiliations between two or more people having various levels of intimacy and sharing, and implying the discovery or establishment of common ground.",
+              "**7. Reflective Communication:** Attending communications with thoughtful and due attention to reflect on one's own thinking, behaviors, and interaction with others.",
+              "**8. Peer Pressure Resistance:** Individual's abilities and skills to confront negative influences from his/her group members.",
+              "**9. Knowing Rights and Duties:** One's knowledge and understanding of rights and duties of individuals, groups, institutions, and nations allowed to do or not to do by law and/or a culture.",
+              "**10. Problem Solving:** The process of identifying a discrepancy between an actual and desired state of affairs, difficulties, obstacles, and complex issues and then taking action to resolve the deficiency or take advantage of the opportunity."
+            ],
+            "definitions": [
+              ["Critical Thinking", "Thinking more effectively, understanding reasoning, assessing independently, and solving problems effectively."],
+              ["Self-Confidence", "Trust in one's own abilities, capacities, and judgments."],
+              ["Self-Awareness", "Knowledge and understanding of one's strengths and weaknesses."],
+              ["Self-Esteem", "The degree to which we perceive ourselves positively or negatively."],
+              ["Decision-Making", "Processes involved in choosing, implementing, and evaluating courses of action."],
+              ["Interpersonal Relationships", "Social associations, connections, or affiliations between two or more people."],
+              ["Reflective Communication", "Attending communications with thoughtful attention to reflect on one's own thinking."],
+              ["Peer Pressure Resistance", "Abilities and skills to confront negative influences from group members."],
+              ["Knowing Rights and Duties", "Knowledge and understanding of rights and duties of individuals, groups, institutions, and nations."],
+              ["Problem Solving", "The process of identifying a discrepancy between an actual and desired state and taking action to resolve it."]
+            ],
+            "key_points": [
+              "Critical thinking: effective thinking and problem-solving.",
+              "Self-confidence: trust in one's abilities.",
+              "Self-awareness: understanding one's strengths and weaknesses.",
+              "Self-esteem: overall attitude toward oneself.",
+              "Decision-making: choosing and evaluating courses of action.",
+              "Interpersonal relationships: social connections with others.",
+              "Reflective communication: thoughtful attention to communication.",
+              "Peer pressure resistance: confronting negative influences.",
+              "Knowing rights and duties: understanding one's rights and responsibilities.",
+              "Problem solving: identifying and resolving discrepancies."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Component", "Definition", "Example"],
+                ["Critical Thinking", "Effective thinking and problem-solving", "Analyzing an argument for logical fallacies"],
+                ["Self-Confidence", "Trust in one's own abilities", "Speaking confidently in public"],
+                ["Self-Awareness", "Understanding one's strengths and weaknesses", "Knowing you are good at math but struggle with writing"],
+                ["Self-Esteem", "Overall attitude toward oneself", "Feeling worthy and capable"],
+                ["Decision-Making", "Choosing and evaluating courses of action", "Deciding which university to attend"],
+                ["Interpersonal Relationships", "Social connections with others", "Building friendships and maintaining them"],
+                ["Reflective Communication", "Thoughtful attention to communication", "Listening actively and reflecting on what is said"],
+                ["Peer Pressure Resistance", "Confronting negative influences", "Saying no to drugs when friends offer them"],
+                ["Knowing Rights and Duties", "Understanding one's rights and responsibilities", "Knowing your right to education and duty to study"],
+                ["Problem Solving", "Identifying and resolving discrepancies", "Finding a solution to a conflict with a roommate"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Components of Life Skills",
+                "diagram_type": "mind_map",
+                "diagram_data": {
+                  "center": "Life Skills",
+                  "branches": [
+                    "Critical Thinking",
+                    "Self-Confidence",
+                    "Self-Awareness",
+                    "Self-Esteem",
+                    "Decision-Making",
+                    "Interpersonal Relationships",
+                    "Reflective Communication",
+                    "Peer Pressure Resistance",
+                    "Knowing Rights and Duties",
+                    "Problem Solving"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 8  intro to life skills.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 8  intro to life skills in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Define life skills according to WHO and UNICEF. What are the key differences in their definitions?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: WHO and UNICEF definitions of life skills.\n• Explanation & Derivation:\n  - WHO: 'Abilities for adaptive and positive behavior that enable individuals to deal effectively with the demands and challenges of everyday life.'\n  - UNICEF: 'Behavioral changes or behavioral development approach designed to address a balance of three areas: knowledge, attitude, and skills.'\n  - WHO focuses on adaptive and positive behavior; UNICEF focuses on knowledge, attitude, and skills.\n• Final Answer: WHO defines life skills as abilities for adaptive and positive behavior; UNICEF defines them as a behavioral development approach addressing knowledge, attitude, and skills. Both emphasize the importance of life skills for dealing with everyday challenges."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 8  intro to life skills.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "What are the goals of life skills? Explain with examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Goals of life skills.\n• Explanation & Derivation:\n  - Goal: Lead a smooth and successful life at home, workplace, and in social relationships.\n  - Help live in harmony with self and others.\n  - Applied in academics, workplace, and social events.\n  - Useful in health prevention and education.\n  - Empower young people to take positive action.\n• Final Answer: The goals of life skills are to lead a successful life, live in harmony with others, function effectively in academics and work, and take positive action for health and well-being."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "List and explain the major components of life skills.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Major components of life skills.\n• Explanation & Derivation:\n  - Critical Thinking: Effective thinking and problem-solving.\n  - Self-Confidence: Trust in one's abilities.\n  - Self-Awareness: Understanding one's strengths and weaknesses.\n  - Self-Esteem: Overall attitude toward oneself.\n  - Decision-Making: Choosing and evaluating courses of action.\n  - Interpersonal Relationships: Social connections with others.\n  - Reflective Communication: Thoughtful attention to communication.\n  - Peer Pressure Resistance: Confronting negative influences.\n  - Knowing Rights and Duties: Understanding one's rights and responsibilities.\n  - Problem Solving: Identifying and resolving discrepancies.\n• Final Answer: The major components are critical thinking, self-confidence, self-awareness, self-esteem, decision-making, interpersonal relationships, reflective communication, peer pressure resistance, knowing rights and duties, and problem solving."
+    },
+    {
+      "question": "How do life skills help in personal and professional life? Provide examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Application of life skills in personal and professional life.\n• Explanation & Derivation:\n  - Personal: Self-awareness helps you understand your emotions; self-esteem helps you feel worthy; interpersonal relationships help you build friendships.\n  - Professional: Critical thinking helps you solve work problems; decision-making helps you choose the best course of action; reflective communication helps you work well with colleagues.\n• Final Answer: Life skills help in personal life by promoting self-awareness, self-esteem, and healthy relationships. In professional life, they help with problem-solving, decision-making, and effective communication."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 8  INTRO TO LIFE SKILLS (university psychology):\nThis complete study document covers all topics in Chapter 8  intro to life skills, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 8: INTRODUCTION TO LIFE SKILLS (University Freshman General Psychology):\nThis chapter covers the nature and definition of life skills (WHO: abilities for adaptive and positive behavior; UNICEF: behavioral development approach addressing knowledge, attitude, and skills), the goals of life skills (leading a smooth and successful life, living in harmony with self and others, effective functioning in academics, workplace, and social contexts), and the major components of life skills (critical thinking, self-confidence, self-awareness, self-esteem, decision-making, interpersonal relationships, reflective communication, peer pressure resistance, knowing rights and duties, and problem solving). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 8: Introduction to Life Skills — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
