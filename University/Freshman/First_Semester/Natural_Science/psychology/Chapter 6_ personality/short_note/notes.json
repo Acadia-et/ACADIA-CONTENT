@@ -1,60 +1,249 @@
 {
   "metadata": {
-    "grade": "university",
-    "subject": "psychology",
-    "unit_title": "Chapter 6  personality"
+    "grade": "University Freshman",
+    "subject": "General Psychology",
+    "course_code": "Psyc 1011",
+    "academic_path": "university/freshman/First_Semester/Natural_Science/psychology",
+    "copyright": "© Acadia. All rights reserved.",
+    "brand_color": "#003366",
+    "brand_color_name": "Navy Blue",
+    "document_type": "Attractive Chapter Note with Diagrams, Tables, Worked Examples, and Questions",
+    "format": "Structured JSON for PDF Generation"
   },
-  "sections": [
-    {
-      "title": "1. Overview & Fundamentals of Chapter 6  personality",
-      "paragraphs": [
-        "Ministry of Science and Higher Education General Psychology (Psyc 1011) Contributors Koye Kassa, Bahir Dar University Chapter One, Chapter Five, and Chapter Six Belay Tefera, Addis Ababa University Chapter Two Aemero Asmamaw, University of Gondar",
-        "Chapter Three, Chapter Four, and Chapter Seven Habtamu Disasa, Dilla University Chapter Eight, Chapter Nine, Chapter Ten, and Chapter Eleven Revised and Edited by Belay Tefera, Addis Ababa University September, 2019"
-      ],
-      "definitions": [],
-      "key_points": [
-        "Primary takeaway for 1. Overview & Fundamentals of Chapter 6  personality: master the fundamental definitions and structural relationships.",
-        "Core mechanism: observe how psychology principles operate systematically across context and application.",
-        "Academic application: critical concept frequently assessed in standard university examinations."
-      ],
-      "formulas": [],
-      "tables": [
-        [
-          [
-            "Category / Element",
-            "Detailed Description & Characteristics",
-            "Academic Significance"
-          ],
-          [
-            "Core Component",
-            "Primary structural feature of 1. Overview & Fundamentals of Chapter 6  personality",
-            "High Priority"
-          ],
-          [
-            "Secondary Mechanism",
-            "Associated process in psychology",
-            "Explanatory Context"
-          ]
+  "chapter": {
+    "chapter_number": "6",
+    "chapter_title": "Personality",
+    "chapter_subtitle": "Meaning, Psychoanalytic Theory, Trait Theory, and Humanistic Theory",
+    "chapter_introduction": "Welcome to Chapter 6 of General Psychology. Personality is the unique pattern of enduring thoughts, feelings, and actions that characterize a person. This chapter explores the meaning of personality and three major theories: the psychoanalytic theory (Freud), the trait theory (Big Five/OCEAN), and the humanistic theory (Rogers). You will also learn about defense mechanisms, the five-factor model, and the concepts of self-concept, real and ideal self, and conditional and unconditional positive regard.",
+    "sections": [
+      {
+        "section_number": "6.1",
+        "section_title": "Meaning of Personality",
+        "section_introduction": "The word personality is derived from the Latin word 'persona,' which refers to the theatrical masks worn by Greek actors. Let us explore its definition and related concepts.",
+        "subsections": [
+          {
+            "subtitle": "6.1.1. Definition and Related Concepts",
+            "paragraphs": [
+              "**Personality** is the unique pattern of enduring thoughts, feelings, and actions that characterize a person.",
+              "**Personality should not be confused with:**",
+              "- **Character:** Refers to value judgments made about a person's morals or ethical behavior.",
+              "- **Temperament:** The enduring characteristics with which each person is born, such as irritability or adaptability.",
+              "However, both character and temperament are vital to personality."
+            ],
+            "definitions": [
+              ["Personality", "The unique pattern of enduring thoughts, feelings, and actions that characterize a person."],
+              ["Character", "Value judgments made about a person's morals or ethical behavior."],
+              ["Temperament", "The enduring characteristics with which each person is born."]
+            ],
+            "key_points": [
+              "Personality: unique pattern of enduring thoughts, feelings, and actions.",
+              "Character: moral or ethical judgments.",
+              "Temperament: inborn characteristics.",
+              "All three are related but distinct."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Definition", "Example"],
+                ["Personality", "Unique pattern of enduring thoughts, feelings, and actions", "Being outgoing, conscientious, or anxious"],
+                ["Character", "Moral or ethical judgments", "Being honest or dishonest"],
+                ["Temperament", "Inborn characteristics", "Irritability or adaptability"]
+              ]
+            ]
+          }
         ]
-      ],
-      "image_path": null,
-      "image_caption": null
-    }
-  ],
+      },
+      {
+        "section_number": "6.2",
+        "section_title": "Theories of Personality",
+        "section_introduction": "There are several ways to explain the characteristic behavior of human beings. In this section, we explore three major theories: psychoanalytic, trait, and humanistic.",
+        "subsections": [
+          {
+            "subtitle": "6.2.1. The Psychoanalytic Theory of Personality",
+            "paragraphs": [
+              "**Psychoanalytic theory** was formulated by Sigmund Freud. According to Freud, personality is formed within ourselves, arising from basic inborn needs, drives, and characteristics. People are in constant conflict between their biological urges and the need to tame them.",
+              "**Three parts of personality:**",
+              "- **Id:** The first and most primitive part of personality, existing at birth. It is completely unconscious, amoral, and contains all basic biological drives (hunger, thirst, sex, aggression). It operates on the **pleasure principle** — the desire for immediate satisfaction of needs with no regard for consequences. 'If it feels good, do it.'",
+              "- **Ego:** Develops to deal with reality. It is mostly conscious and far more rational, logical, and cunning than the id. It operates on the **reality principle** — the need to satisfy the demands of the id only in ways that will not lead to negative consequences. 'If it feels good, do it, but only if you can get away with it.'",
+              "- **Superego:** The moral center of personality. It develops as a preschool-aged child learns the rules, customs, and expectations of society. It has two parts: the **ego-ideal** (sum of ideal or correct behavior) and the **conscience** (makes people feel pride when they do right and guilt when they do wrong).",
+              "**Defense Mechanisms:** Unconscious tactics that either prevent threatening material from surfacing or disguise it when it does.",
+              "- **Repression:** Banishing threatening thoughts, feelings, and memories into the unconscious mind.",
+              "- **Denial:** Refusal to recognize or acknowledge a threatening situation.",
+              "- **Regression:** Reverting to immature behaviors that have relieved anxiety in the past.",
+              "- **Rationalization:** Giving socially acceptable reasons for one's inappropriate behavior.",
+              "- **Displacement:** Expressing feelings toward a person who is less threatening than the true target.",
+              "- **Projection:** Attributing one's undesirable feelings to other people.",
+              "- **Reaction Formation:** Acting in a manner opposite to one's true feelings.",
+              "- **Sublimation:** Expressing sexual or aggressive behavior through indirect, socially acceptable outlets."
+            ],
+            "definitions": [
+              ["Psychoanalytic Theory", "Freud's theory that personality is formed from inborn needs and drives."],
+              ["Id", "The primitive, unconscious part of personality containing basic biological drives; operates on the pleasure principle."],
+              ["Ego", "The rational, mostly conscious part of personality; operates on the reality principle."],
+              ["Superego", "The moral center of personality; includes the ego-ideal and conscience."],
+              ["Pleasure Principle", "The desire for immediate satisfaction of needs with no regard for consequences."],
+              ["Reality Principle", "The need to satisfy the id's demands only in ways that avoid negative consequences."],
+              ["Defense Mechanisms", "Unconscious tactics that prevent threatening material from surfacing or disguise it."],
+              ["Repression", "Banishing threatening thoughts into the unconscious."],
+              ["Denial", "Refusal to acknowledge a threatening situation."],
+              ["Regression", "Reverting to immature behaviors."],
+              ["Rationalization", "Giving socially acceptable reasons for inappropriate behavior."],
+              ["Displacement", "Expressing feelings toward a less threatening target."],
+              ["Projection", "Attributing one's undesirable feelings to others."],
+              ["Reaction Formation", "Acting opposite to one's true feelings."],
+              ["Sublimation", "Expressing unacceptable urges in socially acceptable ways."]
+            ],
+            "key_points": [
+              "Freud's psychoanalytic theory: personality formed from inborn needs and drives.",
+              "Three parts: id, ego, superego.",
+              "Id: pleasure principle; ego: reality principle; superego: moral center.",
+              "Defense mechanisms: repression, denial, regression, rationalization, displacement, projection, reaction formation, sublimation."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Part", "Consciousness", "Principle", "Function"],
+                ["Id", "Unconscious", "Pleasure Principle", "Immediate satisfaction of biological drives"],
+                ["Ego", "Mostly Conscious", "Reality Principle", "Mediates between id, superego, and reality"],
+                ["Superego", "Partly Conscious", "Moral Principle", "Moral standards; ego-ideal and conscience"]
+              ]
+            ],
+            "diagrams": [
+              {
+                "diagram_title": "Freud's Structure of Personality",
+                "diagram_type": "iceberg",
+                "diagram_data": {
+                  "conscious": "Ego and Superego (tip of iceberg)",
+                  "preconscious": "Memories and stored knowledge",
+                  "unconscious": "Id (largest part, hidden)"
+                }
+              }
+            ]
+          },
+          {
+            "subtitle": "6.2.2. The Trait Theory of Personality",
+            "paragraphs": [
+              "**Trait theory** sees personality as a combination of stable internal characteristics that people display consistently over time and across situations.",
+              "**Three main assumptions:**",
+              "1. Personality traits are relatively stable and predictable over time.",
+              "2. Personality traits are relatively stable across situations.",
+              "3. People differ in how much of a particular personality trait they possess.",
+              "**The Five-Factor Model (Big Five):** Can be remembered by the acronym **OCEAN**.",
+              "- **Openness:** Willingness to try new things and be open to new experiences.",
+              "- **Conscientiousness:** Organization and motivation; being careful and punctual.",
+              "- **Extraversion:** Outgoing and sociable (extraverts) vs. solitary (introverts).",
+              "- **Agreeableness:** Easygoing, friendly, pleasant vs. grumpy, crabby, hard to get along with.",
+              "- **Neuroticism:** Emotional instability vs. stability; worried, overanxious, moody vs. even-tempered, calm."
+            ],
+            "definitions": [
+              ["Trait Theory", "Personality as a combination of stable internal characteristics."],
+              ["Openness", "Willingness to try new things."],
+              ["Conscientiousness", "Organization and motivation."],
+              ["Extraversion", "Outgoing and sociable."],
+              ["Agreeableness", "Easygoing, friendly, pleasant."],
+              ["Neuroticism", "Emotional instability."]
+            ],
+            "key_points": [
+              "Trait theory: stable internal characteristics.",
+              "Three assumptions: stability over time, stability across situations, individual differences.",
+              "Five-Factor Model: OCEAN — Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Trait", "High Score", "Low Score"],
+                ["Openness", "Willing to try new things", "Prefers status quo"],
+                ["Conscientiousness", "Organized, punctual, careful", "Late, careless, disorganized"],
+                ["Extraversion", "Outgoing, sociable", "Solitary, dislikes attention"],
+                ["Agreeableness", "Easygoing, friendly, pleasant", "Grumpy, crabby, hard to get along with"],
+                ["Neuroticism", "Worried, overanxious, moody", "Even-tempered, calm"]
+              ]
+            ]
+          },
+          {
+            "subtitle": "6.2.3. Humanistic Theory of Personality",
+            "paragraphs": [
+              "**Humanistic theory** emphasizes people's inherent goodness and their tendency to move toward higher levels of functioning. It focuses on subjective emotions and the freedom to choose one's destiny.",
+              "**Carl Rogers and Self-Concept:**",
+              "- **Self-actualizing tendency:** The striving to fulfill innate capacities and capabilities.",
+              "- **Self-concept:** The image of oneself, based on what people are told by others and how the sense of self is reflected in the words and actions of important people.",
+              "- **Real self:** One's actual perception of characteristics, traits, and abilities.",
+              "- **Ideal self:** The perception of what one should be or would like to be.",
+              "- When real self and ideal self are close, people feel competent and capable; when there is a mismatch, anxiety and neurotic behavior can result.",
+              "**Conditional and Unconditional Positive Regard:**",
+              "- **Positive regard:** Warmth, affection, love, and respect from significant others.",
+              "- **Unconditional positive regard:** Love, affection, and respect with no strings attached. Necessary for self-actualization.",
+              "- **Conditional positive regard:** Love, affection, respect, and warmth that depend on doing what others want.",
+              "**Fully Functioning Person:** A person who is in the process of self-actualizing, actively exploring potentials and abilities, and experiencing a match between real and ideal selves. Needs unconditional positive regard."
+            ],
+            "definitions": [
+              ["Humanistic Theory", "Emphasizes inherent goodness and tendency toward higher functioning."],
+              ["Self-Actualizing Tendency", "The striving to fulfill innate capacities."],
+              ["Self-Concept", "The image of oneself."],
+              ["Real Self", "One's actual perception of characteristics."],
+              ["Ideal Self", "The perception of what one should be."],
+              ["Positive Regard", "Warmth, affection, love, and respect from significant others."],
+              ["Unconditional Positive Regard", "Love and respect with no strings attached."],
+              ["Conditional Positive Regard", "Love and respect that depend on doing what others want."],
+              ["Fully Functioning Person", "A person who is self-actualizing and experiencing a match between real and ideal selves."]
+            ],
+            "key_points": [
+              "Humanistic theory: inherent goodness and self-actualization.",
+              "Rogers: self-concept, real self, ideal self.",
+              "Mismatch between real and ideal self causes anxiety.",
+              "Unconditional positive regard is necessary for self-actualization.",
+              "Fully functioning person: self-actualizing with match between real and ideal selves."
+            ],
+            "formulas": [],
+            "tables": [
+              [
+                ["Concept", "Description", "Impact"],
+                ["Self-Concept", "Image of oneself", "Guides actions and motivations"],
+                ["Real Self", "Actual perception of characteristics", "Basis for self-actualization"],
+                ["Ideal Self", "Perception of what one should be", "Mismatch causes anxiety"],
+                ["Unconditional Positive Regard", "Love with no strings attached", "Necessary for self-actualization"],
+                ["Conditional Positive Regard", "Love dependent on behavior", "Limits exploration and growth"],
+                ["Fully Functioning Person", "Self-actualizing with match between real and ideal", "Trusts innermost urges and intuitions"]
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "exercises": [
     {
-      "question": "Explain the fundamental definitions and key principles of Chapter 6  personality.",
-      "answer": "DETAILED ANSWER:\nThe core principles of Chapter 6  personality in psychology cover essential terminology, structural relationships, and theoretical framework as presented in topics 1 through 1. Students should articulate both basic definitions and systemic interactions."
+      "question": "Discuss the difference between personality, character, and temperament.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Personality: enduring thoughts, feelings, actions. Character: moral judgments. Temperament: inborn characteristics.\n• Explanation & Derivation:\n  - Personality: unique pattern of enduring thoughts, feelings, actions.\n  - Character: value judgments about morals or ethics.\n  - Temperament: inborn characteristics like irritability.\n• Final Answer: Personality is the unique pattern of thoughts and actions; character is moral judgment; temperament is inborn."
     },
     {
-      "question": "Describe the main process and practical applications discussed in 1. Overview & Fundamentals of Chapter 6  personality.",
-      "answer": "DETAILED ANSWER:\nThe process operates through sequential mechanisms. Each step is governed by specific rules and conditions essential for problem-solving in university psychology."
+      "question": "Explain defense mechanisms and provide your own examples.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Defense mechanisms are unconscious tactics to protect against threatening material.\n• Explanation & Derivation:\n  - Repression: burying painful memories.\n  - Denial: refusing to accept reality.\n  - Regression: reverting to childlike behavior.\n  - Rationalization: making excuses.\n  - Displacement: taking feelings out on someone else.\n  - Projection: attributing your feelings to others.\n  - Reaction Formation: acting opposite to true feelings.\n  - Sublimation: channeling urges into acceptable activities.\n• Final Answer: Defense mechanisms protect the ego. Examples include repression, denial, regression, rationalization, displacement, projection, reaction formation, and sublimation."
     },
     {
-      "question": "Compare and contrast the primary categories presented in the unit tables.",
-      "answer": "DETAILED ANSWER:\nComparison highlights structural distinctions, functional roles, and shared underlying principles as summarized in the visual study tables."
+      "question": "Elaborate the concept of conditional and unconditional positive regard.",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Positive regard: warmth and respect from others. Unconditional: no strings attached. Conditional: depends on behavior.\n• Explanation & Derivation:\n  - Unconditional: love and respect regardless of behavior; necessary for self-actualization.\n  - Conditional: love and respect dependent on doing what others want; limits growth.\n• Final Answer: Conditional positive regard depends on behavior; unconditional positive regard is given without conditions and is necessary for self-actualization."
+    },
+    {
+      "question": "How do you judge the positive regards you get from your parents based on Rogers theory?",
+      "answer": "DETAILED STEP-BY-STEP SOLUTION:\n• Given & Concept: Rogers's theory of positive regard.\n• Explanation & Derivation:\n  - If parents give love and respect regardless of your choices, it is unconditional positive regard.\n  - If love and respect depend on meeting their expectations, it is conditional positive regard.\n• Final Answer: Based on Rogers's theory, I would judge whether my parents' regard is conditional (based on meeting expectations) or unconditional (given freely without conditions)."
     }
   ],
-  "summary": "UNIT SUMMARY — CHAPTER 6  PERSONALITY (university psychology):\nThis complete study document covers all topics in Chapter 6  personality, providing expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual figures, and step-by-step exercise solutions. Use this summary for rapid review and exam preparation.",
-  "images": []
+  "summary": "CHAPTER SUMMARY — CHAPTER 6: PERSONALITY (University Freshman General Psychology):\nThis chapter covers the meaning of personality (unique pattern of enduring thoughts, feelings, and actions; distinguished from character and temperament), the psychoanalytic theory of personality (Freud; id, ego, superego; pleasure principle, reality principle; defense mechanisms — repression, denial, regression, rationalization, displacement, projection, reaction formation, sublimation), the trait theory of personality (stable internal characteristics; Big Five/OCEAN — Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism), and the humanistic theory of personality (Rogers; self-actualizing tendency, self-concept, real self, ideal self, conditional and unconditional positive regard, fully functioning person). The document provides expanded explanations, formal definitions, key takeaway points, structured comparison tables, visual diagrams, worked examples, and step-by-step exercise solutions. © Acadia. All rights reserved.",
+  "document_design": {
+    "primary_color": "#003366",
+    "primary_color_name": "Navy Blue",
+    "secondary_color": "#F0F4F8",
+    "secondary_color_name": "Light Gray-Blue",
+    "accent_color": "#FFC107",
+    "accent_color_name": "Amber",
+    "font_family": "Georgia, serif",
+    "heading_font": "Helvetica, Arial, sans-serif",
+    "page_size": "A4",
+    "margins": "2.5cm",
+    "header": "Chapter 6: Personality — © Acadia",
+    "footer": "Page {page_number} | © Acadia. All rights reserved. | Powered by NextGen Ethiopia PLC",
+    "table_style": "Bordered with navy blue header row and alternating light gray rows",
+    "diagram_style": "Clean, minimalist with navy blue and amber accents"
+  }
 }
