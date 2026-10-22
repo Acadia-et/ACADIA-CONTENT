@@ -1,20 +1,20 @@
-﻿{
+{
   "items": [
     {
       "content_type": "video",
-      "title": "geography Chapter 1 introduction ",
-      "download_url": "https://youtu.be/oPEcpiU_Nlk?si=siCXsrqIC_DxRYIH",
+      "title": "University/freshman/First_Semester/Natural_Science geography Chapter 2_ the geology of Ethiopia and the horn - Video 1",
+      "download_url": "https://youtu.be/SUcekLccFTU",
       "file_format": "youtube",
       "duration_seconds": 600,
       "free_content": false
     },
     {
       "content_type": "video",
-      "title": " geography Chapter 1_ introduction part 2",
-      "download_url": "https://youtu.be/oPEcpiU_Nlk?si=siCXsrqIC_DxRYIH",
+      "title": "University/freshman/First_Semester/Natural_Science geography Chapter 2_ the geology of Ethiopia and the horn - Video 2",
+      "download_url": "https://youtu.be/VIDEO_ID_2",
       "file_format": "youtube",
       "duration_seconds": 480,
       "free_content": false
-    },
+    }
   ]
 }
